@@ -6,6 +6,9 @@ status: ingested
 last_updated: 2026-05-12
 ---
 
+> [목차](../index.html) | [English](gun-animation-en.html)
+
+
 # 총기 관련 모션 목록 (1인칭)
 
 ---

@@ -7,6 +7,9 @@ status: ingested
 last_updated: 2026-05-12
 ---
 
+> [Index](../index-en.html) | [한국어](ammo-specs.html)
+
+
 # Major Ammunition Types & Characteristics
 
 ---

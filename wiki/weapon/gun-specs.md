@@ -6,6 +6,9 @@ status: ingested
 last_updated: 2026-05-12
 ---
 
+> [목차](../index.html) | [English](gun-specs-en.html)
+
+
 # 총기 기본 스펙
 
 총기별 기본 스펙 항목 정의. 각 총기의 데이터 시트에 들어가는 필드와 단위를 정의한다.

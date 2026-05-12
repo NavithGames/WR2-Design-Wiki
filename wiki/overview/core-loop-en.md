@@ -7,6 +7,9 @@ status: ingested
 last_updated: 2026-05-12
 ---
 
+> [Index](../index-en.html) | [한국어](core-loop.html)
+
+
 # Core Loop
 
 Describes the 6-stage core loop (lobby - desert movement - town looting - return - escape - settlement), the 2-stop standard match structure, match density, and session director role.

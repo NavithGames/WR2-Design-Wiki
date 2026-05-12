@@ -7,6 +7,9 @@ status: ingested
 last_updated: 2026-05-12
 ---
 
+> [Index](../index-en.html) | [한국어](gun-specs.html)
+
+
 # Weapon Base Specifications
 
 Defines the base spec fields and units for each weapon's data sheet.

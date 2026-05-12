@@ -6,6 +6,9 @@ status: ingested
 last_updated: 2026-05-12
 ---
 
+> [목차](../index.html) | [English](delta-force-ref-en.html)
+
+
 # 델타포스 건플레이 레퍼런스 영상 목록
 
 ---

@@ -7,6 +7,9 @@ status: ingested
 last_updated: 2026-05-12
 ---
 
+> [Index](../index-en.html) | [한국어](identity.html)
+
+
 # Game One-Line Definition & Identity
 
 Defines the core identity and market positioning of a PvPvE vehicle extraction shooter that layers Battlefield's armored vehicle combat texture onto an extraction loop.

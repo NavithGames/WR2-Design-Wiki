@@ -6,6 +6,9 @@ status: ingested
 last_updated: 2026-05-12
 ---
 
+> [목차](../index.html) | [English](differentiation-en.html)
+
+
 # 핵심 차별화 포인트 + 대표 장면
 
 장르 공백 선점 등 5대 차별화 포인트와 성공/실패/역전 대표 장면, 스트리머/시청자 관점 분석을 제시한다.

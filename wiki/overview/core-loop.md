@@ -6,6 +6,9 @@ status: ingested
 last_updated: 2026-05-12
 ---
 
+> [목차](../index.html) | [English](core-loop-en.html)
+
+
 # 코어 루프
 
 6단계 코어 루프(로비-사막이동-마을루팅-귀환-탈출-정산)와 2경유 표준 판 구조, 판 밀도, 세션 디렉터 역할을 기술한다.

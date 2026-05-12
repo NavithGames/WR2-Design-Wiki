@@ -6,6 +6,9 @@ status: ingested
 last_updated: 2026-05-12
 ---
 
+> [목차](../index.html) | [English](ammo-specs-en.html)
+
+
 # 주요 탄종 및 특성
 
 ---

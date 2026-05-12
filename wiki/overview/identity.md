@@ -6,6 +6,9 @@ status: ingested
 last_updated: 2026-05-12
 ---
 
+> [목차](../index.html) | [English](identity-en.html)
+
+
 # 게임 한 줄 정의 & 정체성
 
 배틀필드의 차량 기갑전 질감을 익스트랙션 루프 위에 올린 PvPvE 차량 익스트랙션 슈터의 핵심 정체성과 시장 포지셔닝을 정의한다.

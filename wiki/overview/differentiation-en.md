@@ -7,6 +7,9 @@ status: ingested
 last_updated: 2026-05-12
 ---
 
+> [Index](../index-en.html) | [한국어](differentiation.html)
+
+
 # Key Differentiation Points + Signature Scenes
 
 Presents the 5 key differentiation points including genre gap capture, success/failure/comeback signature scenes, and streamer/viewer perspective analysis.

@@ -6,6 +6,9 @@ status: ingested
 last_updated: 2026-05-12
 ---
 
+> [목차](../index.html) | [English](tuning-en.html)
+
+
 # 튜닝
 
 ---

@@ -6,6 +6,9 @@ status: ingested
 last_updated: 2026-05-12
 ---
 
+> [목차](../index.html) | [English](gun-customization-en.html)
+
+
 # 총기 커스터마이징
 
 ---
