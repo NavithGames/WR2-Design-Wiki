@@ -6,10 +6,10 @@ last_updated: 2026-05-12
 # WR2 Design Wiki -- Index
 
 ## Overview
-- [게임 한 줄 정의 & 정체성 (Identity)](overview/identity.md) -- 게임 정의, 플랫폼, 타겟, 핵심 레퍼런스
-- [핵심 차별화 포인트 (Differentiation)](overview/differentiation.md) -- 5대 차별화, 대표 장면, 스트리머 관점
-- [코어 루프 (Core Loop)](overview/core-loop.md) -- 6단계 익스트랙션 루프, 판 밀도, 세션 디렉터
-- [델타포스 레퍼런스 (Delta Force Reference)](overview/delta-force-ref.md) -- 건플레이 참고 영상 목록
+- [게임 한 줄 정의 & 정체성 (Identity)](overview/identity.html) -- 게임 정의, 플랫폼, 타겟, 핵심 레퍼런스
+- [핵심 차별화 포인트 (Differentiation)](overview/differentiation.html) -- 5대 차별화, 대표 장면, 스트리머 관점
+- [코어 루프 (Core Loop)](overview/core-loop.html) -- 6단계 익스트랙션 루프, 판 밀도, 세션 디렉터
+- [델타포스 레퍼런스 (Delta Force Reference)](overview/delta-force-ref.html) -- 건플레이 참고 영상 목록
 
 ## Gameplay
 - [TBD] 게임 모드, 페이즈, 협력, 배치, 파밍, 교전, 사망
@@ -18,22 +18,22 @@ last_updated: 2026-05-12
 - [TBD] 액션, 수치(체력/스태미나/하중), 병과, 성장, 아이템
 
 ## Vehicle
-- [등장 차종 및 특성 (Vehicle Types)](vehicle/vehicle-types.md) -- 공중/지상 차량 로스터
+- [등장 차종 및 특성 (Vehicle Types)](vehicle/vehicle-types.html) -- 공중/지상 차량 로스터
 
 ## Weapon
-- [총기 애니메이션 (Gun Animation)](weapon/gun-animation.md) -- 1인칭 모션 리스트 (장비/격발/이동/점프/관찰)
-- [총기 계열 (Gun Categories)](weapon/gun-categories.md) -- AR/SMG/Sniper/LMG/Shotgun 지향점
-- [탄종 (Ammo Types)](weapon/ammo-types.md) -- 권총탄/소총탄/저격탄/산탄 분류
-- [탄종별 제원 (Ammo Specs)](weapon/ammo-specs.md) -- 실제 구경 데이터 (15종)
-- [총기 커스터마이징 (Gun Customization)](weapon/gun-customization.md) -- 어태치먼트 소켓, 탄창, 계열별 구성
-- [튜닝 (Tuning)](weapon/tuning.md) -- 총열/리시버/스톡/그립 교체 효과
-- [스킨 (Skin)](weapon/skin.md) -- 텍스처/모델링 스킨, 전용 모션
+- [총기 애니메이션 (Gun Animation)](weapon/gun-animation.html) -- 1인칭 모션 리스트 (장비/격발/이동/점프/관찰)
+- [총기 계열 (Gun Categories)](weapon/gun-categories.html) -- AR/SMG/Sniper/LMG/Shotgun 지향점
+- [탄종 (Ammo Types)](weapon/ammo-types.html) -- 권총탄/소총탄/저격탄/산탄 분류
+- [탄종별 제원 (Ammo Specs)](weapon/ammo-specs.html) -- 실제 구경 데이터 (15종)
+- [총기 커스터마이징 (Gun Customization)](weapon/gun-customization.html) -- 어태치먼트 소켓, 탄창, 계열별 구성
+- [튜닝 (Tuning)](weapon/tuning.html) -- 총열/리시버/스톡/그립 교체 효과
+- [스킨 (Skin)](weapon/skin.html) -- 텍스처/모델링 스킨, 전용 모션
 
 ## Combat Tools
 - [TBD] 투척무기, 설치무기, 특수장비
 
 ## UI
-- [게임 UI 구성](ui/game-ui.md) -- [TBD] Figma 목업 기반
+- [게임 UI 구성](ui/game-ui.html) -- [TBD] Figma 목업 기반
 
 ## Economy
 - [TBD] 경제 시스템, 파밍
