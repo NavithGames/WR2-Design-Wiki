@@ -1,0 +1,8 @@
+title: WR2 Design Wiki
+description: WR2 Game Design Knowledge Base
+theme: jekyll-theme-cayman
+baseurl: /WR2-Design-Wiki
+markdown: kramdown
+exclude:
+  - raw/
+  - .gitignore
