@@ -34,6 +34,7 @@ Built with [Karpathy LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893
 
 ## Status
 
-- **Source Documents**: 12 Google Docs identified
-- **Wiki Pages**: Pending ingest
+- **Source Documents**: 12 Google Docs ingested
+- **Wiki Pages**: 12 pages across Overview(4), Vehicle(1), Weapon(7)
+- **Pending Categories**: Gameplay, Character, Combat Tools, UI, Economy, Level Design, Data Tables
 - **Last Updated**: 2026-05-12
