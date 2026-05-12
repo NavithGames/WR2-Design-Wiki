@@ -51,9 +51,12 @@ last_updated: 2026-05-12
 ## Data Tables
 - ~~Pending~~ 캐릭터, 무기, 아이템, 차량 데이터 테이블
 
+## Appendix
+- **Ready** [에셋 네이밍 컨벤션 (Naming Convention)](appendix/naming-convention.html) ([EN](appendix/naming-convention-en.html)) -- 프리픽스, 폴더 구조, 베리에이션 규칙
+
 ---
 
-## Progress: 13 / 20+ pages ready
+## Progress: 14 / 20+ pages ready
 
 ---
 

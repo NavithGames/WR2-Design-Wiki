@@ -52,9 +52,12 @@ last_updated: 2026-05-12
 ## Data Tables
 - ~~Pending~~ Character, weapon, item, vehicle data tables
 
+## Appendix
+- **Ready** [Asset Naming Convention](appendix/naming-convention-en.html) ([KO](appendix/naming-convention.html)) -- Prefixes, folder structure, variation rules
+
 ---
 
-## Progress: 13 / 20+ pages ready
+## Progress: 14 / 20+ pages ready
 
 ---
 

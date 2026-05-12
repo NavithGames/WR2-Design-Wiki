@@ -32,10 +32,11 @@ Built with [Karpathy LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893
 | Economy | 경제, 파밍 | 0 | Pending |
 | Level Design | 레벨 디자인, 지형 | 0 | Pending |
 | Data Tables | 데이터 테이블 | 0 | Pending |
+| [Appendix](wiki/appendix/naming-convention.html) | 네이밍 컨벤션, 폴더 규칙 | 1 | **Ready** |
 
 ## Status
 
-- **Source Documents**: 13 Google Docs ingested
-- **Wiki Pages**: 13 pages across Overview(4), Vehicle(1), Weapon(8)
+- **Source Documents**: 13 Google Docs + 1 Wiki.js page ingested
+- **Wiki Pages**: 14 pages across Overview(4), Vehicle(1), Weapon(8), Appendix(1)
 - **Pending Categories**: Gameplay, Character, Combat Tools, UI, Economy, Level Design, Data Tables
 - **Last Updated**: 2026-05-12
