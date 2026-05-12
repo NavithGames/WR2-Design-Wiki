@@ -32,6 +32,7 @@ const SOURCES = [
   { file: '10-gun-customization.txt', docId: '1nw2PSwf8eM-2x4W0DLDjtYqMmQtHsNNLy_ngtN9RtPA', name: '총기 커스터마이징' },
   { file: '11-tuning.txt', docId: '1S5lb1M8NcMZkNn6ec_1uyJvVMXqC39eKV5Y7agoBAgw', name: '튜닝' },
   { file: '12-skin.txt', docId: '1kumkhaSAk4_Wesd6XYMxys8oqFbaBBDIEiS-DCmplg8', name: '스킨' },
+  { file: '13-gun-specs.txt', docId: '1agil5iEOV1jqetm4S5jhM4HDmuzP7zYuIKBtEf6XJyo', name: '총기 기본 스펙' },
 ];
 
 // Follow redirects and download content

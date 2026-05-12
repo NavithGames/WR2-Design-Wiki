@@ -31,6 +31,7 @@ last_updated: 2026-05-12
 - **Ready** [탄종별 제원 (Ammo Specs)](weapon/ammo-specs.html) -- 실제 구경 데이터 (15종)
 - **Ready** [총기 커스터마이징 (Gun Customization)](weapon/gun-customization.html) -- 어태치먼트 소켓, 탄창, 계열별 구성
 - **Ready** [튜닝 (Tuning)](weapon/tuning.html) -- 총열/리시버/스톡/그립 교체 효과
+- **Ready** [총기 기본 스펙 (Gun Specs)](weapon/gun-specs.html) -- 총기 데이터 필드 정의 (코드네임/무게/타입/보정값)
 - **Ready** [스킨 (Skin)](weapon/skin.html) -- 텍스처/모델링 스킨, 전용 모션
 
 ## Combat Tools
@@ -50,7 +51,7 @@ last_updated: 2026-05-12
 
 ---
 
-## Progress: 12 / 19+ pages ready
+## Progress: 13 / 20+ pages ready
 
 ---
 
@@ -70,4 +71,5 @@ last_updated: 2026-05-12
 | 10 | 총기 커스터마이징 | [link](https://docs.google.com/document/d/1nw2PSwf8eM-2x4W0DLDjtYqMmQtHsNNLy_ngtN9RtPA/) | ingested |
 | 11 | 튜닝 | [link](https://docs.google.com/document/d/1S5lb1M8NcMZkNn6ec_1uyJvVMXqC39eKV5Y7agoBAgw/) | ingested |
 | 12 | 스킨 | [link](https://docs.google.com/document/d/1kumkhaSAk4_Wesd6XYMxys8oqFbaBBDIEiS-DCmplg8/) | ingested |
-| 13 | 게임 UI (Figma) | [link](https://www.figma.com/design/hreIsMZOPVodJRZ56e2VfD/) | external |
+| 13 | 총기 기본 스펙 | [link](https://docs.google.com/document/d/1agil5iEOV1jqetm4S5jhM4HDmuzP7zYuIKBtEf6XJyo/) | ingested |
+| 14 | 게임 UI (Figma) | [link](https://www.figma.com/design/hreIsMZOPVodJRZ56e2VfD/) | external |
