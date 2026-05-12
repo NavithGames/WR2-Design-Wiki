@@ -1,0 +1,39 @@
+---
+layout: default
+title: WR2 Design Wiki
+---
+
+# WR2 Design Wiki
+
+WarRock 2: Mavericks 게임 디자인 지식 베이스
+
+Built with [Karpathy LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) pattern.
+
+---
+
+## Quick Links
+
+- [Wiki Index](wiki/index.md) — 전체 목차 + 소스 문서 매핑
+- [Schema (CLAUDE.md)](CLAUDE.md) — 작업 규칙 + 구조
+- [Change Log](log.md) — 변경 기록
+
+## Wiki Categories
+
+| Category | Description |
+|----------|-------------|
+| [Overview](wiki/overview/) | 정체성, 차별화, 코어 루프 |
+| [Gameplay](wiki/gameplay/) | 게임 모드, 페이즈, 협력 |
+| [Character](wiki/character/) | 액션, 수치, 병과, 성장 |
+| [Vehicle](wiki/vehicle/) | 차종, 스펙, 컨트롤 |
+| [Weapon](wiki/weapon/) | 총기, 탄종, 커스터마이징 |
+| [Combat Tools](wiki/combat-tools/) | 투척/설치/특수장비 |
+| [UI](wiki/ui/) | UI, HUD, 컨트롤 |
+| [Economy](wiki/economy/) | 경제, 파밍 |
+| [Level Design](wiki/level-design/) | 레벨 디자인, 지형 |
+| [Data Tables](wiki/data-tables/) | 데이터 테이블 |
+
+## Status
+
+- **Source Documents**: 12 Google Docs identified
+- **Wiki Pages**: Pending ingest
+- **Last Updated**: 2026-05-12
