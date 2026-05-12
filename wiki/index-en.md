@@ -63,19 +63,19 @@ last_updated: 2026-05-12
 
 ## Sources
 
-| # | Source | Google Doc | Status |
-|---|--------|-----------|--------|
-| 1 | Identity | [link](https://docs.google.com/document/d/1l8euBcwBHet-UxURzFggJQdYC1TcOOnwA7TDhSlTpHU/) | ingested |
-| 2 | Key Differentiation | [link](https://docs.google.com/document/d/1Siufwzz3att5qd7n5D5vYj736kDsGiwmeCi6vp207mQ/) | ingested |
-| 3 | Core Loop | [link](https://docs.google.com/document/d/1PGFAL7Ed7CuaE8p2f7724ZcRHYiVal0eRpFDqtuNAw4/) | ingested |
-| 4 | Delta Force Reference | [link](https://docs.google.com/document/d/1Hs_kXteAPyhKKcuqyHIrClYqGstYBPRXjIqev0ykGzU/) | ingested |
-| 5 | Vehicle Types | [link](https://docs.google.com/document/d/1KdIzUU4usW1fkAOYc4j5Q1nawV8Yds1Lp0tp4oP8kg8/) | ingested |
-| 6 | Gun Animation | [link](https://docs.google.com/document/d/1bbmpaT8WUzJxlIfw33sKNBVCq3BlhpELV62d0RRL-eA/) | ingested |
-| 7 | Gun Categories | [link](https://docs.google.com/document/d/1bT5zkPh0apBMBXgR6OSRLEXf17w2S6UBpsaJQF5qhCo/) | ingested |
-| 8 | Ammo Types | [link](https://docs.google.com/document/d/1oWE-blJJt-2Hh07PAL_S0arS_abw5XLVWuumFfGd5GM/) | ingested |
-| 9 | Ammo Specs | [link](https://docs.google.com/document/d/1nRUCSPJM4k56lAkKGPZpaPkT6dhzr_xEHAhe0WytADY/) | ingested |
-| 10 | Gun Customization | [link](https://docs.google.com/document/d/1nw2PSwf8eM-2x4W0DLDjtYqMmQtHsNNLy_ngtN9RtPA/) | ingested |
-| 11 | Tuning | [link](https://docs.google.com/document/d/1S5lb1M8NcMZkNn6ec_1uyJvVMXqC39eKV5Y7agoBAgw/) | ingested |
-| 12 | Skin | [link](https://docs.google.com/document/d/1kumkhaSAk4_Wesd6XYMxys8oqFbaBBDIEiS-DCmplg8/) | ingested |
-| 13 | Gun Specs | [link](https://docs.google.com/document/d/1agil5iEOV1jqetm4S5jhM4HDmuzP7zYuIKBtEf6XJyo/) | ingested |
-| 14 | Game UI (Figma) | [link](https://www.figma.com/design/hreIsMZOPVodJRZ56e2VfD/) | external |
+| # | Source | Google Doc | Last Synced | Status |
+|---|--------|-----------|-------------|--------|
+| 1 | Identity | [link](https://docs.google.com/document/d/1l8euBcwBHet-UxURzFggJQdYC1TcOOnwA7TDhSlTpHU/) | 2026-05-12 | ingested |
+| 2 | Key Differentiation | [link](https://docs.google.com/document/d/1Siufwzz3att5qd7n5D5vYj736kDsGiwmeCi6vp207mQ/) | 2026-05-12 | ingested |
+| 3 | Core Loop | [link](https://docs.google.com/document/d/1PGFAL7Ed7CuaE8p2f7724ZcRHYiVal0eRpFDqtuNAw4/) | 2026-05-12 | ingested |
+| 4 | Delta Force Reference | [link](https://docs.google.com/document/d/1Hs_kXteAPyhKKcuqyHIrClYqGstYBPRXjIqev0ykGzU/) | 2026-05-12 | ingested |
+| 5 | Vehicle Types | [link](https://docs.google.com/document/d/1KdIzUU4usW1fkAOYc4j5Q1nawV8Yds1Lp0tp4oP8kg8/) | 2026-05-12 | ingested |
+| 6 | Gun Animation | [link](https://docs.google.com/document/d/1bbmpaT8WUzJxlIfw33sKNBVCq3BlhpELV62d0RRL-eA/) | 2026-05-12 | ingested |
+| 7 | Gun Categories | [link](https://docs.google.com/document/d/1bT5zkPh0apBMBXgR6OSRLEXf17w2S6UBpsaJQF5qhCo/) | 2026-05-12 | ingested |
+| 8 | Ammo Types | [link](https://docs.google.com/document/d/1oWE-blJJt-2Hh07PAL_S0arS_abw5XLVWuumFfGd5GM/) | 2026-05-12 | ingested |
+| 9 | Ammo Specs | [link](https://docs.google.com/document/d/1nRUCSPJM4k56lAkKGPZpaPkT6dhzr_xEHAhe0WytADY/) | 2026-05-12 | ingested |
+| 10 | Gun Customization | [link](https://docs.google.com/document/d/1nw2PSwf8eM-2x4W0DLDjtYqMmQtHsNNLy_ngtN9RtPA/) | 2026-05-12 | ingested |
+| 11 | Tuning | [link](https://docs.google.com/document/d/1S5lb1M8NcMZkNn6ec_1uyJvVMXqC39eKV5Y7agoBAgw/) | 2026-05-12 | ingested |
+| 12 | Skin | [link](https://docs.google.com/document/d/1kumkhaSAk4_Wesd6XYMxys8oqFbaBBDIEiS-DCmplg8/) | 2026-05-12 | ingested |
+| 13 | Gun Specs | [link](https://docs.google.com/document/d/1agil5iEOV1jqetm4S5jhM4HDmuzP7zYuIKBtEf6XJyo/) | 2026-05-12 | ingested |
+| 14 | Game UI (Figma) | [link](https://www.figma.com/design/hreIsMZOPVodJRZ56e2VfD/) | — | external |

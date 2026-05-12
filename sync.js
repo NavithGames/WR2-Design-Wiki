@@ -17,6 +17,19 @@ const { execSync } = require('child_process');
 
 const WIKI_ROOT = __dirname;
 const RAW_DIR = path.join(WIKI_ROOT, 'raw');
+const META_FILE = path.join(RAW_DIR, 'sync-meta.json');
+
+// Load or initialize sync metadata
+function loadMeta() {
+  if (fs.existsSync(META_FILE)) {
+    return JSON.parse(fs.readFileSync(META_FILE, 'utf-8'));
+  }
+  return {};
+}
+
+function saveMeta(meta) {
+  fs.writeFileSync(META_FILE, JSON.stringify(meta, null, 2), 'utf-8');
+}
 
 // Source document mapping: filename → Google Doc ID
 const SOURCES = [
@@ -72,6 +85,7 @@ async function main() {
   // Step 1: Download all docs
   console.log('--- Downloading Google Docs ---\n');
 
+  const meta = loadMeta();
   const results = [];
 
   for (const src of SOURCES) {
@@ -94,12 +108,22 @@ async function main() {
       const status = changed ? 'CHANGED' : 'unchanged';
       console.log(`${content.length} bytes [${status}]`);
 
+      // Update sync metadata
+      const now = new Date().toISOString().slice(0, 10); // YYYY-MM-DD
+      if (!meta[src.file]) meta[src.file] = {};
+      meta[src.file].lastSynced = now;
+      meta[src.file].name = src.name;
+      if (changed) meta[src.file].lastChanged = now;
+
       results.push({ ...src, changed, oldSize: oldContent.length, newSize: content.length });
     } catch (err) {
       console.log(`ERROR: ${err.message}`);
       results.push({ ...src, changed: false, error: err.message });
     }
   }
+
+  // Save sync metadata
+  saveMeta(meta);
 
   // Step 2: Show diff summary
   const changed = results.filter(r => r.changed);
