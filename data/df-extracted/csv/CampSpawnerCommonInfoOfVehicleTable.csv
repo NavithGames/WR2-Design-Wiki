@@ -1,0 +1,14 @@
+﻿RowName,VehicleID,bIsCampVehicle,bPartInGlobalVehicleNumLimit,VehicleCD,SelfVehicleCD,RowDescription
+M1A4主战坦克,1101001,True,True,120,120,None
+LAV_AA防空车,1101002,True,True,90,90,None
+LAV_G1步战车,1101003,True,True,90,90,None
+FSV轮式突击炮,1101004,True,True,40,40,None
+GTQ-35轻型坦克,1101005,True,True,90,90,None
+ORV突击车,1102001,True,True,40,40,None
+LOSV越野车,1103012,True,True,45,45,None
+ATV全地形车,1103007,True,True,15,15,None
+冲锋艇,1201001,True,True,40,40,None
+AH-1035D“长弓猎人”突击直升机,1301002,True,True,150,150,None
+MH-33D侦察直升机,1301005,True,True,150,150,None
+UH60,1301006,True,True,150,150,None
+F35,1301007,True,True,150,150,None

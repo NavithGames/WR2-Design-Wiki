@@ -1,0 +1,2483 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "BodyArmorFunction",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Armor/BodyArmorFunction",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "BodyArmorFunctionRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "11050001001": {
+        "DamagesReduction": 0,
+        "ItemId": 11050001001,
+        "ProtectionPart": "light",
+        "ArmorLevel": 1,
+        "bUseNewArmorLevelConfig": false,
+        "ArmorLevelConfig": {
+          "_StructType": "FStructFallback",
+          "BaseArmorType": "EBaseArmorType::None",
+          "GlobalArmorLevel": 0,
+          "PartNames": []
+        },
+        "ProtectionPartText": null,
+        "BaseProtectionPartText": "",
+        "BitmaskProtectionPart": 2,
+        "DisableParts": [
+          "EEquipmentPart::Thorax"
+        ],
+        "MaxDurability": 20,
+        "DamagedDurabilityRate": 1,
+        "MaxArmorValue": 20,
+        "DamageMaxArmorValue": 20,
+        "DamageArmorLevel": 1,
+        "AttributeOperateIDs": [],
+        "BuffOps": [],
+        "DurabilityFormula": 1001,
+        "DurabilityReductionRepair": 1,
+        "RepairPricePerDurability": 55,
+        "BaseRepairPrice": 55,
+        "RepairDurabilityRatio": 1,
+        "RepairArmorRate": 1,
+        "DurabilityReductionRepairInGame": 0.15,
+        "RepairRatioInGame": null,
+        "BitmaskExceptionProtectionPart": 2,
+        "DurabilityReductionRepairInGameStr": null,
+        "bUseMaxDurabilityCurve": true,
+        "MaxDurabilityCurve": {
+          "_StructType": "FStructFallback",
+          "DurabilityKeys": [
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 0,
+              "MaxDurabilityPercent": 1
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 17,
+              "MaxDurabilityPercent": 0.85
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 30.250122,
+              "MaxDurabilityPercent": 0.6625061
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 39.14347,
+              "MaxDurabilityPercent": 0.44466737
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 43.57267,
+              "MaxDurabilityPercent": 0.22146003
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 44.43767,
+              "MaxDurabilityPercent": 0.043250117
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 46,
+              "MaxDurabilityPercent": 0
+            }
+          ]
+        },
+        "bInRange": true,
+        "RowDescription": "None"
+      },
+      "11050001002": {
+        "DamagesReduction": 0,
+        "ItemId": 11050001002,
+        "ProtectionPart": "light",
+        "ArmorLevel": 1,
+        "bUseNewArmorLevelConfig": false,
+        "ArmorLevelConfig": {
+          "_StructType": "FStructFallback",
+          "BaseArmorType": "EBaseArmorType::None",
+          "GlobalArmorLevel": 0,
+          "PartNames": []
+        },
+        "ProtectionPartText": null,
+        "BaseProtectionPartText": "",
+        "BitmaskProtectionPart": 2,
+        "DisableParts": [
+          "EEquipmentPart::Thorax"
+        ],
+        "MaxDurability": 20,
+        "DamagedDurabilityRate": 1,
+        "MaxArmorValue": 20,
+        "DamageMaxArmorValue": 20,
+        "DamageArmorLevel": 1,
+        "AttributeOperateIDs": [],
+        "BuffOps": [],
+        "DurabilityFormula": 1001,
+        "DurabilityReductionRepair": 1,
+        "RepairPricePerDurability": 55,
+        "BaseRepairPrice": 55,
+        "RepairDurabilityRatio": 1,
+        "RepairArmorRate": 1,
+        "DurabilityReductionRepairInGame": 0.12,
+        "RepairRatioInGame": null,
+        "BitmaskExceptionProtectionPart": 2,
+        "DurabilityReductionRepairInGameStr": null,
+        "bUseMaxDurabilityCurve": true,
+        "MaxDurabilityCurve": {
+          "_StructType": "FStructFallback",
+          "DurabilityKeys": [
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 0,
+              "MaxDurabilityPercent": 1
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 20,
+              "MaxDurabilityPercent": 0.88
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 32.110893,
+              "MaxDurabilityPercent": 0.72554475
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 42.858597,
+              "MaxDurabilityPercent": 0.53738505
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 49.417763,
+              "MaxDurabilityPercent": 0.32795832
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 52.014004,
+              "MaxDurabilityPercent": 0.12981202
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 53,
+              "MaxDurabilityPercent": 0
+            }
+          ]
+        },
+        "bInRange": true,
+        "RowDescription": "None"
+      },
+      "11050001003": {
+        "DamagesReduction": 0,
+        "ItemId": 11050001003,
+        "ProtectionPart": "light",
+        "ArmorLevel": 1,
+        "bUseNewArmorLevelConfig": false,
+        "ArmorLevelConfig": {
+          "_StructType": "FStructFallback",
+          "BaseArmorType": "EBaseArmorType::None",
+          "GlobalArmorLevel": 0,
+          "PartNames": []
+        },
+        "ProtectionPartText": null,
+        "BaseProtectionPartText": "",
+        "BitmaskProtectionPart": 2,
+        "DisableParts": [
+          "EEquipmentPart::Thorax"
+        ],
+        "MaxDurability": 25,
+        "DamagedDurabilityRate": 1,
+        "MaxArmorValue": 25,
+        "DamageMaxArmorValue": 25,
+        "DamageArmorLevel": 1,
+        "AttributeOperateIDs": [],
+        "BuffOps": [],
+        "DurabilityFormula": 1001,
+        "DurabilityReductionRepair": 2,
+        "RepairPricePerDurability": 44,
+        "BaseRepairPrice": 44,
+        "RepairDurabilityRatio": 1,
+        "RepairArmorRate": 1,
+        "DurabilityReductionRepairInGame": 0.09,
+        "RepairRatioInGame": null,
+        "BitmaskExceptionProtectionPart": 2,
+        "DurabilityReductionRepairInGameStr": null,
+        "bUseMaxDurabilityCurve": true,
+        "MaxDurabilityCurve": {
+          "_StructType": "FStructFallback",
+          "DurabilityKeys": [
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 0,
+              "MaxDurabilityPercent": 1
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 22.75,
+              "MaxDurabilityPercent": 0.91
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 42.52069,
+              "MaxDurabilityPercent": 0.7908277
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 58.49703,
+              "MaxDurabilityPercent": 0.63905346
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 69.928696,
+              "MaxDurabilityPercent": 0.45726654
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 76.44668,
+              "MaxDurabilityPercent": 0.26071942
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 78.57267,
+              "MaxDurabilityPercent": 0.08503973
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 80,
+              "MaxDurabilityPercent": 0
+            }
+          ]
+        },
+        "bInRange": true,
+        "RowDescription": "None"
+      },
+      "11050001004": {
+        "DamagesReduction": 0,
+        "ItemId": 11050001004,
+        "ProtectionPart": "light",
+        "ArmorLevel": 1,
+        "bUseNewArmorLevelConfig": false,
+        "ArmorLevelConfig": {
+          "_StructType": "FStructFallback",
+          "BaseArmorType": "EBaseArmorType::None",
+          "GlobalArmorLevel": 0,
+          "PartNames": []
+        },
+        "ProtectionPartText": null,
+        "BaseProtectionPartText": "",
+        "BitmaskProtectionPart": 2,
+        "DisableParts": [
+          "EEquipmentPart::Thorax"
+        ],
+        "MaxDurability": 30,
+        "DamagedDurabilityRate": 1,
+        "MaxArmorValue": 30,
+        "DamageMaxArmorValue": 30,
+        "DamageArmorLevel": 1,
+        "AttributeOperateIDs": [],
+        "BuffOps": [],
+        "DurabilityFormula": 1001,
+        "DurabilityReductionRepair": 2,
+        "RepairPricePerDurability": 37,
+        "BaseRepairPrice": 37,
+        "RepairDurabilityRatio": 1,
+        "RepairArmorRate": 1,
+        "DurabilityReductionRepairInGame": 0.06,
+        "RepairRatioInGame": null,
+        "BitmaskExceptionProtectionPart": 2,
+        "DurabilityReductionRepairInGameStr": null,
+        "bUseMaxDurabilityCurve": true,
+        "MaxDurabilityCurve": {
+          "_StructType": "FStructFallback",
+          "DurabilityKeys": [
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 0,
+              "MaxDurabilityPercent": 1
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 28.2,
+              "MaxDurabilityPercent": 0.94
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 53.950207,
+              "MaxDurabilityPercent": 0.8583402
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 76.44711,
+              "MaxDurabilityPercent": 0.749897
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 94.782135,
+              "MaxDurabilityPercent": 0.61116725
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 108.09629,
+              "MaxDurabilityPercent": 0.44380528
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 115.91427,
+              "MaxDurabilityPercent": 0.2605991
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 118.69725,
+              "MaxDurabilityPercent": 0.09276624
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 120,
+              "MaxDurabilityPercent": 0
+            }
+          ]
+        },
+        "bInRange": true,
+        "RowDescription": "None"
+      },
+      "11050002001": {
+        "DamagesReduction": 0,
+        "ItemId": 11050002001,
+        "ProtectionPart": "light",
+        "ArmorLevel": 2,
+        "bUseNewArmorLevelConfig": false,
+        "ArmorLevelConfig": {
+          "_StructType": "FStructFallback",
+          "BaseArmorType": "EBaseArmorType::None",
+          "GlobalArmorLevel": 0,
+          "PartNames": []
+        },
+        "ProtectionPartText": null,
+        "BaseProtectionPartText": "",
+        "BitmaskProtectionPart": 2,
+        "DisableParts": [
+          "EEquipmentPart::Thorax"
+        ],
+        "MaxDurability": 30,
+        "DamagedDurabilityRate": 1,
+        "MaxArmorValue": 30,
+        "DamageMaxArmorValue": 30,
+        "DamageArmorLevel": 2,
+        "AttributeOperateIDs": [],
+        "BuffOps": [],
+        "DurabilityFormula": 1001,
+        "DurabilityReductionRepair": 1,
+        "RepairPricePerDurability": 101,
+        "BaseRepairPrice": 101,
+        "RepairDurabilityRatio": 1,
+        "RepairArmorRate": 1,
+        "DurabilityReductionRepairInGame": 0.15,
+        "RepairRatioInGame": null,
+        "BitmaskExceptionProtectionPart": 2,
+        "DurabilityReductionRepairInGameStr": null,
+        "bUseMaxDurabilityCurve": true,
+        "MaxDurabilityCurve": {
+          "_StructType": "FStructFallback",
+          "DurabilityKeys": [
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 0,
+              "MaxDurabilityPercent": 1
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 25.5,
+              "MaxDurabilityPercent": 0.85
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 45.375183,
+              "MaxDurabilityPercent": 0.6625061
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 58.715202,
+              "MaxDurabilityPercent": 0.44466737
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 65.359,
+              "MaxDurabilityPercent": 0.22146003
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 66.65651,
+              "MaxDurabilityPercent": 0.04325
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 68,
+              "MaxDurabilityPercent": 0
+            }
+          ]
+        },
+        "bInRange": true,
+        "RowDescription": "None"
+      },
+      "11050002002": {
+        "DamagesReduction": 0,
+        "ItemId": 11050002002,
+        "ProtectionPart": "light",
+        "ArmorLevel": 2,
+        "bUseNewArmorLevelConfig": false,
+        "ArmorLevelConfig": {
+          "_StructType": "FStructFallback",
+          "BaseArmorType": "EBaseArmorType::None",
+          "GlobalArmorLevel": 0,
+          "PartNames": []
+        },
+        "ProtectionPartText": null,
+        "BaseProtectionPartText": "",
+        "BitmaskProtectionPart": 2,
+        "DisableParts": [
+          "EEquipmentPart::Thorax"
+        ],
+        "MaxDurability": 35,
+        "DamagedDurabilityRate": 1,
+        "MaxArmorValue": 35,
+        "DamageMaxArmorValue": 35,
+        "DamageArmorLevel": 2,
+        "AttributeOperateIDs": [],
+        "BuffOps": [],
+        "DurabilityFormula": 1001,
+        "DurabilityReductionRepair": 2,
+        "RepairPricePerDurability": 91,
+        "BaseRepairPrice": 91,
+        "RepairDurabilityRatio": 1,
+        "RepairArmorRate": 1,
+        "DurabilityReductionRepairInGame": 0.12,
+        "RepairRatioInGame": null,
+        "BitmaskExceptionProtectionPart": 2,
+        "DurabilityReductionRepairInGameStr": null,
+        "bUseMaxDurabilityCurve": true,
+        "MaxDurabilityCurve": {
+          "_StructType": "FStructFallback",
+          "DurabilityKeys": [
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 0,
+              "MaxDurabilityPercent": 1
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 30.8,
+              "MaxDurabilityPercent": 0.88
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 56.194065,
+              "MaxDurabilityPercent": 0.72554475
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 75.00254,
+              "MaxDurabilityPercent": 0.53738505
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 86.48109,
+              "MaxDurabilityPercent": 0.32795832
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 91.024506,
+              "MaxDurabilityPercent": 0.12981202
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 92,
+              "MaxDurabilityPercent": 0
+            }
+          ]
+        },
+        "bInRange": true,
+        "RowDescription": "None"
+      },
+      "11050002003": {
+        "DamagesReduction": 0,
+        "ItemId": 11050002003,
+        "ProtectionPart": "light",
+        "ArmorLevel": 2,
+        "bUseNewArmorLevelConfig": false,
+        "ArmorLevelConfig": {
+          "_StructType": "FStructFallback",
+          "BaseArmorType": "EBaseArmorType::None",
+          "GlobalArmorLevel": 0,
+          "PartNames": []
+        },
+        "ProtectionPartText": null,
+        "BaseProtectionPartText": "",
+        "BitmaskProtectionPart": 2,
+        "DisableParts": [
+          "EEquipmentPart::Thorax"
+        ],
+        "MaxDurability": 40,
+        "DamagedDurabilityRate": 1,
+        "MaxArmorValue": 40,
+        "DamageMaxArmorValue": 40,
+        "DamageArmorLevel": 2,
+        "AttributeOperateIDs": [],
+        "BuffOps": [],
+        "DurabilityFormula": 1001,
+        "DurabilityReductionRepair": 2,
+        "RepairPricePerDurability": 84,
+        "BaseRepairPrice": 84,
+        "RepairDurabilityRatio": 1,
+        "RepairArmorRate": 1,
+        "DurabilityReductionRepairInGame": 0.09,
+        "RepairRatioInGame": null,
+        "BitmaskExceptionProtectionPart": 2,
+        "DurabilityReductionRepairInGameStr": null,
+        "bUseMaxDurabilityCurve": true,
+        "MaxDurabilityCurve": {
+          "_StructType": "FStructFallback",
+          "DurabilityKeys": [
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 0,
+              "MaxDurabilityPercent": 1
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 36.4,
+              "MaxDurabilityPercent": 0.91
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 68.033104,
+              "MaxDurabilityPercent": 0.7908277
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 93.595245,
+              "MaxDurabilityPercent": 0.63905346
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 111.88591,
+              "MaxDurabilityPercent": 0.45726654
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 122.31468,
+              "MaxDurabilityPercent": 0.26071942
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 125.71627,
+              "MaxDurabilityPercent": 0.08503973
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 127,
+              "MaxDurabilityPercent": 0
+            }
+          ]
+        },
+        "bInRange": true,
+        "RowDescription": "None"
+      },
+      "11050002004": {
+        "DamagesReduction": 0,
+        "ItemId": 11050002004,
+        "ProtectionPart": "light",
+        "ArmorLevel": 2,
+        "bUseNewArmorLevelConfig": false,
+        "ArmorLevelConfig": {
+          "_StructType": "FStructFallback",
+          "BaseArmorType": "EBaseArmorType::None",
+          "GlobalArmorLevel": 0,
+          "PartNames": []
+        },
+        "ProtectionPartText": null,
+        "BaseProtectionPartText": "",
+        "BitmaskProtectionPart": 2,
+        "DisableParts": [
+          "EEquipmentPart::Thorax"
+        ],
+        "MaxDurability": 50,
+        "DamagedDurabilityRate": 1,
+        "MaxArmorValue": 50,
+        "DamageMaxArmorValue": 50,
+        "DamageArmorLevel": 2,
+        "AttributeOperateIDs": [],
+        "BuffOps": [],
+        "DurabilityFormula": 1001,
+        "DurabilityReductionRepair": 4,
+        "RepairPricePerDurability": 71,
+        "BaseRepairPrice": 71,
+        "RepairDurabilityRatio": 1,
+        "RepairArmorRate": 1,
+        "DurabilityReductionRepairInGame": 0.06,
+        "RepairRatioInGame": null,
+        "BitmaskExceptionProtectionPart": 2,
+        "DurabilityReductionRepairInGameStr": null,
+        "bUseMaxDurabilityCurve": true,
+        "MaxDurabilityCurve": {
+          "_StructType": "FStructFallback",
+          "DurabilityKeys": [
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 0,
+              "MaxDurabilityPercent": 1
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 47,
+              "MaxDurabilityPercent": 0.94
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 89.91701,
+              "MaxDurabilityPercent": 0.8583402
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 127.41186,
+              "MaxDurabilityPercent": 0.749897
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 157.97023,
+              "MaxDurabilityPercent": 0.61116725
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 180.16049,
+              "MaxDurabilityPercent": 0.44380528
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 193.19044,
+              "MaxDurabilityPercent": 0.2605991
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 197.82875,
+              "MaxDurabilityPercent": 0.09276624
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 199,
+              "MaxDurabilityPercent": 0
+            }
+          ]
+        },
+        "bInRange": true,
+        "RowDescription": "None"
+      },
+      "11050003001": {
+        "DamagesReduction": 0,
+        "ItemId": 11050003001,
+        "ProtectionPart": "light",
+        "ArmorLevel": 3,
+        "bUseNewArmorLevelConfig": false,
+        "ArmorLevelConfig": {
+          "_StructType": "FStructFallback",
+          "BaseArmorType": "EBaseArmorType::None",
+          "GlobalArmorLevel": 0,
+          "PartNames": []
+        },
+        "ProtectionPartText": null,
+        "BaseProtectionPartText": "",
+        "BitmaskProtectionPart": 2,
+        "DisableParts": [
+          "EEquipmentPart::Thorax"
+        ],
+        "MaxDurability": 50,
+        "DamagedDurabilityRate": 1,
+        "MaxArmorValue": 50,
+        "DamageMaxArmorValue": 50,
+        "DamageArmorLevel": 3,
+        "AttributeOperateIDs": [],
+        "BuffOps": [
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 9010101,
+            "AttributeOperateIDs": []
+          }
+        ],
+        "DurabilityFormula": 1001,
+        "DurabilityReductionRepair": 1,
+        "RepairPricePerDurability": 156,
+        "BaseRepairPrice": 156,
+        "RepairDurabilityRatio": 0.6,
+        "RepairArmorRate": 1,
+        "DurabilityReductionRepairInGame": 0.05,
+        "RepairRatioInGame": null,
+        "BitmaskExceptionProtectionPart": 2,
+        "DurabilityReductionRepairInGameStr": null,
+        "bUseMaxDurabilityCurve": true,
+        "MaxDurabilityCurve": {
+          "_StructType": "FStructFallback",
+          "DurabilityKeys": [
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 0,
+              "MaxDurabilityPercent": 1
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 47.5,
+              "MaxDurabilityPercent": 0.95
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 91.56687,
+              "MaxDurabilityPercent": 0.8813374
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 131.01299,
+              "MaxDurabilityPercent": 0.7889223
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 164.4252,
+              "MaxDurabilityPercent": 0.66824424
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 190.3175,
+              "MaxDurabilityPercent": 0.517846
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 207.51518,
+              "MaxDurabilityPercent": 0.34395364
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 215.88185,
+              "MaxDurabilityPercent": 0.16733341
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 217.33417,
+              "MaxDurabilityPercent": 0.056090377
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 219,
+              "MaxDurabilityPercent": 0
+            }
+          ]
+        },
+        "bInRange": true,
+        "RowDescription": "None"
+      },
+      "11050003002": {
+        "DamagesReduction": 0,
+        "ItemId": 11050003002,
+        "ProtectionPart": "light",
+        "ArmorLevel": 3,
+        "bUseNewArmorLevelConfig": false,
+        "ArmorLevelConfig": {
+          "_StructType": "FStructFallback",
+          "BaseArmorType": "EBaseArmorType::None",
+          "GlobalArmorLevel": 0,
+          "PartNames": []
+        },
+        "ProtectionPartText": null,
+        "BaseProtectionPartText": "",
+        "BitmaskProtectionPart": 2,
+        "DisableParts": [
+          "EEquipmentPart::Thorax"
+        ],
+        "MaxDurability": 60,
+        "DamagedDurabilityRate": 1,
+        "MaxArmorValue": 60,
+        "DamageMaxArmorValue": 60,
+        "DamageArmorLevel": 3,
+        "AttributeOperateIDs": [],
+        "BuffOps": [
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 901001,
+            "AttributeOperateIDs": []
+          },
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 9010101,
+            "AttributeOperateIDs": []
+          }
+        ],
+        "DurabilityFormula": 1001,
+        "DurabilityReductionRepair": 2,
+        "RepairPricePerDurability": 138,
+        "BaseRepairPrice": 138,
+        "RepairDurabilityRatio": 0.7,
+        "RepairArmorRate": 1,
+        "DurabilityReductionRepairInGame": 0.04,
+        "RepairRatioInGame": null,
+        "BitmaskExceptionProtectionPart": 2,
+        "DurabilityReductionRepairInGameStr": null,
+        "bUseMaxDurabilityCurve": true,
+        "MaxDurabilityCurve": {
+          "_StructType": "FStructFallback",
+          "DurabilityKeys": [
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 0,
+              "MaxDurabilityPercent": 1
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 57.6,
+              "MaxDurabilityPercent": 0.96
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 111.874825,
+              "MaxDurabilityPercent": 0.90458035
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 161.61484,
+              "MaxDurabilityPercent": 0.8290001
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 205.31415,
+              "MaxDurabilityPercent": 0.72832185
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 241.24911,
+              "MaxDurabilityPercent": 0.5989161
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 267.74634,
+              "MaxDurabilityPercent": 0.44162035
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 283.77844,
+              "MaxDurabilityPercent": 0.267202
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 289.98032,
+              "MaxDurabilityPercent": 0.17258567
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 291,
+              "MaxDurabilityPercent": 0
+            }
+          ]
+        },
+        "bInRange": true,
+        "RowDescription": "None"
+      },
+      "11050003003": {
+        "DamagesReduction": 0,
+        "ItemId": 11050003003,
+        "ProtectionPart": "mid",
+        "ArmorLevel": 3,
+        "bUseNewArmorLevelConfig": false,
+        "ArmorLevelConfig": {
+          "_StructType": "FStructFallback",
+          "BaseArmorType": "EBaseArmorType::None",
+          "GlobalArmorLevel": 0,
+          "PartNames": []
+        },
+        "ProtectionPartText": null,
+        "BaseProtectionPartText": "",
+        "BitmaskProtectionPart": 6,
+        "DisableParts": [
+          "EEquipmentPart::Thorax"
+        ],
+        "MaxDurability": 75,
+        "DamagedDurabilityRate": 1,
+        "MaxArmorValue": 75,
+        "DamageMaxArmorValue": 75,
+        "DamageArmorLevel": 3,
+        "AttributeOperateIDs": [],
+        "BuffOps": [
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 901001,
+            "AttributeOperateIDs": []
+          },
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 9010103,
+            "AttributeOperateIDs": []
+          }
+        ],
+        "DurabilityFormula": 1001,
+        "DurabilityReductionRepair": 5,
+        "RepairPricePerDurability": 138,
+        "BaseRepairPrice": 138,
+        "RepairDurabilityRatio": 0.8,
+        "RepairArmorRate": 1,
+        "DurabilityReductionRepairInGame": 0.09,
+        "RepairRatioInGame": null,
+        "BitmaskExceptionProtectionPart": 6,
+        "DurabilityReductionRepairInGameStr": null,
+        "bUseMaxDurabilityCurve": true,
+        "MaxDurabilityCurve": {
+          "_StructType": "FStructFallback",
+          "DurabilityKeys": [
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 0,
+              "MaxDurabilityPercent": 1
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 68.25,
+              "MaxDurabilityPercent": 0.91
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 127.56207,
+              "MaxDurabilityPercent": 0.7908277
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 175.49109,
+              "MaxDurabilityPercent": 0.63905346
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 209.78607,
+              "MaxDurabilityPercent": 0.45726654
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 229.34003,
+              "MaxDurabilityPercent": 0.26071942
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 235.71802,
+              "MaxDurabilityPercent": 0.08503973
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 237,
+              "MaxDurabilityPercent": 0
+            }
+          ]
+        },
+        "bInRange": true,
+        "RowDescription": "None"
+      },
+      "11050003004": {
+        "DamagesReduction": 0,
+        "ItemId": 11050003004,
+        "ProtectionPart": "mid",
+        "ArmorLevel": 3,
+        "bUseNewArmorLevelConfig": false,
+        "ArmorLevelConfig": {
+          "_StructType": "FStructFallback",
+          "BaseArmorType": "EBaseArmorType::None",
+          "GlobalArmorLevel": 0,
+          "PartNames": []
+        },
+        "ProtectionPartText": null,
+        "BaseProtectionPartText": "",
+        "BitmaskProtectionPart": 6,
+        "DisableParts": [
+          "EEquipmentPart::Thorax"
+        ],
+        "MaxDurability": 85,
+        "DamagedDurabilityRate": 1,
+        "MaxArmorValue": 85,
+        "DamageMaxArmorValue": 85,
+        "DamageArmorLevel": 3,
+        "AttributeOperateIDs": [],
+        "BuffOps": [
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 901002,
+            "AttributeOperateIDs": []
+          },
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 9010104,
+            "AttributeOperateIDs": []
+          }
+        ],
+        "DurabilityFormula": 1001,
+        "DurabilityReductionRepair": 7,
+        "RepairPricePerDurability": 132,
+        "BaseRepairPrice": 132,
+        "RepairDurabilityRatio": 0.85,
+        "RepairArmorRate": 1,
+        "DurabilityReductionRepairInGame": 0.07,
+        "RepairRatioInGame": null,
+        "BitmaskExceptionProtectionPart": 6,
+        "DurabilityReductionRepairInGameStr": null,
+        "bUseMaxDurabilityCurve": true,
+        "MaxDurabilityCurve": {
+          "_StructType": "FStructFallback",
+          "DurabilityKeys": [
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 0,
+              "MaxDurabilityPercent": 1
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 79.05,
+              "MaxDurabilityPercent": 0.93
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 150.07507,
+              "MaxDurabilityPercent": 0.8355892
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 210.58794,
+              "MaxDurabilityPercent": 0.7119159
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 257.93494,
+              "MaxDurabilityPercent": 0.55702347
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 289.93552,
+              "MaxDurabilityPercent": 0.3764774
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 306.11945,
+              "MaxDurabilityPercent": 0.19039926
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 309.51263,
+              "MaxDurabilityPercent": 0.039920107
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 311,
+              "MaxDurabilityPercent": 0
+            }
+          ]
+        },
+        "bInRange": true,
+        "RowDescription": "None"
+      },
+      "11050004001": {
+        "DamagesReduction": 0,
+        "ItemId": 11050004001,
+        "ProtectionPart": "light",
+        "ArmorLevel": 4,
+        "bUseNewArmorLevelConfig": false,
+        "ArmorLevelConfig": {
+          "_StructType": "FStructFallback",
+          "BaseArmorType": "EBaseArmorType::None",
+          "GlobalArmorLevel": 0,
+          "PartNames": []
+        },
+        "ProtectionPartText": null,
+        "BaseProtectionPartText": "",
+        "BitmaskProtectionPart": 2,
+        "DisableParts": [
+          "EEquipmentPart::Thorax"
+        ],
+        "MaxDurability": 80,
+        "DamagedDurabilityRate": 1,
+        "MaxArmorValue": 80,
+        "DamageMaxArmorValue": 80,
+        "DamageArmorLevel": 4,
+        "AttributeOperateIDs": [],
+        "BuffOps": [
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 901005,
+            "AttributeOperateIDs": []
+          },
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 9010105,
+            "AttributeOperateIDs": []
+          }
+        ],
+        "DurabilityFormula": 1001,
+        "DurabilityReductionRepair": 2,
+        "RepairPricePerDurability": 238,
+        "BaseRepairPrice": 238,
+        "RepairDurabilityRatio": 0.5,
+        "RepairArmorRate": 1,
+        "DurabilityReductionRepairInGame": 0.06,
+        "RepairRatioInGame": null,
+        "BitmaskExceptionProtectionPart": 2,
+        "DurabilityReductionRepairInGameStr": null,
+        "bUseMaxDurabilityCurve": true,
+        "MaxDurabilityCurve": {
+          "_StructType": "FStructFallback",
+          "DurabilityKeys": [
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 0,
+              "MaxDurabilityPercent": 1
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 75.2,
+              "MaxDurabilityPercent": 0.94
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 143.86722,
+              "MaxDurabilityPercent": 0.8583402
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 203.85898,
+              "MaxDurabilityPercent": 0.749897
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 252.75235,
+              "MaxDurabilityPercent": 0.61116725
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 288.25677,
+              "MaxDurabilityPercent": 0.44380528
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 309.1047,
+              "MaxDurabilityPercent": 0.2605991
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 316.526,
+              "MaxDurabilityPercent": 0.09276624
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 318,
+              "MaxDurabilityPercent": 0
+            }
+          ]
+        },
+        "bInRange": true,
+        "RowDescription": "None"
+      },
+      "11050004002": {
+        "DamagesReduction": 0,
+        "ItemId": 11050004002,
+        "ProtectionPart": "mid",
+        "ArmorLevel": 4,
+        "bUseNewArmorLevelConfig": false,
+        "ArmorLevelConfig": {
+          "_StructType": "FStructFallback",
+          "BaseArmorType": "EBaseArmorType::None",
+          "GlobalArmorLevel": 0,
+          "PartNames": []
+        },
+        "ProtectionPartText": null,
+        "BaseProtectionPartText": "",
+        "BitmaskProtectionPart": 6,
+        "DisableParts": [
+          "EEquipmentPart::Thorax"
+        ],
+        "MaxDurability": 90,
+        "DamagedDurabilityRate": 1,
+        "MaxArmorValue": 90,
+        "DamageMaxArmorValue": 90,
+        "DamageArmorLevel": 4,
+        "AttributeOperateIDs": [],
+        "BuffOps": [
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 901001,
+            "AttributeOperateIDs": []
+          },
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 9010102,
+            "AttributeOperateIDs": []
+          }
+        ],
+        "DurabilityFormula": 1001,
+        "DurabilityReductionRepair": 5,
+        "RepairPricePerDurability": 260,
+        "BaseRepairPrice": 260,
+        "RepairDurabilityRatio": 0.65,
+        "RepairArmorRate": 1,
+        "DurabilityReductionRepairInGame": 0.18,
+        "RepairRatioInGame": null,
+        "BitmaskExceptionProtectionPart": 6,
+        "DurabilityReductionRepairInGameStr": null,
+        "bUseMaxDurabilityCurve": true,
+        "MaxDurabilityCurve": {
+          "_StructType": "FStructFallback",
+          "DurabilityKeys": [
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 0,
+              "MaxDurabilityPercent": 1
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 73.8,
+              "MaxDurabilityPercent": 0.82
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 127.95546,
+              "MaxDurabilityPercent": 0.60172737
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 160.41623,
+              "MaxDurabilityPercent": 0.36067525
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 172.65771,
+              "MaxDurabilityPercent": 0.13601652
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 174,
+              "MaxDurabilityPercent": 0
+            }
+          ]
+        },
+        "bInRange": true,
+        "RowDescription": "None"
+      },
+      "11050004007": {
+        "DamagesReduction": 0,
+        "ItemId": 11050004007,
+        "ProtectionPart": "light",
+        "ArmorLevel": 4,
+        "bUseNewArmorLevelConfig": false,
+        "ArmorLevelConfig": {
+          "_StructType": "FStructFallback",
+          "BaseArmorType": "EBaseArmorType::None",
+          "GlobalArmorLevel": 0,
+          "PartNames": []
+        },
+        "ProtectionPartText": null,
+        "BaseProtectionPartText": "",
+        "BitmaskProtectionPart": 2,
+        "DisableParts": [
+          "EEquipmentPart::Thorax"
+        ],
+        "MaxDurability": 80,
+        "DamagedDurabilityRate": 1,
+        "MaxArmorValue": 80,
+        "DamageMaxArmorValue": 80,
+        "DamageArmorLevel": 4,
+        "AttributeOperateIDs": [],
+        "BuffOps": [],
+        "DurabilityFormula": 1001,
+        "DurabilityReductionRepair": 5,
+        "RepairPricePerDurability": 239,
+        "BaseRepairPrice": 239,
+        "RepairDurabilityRatio": 0.65,
+        "RepairArmorRate": 1,
+        "DurabilityReductionRepairInGame": 0.1,
+        "RepairRatioInGame": null,
+        "BitmaskExceptionProtectionPart": 2,
+        "DurabilityReductionRepairInGameStr": null,
+        "bUseMaxDurabilityCurve": true,
+        "MaxDurabilityCurve": {
+          "_StructType": "FStructFallback",
+          "DurabilityKeys": [
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 0,
+              "MaxDurabilityPercent": 1
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 72,
+              "MaxDurabilityPercent": 0.9
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 133.50546,
+              "MaxDurabilityPercent": 0.76881826
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 181.8379,
+              "MaxDurabilityPercent": 0.6041556
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 214.75949,
+              "MaxDurabilityPercent": 0.41151986
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 231.69406,
+              "MaxDurabilityPercent": 0.21168204
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 235.51591,
+              "MaxDurabilityPercent": 0.04777325
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 237,
+              "MaxDurabilityPercent": 0
+            }
+          ]
+        },
+        "bInRange": true,
+        "RowDescription": "None"
+      },
+      "11050004003": {
+        "DamagesReduction": 0,
+        "ItemId": 11050004003,
+        "ProtectionPart": "mid",
+        "ArmorLevel": 4,
+        "bUseNewArmorLevelConfig": false,
+        "ArmorLevelConfig": {
+          "_StructType": "FStructFallback",
+          "BaseArmorType": "EBaseArmorType::None",
+          "GlobalArmorLevel": 0,
+          "PartNames": []
+        },
+        "ProtectionPartText": null,
+        "BaseProtectionPartText": "",
+        "BitmaskProtectionPart": 6,
+        "DisableParts": [
+          "EEquipmentPart::Thorax"
+        ],
+        "MaxDurability": 100,
+        "DamagedDurabilityRate": 1,
+        "MaxArmorValue": 100,
+        "DamageMaxArmorValue": 100,
+        "DamageArmorLevel": 4,
+        "AttributeOperateIDs": [],
+        "BuffOps": [
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 901003,
+            "AttributeOperateIDs": []
+          },
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 9010104,
+            "AttributeOperateIDs": []
+          }
+        ],
+        "DurabilityFormula": 1001,
+        "DurabilityReductionRepair": 7,
+        "RepairPricePerDurability": 249,
+        "BaseRepairPrice": 249,
+        "RepairDurabilityRatio": 0.73,
+        "RepairArmorRate": 1,
+        "DurabilityReductionRepairInGame": 0.1,
+        "RepairRatioInGame": null,
+        "BitmaskExceptionProtectionPart": 6,
+        "DurabilityReductionRepairInGameStr": null,
+        "bUseMaxDurabilityCurve": true,
+        "MaxDurabilityCurve": {
+          "_StructType": "FStructFallback",
+          "DurabilityKeys": [
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 0,
+              "MaxDurabilityPercent": 1
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 90,
+              "MaxDurabilityPercent": 0.9
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 166.88182,
+              "MaxDurabilityPercent": 0.76881826
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 227.29738,
+              "MaxDurabilityPercent": 0.6041556
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 268.44937,
+              "MaxDurabilityPercent": 0.41151986
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 289.61758,
+              "MaxDurabilityPercent": 0.21168204
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 294.3949,
+              "MaxDurabilityPercent": 0.04777325
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 296,
+              "MaxDurabilityPercent": 0
+            }
+          ]
+        },
+        "bInRange": true,
+        "RowDescription": "None"
+      },
+      "11050004004": {
+        "DamagesReduction": 0,
+        "ItemId": 11050004004,
+        "ProtectionPart": "mid",
+        "ArmorLevel": 4,
+        "bUseNewArmorLevelConfig": false,
+        "ArmorLevelConfig": {
+          "_StructType": "FStructFallback",
+          "BaseArmorType": "EBaseArmorType::None",
+          "GlobalArmorLevel": 0,
+          "PartNames": []
+        },
+        "ProtectionPartText": null,
+        "BaseProtectionPartText": "",
+        "BitmaskProtectionPart": 6,
+        "DisableParts": [
+          "EEquipmentPart::Thorax"
+        ],
+        "MaxDurability": 110,
+        "DamagedDurabilityRate": 1,
+        "MaxArmorValue": 110,
+        "DamageMaxArmorValue": 110,
+        "DamageArmorLevel": 4,
+        "AttributeOperateIDs": [],
+        "BuffOps": [
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 901005,
+            "AttributeOperateIDs": []
+          },
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 9010105,
+            "AttributeOperateIDs": []
+          }
+        ],
+        "DurabilityFormula": 1001,
+        "DurabilityReductionRepair": 10,
+        "RepairPricePerDurability": 239,
+        "BaseRepairPrice": 239,
+        "RepairDurabilityRatio": 0.6,
+        "RepairArmorRate": 1,
+        "DurabilityReductionRepairInGame": 0.09,
+        "RepairRatioInGame": null,
+        "BitmaskExceptionProtectionPart": 6,
+        "DurabilityReductionRepairInGameStr": null,
+        "bUseMaxDurabilityCurve": true,
+        "MaxDurabilityCurve": {
+          "_StructType": "FStructFallback",
+          "DurabilityKeys": [
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 0,
+              "MaxDurabilityPercent": 1
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 100.1,
+              "MaxDurabilityPercent": 0.91
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 187.09105,
+              "MaxDurabilityPercent": 0.7908277
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 257.38693,
+              "MaxDurabilityPercent": 0.63905346
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 307.68625,
+              "MaxDurabilityPercent": 0.45726654
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 336.3654,
+              "MaxDurabilityPercent": 0.26071942
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 345.71976,
+              "MaxDurabilityPercent": 0.08503973
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 347,
+              "MaxDurabilityPercent": 0
+            }
+          ]
+        },
+        "bInRange": true,
+        "RowDescription": "None"
+      },
+      "11050005001": {
+        "DamagesReduction": 0,
+        "ItemId": 11050005001,
+        "ProtectionPart": "mid",
+        "ArmorLevel": 5,
+        "bUseNewArmorLevelConfig": false,
+        "ArmorLevelConfig": {
+          "_StructType": "FStructFallback",
+          "BaseArmorType": "EBaseArmorType::None",
+          "GlobalArmorLevel": 0,
+          "PartNames": []
+        },
+        "ProtectionPartText": null,
+        "BaseProtectionPartText": "",
+        "BitmaskProtectionPart": 6,
+        "DisableParts": [
+          "EEquipmentPart::Thorax"
+        ],
+        "MaxDurability": 95,
+        "DamagedDurabilityRate": 1,
+        "MaxArmorValue": 95,
+        "DamageMaxArmorValue": 95,
+        "DamageArmorLevel": 5,
+        "AttributeOperateIDs": [],
+        "BuffOps": [
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 901001,
+            "AttributeOperateIDs": []
+          }
+        ],
+        "DurabilityFormula": 1001,
+        "DurabilityReductionRepair": 5,
+        "RepairPricePerDurability": 515,
+        "BaseRepairPrice": 515,
+        "RepairDurabilityRatio": 0.28,
+        "RepairArmorRate": 1,
+        "DurabilityReductionRepairInGame": 0.12,
+        "RepairRatioInGame": null,
+        "BitmaskExceptionProtectionPart": 6,
+        "DurabilityReductionRepairInGameStr": null,
+        "bUseMaxDurabilityCurve": true,
+        "MaxDurabilityCurve": {
+          "_StructType": "FStructFallback",
+          "DurabilityKeys": [
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 0,
+              "MaxDurabilityPercent": 1
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 83.6,
+              "MaxDurabilityPercent": 0.88
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 152.52675,
+              "MaxDurabilityPercent": 0.72554475
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 203.57832,
+              "MaxDurabilityPercent": 0.53738505
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 234.73438,
+              "MaxDurabilityPercent": 0.32795832
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 247.06651,
+              "MaxDurabilityPercent": 0.12981202
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 249,
+              "MaxDurabilityPercent": 0
+            }
+          ]
+        },
+        "bInRange": true,
+        "RowDescription": "None"
+      },
+      "11050005002": {
+        "DamagesReduction": 0,
+        "ItemId": 11050005002,
+        "ProtectionPart": "heavy",
+        "ArmorLevel": 5,
+        "bUseNewArmorLevelConfig": false,
+        "ArmorLevelConfig": {
+          "_StructType": "FStructFallback",
+          "BaseArmorType": "EBaseArmorType::None",
+          "GlobalArmorLevel": 0,
+          "PartNames": []
+        },
+        "ProtectionPartText": null,
+        "BaseProtectionPartText": "",
+        "BitmaskProtectionPart": 14,
+        "DisableParts": [
+          "EEquipmentPart::Thorax"
+        ],
+        "MaxDurability": 115,
+        "DamagedDurabilityRate": 1,
+        "MaxArmorValue": 115,
+        "DamageMaxArmorValue": 115,
+        "DamageArmorLevel": 5,
+        "AttributeOperateIDs": [],
+        "BuffOps": [
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 901007,
+            "AttributeOperateIDs": []
+          },
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 9010108,
+            "AttributeOperateIDs": []
+          }
+        ],
+        "DurabilityFormula": 1001,
+        "DurabilityReductionRepair": 7,
+        "RepairPricePerDurability": 553,
+        "BaseRepairPrice": 553,
+        "RepairDurabilityRatio": 0.35,
+        "RepairArmorRate": 1,
+        "DurabilityReductionRepairInGame": 0.14,
+        "RepairRatioInGame": null,
+        "BitmaskExceptionProtectionPart": 14,
+        "DurabilityReductionRepairInGameStr": null,
+        "bUseMaxDurabilityCurve": true,
+        "MaxDurabilityCurve": {
+          "_StructType": "FStructFallback",
+          "DurabilityKeys": [
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 0,
+              "MaxDurabilityPercent": 1
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 98.9,
+              "MaxDurabilityPercent": 0.86
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 177.47589,
+              "MaxDurabilityPercent": 0.68326867
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 232.05405,
+              "MaxDurabilityPercent": 0.47459263
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 261.32544,
+              "MaxDurabilityPercent": 0.25453398
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 269.10422,
+              "MaxDurabilityPercent": 0.067641
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 271,
+              "MaxDurabilityPercent": 0
+            }
+          ]
+        },
+        "bInRange": true,
+        "RowDescription": "None"
+      },
+      "11050005003": {
+        "DamagesReduction": 0,
+        "ItemId": 11050005003,
+        "ProtectionPart": "mid",
+        "ArmorLevel": 5,
+        "bUseNewArmorLevelConfig": false,
+        "ArmorLevelConfig": {
+          "_StructType": "FStructFallback",
+          "BaseArmorType": "EBaseArmorType::None",
+          "GlobalArmorLevel": 0,
+          "PartNames": []
+        },
+        "ProtectionPartText": null,
+        "BaseProtectionPartText": "",
+        "BitmaskProtectionPart": 6,
+        "DisableParts": [
+          "EEquipmentPart::Thorax"
+        ],
+        "MaxDurability": 105,
+        "DamagedDurabilityRate": 1,
+        "MaxArmorValue": 105,
+        "DamageMaxArmorValue": 105,
+        "DamageArmorLevel": 5,
+        "AttributeOperateIDs": [],
+        "BuffOps": [
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 901003,
+            "AttributeOperateIDs": []
+          },
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 9010105,
+            "AttributeOperateIDs": []
+          }
+        ],
+        "DurabilityFormula": 1001,
+        "DurabilityReductionRepair": 10,
+        "RepairPricePerDurability": 586,
+        "BaseRepairPrice": 586,
+        "RepairDurabilityRatio": 0.38,
+        "RepairArmorRate": 1,
+        "DurabilityReductionRepairInGame": 0.09,
+        "RepairRatioInGame": null,
+        "BitmaskExceptionProtectionPart": 6,
+        "DurabilityReductionRepairInGameStr": null,
+        "bUseMaxDurabilityCurve": true,
+        "MaxDurabilityCurve": {
+          "_StructType": "FStructFallback",
+          "DurabilityKeys": [
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 0,
+              "MaxDurabilityPercent": 1
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 95.55,
+              "MaxDurabilityPercent": 0.91
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 178.5869,
+              "MaxDurabilityPercent": 0.7908277
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 245.68752,
+              "MaxDurabilityPercent": 0.63905346
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 293.7005,
+              "MaxDurabilityPercent": 0.45726654
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 321.07605,
+              "MaxDurabilityPercent": 0.26071942
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 330.00522,
+              "MaxDurabilityPercent": 0.08503973
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 332,
+              "MaxDurabilityPercent": 0
+            }
+          ]
+        },
+        "bInRange": true,
+        "RowDescription": "None"
+      },
+      "11050005004": {
+        "DamagesReduction": 0,
+        "ItemId": 11050005004,
+        "ProtectionPart": "heavy",
+        "ArmorLevel": 5,
+        "bUseNewArmorLevelConfig": false,
+        "ArmorLevelConfig": {
+          "_StructType": "FStructFallback",
+          "BaseArmorType": "EBaseArmorType::None",
+          "GlobalArmorLevel": 0,
+          "PartNames": []
+        },
+        "ProtectionPartText": null,
+        "BaseProtectionPartText": "",
+        "BitmaskProtectionPart": 14,
+        "DisableParts": [
+          "EEquipmentPart::Thorax"
+        ],
+        "MaxDurability": 125,
+        "DamagedDurabilityRate": 1,
+        "MaxArmorValue": 125,
+        "DamageMaxArmorValue": 125,
+        "DamageArmorLevel": 5,
+        "AttributeOperateIDs": [],
+        "BuffOps": [
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 901005,
+            "AttributeOperateIDs": []
+          },
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 9010110,
+            "AttributeOperateIDs": []
+          }
+        ],
+        "DurabilityFormula": 1001,
+        "DurabilityReductionRepair": 12,
+        "RepairPricePerDurability": 535,
+        "BaseRepairPrice": 535,
+        "RepairDurabilityRatio": 0.44,
+        "RepairArmorRate": 1,
+        "DurabilityReductionRepairInGame": 0.1,
+        "RepairRatioInGame": null,
+        "BitmaskExceptionProtectionPart": 14,
+        "DurabilityReductionRepairInGameStr": null,
+        "bUseMaxDurabilityCurve": true,
+        "MaxDurabilityCurve": {
+          "_StructType": "FStructFallback",
+          "DurabilityKeys": [
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 0,
+              "MaxDurabilityPercent": 1
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 112.5,
+              "MaxDurabilityPercent": 0.9
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 208.60228,
+              "MaxDurabilityPercent": 0.76881826
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 284.12173,
+              "MaxDurabilityPercent": 0.6041556
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 335.5617,
+              "MaxDurabilityPercent": 0.41151986
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 362.02197,
+              "MaxDurabilityPercent": 0.21168204
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 367.99362,
+              "MaxDurabilityPercent": 0.04777325
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 369,
+              "MaxDurabilityPercent": 0
+            }
+          ]
+        },
+        "bInRange": true,
+        "RowDescription": "None"
+      },
+      "11050006001": {
+        "DamagesReduction": 0,
+        "ItemId": 11050006001,
+        "ProtectionPart": "heavy",
+        "ArmorLevel": 6,
+        "bUseNewArmorLevelConfig": false,
+        "ArmorLevelConfig": {
+          "_StructType": "FStructFallback",
+          "BaseArmorType": "EBaseArmorType::None",
+          "GlobalArmorLevel": 0,
+          "PartNames": []
+        },
+        "ProtectionPartText": null,
+        "BaseProtectionPartText": "",
+        "BitmaskProtectionPart": 14,
+        "DisableParts": [
+          "EEquipmentPart::Thorax"
+        ],
+        "MaxDurability": 140,
+        "DamagedDurabilityRate": 1,
+        "MaxArmorValue": 140,
+        "DamageMaxArmorValue": 140,
+        "DamageArmorLevel": 6,
+        "AttributeOperateIDs": [],
+        "BuffOps": [
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 901007,
+            "AttributeOperateIDs": []
+          },
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 9010108,
+            "AttributeOperateIDs": []
+          }
+        ],
+        "DurabilityFormula": 1001,
+        "DurabilityReductionRepair": 7,
+        "RepairPricePerDurability": 933,
+        "BaseRepairPrice": 933,
+        "RepairDurabilityRatio": 0.2,
+        "RepairArmorRate": 1,
+        "DurabilityReductionRepairInGame": 0.15,
+        "RepairRatioInGame": null,
+        "BitmaskExceptionProtectionPart": 14,
+        "DurabilityReductionRepairInGameStr": null,
+        "bUseMaxDurabilityCurve": true,
+        "MaxDurabilityCurve": {
+          "_StructType": "FStructFallback",
+          "DurabilityKeys": [
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 0,
+              "MaxDurabilityPercent": 1
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 119,
+              "MaxDurabilityPercent": 0.85
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 211.75085,
+              "MaxDurabilityPercent": 0.6625061
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 274.00427,
+              "MaxDurabilityPercent": 0.44466737
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 305.0087,
+              "MaxDurabilityPercent": 0.22146003
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 311.06372,
+              "MaxDurabilityPercent": 0.043250117
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 312,
+              "MaxDurabilityPercent": 0
+            }
+          ]
+        },
+        "bInRange": true,
+        "RowDescription": "None"
+      },
+      "11050006002": {
+        "DamagesReduction": 0,
+        "ItemId": 11050006002,
+        "ProtectionPart": "heavy",
+        "ArmorLevel": 6,
+        "bUseNewArmorLevelConfig": false,
+        "ArmorLevelConfig": {
+          "_StructType": "FStructFallback",
+          "BaseArmorType": "EBaseArmorType::None",
+          "GlobalArmorLevel": 0,
+          "PartNames": []
+        },
+        "ProtectionPartText": null,
+        "BaseProtectionPartText": "",
+        "BitmaskProtectionPart": 14,
+        "DisableParts": [
+          "EEquipmentPart::Thorax"
+        ],
+        "MaxDurability": 115,
+        "DamagedDurabilityRate": 1,
+        "MaxArmorValue": 115,
+        "DamageMaxArmorValue": 115,
+        "DamageArmorLevel": 6,
+        "AttributeOperateIDs": [],
+        "BuffOps": [
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 901003,
+            "AttributeOperateIDs": []
+          },
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 9010101,
+            "AttributeOperateIDs": []
+          }
+        ],
+        "DurabilityFormula": 1001,
+        "DurabilityReductionRepair": 7,
+        "RepairPricePerDurability": 973,
+        "BaseRepairPrice": 973,
+        "RepairDurabilityRatio": 0.25,
+        "RepairArmorRate": 1,
+        "DurabilityReductionRepairInGame": 0.11,
+        "RepairRatioInGame": null,
+        "BitmaskExceptionProtectionPart": 14,
+        "DurabilityReductionRepairInGameStr": null,
+        "bUseMaxDurabilityCurve": true,
+        "MaxDurabilityCurve": {
+          "_StructType": "FStructFallback",
+          "DurabilityKeys": [
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 0,
+              "MaxDurabilityPercent": 1
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 102.35,
+              "MaxDurabilityPercent": 0.89
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 188.26157,
+              "MaxDurabilityPercent": 0.7470571
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 253.84248,
+              "MaxDurabilityPercent": 0.57026887
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 296.21298,
+              "MaxDurabilityPercent": 0.36843914
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 315.54944,
+              "MaxDurabilityPercent": 0.168143
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 317.78625,
+              "MaxDurabilityPercent": 0.01945058
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 319,
+              "MaxDurabilityPercent": 0
+            }
+          ]
+        },
+        "bInRange": true,
+        "RowDescription": "None"
+      },
+      "11050006003": {
+        "DamagesReduction": 0,
+        "ItemId": 11050006003,
+        "ProtectionPart": "heavy",
+        "ArmorLevel": 6,
+        "bUseNewArmorLevelConfig": false,
+        "ArmorLevelConfig": {
+          "_StructType": "FStructFallback",
+          "BaseArmorType": "EBaseArmorType::None",
+          "GlobalArmorLevel": 0,
+          "PartNames": []
+        },
+        "ProtectionPartText": null,
+        "BaseProtectionPartText": "",
+        "BitmaskProtectionPart": 14,
+        "DisableParts": [
+          "EEquipmentPart::Thorax"
+        ],
+        "MaxDurability": 125,
+        "DamagedDurabilityRate": 1,
+        "MaxArmorValue": 125,
+        "DamageMaxArmorValue": 125,
+        "DamageArmorLevel": 6,
+        "AttributeOperateIDs": [],
+        "BuffOps": [
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 901005,
+            "AttributeOperateIDs": []
+          },
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 9010106,
+            "AttributeOperateIDs": []
+          }
+        ],
+        "DurabilityFormula": 1001,
+        "DurabilityReductionRepair": 12,
+        "RepairPricePerDurability": 959,
+        "BaseRepairPrice": 959,
+        "RepairDurabilityRatio": 0.28,
+        "RepairArmorRate": 1,
+        "DurabilityReductionRepairInGame": 0.06,
+        "RepairRatioInGame": null,
+        "BitmaskExceptionProtectionPart": 14,
+        "DurabilityReductionRepairInGameStr": null,
+        "bUseMaxDurabilityCurve": true,
+        "MaxDurabilityCurve": {
+          "_StructType": "FStructFallback",
+          "DurabilityKeys": [
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 0,
+              "MaxDurabilityPercent": 1
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 117.5,
+              "MaxDurabilityPercent": 0.94
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 224.79253,
+              "MaxDurabilityPercent": 0.85834
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 318.52966,
+              "MaxDurabilityPercent": 0.749897
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 394.92557,
+              "MaxDurabilityPercent": 0.61116725
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 450.4012,
+              "MaxDurabilityPercent": 0.44380528
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 482.9761,
+              "MaxDurabilityPercent": 0.2605991
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 494.5719,
+              "MaxDurabilityPercent": 0.09276624
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 496,
+              "MaxDurabilityPercent": 0
+            }
+          ]
+        },
+        "bInRange": true,
+        "RowDescription": "None"
+      },
+      "11050006004": {
+        "DamagesReduction": 0,
+        "ItemId": 11050006004,
+        "ProtectionPart": "heavy",
+        "ArmorLevel": 6,
+        "bUseNewArmorLevelConfig": false,
+        "ArmorLevelConfig": {
+          "_StructType": "FStructFallback",
+          "BaseArmorType": "EBaseArmorType::None",
+          "GlobalArmorLevel": 0,
+          "PartNames": []
+        },
+        "ProtectionPartText": null,
+        "BaseProtectionPartText": "",
+        "BitmaskProtectionPart": 14,
+        "DisableParts": [
+          "EEquipmentPart::Thorax"
+        ],
+        "MaxDurability": 150,
+        "DamagedDurabilityRate": 1,
+        "MaxArmorValue": 150,
+        "DamageMaxArmorValue": 150,
+        "DamageArmorLevel": 6,
+        "AttributeOperateIDs": [],
+        "BuffOps": [
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 901008,
+            "AttributeOperateIDs": []
+          },
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 9010112,
+            "AttributeOperateIDs": []
+          }
+        ],
+        "DurabilityFormula": 1001,
+        "DurabilityReductionRepair": 15,
+        "RepairPricePerDurability": 919,
+        "BaseRepairPrice": 919,
+        "RepairDurabilityRatio": 0.3,
+        "RepairArmorRate": 1,
+        "DurabilityReductionRepairInGame": 0.09,
+        "RepairRatioInGame": null,
+        "BitmaskExceptionProtectionPart": 14,
+        "DurabilityReductionRepairInGameStr": null,
+        "bUseMaxDurabilityCurve": true,
+        "MaxDurabilityCurve": {
+          "_StructType": "FStructFallback",
+          "DurabilityKeys": [
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 0,
+              "MaxDurabilityPercent": 1
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 136.5,
+              "MaxDurabilityPercent": 0.91
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 255.12415,
+              "MaxDurabilityPercent": 0.7908277
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 350.98218,
+              "MaxDurabilityPercent": 0.63905346
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 419.57214,
+              "MaxDurabilityPercent": 0.45726654
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 458.68005,
+              "MaxDurabilityPercent": 0.26071942
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 471.43604,
+              "MaxDurabilityPercent": 0.08503973
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 473,
+              "MaxDurabilityPercent": 0
+            }
+          ]
+        },
+        "bInRange": true,
+        "RowDescription": "None"
+      },
+      "11050004008": {
+        "DamagesReduction": 0,
+        "ItemId": 11050004008,
+        "ProtectionPart": "mid",
+        "ArmorLevel": 4,
+        "bUseNewArmorLevelConfig": false,
+        "ArmorLevelConfig": {
+          "_StructType": "FStructFallback",
+          "BaseArmorType": "EBaseArmorType::None",
+          "GlobalArmorLevel": 0,
+          "PartNames": []
+        },
+        "ProtectionPartText": null,
+        "BaseProtectionPartText": "",
+        "BitmaskProtectionPart": 6,
+        "DisableParts": [
+          "EEquipmentPart::Thorax"
+        ],
+        "MaxDurability": 110,
+        "DamagedDurabilityRate": 1,
+        "MaxArmorValue": 110,
+        "DamageMaxArmorValue": 110,
+        "DamageArmorLevel": 4,
+        "AttributeOperateIDs": [],
+        "BuffOps": [
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 901005,
+            "AttributeOperateIDs": []
+          },
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 9010105,
+            "AttributeOperateIDs": []
+          }
+        ],
+        "DurabilityFormula": 1001,
+        "DurabilityReductionRepair": 10,
+        "RepairPricePerDurability": 233,
+        "BaseRepairPrice": 233,
+        "RepairDurabilityRatio": 0.6,
+        "RepairArmorRate": 1,
+        "DurabilityReductionRepairInGame": 0.09,
+        "RepairRatioInGame": null,
+        "BitmaskExceptionProtectionPart": 6,
+        "DurabilityReductionRepairInGameStr": null,
+        "bUseMaxDurabilityCurve": true,
+        "MaxDurabilityCurve": {
+          "_StructType": "FStructFallback",
+          "DurabilityKeys": [
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 0,
+              "MaxDurabilityPercent": 1
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 100.1,
+              "MaxDurabilityPercent": 0.91
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 187.09105,
+              "MaxDurabilityPercent": 0.7908277
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 257.38693,
+              "MaxDurabilityPercent": 0.63905346
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 307.68625,
+              "MaxDurabilityPercent": 0.45726654
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 336.3654,
+              "MaxDurabilityPercent": 0.26071942
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 345.71976,
+              "MaxDurabilityPercent": 0.08503973
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 347,
+              "MaxDurabilityPercent": 0
+            }
+          ]
+        },
+        "bInRange": false,
+        "RowDescription": "None"
+      },
+      "11050005007": {
+        "DamagesReduction": 0,
+        "ItemId": 11050005007,
+        "ProtectionPart": "mid",
+        "ArmorLevel": 5,
+        "bUseNewArmorLevelConfig": false,
+        "ArmorLevelConfig": {
+          "_StructType": "FStructFallback",
+          "BaseArmorType": "EBaseArmorType::None",
+          "GlobalArmorLevel": 0,
+          "PartNames": []
+        },
+        "ProtectionPartText": null,
+        "BaseProtectionPartText": "",
+        "BitmaskProtectionPart": 6,
+        "DisableParts": [
+          "EEquipmentPart::Thorax"
+        ],
+        "MaxDurability": 105,
+        "DamagedDurabilityRate": 1,
+        "MaxArmorValue": 105,
+        "DamageMaxArmorValue": 105,
+        "DamageArmorLevel": 5,
+        "AttributeOperateIDs": [],
+        "BuffOps": [
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 901017,
+            "AttributeOperateIDs": []
+          },
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 9010110,
+            "AttributeOperateIDs": []
+          }
+        ],
+        "DurabilityFormula": 1001,
+        "DurabilityReductionRepair": 10,
+        "RepairPricePerDurability": 854,
+        "BaseRepairPrice": 854,
+        "RepairDurabilityRatio": 0.38,
+        "RepairArmorRate": 1,
+        "DurabilityReductionRepairInGame": 0.08,
+        "RepairRatioInGame": null,
+        "BitmaskExceptionProtectionPart": 6,
+        "DurabilityReductionRepairInGameStr": null,
+        "bUseMaxDurabilityCurve": true,
+        "MaxDurabilityCurve": {
+          "_StructType": "FStructFallback",
+          "DurabilityKeys": [
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 0,
+              "MaxDurabilityPercent": 1
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 99.75,
+              "MaxDurabilityPercent": 0.95
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 192.29044,
+              "MaxDurabilityPercent": 0.8813374
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 275.1273,
+              "MaxDurabilityPercent": 0.7889223
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 345.2929,
+              "MaxDurabilityPercent": 0.668244
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 399.66675,
+              "MaxDurabilityPercent": 0.517846
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 435.7819,
+              "MaxDurabilityPercent": 0.34395364
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 453.3519,
+              "MaxDurabilityPercent": 0.17614043
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 456.40173,
+              "MaxDurabilityPercent": 0.056090377
+            },
+            {
+              "_StructType": "FStructFallback",
+              "TotalRepairedDurability": 457,
+              "MaxDurabilityPercent": 0
+            }
+          ]
+        },
+        "bInRange": true,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 27
+  }
+]

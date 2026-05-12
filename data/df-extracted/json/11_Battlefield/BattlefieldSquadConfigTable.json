@@ -1,0 +1,92 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "BattlefieldSquadConfigTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/BattleField/BattlefieldSquadConfigTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "SquadConfigRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "SquadTest": {
+        "SquadConfigTagName": "SquadConfigTest",
+        "Camps": [
+          {
+            "_StructType": "FStructFallback",
+            "CampId": 0,
+            "CampName": "\u9635\u84250",
+            "Teams": [
+              {
+                "_StructType": "FStructFallback",
+                "TeamId": 0,
+                "TeamName": "\u5C0F\u961F0",
+                "InGameGeneratorTagName": "SquadGeneratorTest1",
+                "GlobalBuffTagName": "SquadBuffTest1"
+              },
+              {
+                "_StructType": "FStructFallback",
+                "TeamId": 1,
+                "TeamName": "\u5C0F\u961F1",
+                "InGameGeneratorTagName": "SquadGeneratorTest2",
+                "GlobalBuffTagName": "SquadBuffTest2"
+              },
+              {
+                "_StructType": "FStructFallback",
+                "TeamId": 2,
+                "TeamName": "\u5C0F\u961F2",
+                "InGameGeneratorTagName": "SquadGeneratorTest5",
+                "GlobalBuffTagName": "SquadBuffTest5"
+              },
+              {
+                "_StructType": "FStructFallback",
+                "TeamId": 3,
+                "TeamName": "\u5C0F\u961F3",
+                "InGameGeneratorTagName": "SquadGeneratorTest6",
+                "GlobalBuffTagName": "SquadBuffTest6"
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "CampId": 1,
+            "CampName": "\u9635\u84251",
+            "Teams": [
+              {
+                "_StructType": "FStructFallback",
+                "TeamId": 0,
+                "TeamName": "\u5C0F\u961F0",
+                "InGameGeneratorTagName": "SquadGeneratorTest3",
+                "GlobalBuffTagName": "SquadBuffTest3"
+              },
+              {
+                "_StructType": "FStructFallback",
+                "TeamId": 1,
+                "TeamName": "\u5C0F\u961F1",
+                "InGameGeneratorTagName": "SquadGeneratorTest4",
+                "GlobalBuffTagName": "SquadBuffTest4"
+              },
+              {
+                "_StructType": "FStructFallback",
+                "TeamId": 2,
+                "TeamName": "\u5C0F\u961F2",
+                "InGameGeneratorTagName": "SquadGeneratorTest5",
+                "GlobalBuffTagName": "SquadBuffTest5"
+              },
+              {
+                "_StructType": "FStructFallback",
+                "TeamId": 3,
+                "TeamName": "\u5C0F\u961F3",
+                "InGameGeneratorTagName": "SquadGeneratorTest6",
+                "GlobalBuffTagName": "SquadBuffTest6"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "_RowCount": 1
+  }
+]

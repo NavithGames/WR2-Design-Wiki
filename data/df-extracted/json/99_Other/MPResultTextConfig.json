@@ -1,0 +1,797 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "MPResultTextConfig",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/MPResultTextConfig",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "MPResultTextConfig",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "1": {
+        "ID": 1,
+        "MatchModeID": 210566744,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "2": {
+        "ID": 2,
+        "MatchModeID": 210951744,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "3": {
+        "ID": 3,
+        "MatchModeID": 210565744,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "4": {
+        "ID": 4,
+        "MatchModeID": 210949744,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "5": {
+        "ID": 5,
+        "MatchModeID": 210569744,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "6": {
+        "ID": 6,
+        "MatchModeID": 210570744,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "7": {
+        "ID": 7,
+        "MatchModeID": 210568744,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "8": {
+        "ID": 8,
+        "MatchModeID": 210567744,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "9": {
+        "ID": 9,
+        "MatchModeID": 210560734,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "10": {
+        "ID": 10,
+        "MatchModeID": 210559734,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "11": {
+        "ID": 11,
+        "MatchModeID": 210563734,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "12": {
+        "ID": 12,
+        "MatchModeID": 210564734,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "13": {
+        "ID": 13,
+        "MatchModeID": 210562734,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "14": {
+        "ID": 14,
+        "MatchModeID": 210561734,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "15": {
+        "ID": 15,
+        "MatchModeID": 210514784,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "16": {
+        "ID": 16,
+        "MatchModeID": 210946784,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "17": {
+        "ID": 17,
+        "MatchModeID": 210904784,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "18": {
+        "ID": 18,
+        "MatchModeID": 210947784,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "19": {
+        "ID": 19,
+        "MatchModeID": 210903784,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "20": {
+        "ID": 20,
+        "MatchModeID": 210906784,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "21": {
+        "ID": 21,
+        "MatchModeID": 210901784,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "22": {
+        "ID": 22,
+        "MatchModeID": 210902784,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "23": {
+        "ID": 23,
+        "MatchModeID": 210584774,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "24": {
+        "ID": 24,
+        "MatchModeID": 210583774,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "25": {
+        "ID": 25,
+        "MatchModeID": 210587774,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "26": {
+        "ID": 26,
+        "MatchModeID": 210588774,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "27": {
+        "ID": 27,
+        "MatchModeID": 210586774,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "28": {
+        "ID": 28,
+        "MatchModeID": 210585774,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "29": {
+        "ID": 29,
+        "MatchModeID": 210572754,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "30": {
+        "ID": 30,
+        "MatchModeID": 210571754,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "31": {
+        "ID": 31,
+        "MatchModeID": 210575754,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "32": {
+        "ID": 32,
+        "MatchModeID": 210576754,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "33": {
+        "ID": 33,
+        "MatchModeID": 210574754,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "34": {
+        "ID": 34,
+        "MatchModeID": 210573754,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "35": {
+        "ID": 35,
+        "MatchModeID": 210554724,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "36": {
+        "ID": 36,
+        "MatchModeID": 210950724,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "37": {
+        "ID": 37,
+        "MatchModeID": 210553724,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "38": {
+        "ID": 38,
+        "MatchModeID": 210948724,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "39": {
+        "ID": 39,
+        "MatchModeID": 210557724,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "40": {
+        "ID": 40,
+        "MatchModeID": 210558724,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "41": {
+        "ID": 41,
+        "MatchModeID": 210556724,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "42": {
+        "ID": 42,
+        "MatchModeID": 210555724,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "43": {
+        "ID": 43,
+        "MatchModeID": 210578764,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "44": {
+        "ID": 44,
+        "MatchModeID": 210577764,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "45": {
+        "ID": 45,
+        "MatchModeID": 210581764,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "46": {
+        "ID": 46,
+        "MatchModeID": 210582764,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "47": {
+        "ID": 47,
+        "MatchModeID": 210580764,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "48": {
+        "ID": 48,
+        "MatchModeID": 210579764,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "49": {
+        "ID": 49,
+        "MatchModeID": 210959814,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "50": {
+        "ID": 50,
+        "MatchModeID": 210960814,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "51": {
+        "ID": 51,
+        "MatchModeID": 210961814,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "52": {
+        "ID": 52,
+        "MatchModeID": 210962814,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "53": {
+        "ID": 53,
+        "MatchModeID": 210963814,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "54": {
+        "ID": 54,
+        "MatchModeID": 2101059854,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "55": {
+        "ID": 55,
+        "MatchModeID": 2101060854,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "56": {
+        "ID": 56,
+        "MatchModeID": 2101061854,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "57": {
+        "ID": 57,
+        "MatchModeID": 2101062854,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "58": {
+        "ID": 58,
+        "MatchModeID": 2101063854,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "59": {
+        "ID": 59,
+        "MatchModeID": 210965834,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "60": {
+        "ID": 60,
+        "MatchModeID": 210966834,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "61": {
+        "ID": 61,
+        "MatchModeID": 210967834,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "62": {
+        "ID": 62,
+        "MatchModeID": 210968834,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "63": {
+        "ID": 63,
+        "MatchModeID": 210969844,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "64": {
+        "ID": 64,
+        "MatchModeID": 210970844,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "65": {
+        "ID": 65,
+        "MatchModeID": 210971844,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "66": {
+        "ID": 66,
+        "MatchModeID": 210972844,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "67": {
+        "ID": 67,
+        "MatchModeID": 210973844,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "68": {
+        "ID": 68,
+        "MatchModeID": 210974844,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "69": {
+        "ID": 69,
+        "MatchModeID": 210975844,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "70": {
+        "ID": 70,
+        "MatchModeID": 210976844,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "71": {
+        "ID": 71,
+        "MatchModeID": 210977844,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "72": {
+        "ID": 72,
+        "MatchModeID": 210964784,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "73": {
+        "ID": 73,
+        "MatchModeID": 210999814,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "74": {
+        "ID": 74,
+        "MatchModeID": 210978864,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "75": {
+        "ID": 75,
+        "MatchModeID": 210979864,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "76": {
+        "ID": 76,
+        "MatchModeID": 210980864,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "77": {
+        "ID": 77,
+        "MatchModeID": 210885784,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      },
+      "78": {
+        "ID": 78,
+        "MatchModeID": 210981844,
+        "AttWinResultText": null,
+        "AttLoseResultText": null,
+        "AttDrawResultText": null,
+        "DefWinResultText": "",
+        "DefLoseResultText": "",
+        "DefDrawResultText": ""
+      }
+    },
+    "_RowCount": 78
+  }
+]

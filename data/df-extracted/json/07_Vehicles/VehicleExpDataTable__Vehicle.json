@@ -1,0 +1,42 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "VehicleExpDataTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Vehicle/VehicleExpDataTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "VehicleExpDataRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "NewRow": {
+        "ExpType": 1,
+        "ExpRatio": 100,
+        "RowDescription": "None"
+      },
+      "NewRow_0": {
+        "ExpType": 2,
+        "ExpRatio": 500,
+        "RowDescription": "None"
+      },
+      "NewRow_1": {
+        "ExpType": 3,
+        "ExpRatio": 40,
+        "RowDescription": "None"
+      },
+      "NewRow_2": {
+        "ExpType": 4,
+        "ExpRatio": 200,
+        "RowDescription": "None"
+      },
+      "NewRow_3": {
+        "ExpType": 5,
+        "ExpRatio": 1,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 5
+  }
+]

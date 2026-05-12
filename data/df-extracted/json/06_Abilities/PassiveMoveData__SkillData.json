@@ -1,0 +1,549 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "PassiveMoveData",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Ability/SkillData/PassiveMoveData",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "PassiveMoveData",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "Target": {
+        "Key": "Target",
+        "MoveSpeed": 3000,
+        "RotationSpeed": 10,
+        "MinDistanceToStop": 10,
+        "MaxPassiveTime": 10,
+        "MaxStopTime": 0.4,
+        "MaxStepHeight": 90,
+        "MoveGravity": 1000,
+        "AutomousPullMaxDistance": 500,
+        "TryCorrectFinalActorLocation": true,
+        "MoveDownMaxSpeed": 900,
+        "MoveDownAttenuationMinDistance": 50,
+        "MoveDownAttenuationMaxDistance": 400,
+        "MinDistnaceToForbidRotate": 300,
+        "MoveEffectTickTime": 0.09,
+        "MoveForwardDotMinValue": 0,
+        "MoveEffectMaxDistance": 9000,
+        "MoveEffectMinSpeed": 700,
+        "MoveEffectMinHeightToLand": 30,
+        "MoveEffectUseMultiTrace": 1,
+        "MoveFXs": [
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType_Default",
+            "FXName": "P_C403_Hook_Impact_Metal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType26",
+            "FXName": "P_C403_Hook_Impact_Water"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType6",
+            "FXName": "P_C403_Hook_Impact_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType10",
+            "FXName": "P_C403_Hook_Impact_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType24",
+            "FXName": "P_C403_Hook_Impact_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType1",
+            "FXName": "P_C403_Hook_Impact_Metal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType2",
+            "FXName": "P_C403_Hook_Impact_Metal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType3",
+            "FXName": "P_C403_Hook_Impact_Metal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType5",
+            "FXName": "P_C403_Hook_Impact_Metal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType4",
+            "FXName": "P_C403_Hook_Impact_Metal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType9",
+            "FXName": "P_C403_Hook_Impact_Metal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType11",
+            "FXName": "P_C403_Hook_Impact_Metal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType12",
+            "FXName": "P_C403_Hook_Impact_Metal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType13",
+            "FXName": "P_C403_Hook_Impact_Metal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType14",
+            "FXName": "P_C403_Hook_Impact_Metal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType15",
+            "FXName": "P_C403_Hook_Impact_Metal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType16",
+            "FXName": "P_C403_Hook_Impact_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType17",
+            "FXName": "P_C403_Hook_Impact_Metal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType18",
+            "FXName": "P_C403_Hook_Impact_Metal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType19",
+            "FXName": "P_C403_Hook_Impact_Metal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType20",
+            "FXName": "P_C403_Hook_Impact_Metal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType21",
+            "FXName": "P_C403_Hook_Impact_Metal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType22",
+            "FXName": "P_C403_Hook_Impact_Metal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType23",
+            "FXName": "P_C403_Hook_Impact_Metal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType24",
+            "FXName": "P_C403_Hook_Impact_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType25",
+            "FXName": "P_C403_Hook_Impact_Metal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType27",
+            "FXName": "P_C403_Hook_Impact_Metal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType28",
+            "FXName": "P_C403_Hook_Impact_Metal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType29",
+            "FXName": "P_C403_Hook_Impact_Metal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType30",
+            "FXName": "P_C403_Hook_Impact_Metal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType31",
+            "FXName": "P_C403_Hook_Impact_Metal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType32",
+            "FXName": "P_C403_Hook_Impact_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType33",
+            "FXName": "P_C403_Hook_Impact_Metal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType34",
+            "FXName": "P_C403_Hook_Impact_Metal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType35",
+            "FXName": "P_C403_Hook_Impact_Metal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType36",
+            "FXName": "P_C403_Hook_Impact_Metal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType37",
+            "FXName": "P_C403_Hook_Impact_Metal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType38",
+            "FXName": "P_C403_Hook_Impact_Metal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType39",
+            "FXName": "P_C403_Hook_Impact_Metal"
+          }
+        ],
+        "MovePathTrailFXName": "None",
+        "MovePathTrailFXOffsetZ": 0,
+        "PreStateLockMasks": [
+          "ECharacterStateMask::CanMove",
+          "ECharacterStateMask::CanCrouch",
+          "ECharacterStateMask::CanProne",
+          "ECharacterStateMask::CanJump",
+          "ECharacterStateMask::CanVault",
+          "ECharacterStateMask::CanSlidingTackle",
+          "ECharacterStateMask::CanDive",
+          "ECharacterStateMask::CanUseZipline",
+          "ECharacterStateMask::CanOperate",
+          "ECharacterStateMask::CanAbilityListner",
+          "ECharacterStateMask::CanSelfRescue"
+        ],
+        "PostMoveForbidTime": 0.6,
+        "AutomousAheadToServer": 30,
+        "AutomousMoveExtraLerpTime": 0.2,
+        "AutomousMoveinterpolateDirectionLimit": 0.2,
+        "PassiveMoveAutonomousFollowServer": true,
+        "ForceResetMoveMode": true,
+        "DisableDownAtSlide": true,
+        "OptimizeMoveSlide": true,
+        "EnableIgnoreCharacterInMove": true,
+        "IgnoreCharacterMinDistance": 300,
+        "MaxStepMoveDistance": 30,
+        "MaxStepErrorWhenSlideMove": 20,
+        "AccumulateMoveDeltaDistanceScale": 1.5,
+        "AlonePathStopDistanceToFinalePoint": 30,
+        "AutonomousMoveMaxSpeed": 4000,
+        "StepUpCosValueFaceToHitPoint": 0.17,
+        "SlideMoveScale": 0.2,
+        "SkipSlideWhenBlockedThreshold": 0.95,
+        "DotToUpVectorThreshold": 0.7,
+        "KeepLastMoveDeltaDirectionTime": 0.2,
+        "StartAnimAnimType_1P": "EAnimationPlayType::AnimPlayType_FullBodyRescue",
+        "StartAnimAnimType_3P": "EAnimationPlayType::AnimPlayType_FullBodyRescue",
+        "EndAnimAnimType_1P": "EAnimationPlayType::AnimPlayType_UpperBodyWithIK",
+        "EndAnimAnimType_3P": "EAnimationPlayType::AnimPlayType_UpperBodyWithIK",
+        "UnderWaterCheckTime": 0.2,
+        "UnderWaterLoopBlendTime": 0.2,
+        "RowDescription": "None"
+      },
+      "Path": {
+        "Key": "Path",
+        "MoveSpeed": 2000,
+        "RotationSpeed": 10,
+        "MinDistanceToStop": 50,
+        "MaxPassiveTime": 10,
+        "MaxStopTime": 1,
+        "MaxStepHeight": 90,
+        "MoveGravity": 500,
+        "AutomousPullMaxDistance": 500,
+        "TryCorrectFinalActorLocation": true,
+        "MoveDownMaxSpeed": 1000,
+        "MoveDownAttenuationMinDistance": 50,
+        "MoveDownAttenuationMaxDistance": 400,
+        "MinDistnaceToForbidRotate": 300,
+        "MoveEffectTickTime": 0.09,
+        "MoveForwardDotMinValue": 0,
+        "MoveEffectMaxDistance": 9000,
+        "MoveEffectMinSpeed": 1000,
+        "MoveEffectMinHeightToLand": 10,
+        "MoveEffectUseMultiTrace": 1,
+        "MoveFXs": [
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType_Default",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType26",
+            "FXName": "P_C304_Drag_Water"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType1",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType2",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType3",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType4",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType5",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType6",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType7",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType8",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType9",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType10",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType11",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType12",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType13",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType14",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType15",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType16",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType17",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType18",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType19",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType20",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType21",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType22",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType23",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType24",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType25",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType27",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType28",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType29",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType30",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType31",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType32",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType33",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType34",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType35",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType36",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType37",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType38",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType39",
+            "FXName": "P_C304_Drag_Soil"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "TargetSurfaceType": "SurfaceType40",
+            "FXName": "P_C304_Drag_Soil"
+          }
+        ],
+        "MovePathTrailFXName": "P_C304_Save_Oneself_Trail",
+        "MovePathTrailFXOffsetZ": -40,
+        "PreStateLockMasks": [
+          "ECharacterStateMask::CanMove",
+          "ECharacterStateMask::CanCrouch",
+          "ECharacterStateMask::CanProne",
+          "ECharacterStateMask::CanJump",
+          "ECharacterStateMask::CanVault",
+          "ECharacterStateMask::CanSlidingTackle",
+          "ECharacterStateMask::CanDive",
+          "ECharacterStateMask::CanUseZipline",
+          "ECharacterStateMask::CanOperate",
+          "ECharacterStateMask::CanAbilityListner",
+          "ECharacterStateMask::CanSelfRescue"
+        ],
+        "PostMoveForbidTime": 0.6,
+        "AutomousAheadToServer": 30,
+        "AutomousMoveExtraLerpTime": 0.2,
+        "AutomousMoveinterpolateDirectionLimit": 0.2,
+        "PassiveMoveAutonomousFollowServer": true,
+        "ForceResetMoveMode": true,
+        "DisableDownAtSlide": true,
+        "OptimizeMoveSlide": true,
+        "EnableIgnoreCharacterInMove": true,
+        "IgnoreCharacterMinDistance": 300,
+        "MaxStepMoveDistance": 30,
+        "MaxStepErrorWhenSlideMove": 20,
+        "AccumulateMoveDeltaDistanceScale": 1.5,
+        "AlonePathStopDistanceToFinalePoint": 30,
+        "AutonomousMoveMaxSpeed": 3000,
+        "StepUpCosValueFaceToHitPoint": 0.17,
+        "SlideMoveScale": 1,
+        "SkipSlideWhenBlockedThreshold": 0,
+        "DotToUpVectorThreshold": 0.7,
+        "KeepLastMoveDeltaDirectionTime": 0.2,
+        "StartAnimAnimType_1P": "EAnimationPlayType::AnimPlayType_FullBodyBeforeAO",
+        "StartAnimAnimType_3P": "EAnimationPlayType::AnimPlayType_FullBodyRescue",
+        "EndAnimAnimType_1P": "EAnimationPlayType::AnimPlayType_FullBodyTakeHit",
+        "EndAnimAnimType_3P": "EAnimationPlayType::AnimPlayType_UpperBodyWithIK",
+        "UnderWaterCheckTime": 0.2,
+        "UnderWaterLoopBlendTime": 0.2,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 2
+  }
+]

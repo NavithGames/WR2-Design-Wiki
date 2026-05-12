@@ -1,0 +1,15 @@
+﻿RowName,ArenaScoreEventName,ArenaScoreValue,ArenaScoreIncreaseCount,ArenaScoreIncreaseBase,ArenaScoreIncreaseFactor,bTriggerArenaScoreIncreaseInterest,ShowText,Icon,IconColor,Audio,RowDescription
+第一回合初始积分,EArenaScoreChangeEvent::Round_1,200,0,0,0,False,,(),"(R=1, G=1, B=1, A=1)",,None
+胜利一回合,EArenaScoreChangeEvent::Win,0,2,2000,300,True,,(),"(R=1, G=1, B=1, A=1)",UI_BF_MP_Score_Normal,None
+连胜,EArenaScoreChangeEvent::Win_Continue,0,1,1000,200,True,,(),"(R=1, G=1, B=1, A=1)",UI_BF_MP_Score_Normal,None
+连胜后首败,EArenaScoreChangeEvent::Win_Continue_Turn_Lose,0,1,1000,200,True,,(),"(R=1, G=1, B=1, A=1)",UI_BF_MP_Score_Normal,None
+失败一回合,EArenaScoreChangeEvent::Lose,0,1,1000,200,True,,(),"(R=1, G=1, B=1, A=1)",UI_BF_MP_Score_Normal,None
+连败,EArenaScoreChangeEvent::Lose_Continue,0,1,1000,200,True,,(),"(R=1, G=1, B=1, A=1)",UI_BF_MP_Score_Normal,None
+连败后首胜,EArenaScoreChangeEvent::Lose_Continue_Turn_Win,0,3,3000,300,True,,(),"(R=1, G=1, B=1, A=1)",UI_BF_MP_Score_Normal,None
+击倒玩家,EArenaScoreChangeEvent::Kill,100,0,0,0,False,,(),"(R=1, G=1, B=1, A=1)",UI_BF_MP_Score_Normal,None
+协助击倒玩家,EArenaScoreChangeEvent::Assist,50,0,0,0,False,,(),"(R=1, G=1, B=1, A=1)",UI_BF_MP_Score_Normal,None
+回合首次拿起曼德尔砖,EArenaScoreChangeEvent::Brick_RoundFirstPick,100,0,0,0,False,,(),"(R=1, G=1, B=1, A=1)",UI_BF_MP_Score_Normal,None
+破译曼德尔砖,EArenaScoreChangeEvent::Brick_Decode,100,0,0,0,False,,(),"(R=1, G=1, B=1, A=1)",UI_BF_MP_Score_Normal,None
+上传曼德尔砖,EArenaScoreChangeEvent::Brick_Upload,100,0,0,0,False,,(),"(R=1, G=1, B=1, A=1)",UI_BF_MP_Score_Normal,None
+击杀AI,EArenaScoreChangeEvent::Kill_AI,0,0,0,0,False,,(),"(R=1, G=1, B=1, A=1)",,None
+协助击杀AI,EArenaScoreChangeEvent::Assist_Kill_AI,0,0,0,0,False,,(),"(R=1, G=1, B=1, A=1)",,None

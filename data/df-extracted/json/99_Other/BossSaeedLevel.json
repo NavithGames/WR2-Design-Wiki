@@ -1,0 +1,665 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "BossSaeedLevel",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/BossSaeedLevel",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "BossSaeedLevel",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "1": {
+        "Level": 1,
+        "Experience": 1800,
+        "MajorPhaseID": 1,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 1,
+        "MinorPhaseDesc": ""
+      },
+      "2": {
+        "Level": 2,
+        "Experience": 1900,
+        "MajorPhaseID": 1,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 2,
+        "MinorPhaseDesc": null
+      },
+      "3": {
+        "Level": 3,
+        "Experience": 2000,
+        "MajorPhaseID": 1,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 3,
+        "MinorPhaseDesc": null
+      },
+      "4": {
+        "Level": 4,
+        "Experience": 2200,
+        "MajorPhaseID": 1,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 4,
+        "MinorPhaseDesc": null
+      },
+      "5": {
+        "Level": 5,
+        "Experience": 2300,
+        "MajorPhaseID": 1,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 5,
+        "MinorPhaseDesc": null
+      },
+      "6": {
+        "Level": 6,
+        "Experience": 2400,
+        "MajorPhaseID": 1,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 6,
+        "MinorPhaseDesc": null
+      },
+      "7": {
+        "Level": 7,
+        "Experience": 2500,
+        "MajorPhaseID": 1,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 7,
+        "MinorPhaseDesc": null
+      },
+      "8": {
+        "Level": 8,
+        "Experience": 2700,
+        "MajorPhaseID": 1,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 8,
+        "MinorPhaseDesc": null
+      },
+      "9": {
+        "Level": 9,
+        "Experience": 2800,
+        "MajorPhaseID": 1,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 9,
+        "MinorPhaseDesc": null
+      },
+      "10": {
+        "Level": 10,
+        "Experience": 3000,
+        "MajorPhaseID": 1,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 10,
+        "MinorPhaseDesc": null
+      },
+      "11": {
+        "Level": 11,
+        "Experience": 3100,
+        "MajorPhaseID": 2,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 1,
+        "MinorPhaseDesc": ""
+      },
+      "12": {
+        "Level": 12,
+        "Experience": 3300,
+        "MajorPhaseID": 2,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 2,
+        "MinorPhaseDesc": null
+      },
+      "13": {
+        "Level": 13,
+        "Experience": 3400,
+        "MajorPhaseID": 2,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 3,
+        "MinorPhaseDesc": null
+      },
+      "14": {
+        "Level": 14,
+        "Experience": 3600,
+        "MajorPhaseID": 2,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 4,
+        "MinorPhaseDesc": null
+      },
+      "15": {
+        "Level": 15,
+        "Experience": 3700,
+        "MajorPhaseID": 2,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 5,
+        "MinorPhaseDesc": null
+      },
+      "16": {
+        "Level": 16,
+        "Experience": 3900,
+        "MajorPhaseID": 2,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 6,
+        "MinorPhaseDesc": null
+      },
+      "17": {
+        "Level": 17,
+        "Experience": 4100,
+        "MajorPhaseID": 2,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 7,
+        "MinorPhaseDesc": null
+      },
+      "18": {
+        "Level": 18,
+        "Experience": 4200,
+        "MajorPhaseID": 2,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 8,
+        "MinorPhaseDesc": null
+      },
+      "19": {
+        "Level": 19,
+        "Experience": 4400,
+        "MajorPhaseID": 2,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 9,
+        "MinorPhaseDesc": null
+      },
+      "20": {
+        "Level": 20,
+        "Experience": 4600,
+        "MajorPhaseID": 2,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 10,
+        "MinorPhaseDesc": null
+      },
+      "21": {
+        "Level": 21,
+        "Experience": 4700,
+        "MajorPhaseID": 3,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 1,
+        "MinorPhaseDesc": ""
+      },
+      "22": {
+        "Level": 22,
+        "Experience": 4900,
+        "MajorPhaseID": 3,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 2,
+        "MinorPhaseDesc": null
+      },
+      "23": {
+        "Level": 23,
+        "Experience": 5100,
+        "MajorPhaseID": 3,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 3,
+        "MinorPhaseDesc": null
+      },
+      "24": {
+        "Level": 24,
+        "Experience": 5300,
+        "MajorPhaseID": 3,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 4,
+        "MinorPhaseDesc": null
+      },
+      "25": {
+        "Level": 25,
+        "Experience": 5400,
+        "MajorPhaseID": 3,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 5,
+        "MinorPhaseDesc": null
+      },
+      "26": {
+        "Level": 26,
+        "Experience": 5600,
+        "MajorPhaseID": 3,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 6,
+        "MinorPhaseDesc": null
+      },
+      "27": {
+        "Level": 27,
+        "Experience": 5800,
+        "MajorPhaseID": 3,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 7,
+        "MinorPhaseDesc": null
+      },
+      "28": {
+        "Level": 28,
+        "Experience": 6000,
+        "MajorPhaseID": 3,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 8,
+        "MinorPhaseDesc": null
+      },
+      "29": {
+        "Level": 29,
+        "Experience": 6200,
+        "MajorPhaseID": 3,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 9,
+        "MinorPhaseDesc": null
+      },
+      "30": {
+        "Level": 30,
+        "Experience": 6400,
+        "MajorPhaseID": 3,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 10,
+        "MinorPhaseDesc": null
+      },
+      "31": {
+        "Level": 31,
+        "Experience": 6500,
+        "MajorPhaseID": 4,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 1,
+        "MinorPhaseDesc": ""
+      },
+      "32": {
+        "Level": 32,
+        "Experience": 6700,
+        "MajorPhaseID": 4,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 2,
+        "MinorPhaseDesc": null
+      },
+      "33": {
+        "Level": 33,
+        "Experience": 6900,
+        "MajorPhaseID": 4,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 3,
+        "MinorPhaseDesc": null
+      },
+      "34": {
+        "Level": 34,
+        "Experience": 7100,
+        "MajorPhaseID": 4,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 4,
+        "MinorPhaseDesc": null
+      },
+      "35": {
+        "Level": 35,
+        "Experience": 7300,
+        "MajorPhaseID": 4,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 5,
+        "MinorPhaseDesc": null
+      },
+      "36": {
+        "Level": 36,
+        "Experience": 7500,
+        "MajorPhaseID": 4,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 6,
+        "MinorPhaseDesc": null
+      },
+      "37": {
+        "Level": 37,
+        "Experience": 7700,
+        "MajorPhaseID": 4,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 7,
+        "MinorPhaseDesc": null
+      },
+      "38": {
+        "Level": 38,
+        "Experience": 7900,
+        "MajorPhaseID": 4,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 8,
+        "MinorPhaseDesc": null
+      },
+      "39": {
+        "Level": 39,
+        "Experience": 8100,
+        "MajorPhaseID": 4,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 9,
+        "MinorPhaseDesc": null
+      },
+      "40": {
+        "Level": 40,
+        "Experience": 8300,
+        "MajorPhaseID": 4,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 10,
+        "MinorPhaseDesc": null
+      },
+      "41": {
+        "Level": 41,
+        "Experience": 8500,
+        "MajorPhaseID": 5,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 1,
+        "MinorPhaseDesc": ""
+      },
+      "42": {
+        "Level": 42,
+        "Experience": 8700,
+        "MajorPhaseID": 5,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 2,
+        "MinorPhaseDesc": null
+      },
+      "43": {
+        "Level": 43,
+        "Experience": 8900,
+        "MajorPhaseID": 5,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 3,
+        "MinorPhaseDesc": null
+      },
+      "44": {
+        "Level": 44,
+        "Experience": 9100,
+        "MajorPhaseID": 5,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 4,
+        "MinorPhaseDesc": null
+      },
+      "45": {
+        "Level": 45,
+        "Experience": 9300,
+        "MajorPhaseID": 5,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 5,
+        "MinorPhaseDesc": null
+      },
+      "46": {
+        "Level": 46,
+        "Experience": 9500,
+        "MajorPhaseID": 5,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 6,
+        "MinorPhaseDesc": null
+      },
+      "47": {
+        "Level": 47,
+        "Experience": 9700,
+        "MajorPhaseID": 5,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 7,
+        "MinorPhaseDesc": null
+      },
+      "48": {
+        "Level": 48,
+        "Experience": 9900,
+        "MajorPhaseID": 5,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 8,
+        "MinorPhaseDesc": null
+      },
+      "49": {
+        "Level": 49,
+        "Experience": 10100,
+        "MajorPhaseID": 5,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 9,
+        "MinorPhaseDesc": null
+      },
+      "50": {
+        "Level": 50,
+        "Experience": 10300,
+        "MajorPhaseID": 5,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 10,
+        "MinorPhaseDesc": null
+      },
+      "51": {
+        "Level": 51,
+        "Experience": 10500,
+        "MajorPhaseID": 6,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 1,
+        "MinorPhaseDesc": ""
+      },
+      "52": {
+        "Level": 52,
+        "Experience": 10700,
+        "MajorPhaseID": 6,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 2,
+        "MinorPhaseDesc": null
+      },
+      "53": {
+        "Level": 53,
+        "Experience": 10900,
+        "MajorPhaseID": 6,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 3,
+        "MinorPhaseDesc": null
+      },
+      "54": {
+        "Level": 54,
+        "Experience": 11200,
+        "MajorPhaseID": 6,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 4,
+        "MinorPhaseDesc": null
+      },
+      "55": {
+        "Level": 55,
+        "Experience": 11400,
+        "MajorPhaseID": 6,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 5,
+        "MinorPhaseDesc": null
+      },
+      "56": {
+        "Level": 56,
+        "Experience": 11600,
+        "MajorPhaseID": 6,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 6,
+        "MinorPhaseDesc": null
+      },
+      "57": {
+        "Level": 57,
+        "Experience": 11800,
+        "MajorPhaseID": 6,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 7,
+        "MinorPhaseDesc": null
+      },
+      "58": {
+        "Level": 58,
+        "Experience": 12000,
+        "MajorPhaseID": 6,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 8,
+        "MinorPhaseDesc": null
+      },
+      "59": {
+        "Level": 59,
+        "Experience": 12200,
+        "MajorPhaseID": 6,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 9,
+        "MinorPhaseDesc": null
+      },
+      "60": {
+        "Level": 60,
+        "Experience": 12400,
+        "MajorPhaseID": 6,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 10,
+        "MinorPhaseDesc": null
+      },
+      "61": {
+        "Level": 61,
+        "Experience": 12600,
+        "MajorPhaseID": 7,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 1,
+        "MinorPhaseDesc": ""
+      },
+      "62": {
+        "Level": 62,
+        "Experience": 12900,
+        "MajorPhaseID": 7,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 2,
+        "MinorPhaseDesc": null
+      },
+      "63": {
+        "Level": 63,
+        "Experience": 13100,
+        "MajorPhaseID": 7,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 3,
+        "MinorPhaseDesc": null
+      },
+      "64": {
+        "Level": 64,
+        "Experience": 13300,
+        "MajorPhaseID": 7,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 4,
+        "MinorPhaseDesc": null
+      },
+      "65": {
+        "Level": 65,
+        "Experience": 13500,
+        "MajorPhaseID": 7,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 5,
+        "MinorPhaseDesc": null
+      },
+      "66": {
+        "Level": 66,
+        "Experience": 13700,
+        "MajorPhaseID": 7,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 6,
+        "MinorPhaseDesc": null
+      },
+      "67": {
+        "Level": 67,
+        "Experience": 14000,
+        "MajorPhaseID": 7,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 7,
+        "MinorPhaseDesc": null
+      },
+      "68": {
+        "Level": 68,
+        "Experience": 14200,
+        "MajorPhaseID": 7,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 8,
+        "MinorPhaseDesc": null
+      },
+      "69": {
+        "Level": 69,
+        "Experience": 14400,
+        "MajorPhaseID": 7,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 9,
+        "MinorPhaseDesc": null
+      },
+      "70": {
+        "Level": 70,
+        "Experience": 14600,
+        "MajorPhaseID": 7,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 10,
+        "MinorPhaseDesc": null
+      },
+      "71": {
+        "Level": 71,
+        "Experience": 14800,
+        "MajorPhaseID": 7,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 11,
+        "MinorPhaseDesc": null
+      },
+      "72": {
+        "Level": 72,
+        "Experience": 15100,
+        "MajorPhaseID": 7,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 12,
+        "MinorPhaseDesc": null
+      },
+      "73": {
+        "Level": 73,
+        "Experience": 15300,
+        "MajorPhaseID": 7,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 13,
+        "MinorPhaseDesc": null
+      },
+      "74": {
+        "Level": 74,
+        "Experience": 15500,
+        "MajorPhaseID": 7,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 14,
+        "MinorPhaseDesc": null
+      },
+      "75": {
+        "Level": 75,
+        "Experience": 15700,
+        "MajorPhaseID": 7,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 15,
+        "MinorPhaseDesc": null
+      },
+      "76": {
+        "Level": 76,
+        "Experience": 16000,
+        "MajorPhaseID": 7,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 16,
+        "MinorPhaseDesc": null
+      },
+      "77": {
+        "Level": 77,
+        "Experience": 16200,
+        "MajorPhaseID": 7,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 17,
+        "MinorPhaseDesc": null
+      },
+      "78": {
+        "Level": 78,
+        "Experience": 16400,
+        "MajorPhaseID": 7,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 18,
+        "MinorPhaseDesc": null
+      },
+      "79": {
+        "Level": 79,
+        "Experience": 16700,
+        "MajorPhaseID": 7,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 19,
+        "MinorPhaseDesc": null
+      },
+      "80": {
+        "Level": 80,
+        "Experience": 16900,
+        "MajorPhaseID": 7,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 20,
+        "MinorPhaseDesc": null
+      },
+      "81": {
+        "Level": 81,
+        "Experience": 0,
+        "MajorPhaseID": 7,
+        "MajorPhaseDesc": null,
+        "MinorPhaseID": 21,
+        "MinorPhaseDesc": null
+      }
+    },
+    "_RowCount": 81
+  }
+]

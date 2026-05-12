@@ -1,0 +1,248 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "AssemblyPresetData",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/AssemblyPresetData",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "AssemblyPresetDataInfo",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "1": {
+        "Key": 1,
+        "ID": 1,
+        "PresetTitle": null,
+        "Position": 111,
+        "ItemId": 10010001471,
+        "ItemQuality": 0,
+        "ItemNum": 1,
+        "RowDescription": "None"
+      },
+      "2": {
+        "Key": 2,
+        "ID": 1,
+        "PresetTitle": null,
+        "Position": 105,
+        "ItemId": 11050001003,
+        "ItemQuality": 1,
+        "ItemNum": 1,
+        "RowDescription": "None"
+      },
+      "3": {
+        "Key": 3,
+        "ID": 1,
+        "PresetTitle": null,
+        "Position": 107,
+        "ItemId": 11070002003,
+        "ItemQuality": 2,
+        "ItemNum": 1,
+        "RowDescription": "None"
+      },
+      "4": {
+        "Key": 4,
+        "ID": 1,
+        "PresetTitle": null,
+        "Position": 108,
+        "ItemId": 11080002003,
+        "ItemQuality": 2,
+        "ItemNum": 1,
+        "RowDescription": "None"
+      },
+      "5": {
+        "Key": 5,
+        "ID": 1,
+        "PresetTitle": null,
+        "Position": 107001,
+        "ItemId": 14020000002,
+        "ItemQuality": 0,
+        "ItemNum": 2,
+        "RowDescription": "None"
+      },
+      "6": {
+        "Key": 6,
+        "ID": 2,
+        "PresetTitle": null,
+        "Position": 111,
+        "ItemId": 10010001419,
+        "ItemQuality": 0,
+        "ItemNum": 1,
+        "RowDescription": "None"
+      },
+      "7": {
+        "Key": 7,
+        "ID": 2,
+        "PresetTitle": null,
+        "Position": 101,
+        "ItemId": 11010002004,
+        "ItemQuality": 2,
+        "ItemNum": 1,
+        "RowDescription": "None"
+      },
+      "8": {
+        "Key": 8,
+        "ID": 2,
+        "PresetTitle": null,
+        "Position": 105,
+        "ItemId": 11050003004,
+        "ItemQuality": 3,
+        "ItemNum": 1,
+        "RowDescription": "None"
+      },
+      "9": {
+        "Key": 9,
+        "ID": 2,
+        "PresetTitle": null,
+        "Position": 107,
+        "ItemId": 11070003004,
+        "ItemQuality": 3,
+        "ItemNum": 1,
+        "RowDescription": "None"
+      },
+      "10": {
+        "Key": 10,
+        "ID": 2,
+        "PresetTitle": null,
+        "Position": 108,
+        "ItemId": 11080003004,
+        "ItemQuality": 3,
+        "ItemNum": 1,
+        "RowDescription": "None"
+      },
+      "11": {
+        "Key": 11,
+        "ID": 2,
+        "PresetTitle": null,
+        "Position": 107001,
+        "ItemId": 14020000002,
+        "ItemQuality": 0,
+        "ItemNum": 3,
+        "RowDescription": "None"
+      },
+      "12": {
+        "Key": 12,
+        "ID": 2,
+        "PresetTitle": null,
+        "Position": 107001,
+        "ItemId": 14030000001,
+        "ItemQuality": 0,
+        "ItemNum": 2,
+        "RowDescription": "None"
+      },
+      "13": {
+        "Key": 13,
+        "ID": 2,
+        "PresetTitle": null,
+        "Position": 108001,
+        "ItemId": 14060000008,
+        "ItemQuality": 0,
+        "ItemNum": 1,
+        "RowDescription": "None"
+      },
+      "14": {
+        "Key": 14,
+        "ID": 3,
+        "PresetTitle": null,
+        "Position": 111,
+        "ItemId": 10010001422,
+        "ItemQuality": 0,
+        "ItemNum": 1,
+        "RowDescription": "None"
+      },
+      "15": {
+        "Key": 15,
+        "ID": 3,
+        "PresetTitle": null,
+        "Position": 101,
+        "ItemId": 11010003003,
+        "ItemQuality": 3,
+        "ItemNum": 1,
+        "RowDescription": "None"
+      },
+      "16": {
+        "Key": 16,
+        "ID": 3,
+        "PresetTitle": null,
+        "Position": 105,
+        "ItemId": 11050004003,
+        "ItemQuality": 4,
+        "ItemNum": 1,
+        "RowDescription": "None"
+      },
+      "17": {
+        "Key": 17,
+        "ID": 3,
+        "PresetTitle": null,
+        "Position": 107,
+        "ItemId": 11070004003,
+        "ItemQuality": 4,
+        "ItemNum": 1,
+        "RowDescription": "None"
+      },
+      "18": {
+        "Key": 18,
+        "ID": 3,
+        "PresetTitle": null,
+        "Position": 108,
+        "ItemId": 11080004003,
+        "ItemQuality": 4,
+        "ItemNum": 1,
+        "RowDescription": "None"
+      },
+      "19": {
+        "Key": 19,
+        "ID": 3,
+        "PresetTitle": null,
+        "Position": 107001,
+        "ItemId": 14020000004,
+        "ItemQuality": 0,
+        "ItemNum": 2,
+        "RowDescription": "None"
+      },
+      "20": {
+        "Key": 20,
+        "ID": 3,
+        "PresetTitle": null,
+        "Position": 107001,
+        "ItemId": 14030000002,
+        "ItemQuality": 0,
+        "ItemNum": 2,
+        "RowDescription": "None"
+      },
+      "21": {
+        "Key": 21,
+        "ID": 3,
+        "PresetTitle": null,
+        "Position": 107001,
+        "ItemId": 14040000001,
+        "ItemQuality": 0,
+        "ItemNum": 2,
+        "RowDescription": "None"
+      },
+      "22": {
+        "Key": 22,
+        "ID": 3,
+        "PresetTitle": null,
+        "Position": 107001,
+        "ItemId": 14050000001,
+        "ItemQuality": 0,
+        "ItemNum": 1,
+        "RowDescription": "None"
+      },
+      "23": {
+        "Key": 23,
+        "ID": 3,
+        "PresetTitle": null,
+        "Position": 108001,
+        "ItemId": 14060000006,
+        "ItemQuality": 0,
+        "ItemNum": 1,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 23
+  }
+]

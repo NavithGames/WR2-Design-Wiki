@@ -1,0 +1,16 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "HeroBlock",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/Hero/HeroBlock",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "HeroBlock",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {},
+    "_RowCount": 0
+  }
+]

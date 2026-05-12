@@ -1,0 +1,69 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "RedPacketTDMConfigTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/PC/DataTables/BattleField/RedPacketTDMConfigTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "RedPacketTDMConfigRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "965": {
+        "MapID": 965,
+        "FirstRefreshActiveCountdownTime": 5,
+        "SubsequentRefreshTime": 30,
+        "RefreshAreaNum": 8,
+        "RefreshRedPacketNumArea": 5,
+        "RefreshRedPacketLeadTime": 0.5,
+        "ScoreRefreshRedPacket": 70,
+        "ScoreRefreshTime": 15,
+        "ScoreRefreshAreaNum": 12,
+        "ScoreRefreshRedPacketNumArea": 5,
+        "RowDescription": "None"
+      },
+      "966": {
+        "MapID": 966,
+        "FirstRefreshActiveCountdownTime": 5,
+        "SubsequentRefreshTime": 30,
+        "RefreshAreaNum": 8,
+        "RefreshRedPacketNumArea": 5,
+        "RefreshRedPacketLeadTime": 0.5,
+        "ScoreRefreshRedPacket": 70,
+        "ScoreRefreshTime": 15,
+        "ScoreRefreshAreaNum": 12,
+        "ScoreRefreshRedPacketNumArea": 5,
+        "RowDescription": "None"
+      },
+      "967": {
+        "MapID": 967,
+        "FirstRefreshActiveCountdownTime": 5,
+        "SubsequentRefreshTime": 30,
+        "RefreshAreaNum": 8,
+        "RefreshRedPacketNumArea": 5,
+        "RefreshRedPacketLeadTime": 0.5,
+        "ScoreRefreshRedPacket": 70,
+        "ScoreRefreshTime": 15,
+        "ScoreRefreshAreaNum": 12,
+        "ScoreRefreshRedPacketNumArea": 5,
+        "RowDescription": "None"
+      },
+      "968": {
+        "MapID": 968,
+        "FirstRefreshActiveCountdownTime": 5,
+        "SubsequentRefreshTime": 30,
+        "RefreshAreaNum": 8,
+        "RefreshRedPacketNumArea": 5,
+        "RefreshRedPacketLeadTime": 0.5,
+        "ScoreRefreshRedPacket": 70,
+        "ScoreRefreshTime": 15,
+        "ScoreRefreshAreaNum": 12,
+        "ScoreRefreshRedPacketNumArea": 5,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 4
+  }
+]

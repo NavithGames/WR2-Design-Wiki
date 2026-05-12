@@ -1,0 +1,41 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "GameItemNamePrefix",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/GameItemNamePrefix",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "ItemNamePrefix",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "1": {
+        "MainType": 38,
+        "SubType": 1,
+        "PrefixName": null,
+        "RowDescription": "None"
+      },
+      "2": {
+        "MainType": 38,
+        "SubType": 2,
+        "PrefixName": null,
+        "RowDescription": "None"
+      },
+      "3": {
+        "MainType": 42,
+        "SubType": 1,
+        "PrefixName": null,
+        "RowDescription": "None"
+      },
+      "4": {
+        "MainType": 42,
+        "SubType": 2,
+        "PrefixName": null,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 4
+  }
+]

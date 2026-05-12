@@ -1,0 +1,17 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "CarryItemsData",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/CarryItem/CarryItemsData",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "CarrayItemsData",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {},
+    "_RowCount": 0
+  }
+]

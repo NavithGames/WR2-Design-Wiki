@@ -1,0 +1,78 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "MatchLootStyle",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/MatchLootStyle",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "GmSolGameStyle",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "1": {
+        "LootStyleName": "\u8DD1\u5200\u4ED4",
+        "LootStyleID": 1,
+        "RowDescription": "None"
+      },
+      "2": {
+        "LootStyleName": "\u5168\u88C5\u5927\u4F6C",
+        "LootStyleID": 2,
+        "RowDescription": "None"
+      },
+      "3": {
+        "LootStyleName": "\u597D\u6218",
+        "LootStyleID": 3,
+        "RowDescription": "None"
+      },
+      "4": {
+        "LootStyleName": "\u4FDD\u5B88loot",
+        "LootStyleID": 4,
+        "RowDescription": "None"
+      },
+      "5": {
+        "LootStyleName": "\u5408\u7EA6\u98CE\u683C",
+        "LootStyleID": 5,
+        "RowDescription": "None"
+      },
+      "6": {
+        "LootStyleName": "\u968F\u673A\u5E94\u53D8",
+        "LootStyleID": 6,
+        "RowDescription": "None"
+      },
+      "7": {
+        "LootStyleName": "\u8DD1\u5200\u4ED4",
+        "LootStyleID": 1,
+        "RowDescription": "None"
+      },
+      "8": {
+        "LootStyleName": "\u5168\u88C5\u5927\u4F6C",
+        "LootStyleID": 2,
+        "RowDescription": "None"
+      },
+      "9": {
+        "LootStyleName": "\u597D\u6218",
+        "LootStyleID": 3,
+        "RowDescription": "None"
+      },
+      "10": {
+        "LootStyleName": "\u4FDD\u5B88loot",
+        "LootStyleID": 4,
+        "RowDescription": "None"
+      },
+      "11": {
+        "LootStyleName": "\u5408\u7EA6\u98CE\u683C",
+        "LootStyleID": 5,
+        "RowDescription": "None"
+      },
+      "12": {
+        "LootStyleName": "\u968F\u673A\u5E94\u53D8",
+        "LootStyleID": 6,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 12
+  }
+]

@@ -1,0 +1,17 @@
+﻿RowName,VehicleId,SeatSkillConfigs,RowDescription
+LAV25,1101003,"(Key=Point_Seat_01, Value=(SkillConfigs=(Key=1, Value=10002); (Key=2, Value=10001)))",None
+Tank,1101001,"(Key=Point_FL, Value=(SkillConfigs=(Key=1, Value=10002); (Key=2, Value=10001))); (Key=Point_BR, Value=(SkillConfigs=(Key=4, Value=10006); (Key=1, Value=10012)))",None
+LAVAD,1101002,"(Key=Point_Seat_01, Value=(SkillConfigs=(Key=1, Value=10002); (Key=2, Value=10001)))",None
+武直,1301001,"(Key=Point_FL, Value=(SkillConfigs=(Key=1, Value=10001); (Key=2, Value=10003)))",None
+ORV,1102001,"(Key=Point_Seat_01, Value=(SkillConfigs=(Key=1, Value=10002); (Key=2, Value=10001); (Key=3, Value=10007)))",None
+阿帕奇,1301002,"(Key=Point_Seat_01, Value=(SkillConfigs=(Key=1, Value=10003); (Key=2, Value=10001)))",None
+轮式突击炮,1101004,"(Key=Point_Seat_01, Value=(SkillConfigs=(Key=1, Value=10002); (Key=2, Value=10001)))",None
+小鸟,1301005,"(Key=Point_Seat_01, Value=(SkillConfigs=(Key=1, Value=10003); (Key=2, Value=10001))); (Key=Point_Seat_02, Value=(SkillConfigs=(Key=4, Value=10006); (Key=1, Value=10005)))",None
+UH60,1301006,"(Key=Point_FL, Value=(SkillConfigs=(Key=1, Value=10001); (Key=2, Value=10003)))",None
+GTQ-35轻型坦克,1101005,"(Key=Point_FL, Value=(SkillConfigs=(Key=1, Value=10002); (Key=2, Value=10001))); (Key=Point_BR, Value=(SkillConfigs=(Key=4, Value=10006); (Key=2, Value=10013)))",None
+F35,1301007,"(Key=Point_FL, Value=(SkillConfigs=(Key=1, Value=10003); (Key=2, Value=10001)))",None
+冲锋艇,1201003,"(Key=Point_Seat_01, Value=(SkillConfigs=(Key=1, Value=10002); (Key=2, Value=10001))); (Key=Point_Seat_02, Value=(SkillConfigs=(Key=4, Value=10006); (Key=1, Value=10005)))",None
+AAV两栖装甲运输车,1101006,"(Key=Point_FL, Value=(SkillConfigs=(Key=1, Value=10002); (Key=2, Value=10018); (Key=3, Value=10020))); (Key=Point_BR, Value=(SkillConfigs=(Key=4, Value=10006); (Key=1, Value=10012)))",None
+RCV,1101007,"(Key=Point_Seat_01, Value=(SkillConfigs=(Key=1, Value=10019); (Key=2, Value=10001)))",None
+鱼鹰,1301008,"(Key=Point_FL, Value=(SkillConfigs=(Key=1, Value=10003); (Key=2, Value=10001)))",None
+老太战车,1101008,"(Key=Point_FL, Value=(SkillConfigs=(Key=1, Value=10019); (Key=2, Value=10001)))",None

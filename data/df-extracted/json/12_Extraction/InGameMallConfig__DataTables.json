@@ -1,0 +1,3945 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "InGameMallConfig",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/InGameMallConfig",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "InGameMallConfigRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "101001": {
+        "ExchangeID": 101001,
+        "ItemID": 10010000002,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 1,
+        "Name": "M4A1\u6807\u51C6\u9884\u8BBE",
+        "ItemIcon": {
+          "AssetPath": "/Game/UI/UIAtlas/Global/G_Temp/G_Temp/BakedSprite/G_Temp_Icon_05.G_Temp_Icon_05",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 10,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 2
+        },
+        "RowDescription": "None"
+      },
+      "101003": {
+        "ExchangeID": 101003,
+        "ItemID": 10010000004,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 3,
+        "Name": "AKM\u4F4E\u6863\u9884\u8BBE2\u53F7",
+        "ItemIcon": {
+          "AssetPath": "/Game/UI/UIAtlas/Global/G_Temp/G_Temp/BakedSprite/G_Temp_Icon_03.G_Temp_Icon_03",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 11,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 4
+        },
+        "RowDescription": "None"
+      },
+      "101004": {
+        "ExchangeID": 101004,
+        "ItemID": 10060000001,
+        "PageId": 3,
+        "PagePropTypes": 1006,
+        "Level": 1,
+        "Name": "SV98M\u6807\u51C6\u9884\u8BBE",
+        "ItemIcon": {
+          "AssetPath": "/Game/UI/UIAtlas/Global/G_Temp/G_Temp/BakedSprite/G_Temp_Icon_03.G_Temp_Icon_03",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 12,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1006000,
+          "Sequence": 1
+        },
+        "RowDescription": "None"
+      },
+      "101005": {
+        "ExchangeID": 101005,
+        "ItemID": 10010000014,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 2,
+        "Name": "QBZ97A\u6807\u51C6\u9884\u8BBE",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 13,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 14
+        },
+        "RowDescription": "None"
+      },
+      "101006": {
+        "ExchangeID": 101006,
+        "ItemID": 10010000015,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 3,
+        "Name": "AKM\u7CBE\u82F1\u9884\u8BBE",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 14,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 15
+        },
+        "RowDescription": "None"
+      },
+      "101007": {
+        "ExchangeID": 101007,
+        "ItemID": 10070000001,
+        "PageId": 3,
+        "PagePropTypes": 1007,
+        "Level": 1,
+        "Name": "MP443\u6807\u51C6\u9884\u8BBE",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 15,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1007000,
+          "Sequence": 1
+        },
+        "RowDescription": "None"
+      },
+      "101008": {
+        "ExchangeID": 101008,
+        "ItemID": 10020000001,
+        "PageId": 3,
+        "PagePropTypes": 1002,
+        "Level": 2,
+        "Name": "MP5\u6807\u51C6\u9884\u8BBE",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 16,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1002000,
+          "Sequence": 1
+        },
+        "RowDescription": "None"
+      },
+      "101009": {
+        "ExchangeID": 101009,
+        "ItemID": 10020000004,
+        "PageId": 3,
+        "PagePropTypes": 1002,
+        "Level": 3,
+        "Name": "P90\u6807\u51C6\u9884\u8BBE",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 17,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1002000,
+          "Sequence": 4
+        },
+        "RowDescription": "None"
+      },
+      "101010": {
+        "ExchangeID": 101010,
+        "ItemID": 11010001001,
+        "PageId": 4,
+        "PagePropTypes": 1101,
+        "Level": 1,
+        "Name": "\u5766\u514B\u5934\u76D4",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 101,
+        "ConsumeMerit": 18,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1101000,
+          "Sequence": 1001
+        },
+        "RowDescription": "None"
+      },
+      "101011": {
+        "ExchangeID": 101011,
+        "ItemID": 11010002001,
+        "PageId": 4,
+        "PagePropTypes": 1101,
+        "Level": 2,
+        "Name": "\u4E09\u89D2\u6D32\u90E8\u961FHAT",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 101,
+        "ConsumeMerit": 19,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1101000,
+          "Sequence": 2001
+        },
+        "RowDescription": "None"
+      },
+      "101012": {
+        "ExchangeID": 101012,
+        "ItemID": 11010002002,
+        "PageId": 4,
+        "PagePropTypes": 1101,
+        "Level": 3,
+        "Name": "\u9632\u706B\u5934\u76D4",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 101,
+        "ConsumeMerit": 20,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1101000,
+          "Sequence": 2002
+        },
+        "RowDescription": "None"
+      },
+      "101013": {
+        "ExchangeID": 101013,
+        "ItemID": 11020000001,
+        "PageId": 4,
+        "PagePropTypes": 1102,
+        "Level": 1,
+        "Name": "\u519B\u7528\u901A\u4FE1\u84DD\u7259\u8033\u673A",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 102,
+        "ConsumeMerit": 21,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1102000,
+          "Sequence": 1
+        },
+        "RowDescription": "None"
+      },
+      "101014": {
+        "ExchangeID": 101014,
+        "ItemID": 11020000002,
+        "PageId": 4,
+        "PagePropTypes": 1102,
+        "Level": 2,
+        "Name": "GSSh-01\u6709\u6E90\u8033\u673A",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 102,
+        "ConsumeMerit": 22,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1102000,
+          "Sequence": 2
+        },
+        "RowDescription": "None"
+      },
+      "101015": {
+        "ExchangeID": 101015,
+        "ItemID": 11020000003,
+        "PageId": 4,
+        "PagePropTypes": 1102,
+        "Level": 3,
+        "Name": "DF-1\u964D\u566A\u76D1\u542C\u8033\u673A",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 102,
+        "ConsumeMerit": 23,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1102000,
+          "Sequence": 3
+        },
+        "RowDescription": "None"
+      },
+      "101016": {
+        "ExchangeID": 101016,
+        "ItemID": 15010010001,
+        "PageId": 5,
+        "PagePropTypes": 1501,
+        "Level": 1,
+        "Name": "\u6362\u836F\u5305",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 24,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1501001,
+          "Sequence": 1
+        },
+        "RowDescription": "None"
+      },
+      "101017": {
+        "ExchangeID": 101017,
+        "ItemID": 15010010001,
+        "PageId": 5,
+        "PagePropTypes": 1501,
+        "Level": 2,
+        "Name": "\u6B62\u8840\u7EF7\u5E26",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 25,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1501001,
+          "Sequence": 1
+        },
+        "RowDescription": "None"
+      },
+      "101018": {
+        "ExchangeID": 101018,
+        "ItemID": 15010010001,
+        "PageId": 5,
+        "PagePropTypes": 1501,
+        "Level": 3,
+        "Name": "\u9AD8\u7EA7\u6362\u836F\u76D2",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 26,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1501001,
+          "Sequence": 1
+        },
+        "RowDescription": "None"
+      },
+      "101019": {
+        "ExchangeID": 101019,
+        "ItemID": 19010020001,
+        "PageId": 5,
+        "PagePropTypes": 1901,
+        "Level": 1,
+        "Name": "\u58EB\u529B\u67B6",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 27,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1901002,
+          "Sequence": 1
+        },
+        "RowDescription": "None"
+      },
+      "101020": {
+        "ExchangeID": 101020,
+        "ItemID": 19010020002,
+        "PageId": 5,
+        "PagePropTypes": 1901,
+        "Level": 2,
+        "Name": "\u67E0\u6AAC\u8336",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 28,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1901002,
+          "Sequence": 2
+        },
+        "RowDescription": "None"
+      },
+      "101021": {
+        "ExchangeID": 101021,
+        "ItemID": 19010030001,
+        "PageId": 5,
+        "PagePropTypes": 1901,
+        "Level": 3,
+        "Name": "\u7092\u9762",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 29,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1901003,
+          "Sequence": 1
+        },
+        "RowDescription": "None"
+      },
+      "101022": {
+        "ExchangeID": 101022,
+        "ItemID": 21010000001,
+        "PageId": 5,
+        "PagePropTypes": 210,
+        "Level": 2,
+        "Name": "\u8FDB\u653B\u578B\u7834\u7247\u624B\u96F7M67",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 30,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 2101000,
+          "Sequence": 1
+        },
+        "RowDescription": "None"
+      },
+      "101023": {
+        "ExchangeID": 101023,
+        "ItemID": 21020100001,
+        "PageId": 5,
+        "PagePropTypes": 210,
+        "Level": 3,
+        "Name": "M83\u70DF\u96FE\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 31,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 2102010,
+          "Sequence": 1
+        },
+        "RowDescription": "None"
+      },
+      "101024": {
+        "ExchangeID": 101024,
+        "ItemID": 21020100002,
+        "PageId": 5,
+        "PagePropTypes": 210,
+        "Level": 1,
+        "Name": "\u539F\u521B\u70DF\u96FE\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 32,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 2102010,
+          "Sequence": 2
+        },
+        "RowDescription": "None"
+      },
+      "101025": {
+        "ExchangeID": 101025,
+        "ItemID": 21020200001,
+        "PageId": 5,
+        "PagePropTypes": 210,
+        "Level": 2,
+        "Name": "M84\u95EA\u5149\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 33,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 2102020,
+          "Sequence": 1
+        },
+        "RowDescription": "None"
+      },
+      "101002": {
+        "ExchangeID": 101002,
+        "ItemID": 10010000012,
+        "PageId": 5,
+        "PagePropTypes": 1001,
+        "Level": 3,
+        "Name": "AKM\u6807\u51C6\u9884\u8BBE",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 40,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 12
+        },
+        "RowDescription": "None"
+      },
+      "101032": {
+        "ExchangeID": 101032,
+        "ItemID": 10010000012,
+        "PageId": 5,
+        "PagePropTypes": 1001,
+        "Level": 3,
+        "Name": "AKM\u6807\u51C6\u9884\u8BBE\uFF08Test\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 40,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 12
+        },
+        "RowDescription": "None"
+      },
+      "101033": {
+        "ExchangeID": 101033,
+        "ItemID": 11050002001,
+        "PageId": 4,
+        "PagePropTypes": 1105,
+        "Level": 2,
+        "Name": "3M\u9632\u5F39\u8863",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 105,
+        "ConsumeMerit": 10,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1105000,
+          "Sequence": 2001
+        },
+        "RowDescription": "None"
+      },
+      "101034": {
+        "ExchangeID": 101034,
+        "ItemID": 11050002002,
+        "PageId": 4,
+        "PagePropTypes": 1105,
+        "Level": 2,
+        "Name": "\u9ED1\u8272\u5149\u73AF\u9632\u5F39\u8863",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 105,
+        "ConsumeMerit": 10,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1105000,
+          "Sequence": 2002
+        },
+        "RowDescription": "None"
+      },
+      "101035": {
+        "ExchangeID": 101035,
+        "ItemID": 11050004001,
+        "PageId": 4,
+        "PagePropTypes": 1105,
+        "Level": 3,
+        "Name": "\u7A7F\u5C71\u7532\u9632\u5F39\u8863",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 105,
+        "ConsumeMerit": 20,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1105000,
+          "Sequence": 4001
+        },
+        "RowDescription": "None"
+      },
+      "101036": {
+        "ExchangeID": 101036,
+        "ItemID": 11050002002,
+        "PageId": 4,
+        "PagePropTypes": 1105,
+        "Level": 3,
+        "Name": "\u738B\u4E00\u535A\u9632\u5F39\u8863",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 105,
+        "ConsumeMerit": 20,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1105000,
+          "Sequence": 2002
+        },
+        "RowDescription": "None"
+      },
+      "101037": {
+        "ExchangeID": 101037,
+        "ItemID": 11050003002,
+        "PageId": 4,
+        "PagePropTypes": 1105,
+        "Level": 5,
+        "Name": "\u4E09\u89D2\u6D32\u7279\u79CD\u90E8\u961F\u9632\u5F39\u8863",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 105,
+        "ConsumeMerit": 50,
+        "Quality": 5,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1105000,
+          "Sequence": 3002
+        },
+        "RowDescription": "None"
+      },
+      "101038": {
+        "ExchangeID": 101038,
+        "ItemID": 11050003001,
+        "PageId": 4,
+        "PagePropTypes": 1105,
+        "Level": 4,
+        "Name": "2004B\u9632\u5F39\u8863",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 105,
+        "ConsumeMerit": 30,
+        "Quality": 4,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1105000,
+          "Sequence": 3001
+        },
+        "RowDescription": "None"
+      },
+      "101039": {
+        "ExchangeID": 101039,
+        "ItemID": 11050004002,
+        "PageId": 4,
+        "PagePropTypes": 1105,
+        "Level": 3,
+        "Name": "LBT\u9632\u5F39\u8863",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 105,
+        "ConsumeMerit": 30,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1105000,
+          "Sequence": 4002
+        },
+        "RowDescription": "None"
+      },
+      "101040": {
+        "ExchangeID": 101040,
+        "ItemID": 11050006001,
+        "PageId": 4,
+        "PagePropTypes": 1105,
+        "Level": 6,
+        "Name": "IOTV\u9632\u5F39\u8863",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 105,
+        "ConsumeMerit": 80,
+        "Quality": 6,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1105000,
+          "Sequence": 6001
+        },
+        "RowDescription": "None"
+      },
+      "101041": {
+        "ExchangeID": 101041,
+        "ItemID": 11070001001,
+        "PageId": 4,
+        "PagePropTypes": 1107,
+        "Level": 1,
+        "Name": "D3\u80F8\u6302",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 107,
+        "ConsumeMerit": 10,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1107000,
+          "Sequence": 1001
+        },
+        "RowDescription": "None"
+      },
+      "101042": {
+        "ExchangeID": 101042,
+        "ItemID": 11070002001,
+        "PageId": 4,
+        "PagePropTypes": 1107,
+        "Level": 2,
+        "Name": "\u9ED1\u8272\u5149\u73AF\u80F8\u6302",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 107,
+        "ConsumeMerit": 20,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1107000,
+          "Sequence": 2001
+        },
+        "RowDescription": "None"
+      },
+      "101043": {
+        "ExchangeID": 101043,
+        "ItemID": 11070003001,
+        "PageId": 4,
+        "PagePropTypes": 1107,
+        "Level": 3,
+        "Name": "\u738B\u4E00\u535A\u80F8\u6302",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 107,
+        "ConsumeMerit": 20,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1107000,
+          "Sequence": 3001
+        },
+        "RowDescription": "None"
+      },
+      "101044": {
+        "ExchangeID": 101044,
+        "ItemID": 11070003002,
+        "PageId": 4,
+        "PagePropTypes": 1107,
+        "Level": 4,
+        "Name": "15\u6B66\u8B66\u901A\u7528\u80F8\u6302",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 107,
+        "ConsumeMerit": 50,
+        "Quality": 4,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1107000,
+          "Sequence": 3002
+        },
+        "RowDescription": "None"
+      },
+      "101045": {
+        "ExchangeID": 101045,
+        "ItemID": 11070004001,
+        "PageId": 4,
+        "PagePropTypes": 1107,
+        "Level": 5,
+        "Name": "JPC\u9632\u5F39\u80F8\u6302",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 107,
+        "ConsumeMerit": 30,
+        "Quality": 5,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1107000,
+          "Sequence": 4001
+        },
+        "RowDescription": "None"
+      },
+      "101046": {
+        "ExchangeID": 101046,
+        "ItemID": 11070005001,
+        "PageId": 4,
+        "PagePropTypes": 1107,
+        "Level": 6,
+        "Name": "\u4E09\u89D2\u6D32\u7279\u79CD\u90E8\u961F\u80F8\u6302",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 107,
+        "ConsumeMerit": 30,
+        "Quality": 6,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1107000,
+          "Sequence": 5001
+        },
+        "RowDescription": "None"
+      },
+      "101047": {
+        "ExchangeID": 101047,
+        "ItemID": 11070006001,
+        "PageId": 4,
+        "PagePropTypes": 1107,
+        "Level": 6,
+        "Name": "LBT\u80F8\u6302",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 107,
+        "ConsumeMerit": 80,
+        "Quality": 6,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1107000,
+          "Sequence": 6001
+        },
+        "RowDescription": "None"
+      },
+      "101048": {
+        "ExchangeID": 101048,
+        "ItemID": 10010000043,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 1,
+        "Name": "M4A1\uFF08Lv1\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 10,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 43
+        },
+        "RowDescription": "None"
+      },
+      "101049": {
+        "ExchangeID": 101049,
+        "ItemID": 10010000044,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 2,
+        "Name": "M4A1\uFF08Lv2\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 30,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 44
+        },
+        "RowDescription": "None"
+      },
+      "101050": {
+        "ExchangeID": 101050,
+        "ItemID": 10010000045,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 3,
+        "Name": "M4A1\uFF08Lv3\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 60,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 45
+        },
+        "RowDescription": "None"
+      },
+      "101051": {
+        "ExchangeID": 101051,
+        "ItemID": 10010000046,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 4,
+        "Name": "M4A1\uFF08Lv4\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 70,
+        "Quality": 4,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 46
+        },
+        "RowDescription": "None"
+      },
+      "101052": {
+        "ExchangeID": 101052,
+        "ItemID": 10010000047,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 5,
+        "Name": "M4A1\uFF08Lv5\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 80,
+        "Quality": 5,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 47
+        },
+        "RowDescription": "None"
+      },
+      "101053": {
+        "ExchangeID": 101053,
+        "ItemID": 10010000048,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 6,
+        "Name": "M4A1\uFF08Lv6\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 90,
+        "Quality": 6,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 48
+        },
+        "RowDescription": "None"
+      },
+      "101054": {
+        "ExchangeID": 101054,
+        "ItemID": 10010000049,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 1,
+        "Name": "AKM\uFF08Lv1\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 10,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 49
+        },
+        "RowDescription": "None"
+      },
+      "101055": {
+        "ExchangeID": 101055,
+        "ItemID": 10010000050,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 2,
+        "Name": "AKM\uFF08Lv2\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 30,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 50
+        },
+        "RowDescription": "None"
+      },
+      "101056": {
+        "ExchangeID": 101056,
+        "ItemID": 10010000051,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 3,
+        "Name": "AKM\uFF08Lv3\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 60,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 51
+        },
+        "RowDescription": "None"
+      },
+      "101057": {
+        "ExchangeID": 101057,
+        "ItemID": 10010000052,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 4,
+        "Name": "AKM\uFF08Lv4\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 70,
+        "Quality": 4,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 52
+        },
+        "RowDescription": "None"
+      },
+      "101058": {
+        "ExchangeID": 101058,
+        "ItemID": 10010000053,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 5,
+        "Name": "AKM\uFF08Lv5\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 80,
+        "Quality": 5,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 53
+        },
+        "RowDescription": "None"
+      },
+      "101059": {
+        "ExchangeID": 101059,
+        "ItemID": 10010000054,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 6,
+        "Name": "AKM\uFF08Lv6\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 90,
+        "Quality": 6,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 54
+        },
+        "RowDescription": "None"
+      },
+      "101060": {
+        "ExchangeID": 101060,
+        "ItemID": 10010000055,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 1,
+        "Name": "AK-74U\uFF08Lv1\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 10,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 55
+        },
+        "RowDescription": "None"
+      },
+      "101061": {
+        "ExchangeID": 101061,
+        "ItemID": 10010000056,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 2,
+        "Name": "AK-74U\uFF08Lv2\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 30,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 56
+        },
+        "RowDescription": "None"
+      },
+      "101062": {
+        "ExchangeID": 101062,
+        "ItemID": 10010000057,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 3,
+        "Name": "AK-74U\uFF08Lv3\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 60,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 57
+        },
+        "RowDescription": "None"
+      },
+      "101063": {
+        "ExchangeID": 101063,
+        "ItemID": 10010000058,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 4,
+        "Name": "AK-74U\uFF08Lv4\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 70,
+        "Quality": 4,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 58
+        },
+        "RowDescription": "None"
+      },
+      "101064": {
+        "ExchangeID": 101064,
+        "ItemID": 10010000059,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 5,
+        "Name": "AK-74U\uFF08Lv5\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 80,
+        "Quality": 5,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 59
+        },
+        "RowDescription": "None"
+      },
+      "101065": {
+        "ExchangeID": 101065,
+        "ItemID": 10010000060,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 6,
+        "Name": "AK-74U\uFF08Lv6\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 90,
+        "Quality": 6,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 60
+        },
+        "RowDescription": "None"
+      },
+      "101066": {
+        "ExchangeID": 101066,
+        "ItemID": 10010000061,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 1,
+        "Name": "Ash-12\uFF08Lv1\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 10,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 61
+        },
+        "RowDescription": "None"
+      },
+      "101067": {
+        "ExchangeID": 101067,
+        "ItemID": 10010000062,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 2,
+        "Name": "Ash-12\uFF08Lv2\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 30,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 62
+        },
+        "RowDescription": "None"
+      },
+      "101068": {
+        "ExchangeID": 101068,
+        "ItemID": 10010000063,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 3,
+        "Name": "Ash-12\uFF08Lv3\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 60,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 63
+        },
+        "RowDescription": "None"
+      },
+      "101069": {
+        "ExchangeID": 101069,
+        "ItemID": 10010000064,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 4,
+        "Name": "Ash-12\uFF08Lv4\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 70,
+        "Quality": 4,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 64
+        },
+        "RowDescription": "None"
+      },
+      "101070": {
+        "ExchangeID": 101070,
+        "ItemID": 10010000065,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 5,
+        "Name": "Ash-12\uFF08Lv5\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 80,
+        "Quality": 5,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 65
+        },
+        "RowDescription": "None"
+      },
+      "101071": {
+        "ExchangeID": 101071,
+        "ItemID": 10010000066,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 6,
+        "Name": "Ash-12\uFF08Lv6\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 90,
+        "Quality": 6,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 66
+        },
+        "RowDescription": "None"
+      },
+      "101072": {
+        "ExchangeID": 101072,
+        "ItemID": 10010000067,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 1,
+        "Name": "QBZ97A\uFF08Lv1\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 10,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 67
+        },
+        "RowDescription": "None"
+      },
+      "101073": {
+        "ExchangeID": 101073,
+        "ItemID": 10010000068,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 2,
+        "Name": "QBZ97A\uFF08Lv2\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 30,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 68
+        },
+        "RowDescription": "None"
+      },
+      "101074": {
+        "ExchangeID": 101074,
+        "ItemID": 10010000069,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 3,
+        "Name": "QBZ97A\uFF08Lv3\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 60,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 69
+        },
+        "RowDescription": "None"
+      },
+      "101075": {
+        "ExchangeID": 101075,
+        "ItemID": 10010000070,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 4,
+        "Name": "QBZ97A\uFF08Lv4\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 70,
+        "Quality": 4,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 70
+        },
+        "RowDescription": "None"
+      },
+      "101076": {
+        "ExchangeID": 101076,
+        "ItemID": 10010000071,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 5,
+        "Name": "QBZ97A\uFF08Lv5\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 80,
+        "Quality": 5,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 71
+        },
+        "RowDescription": "None"
+      },
+      "101077": {
+        "ExchangeID": 101077,
+        "ItemID": 10010000072,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 6,
+        "Name": "QBZ97A\uFF08Lv6\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 90,
+        "Quality": 6,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 72
+        },
+        "RowDescription": "None"
+      },
+      "101078": {
+        "ExchangeID": 101078,
+        "ItemID": 10010000073,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 1,
+        "Name": "CS/LR17\uFF08Lv1\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 10,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 73
+        },
+        "RowDescription": "None"
+      },
+      "101079": {
+        "ExchangeID": 101079,
+        "ItemID": 10010000074,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 2,
+        "Name": "CS/LR17\uFF08Lv2\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 30,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 74
+        },
+        "RowDescription": "None"
+      },
+      "101080": {
+        "ExchangeID": 101080,
+        "ItemID": 10010000075,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 3,
+        "Name": "CS/LR17\uFF08Lv3\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 60,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 75
+        },
+        "RowDescription": "None"
+      },
+      "101081": {
+        "ExchangeID": 101081,
+        "ItemID": 10010000076,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 4,
+        "Name": "CS/LR17\uFF08Lv4\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 70,
+        "Quality": 4,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 76
+        },
+        "RowDescription": "None"
+      },
+      "101082": {
+        "ExchangeID": 101082,
+        "ItemID": 10010000077,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 5,
+        "Name": "CS/LR17\uFF08Lv5\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 80,
+        "Quality": 5,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 77
+        },
+        "RowDescription": "None"
+      },
+      "101083": {
+        "ExchangeID": 101083,
+        "ItemID": 10010000078,
+        "PageId": 3,
+        "PagePropTypes": 1001,
+        "Level": 6,
+        "Name": "CS/LR17\uFF08Lv6\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 90,
+        "Quality": 6,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1001000,
+          "Sequence": 78
+        },
+        "RowDescription": "None"
+      },
+      "101084": {
+        "ExchangeID": 101084,
+        "ItemID": 10020000081,
+        "PageId": 3,
+        "PagePropTypes": 1002,
+        "Level": 1,
+        "Name": "MP5\uFF08Lv1\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 10,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1002000,
+          "Sequence": 81
+        },
+        "RowDescription": "None"
+      },
+      "101085": {
+        "ExchangeID": 101085,
+        "ItemID": 10020000082,
+        "PageId": 3,
+        "PagePropTypes": 1002,
+        "Level": 2,
+        "Name": "MP5\uFF08Lv2\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 30,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1002000,
+          "Sequence": 82
+        },
+        "RowDescription": "None"
+      },
+      "101086": {
+        "ExchangeID": 101086,
+        "ItemID": 10020000083,
+        "PageId": 3,
+        "PagePropTypes": 1002,
+        "Level": 3,
+        "Name": "MP5\uFF08Lv3\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 60,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1002000,
+          "Sequence": 83
+        },
+        "RowDescription": "None"
+      },
+      "101087": {
+        "ExchangeID": 101087,
+        "ItemID": 10020000084,
+        "PageId": 3,
+        "PagePropTypes": 1002,
+        "Level": 4,
+        "Name": "MP5\uFF08Lv4\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 70,
+        "Quality": 4,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1002000,
+          "Sequence": 84
+        },
+        "RowDescription": "None"
+      },
+      "101088": {
+        "ExchangeID": 101088,
+        "ItemID": 10020000085,
+        "PageId": 3,
+        "PagePropTypes": 1002,
+        "Level": 5,
+        "Name": "MP5\uFF08Lv5\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 80,
+        "Quality": 5,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1002000,
+          "Sequence": 85
+        },
+        "RowDescription": "None"
+      },
+      "101089": {
+        "ExchangeID": 101089,
+        "ItemID": 10020000086,
+        "PageId": 3,
+        "PagePropTypes": 1002,
+        "Level": 6,
+        "Name": "MP5\uFF08Lv6\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 90,
+        "Quality": 6,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1002000,
+          "Sequence": 86
+        },
+        "RowDescription": "None"
+      },
+      "101090": {
+        "ExchangeID": 101090,
+        "ItemID": 10020000088,
+        "PageId": 3,
+        "PagePropTypes": 1002,
+        "Level": 1,
+        "Name": "P90\uFF08Lv1\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 10,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1002000,
+          "Sequence": 88
+        },
+        "RowDescription": "None"
+      },
+      "101091": {
+        "ExchangeID": 101091,
+        "ItemID": 10020000089,
+        "PageId": 3,
+        "PagePropTypes": 1002,
+        "Level": 2,
+        "Name": "P90\uFF08Lv2\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 30,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1002000,
+          "Sequence": 89
+        },
+        "RowDescription": "None"
+      },
+      "101092": {
+        "ExchangeID": 101092,
+        "ItemID": 10020000091,
+        "PageId": 3,
+        "PagePropTypes": 1002,
+        "Level": 3,
+        "Name": "P90\uFF08Lv3\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 60,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1002000,
+          "Sequence": 91
+        },
+        "RowDescription": "None"
+      },
+      "101093": {
+        "ExchangeID": 101093,
+        "ItemID": 10020000093,
+        "PageId": 3,
+        "PagePropTypes": 1002,
+        "Level": 1,
+        "Name": "Vector\uFF08Lv1\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 10,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1002000,
+          "Sequence": 93
+        },
+        "RowDescription": "None"
+      },
+      "101094": {
+        "ExchangeID": 101094,
+        "ItemID": 10020000094,
+        "PageId": 3,
+        "PagePropTypes": 1002,
+        "Level": 2,
+        "Name": "Vector\uFF08Lv2\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 30,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1002000,
+          "Sequence": 94
+        },
+        "RowDescription": "None"
+      },
+      "101095": {
+        "ExchangeID": 101095,
+        "ItemID": 10020000095,
+        "PageId": 3,
+        "PagePropTypes": 1002,
+        "Level": 3,
+        "Name": "Vector\uFF08Lv3\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 60,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1002000,
+          "Sequence": 95
+        },
+        "RowDescription": "None"
+      },
+      "101096": {
+        "ExchangeID": 101096,
+        "ItemID": 10020000096,
+        "PageId": 3,
+        "PagePropTypes": 1002,
+        "Level": 4,
+        "Name": "Vector\uFF08Lv4\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 70,
+        "Quality": 4,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1002000,
+          "Sequence": 96
+        },
+        "RowDescription": "None"
+      },
+      "101097": {
+        "ExchangeID": 101097,
+        "ItemID": 10020000097,
+        "PageId": 3,
+        "PagePropTypes": 1002,
+        "Level": 5,
+        "Name": "Vector\uFF08Lv5\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 80,
+        "Quality": 5,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1002000,
+          "Sequence": 97
+        },
+        "RowDescription": "None"
+      },
+      "101098": {
+        "ExchangeID": 101098,
+        "ItemID": 10020000098,
+        "PageId": 3,
+        "PagePropTypes": 1002,
+        "Level": 6,
+        "Name": "Vector\uFF08Lv6\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 90,
+        "Quality": 6,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1002000,
+          "Sequence": 98
+        },
+        "RowDescription": "None"
+      },
+      "101099": {
+        "ExchangeID": 101099,
+        "ItemID": 10030000100,
+        "PageId": 3,
+        "PagePropTypes": 1003,
+        "Level": 1,
+        "Name": "\u4F2F\u5948\u5229M4\uFF08Lv1\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 10,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1003000,
+          "Sequence": 100
+        },
+        "RowDescription": "None"
+      },
+      "101100": {
+        "ExchangeID": 101100,
+        "ItemID": 10030000101,
+        "PageId": 3,
+        "PagePropTypes": 1003,
+        "Level": 2,
+        "Name": "\u4F2F\u5948\u5229M4\uFF08Lv2\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 30,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1003000,
+          "Sequence": 101
+        },
+        "RowDescription": "None"
+      },
+      "101101": {
+        "ExchangeID": 101101,
+        "ItemID": 10030000102,
+        "PageId": 3,
+        "PagePropTypes": 1003,
+        "Level": 3,
+        "Name": "\u4F2F\u5948\u5229M4\uFF08Lv3\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 60,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1003000,
+          "Sequence": 102
+        },
+        "RowDescription": "None"
+      },
+      "101102": {
+        "ExchangeID": 101102,
+        "ItemID": 10030000103,
+        "PageId": 3,
+        "PagePropTypes": 1003,
+        "Level": 4,
+        "Name": "\u4F2F\u5948\u5229M4\uFF08Lv4\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 70,
+        "Quality": 4,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1003000,
+          "Sequence": 103
+        },
+        "RowDescription": "None"
+      },
+      "101103": {
+        "ExchangeID": 101103,
+        "ItemID": 10030000104,
+        "PageId": 3,
+        "PagePropTypes": 1003,
+        "Level": 5,
+        "Name": "\u4F2F\u5948\u5229M4\uFF08Lv5\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 80,
+        "Quality": 5,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1003000,
+          "Sequence": 104
+        },
+        "RowDescription": "None"
+      },
+      "101104": {
+        "ExchangeID": 101104,
+        "ItemID": 10030000106,
+        "PageId": 3,
+        "PagePropTypes": 1003,
+        "Level": 6,
+        "Name": "\u4F2F\u5948\u5229M4\uFF08Lv6\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 90,
+        "Quality": 6,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1003000,
+          "Sequence": 106
+        },
+        "RowDescription": "None"
+      },
+      "101105": {
+        "ExchangeID": 101105,
+        "ItemID": 10030000108,
+        "PageId": 3,
+        "PagePropTypes": 1004,
+        "Level": 1,
+        "Name": "S12K\uFF08Lv1\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 10,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1003000,
+          "Sequence": 108
+        },
+        "RowDescription": "None"
+      },
+      "101106": {
+        "ExchangeID": 101106,
+        "ItemID": 10030000109,
+        "PageId": 3,
+        "PagePropTypes": 1004,
+        "Level": 2,
+        "Name": "S12K\uFF08Lv2\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 30,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1003000,
+          "Sequence": 109
+        },
+        "RowDescription": "None"
+      },
+      "101107": {
+        "ExchangeID": 101107,
+        "ItemID": 10030000110,
+        "PageId": 3,
+        "PagePropTypes": 1004,
+        "Level": 3,
+        "Name": "S12K\uFF08Lv3\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 60,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1003000,
+          "Sequence": 110
+        },
+        "RowDescription": "None"
+      },
+      "101108": {
+        "ExchangeID": 101108,
+        "ItemID": 10030000111,
+        "PageId": 3,
+        "PagePropTypes": 1004,
+        "Level": 4,
+        "Name": "S12K\uFF08Lv4\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 70,
+        "Quality": 4,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1003000,
+          "Sequence": 111
+        },
+        "RowDescription": "None"
+      },
+      "101109": {
+        "ExchangeID": 101109,
+        "ItemID": 10030000113,
+        "PageId": 3,
+        "PagePropTypes": 1004,
+        "Level": 5,
+        "Name": "S12K\uFF08Lv5\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 80,
+        "Quality": 5,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1003000,
+          "Sequence": 113
+        },
+        "RowDescription": "None"
+      },
+      "101110": {
+        "ExchangeID": 101110,
+        "ItemID": 10030000114,
+        "PageId": 3,
+        "PagePropTypes": 1004,
+        "Level": 6,
+        "Name": "S12K\uFF08Lv6\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 90,
+        "Quality": 6,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1003000,
+          "Sequence": 114
+        },
+        "RowDescription": "None"
+      },
+      "101111": {
+        "ExchangeID": 101111,
+        "ItemID": 10040000116,
+        "PageId": 3,
+        "PagePropTypes": 1004,
+        "Level": 1,
+        "Name": "PKM\uFF08Lv1\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 10,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1004000,
+          "Sequence": 116
+        },
+        "RowDescription": "None"
+      },
+      "101112": {
+        "ExchangeID": 101112,
+        "ItemID": 10040000117,
+        "PageId": 3,
+        "PagePropTypes": 1004,
+        "Level": 2,
+        "Name": "PKM\uFF08Lv2\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 30,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1004000,
+          "Sequence": 117
+        },
+        "RowDescription": "None"
+      },
+      "101113": {
+        "ExchangeID": 101113,
+        "ItemID": 10040000118,
+        "PageId": 3,
+        "PagePropTypes": 1004,
+        "Level": 3,
+        "Name": "PKM\uFF08Lv3\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 60,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1004000,
+          "Sequence": 118
+        },
+        "RowDescription": "None"
+      },
+      "101114": {
+        "ExchangeID": 101114,
+        "ItemID": 10040000119,
+        "PageId": 3,
+        "PagePropTypes": 1004,
+        "Level": 4,
+        "Name": "PKM\uFF08Lv4\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 70,
+        "Quality": 4,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1004000,
+          "Sequence": 119
+        },
+        "RowDescription": "None"
+      },
+      "101115": {
+        "ExchangeID": 101115,
+        "ItemID": 10040000120,
+        "PageId": 3,
+        "PagePropTypes": 1004,
+        "Level": 5,
+        "Name": "PKM\uFF08Lv5\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 80,
+        "Quality": 5,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1004000,
+          "Sequence": 120
+        },
+        "RowDescription": "None"
+      },
+      "101116": {
+        "ExchangeID": 101116,
+        "ItemID": 10050000003,
+        "PageId": 3,
+        "PagePropTypes": 1005,
+        "Level": 1,
+        "Name": "SKS\uFF08Lv1\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 10,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1005000,
+          "Sequence": 3
+        },
+        "RowDescription": "None"
+      },
+      "101117": {
+        "ExchangeID": 101117,
+        "ItemID": 10050000004,
+        "PageId": 3,
+        "PagePropTypes": 1005,
+        "Level": 2,
+        "Name": "SKS\uFF08Lv2\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 30,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1005000,
+          "Sequence": 4
+        },
+        "RowDescription": "None"
+      },
+      "101118": {
+        "ExchangeID": 101118,
+        "ItemID": 10050000005,
+        "PageId": 3,
+        "PagePropTypes": 1005,
+        "Level": 3,
+        "Name": "SKS\uFF08Lv3\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 60,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1005000,
+          "Sequence": 5
+        },
+        "RowDescription": "None"
+      },
+      "101119": {
+        "ExchangeID": 101119,
+        "ItemID": 10050000006,
+        "PageId": 3,
+        "PagePropTypes": 1005,
+        "Level": 4,
+        "Name": "SKS\uFF08Lv4\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 70,
+        "Quality": 4,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1005000,
+          "Sequence": 6
+        },
+        "RowDescription": "None"
+      },
+      "101120": {
+        "ExchangeID": 101120,
+        "ItemID": 10050000007,
+        "PageId": 3,
+        "PagePropTypes": 1005,
+        "Level": 5,
+        "Name": "SKS\uFF08Lv5\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 80,
+        "Quality": 5,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1005000,
+          "Sequence": 7
+        },
+        "RowDescription": "None"
+      },
+      "101121": {
+        "ExchangeID": 101121,
+        "ItemID": 10050000008,
+        "PageId": 3,
+        "PagePropTypes": 1005,
+        "Level": 6,
+        "Name": "SKS\uFF08Lv6\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 90,
+        "Quality": 6,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1005000,
+          "Sequence": 8
+        },
+        "RowDescription": "None"
+      },
+      "101122": {
+        "ExchangeID": 101122,
+        "ItemID": 10060000010,
+        "PageId": 3,
+        "PagePropTypes": 1006,
+        "Level": 1,
+        "Name": "CS/LR5\uFF08Lv1\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 10,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1006000,
+          "Sequence": 10
+        },
+        "RowDescription": "None"
+      },
+      "101123": {
+        "ExchangeID": 101123,
+        "ItemID": 10060000012,
+        "PageId": 3,
+        "PagePropTypes": 1006,
+        "Level": 2,
+        "Name": "CS/LR5\uFF08Lv2\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 30,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1006000,
+          "Sequence": 12
+        },
+        "RowDescription": "None"
+      },
+      "101124": {
+        "ExchangeID": 101124,
+        "ItemID": 10060000015,
+        "PageId": 3,
+        "PagePropTypes": 1006,
+        "Level": 3,
+        "Name": "CS/LR5\uFF08Lv3\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 60,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1006000,
+          "Sequence": 15
+        },
+        "RowDescription": "None"
+      },
+      "101125": {
+        "ExchangeID": 101125,
+        "ItemID": 10060000018,
+        "PageId": 3,
+        "PagePropTypes": 1006,
+        "Level": 1,
+        "Name": "SV98M\uFF08Lv1\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 10,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1006000,
+          "Sequence": 18
+        },
+        "RowDescription": "None"
+      },
+      "101126": {
+        "ExchangeID": 101126,
+        "ItemID": 10060000019,
+        "PageId": 3,
+        "PagePropTypes": 1006,
+        "Level": 2,
+        "Name": "SV98M\uFF08Lv2\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 30,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1006000,
+          "Sequence": 19
+        },
+        "RowDescription": "None"
+      },
+      "101127": {
+        "ExchangeID": 101127,
+        "ItemID": 10060000020,
+        "PageId": 3,
+        "PagePropTypes": 1006,
+        "Level": 3,
+        "Name": "SV98M\uFF08Lv3\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 60,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1006000,
+          "Sequence": 20
+        },
+        "RowDescription": "None"
+      },
+      "101128": {
+        "ExchangeID": 101128,
+        "ItemID": 10060000021,
+        "PageId": 3,
+        "PagePropTypes": 1006,
+        "Level": 4,
+        "Name": "SV98M\uFF08Lv4\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 70,
+        "Quality": 4,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1006000,
+          "Sequence": 21
+        },
+        "RowDescription": "None"
+      },
+      "101129": {
+        "ExchangeID": 101129,
+        "ItemID": 10060000023,
+        "PageId": 3,
+        "PagePropTypes": 1006,
+        "Level": 5,
+        "Name": "SV98M\uFF08Lv5\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 80,
+        "Quality": 5,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1006000,
+          "Sequence": 23
+        },
+        "RowDescription": "None"
+      },
+      "101130": {
+        "ExchangeID": 101130,
+        "ItemID": 10060000024,
+        "PageId": 3,
+        "PagePropTypes": 1006,
+        "Level": 6,
+        "Name": "SV98M\uFF08Lv6\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 90,
+        "Quality": 6,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1006000,
+          "Sequence": 24
+        },
+        "RowDescription": "None"
+      },
+      "101131": {
+        "ExchangeID": 101131,
+        "ItemID": 10070000026,
+        "PageId": 3,
+        "PagePropTypes": 1007,
+        "Level": 1,
+        "Name": "MP443\uFF08Lv1\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 10,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1007000,
+          "Sequence": 26
+        },
+        "RowDescription": "None"
+      },
+      "101132": {
+        "ExchangeID": 101132,
+        "ItemID": 10070000027,
+        "PageId": 3,
+        "PagePropTypes": 1007,
+        "Level": 2,
+        "Name": "MP443\uFF08Lv2\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 30,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1007000,
+          "Sequence": 27
+        },
+        "RowDescription": "None"
+      },
+      "101133": {
+        "ExchangeID": 101133,
+        "ItemID": 10070000028,
+        "PageId": 3,
+        "PagePropTypes": 1007,
+        "Level": 3,
+        "Name": "MP443\uFF08Lv3\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 60,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1007000,
+          "Sequence": 28
+        },
+        "RowDescription": "None"
+      },
+      "101134": {
+        "ExchangeID": 101134,
+        "ItemID": 10070000029,
+        "PageId": 3,
+        "PagePropTypes": 1007,
+        "Level": 4,
+        "Name": "MP443\uFF08Lv4\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 70,
+        "Quality": 4,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1007000,
+          "Sequence": 29
+        },
+        "RowDescription": "None"
+      },
+      "101135": {
+        "ExchangeID": 101135,
+        "ItemID": 10070000033,
+        "PageId": 3,
+        "PagePropTypes": 1007,
+        "Level": 1,
+        "Name": "CF98-A\uFF08Lv1\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 10,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1007000,
+          "Sequence": 33
+        },
+        "RowDescription": "None"
+      },
+      "101136": {
+        "ExchangeID": 101136,
+        "ItemID": 10070000034,
+        "PageId": 3,
+        "PagePropTypes": 1007,
+        "Level": 2,
+        "Name": "CF98-A\uFF08Lv2\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 30,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1007000,
+          "Sequence": 34
+        },
+        "RowDescription": "None"
+      },
+      "101137": {
+        "ExchangeID": 101137,
+        "ItemID": 10070000035,
+        "PageId": 3,
+        "PagePropTypes": 1007,
+        "Level": 3,
+        "Name": "CF98-A\uFF08Lv3\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 60,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1007000,
+          "Sequence": 35
+        },
+        "RowDescription": "None"
+      },
+      "101138": {
+        "ExchangeID": 101138,
+        "ItemID": 10070000036,
+        "PageId": 3,
+        "PagePropTypes": 1007,
+        "Level": 4,
+        "Name": "CF98-A\uFF08Lv4\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 70,
+        "Quality": 4,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1007000,
+          "Sequence": 36
+        },
+        "RowDescription": "None"
+      },
+      "101139": {
+        "ExchangeID": 101139,
+        "ItemID": 10070000037,
+        "PageId": 3,
+        "PagePropTypes": 1007,
+        "Level": 5,
+        "Name": "CF98-A\uFF08Lv5\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 80,
+        "Quality": 5,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1007000,
+          "Sequence": 37
+        },
+        "RowDescription": "None"
+      },
+      "101140": {
+        "ExchangeID": 101140,
+        "ItemID": 10070000038,
+        "PageId": 3,
+        "PagePropTypes": 1007,
+        "Level": 6,
+        "Name": "CF98-A\uFF08Lv6\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 90,
+        "Quality": 6,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1007000,
+          "Sequence": 38
+        },
+        "RowDescription": "None"
+      },
+      "101141": {
+        "ExchangeID": 101141,
+        "ItemID": 10070000040,
+        "PageId": 3,
+        "PagePropTypes": 1007,
+        "Level": 1,
+        "Name": "\u67EF\u5C14\u7279\u87D2\u86C7\u5DE6\u8F6E\uFF08Lv1\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 10,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1007000,
+          "Sequence": 40
+        },
+        "RowDescription": "None"
+      },
+      "101142": {
+        "ExchangeID": 101142,
+        "ItemID": 10070000041,
+        "PageId": 3,
+        "PagePropTypes": 1007,
+        "Level": 2,
+        "Name": "\u67EF\u5C14\u7279\u87D2\u86C7\u5DE6\u8F6E\uFF08Lv2\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 30,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1007000,
+          "Sequence": 41
+        },
+        "RowDescription": "None"
+      },
+      "101143": {
+        "ExchangeID": 101143,
+        "ItemID": 10070000042,
+        "PageId": 3,
+        "PagePropTypes": 1007,
+        "Level": 3,
+        "Name": "\u67EF\u5C14\u7279\u87D2\u86C7\u5DE6\u8F6E\uFF08Lv3\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 60,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1007000,
+          "Sequence": 42
+        },
+        "RowDescription": "None"
+      },
+      "101144": {
+        "ExchangeID": 101144,
+        "ItemID": 10080000042,
+        "PageId": 3,
+        "PagePropTypes": 1007,
+        "Level": 1,
+        "Name": "RPG-7\uFF08Lv1\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 70,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1008000,
+          "Sequence": 42
+        },
+        "RowDescription": "None"
+      },
+      "101145": {
+        "ExchangeID": 101145,
+        "ItemID": 10080000043,
+        "PageId": 3,
+        "PagePropTypes": 1007,
+        "Level": 2,
+        "Name": "RPG-7\uFF08Lv2\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 112,
+        "ConsumeMerit": 80,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1008000,
+          "Sequence": 43
+        },
+        "RowDescription": "None"
+      },
+      "201047": {
+        "ExchangeID": 201047,
+        "ItemID": 13990110000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "\u5C0F\u53E3\u5F84\u6B65\u67AA\u7A7A\u5C16\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 1,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399011,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201048": {
+        "ExchangeID": 201048,
+        "ItemID": 13990120000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "\u5C0F\u53E3\u5F84\u6B65\u67AA\u8F6F\u5C16\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 2,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399012,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201049": {
+        "ExchangeID": 201049,
+        "ItemID": 13990130000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "\u5C0F\u53E3\u5F84\u6B65\u67AA\u4E9A\u97F3\u901F\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 3,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399013,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201050": {
+        "ExchangeID": 201050,
+        "ItemID": 13990140000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "\u5C0F\u53E3\u5F84\u6B65\u67AA\u88AB\u7532\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 4,
+        "Quality": 4,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399014,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201051": {
+        "ExchangeID": 201051,
+        "ItemID": 13990150000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "\u5C0F\u53E3\u5F84\u6B65\u67AA\u94A2\u82AF\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 5,
+        "Quality": 5,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399015,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201052": {
+        "ExchangeID": 201052,
+        "ItemID": 13990160000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "\u5C0F\u53E3\u5F84\u6B65\u67AA\u7A7F\u7532\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 6,
+        "Quality": 6,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399016,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201053": {
+        "ExchangeID": 201053,
+        "ItemID": 13990210000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": ".357\u9A6C\u683C\u5357\u7A7A\u5C16\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 1,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399021,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201054": {
+        "ExchangeID": 201054,
+        "ItemID": 13990220000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": ".357\u9A6C\u683C\u5357\u8F6F\u5C16\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 2,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399022,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201055": {
+        "ExchangeID": 201055,
+        "ItemID": 13990230000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": ".357\u9A6C\u683C\u5357\u4E9A\u97F3\u901F\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 3,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399023,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201056": {
+        "ExchangeID": 201056,
+        "ItemID": 13990240000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": ".357\u9A6C\u683C\u5357\u88AB\u7532\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 4,
+        "Quality": 4,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399024,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201057": {
+        "ExchangeID": 201057,
+        "ItemID": 13990250000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": ".357\u9A6C\u683C\u5357\u94A2\u82AF\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 5,
+        "Quality": 5,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399025,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201058": {
+        "ExchangeID": 201058,
+        "ItemID": 13990260000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": ".357\u9A6C\u683C\u5357\u7A7F\u7532\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 6,
+        "Quality": 6,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399026,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201059": {
+        "ExchangeID": 201059,
+        "ItemID": 13990310000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "9mm\u624B\u67AA\u7A7A\u5C16\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 1,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399031,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201060": {
+        "ExchangeID": 201060,
+        "ItemID": 13990320000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "9mm\u624B\u67AA\u8F6F\u5C16\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 2,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399032,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201061": {
+        "ExchangeID": 201061,
+        "ItemID": 13990330000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "9mm\u624B\u67AA\u4E9A\u97F3\u901F\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 3,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399033,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201062": {
+        "ExchangeID": 201062,
+        "ItemID": 13990340000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "9mm\u624B\u67AA\u88AB\u7532\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 4,
+        "Quality": 4,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399034,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201063": {
+        "ExchangeID": 201063,
+        "ItemID": 13990350000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "9mm\u624B\u67AA\u94A2\u82AF\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 5,
+        "Quality": 5,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399035,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201064": {
+        "ExchangeID": 201064,
+        "ItemID": 13990360000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "9mm\u624B\u67AA\u7A7F\u7532\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 6,
+        "Quality": 6,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399036,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201065": {
+        "ExchangeID": 201065,
+        "ItemID": 13990410000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "12\u53F7\u9E1F\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 1,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399041,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201066": {
+        "ExchangeID": 201066,
+        "ItemID": 13990420000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "12\u53F7\u9E7F\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 2,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399042,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201067": {
+        "ExchangeID": 201067,
+        "ItemID": 13990430000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "12\u53F7\u56DB\u65B9\u9E7F\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 3,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399043,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201068": {
+        "ExchangeID": 201068,
+        "ItemID": 13990440000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "12\u53F7\u9730\u5F39\uFF08lv4\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 4,
+        "Quality": 4,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399044,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201069": {
+        "ExchangeID": 201069,
+        "ItemID": 13990450000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "12\u53F7\u9730\u5F39\uFF08lv5\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 5,
+        "Quality": 5,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399045,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201070": {
+        "ExchangeID": 201070,
+        "ItemID": 13990460000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "12\u53F7\u9730\u5F39\uFF08lv6\uFF09",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 6,
+        "Quality": 6,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399046,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201071": {
+        "ExchangeID": 201071,
+        "ItemID": 13990510000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "\u6807\u51C6\u6B65\u67AA\u7A7A\u5C16\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 1,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399051,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201072": {
+        "ExchangeID": 201072,
+        "ItemID": 13990520000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "\u6807\u51C6\u6B65\u67AA\u8F6F\u5C16\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 2,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399052,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201073": {
+        "ExchangeID": 201073,
+        "ItemID": 13990530000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "\u6807\u51C6\u6B65\u67AA\u4E9A\u97F3\u901F\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 3,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399053,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201074": {
+        "ExchangeID": 201074,
+        "ItemID": 13990540000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "\u6807\u51C6\u6B65\u67AA\u88AB\u7532\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 4,
+        "Quality": 4,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399054,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201075": {
+        "ExchangeID": 201075,
+        "ItemID": 13990550000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "\u6807\u51C6\u6B65\u67AA\u94A2\u82AF\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 5,
+        "Quality": 5,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399055,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201076": {
+        "ExchangeID": 201076,
+        "ItemID": 13990560000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "\u6807\u51C6\u6B65\u67AA\u7A7F\u7532\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 6,
+        "Quality": 6,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399056,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201077": {
+        "ExchangeID": 201077,
+        "ItemID": 13990610000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "\u72D9\u51FB\u6B65\u67AA\u7A7A\u5C16\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 1,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399061,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201078": {
+        "ExchangeID": 201078,
+        "ItemID": 13990620000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "\u72D9\u51FB\u6B65\u67AA\u8F6F\u5C16\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 2,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399062,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201079": {
+        "ExchangeID": 201079,
+        "ItemID": 13990630000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "\u72D9\u51FB\u6B65\u67AA\u4E9A\u97F3\u901F\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 3,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399063,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201080": {
+        "ExchangeID": 201080,
+        "ItemID": 13990640000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "\u72D9\u51FB\u6B65\u67AA\u88AB\u7532\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 4,
+        "Quality": 4,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399064,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201081": {
+        "ExchangeID": 201081,
+        "ItemID": 13990650000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "\u72D9\u51FB\u6B65\u67AA\u94A2\u82AF\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 5,
+        "Quality": 5,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399065,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201082": {
+        "ExchangeID": 201082,
+        "ItemID": 13990660000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "\u72D9\u51FB\u6B65\u67AA\u7A7F\u7532\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 6,
+        "Quality": 6,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399066,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201083": {
+        "ExchangeID": 201083,
+        "ItemID": 13990710000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "PDW\u7A7A\u5C16\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 1,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399071,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201084": {
+        "ExchangeID": 201084,
+        "ItemID": 13990720000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "PDW\u8F6F\u5C16\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 2,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399072,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201085": {
+        "ExchangeID": 201085,
+        "ItemID": 13990730000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "PDW\u4E9A\u97F3\u901F\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 3,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399073,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201086": {
+        "ExchangeID": 201086,
+        "ItemID": 13990740000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "PDW\u88AB\u7532\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 4,
+        "Quality": 4,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399074,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201087": {
+        "ExchangeID": 201087,
+        "ItemID": 13990750000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "PDW\u94A2\u82AF\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 5,
+        "Quality": 5,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399075,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201088": {
+        "ExchangeID": 201088,
+        "ItemID": 13990760000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "PDW\u7A7F\u7532\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 6,
+        "Quality": 6,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399076,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201089": {
+        "ExchangeID": 201089,
+        "ItemID": 13990810000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "12.7\u6BEB\u7C73\u7A7A\u5C16\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 1,
+        "Quality": 1,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399081,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201090": {
+        "ExchangeID": 201090,
+        "ItemID": 13990820000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "12.7\u6BEB\u7C73\u8F6F\u5C16\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 2,
+        "Quality": 2,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399082,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201091": {
+        "ExchangeID": 201091,
+        "ItemID": 13990830000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "12.7\u6BEB\u7C73\u4E9A\u97F3\u901F\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 3,
+        "Quality": 3,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399083,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201092": {
+        "ExchangeID": 201092,
+        "ItemID": 13990840000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "12.7\u6BEB\u7C73\u88AB\u7532\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 4,
+        "Quality": 4,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399084,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201093": {
+        "ExchangeID": 201093,
+        "ItemID": 13990850000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "12.7\u6BEB\u7C73\u94A2\u82AF\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 5,
+        "Quality": 5,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399085,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      },
+      "201094": {
+        "ExchangeID": 201094,
+        "ItemID": 13990860000,
+        "PageId": 5,
+        "PagePropTypes": 1399,
+        "Level": 2,
+        "Name": "12.7\u6BEB\u7C73\u7A7F\u7532\u5F39",
+        "ItemIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "AttachPosition": 0,
+        "ConsumeMerit": 6,
+        "Quality": 6,
+        "ItemIDInBP": {
+          "_StructType": "FStructFallback",
+          "Category": 1399086,
+          "Sequence": 0
+        },
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 187
+  }
+]

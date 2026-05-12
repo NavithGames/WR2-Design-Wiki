@@ -1,0 +1,18 @@
+﻿RowName,GroupMember,ConfigObjectClass,RowDescription
+Group0,"(NpcTemplateTable=, NpcName=Common_Easy); (NpcTemplateTable=, NpcName=Common_Normal); (NpcTemplateTable=, NpcName=Common_Hard); (NpcTemplateTable=, NpcName=Sniper_Normal); (NpcTemplateTable=, NpcName=Common_Easy_0); (NpcTemplateTable=, NpcName=Common_Normal_0); (NpcTemplateTable=, NpcName=Common_Hard_0); (NpcTemplateTable=, NpcName=Boss_LeiSi); (NpcTemplateTable=, NpcName=BossTeam_LeiSi_1); (NpcTemplateTable=AICharacterNameTable, NpcName=BossTeam_LeiSi_3)",,None
+EasyGroup1,"(NpcTemplateTable=, NpcName=Common_Easy)",,None
+EasyGroup2,"(NpcTemplateTable=, NpcName=Common_Easy); (NpcTemplateTable=, NpcName=Common_Easy)",,None
+EasyGroup3,"(NpcTemplateTable=, NpcName=Common_Easy); (NpcTemplateTable=, NpcName=Common_Easy); (NpcTemplateTable=, NpcName=Common_Easy)",,None
+EasyGroup4,"(NpcTemplateTable=, NpcName=Common_Easy); (NpcTemplateTable=, NpcName=Common_Easy); (NpcTemplateTable=, NpcName=Common_Easy); (NpcTemplateTable=, NpcName=Common_Easy)",,None
+EasyGroup5,"(NpcTemplateTable=, NpcName=Common_Easy); (NpcTemplateTable=, NpcName=Common_Easy); (NpcTemplateTable=, NpcName=Common_Easy); (NpcTemplateTable=, NpcName=Common_Easy); (NpcTemplateTable=, NpcName=Common_Easy)",,None
+NormalGroup1,"(NpcTemplateTable=, NpcName=Common_Normal)",,None
+NormalGroup2,"(NpcTemplateTable=, NpcName=Common_Normal); (NpcTemplateTable=, NpcName=Common_Easy)",,None
+NormalGroup3,"(NpcTemplateTable=, NpcName=Common_Normal); (NpcTemplateTable=, NpcName=Common_Easy); (NpcTemplateTable=, NpcName=Common_Easy)",,None
+NormalGroup4,"(NpcTemplateTable=, NpcName=Common_Normal); (NpcTemplateTable=, NpcName=Common_Easy); (NpcTemplateTable=, NpcName=Common_Easy); (NpcTemplateTable=, NpcName=Common_Easy)",,None
+NormalGroup5,"(NpcTemplateTable=, NpcName=Common_Normal); (NpcTemplateTable=, NpcName=Common_Easy); (NpcTemplateTable=, NpcName=Common_Easy); (NpcTemplateTable=, NpcName=Common_Easy); (NpcTemplateTable=, NpcName=Common_Easy)",,None
+HardGroup1,"(NpcTemplateTable=, NpcName=Common_Hard)",,None
+HardGroup2,"(NpcTemplateTable=, NpcName=Common_Hard); (NpcTemplateTable=, NpcName=Common_Normal)",,None
+HardGroup3,"(NpcTemplateTable=, NpcName=Common_Hard); (NpcTemplateTable=, NpcName=Common_Normal); (NpcTemplateTable=, NpcName=Common_Normal)",,None
+HardGroup4,"(NpcTemplateTable=, NpcName=Common_Hard); (NpcTemplateTable=, NpcName=Common_Normal); (NpcTemplateTable=, NpcName=Common_Normal); (NpcTemplateTable=, NpcName=Common_Normal)",,None
+HardGroup5,"(NpcTemplateTable=, NpcName=Group_Hard); (NpcTemplateTable=, NpcName=Group_Normal); (NpcTemplateTable=, NpcName=Group_Hard); (NpcTemplateTable=, NpcName=Group_Normal); (NpcTemplateTable=, NpcName=Group_Easy)",,None
+BossTeam_LeiSi,"(NpcTemplateTable=, NpcName=Boss_LeiSi); (NpcTemplateTable=, NpcName=BossTeam_LeiSi_1); (NpcTemplateTable=, NpcName=BossTeam_LeiSi_2); (NpcTemplateTable=, NpcName=BossTeam_LeiSi_3); (NpcTemplateTable=, NpcName=BossTeam_LeiSi_4)",,None

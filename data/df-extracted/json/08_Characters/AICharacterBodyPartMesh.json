@@ -1,0 +1,77 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "AICharacterBodyPartMesh",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/PC/DataTables/CharacterTemplate/AICharacterBodyPartMesh",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "AICharacterBodyPartMeshRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "MachineGunner_DT_Helmet": {
+        "SkeletalMesh": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/AI_HD/DT_HD/M_DT_Heavy_Armor_215_HD/M_Head_Head_Helmet_Heavy_Armor_215_3P_HD.M_Head_Head_Helmet_Heavy_Armor_215_3P_HD"
+        },
+        "StaticMesh": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AIName": "SOL_DT_HeavyMachineGun_01",
+        "RowDescription": "None"
+      },
+      "MachineGunner_HS_Helmet": {
+        "SkeletalMesh": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/AI_HD/HS_HD/M_HS_Heavy_Armor_216_HD/M_Head_Head_Helmet_Heavy_Armor_216_3P_HD.M_Head_Head_Helmet_Heavy_Armor_216_3P_HD"
+        },
+        "StaticMesh": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AIName": "SOL_HS_HeavyMachineGun_01",
+        "RowDescription": "None"
+      },
+      "MachineGunner_DT_Helmet_Adjutant": {
+        "SkeletalMesh": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/AI_HD/DT_HD/DT_Heavy_Armor_Adjutant_HD/DT_Head_Helmet_Armor_Adjutant_HD.DT_Head_Helmet_Armor_Adjutant_HD"
+        },
+        "StaticMesh": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AIName": "SOL_DT_HeavyMachineGun_Adjutant",
+        "RowDescription": "None"
+      },
+      "MachineGunner_HS_Helmet_Adjutant": {
+        "SkeletalMesh": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/AI_HD/HS_HD/HS_Heavy_Armor_Adjutant_HD/HS_Head_Helmet_Armor_Adjutant_HD.HS_Head_Helmet_Armor_Adjutant_HD"
+        },
+        "StaticMesh": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AIName": "SOL_HS_HeavyMachineGun_Adjutant",
+        "RowDescription": "None"
+      },
+      "CallAIAbility_DT_HeavyMachineGun": {
+        "SkeletalMesh": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/AI_HD/DT_HD/DT_Heavy_Armor_02_HD/M_DT_Heavy_Armor_02_Helmet_HD.M_DT_Heavy_Armor_02_Helmet_HD"
+        },
+        "StaticMesh": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AIName": "CallAIAbility_DT_HeavyMachineGun",
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 5
+  }
+]

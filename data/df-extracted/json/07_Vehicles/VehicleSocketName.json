@@ -1,0 +1,95 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "VehicleSocketName",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/Vehicle/VehicleSocketName",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "VehicleSocketNameRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "0": {
+        "SocketNum": 0,
+        "SocketName": "Point_Bodycontrol",
+        "SocketIndex": "None",
+        "RowDescription": "None"
+      },
+      "101010": {
+        "SocketNum": 101010,
+        "SocketName": "Point_Machinegun_01",
+        "SocketIndex": "None",
+        "RowDescription": "None"
+      },
+      "101020": {
+        "SocketNum": 101020,
+        "SocketName": "None",
+        "SocketIndex": "None",
+        "RowDescription": "None"
+      },
+      "101021": {
+        "SocketNum": 101021,
+        "SocketName": "Point_Machinegun_01",
+        "SocketIndex": "1",
+        "RowDescription": "None"
+      },
+      "102010": {
+        "SocketNum": 102010,
+        "SocketName": "None",
+        "SocketIndex": "None",
+        "RowDescription": "None"
+      },
+      "102020": {
+        "SocketNum": 102020,
+        "SocketName": "Point_Scanning",
+        "SocketIndex": "None",
+        "RowDescription": "None"
+      },
+      "201010": {
+        "SocketNum": 201010,
+        "SocketName": "Point_Machinegun_02",
+        "SocketIndex": "None",
+        "RowDescription": "None"
+      },
+      "301010": {
+        "SocketNum": 301010,
+        "SocketName": "Point_Machinegun_03",
+        "SocketIndex": "None",
+        "RowDescription": "None"
+      },
+      "402010": {
+        "SocketNum": 402010,
+        "SocketName": "None",
+        "SocketIndex": "None",
+        "RowDescription": "None"
+      },
+      "102030": {
+        "SocketNum": 102030,
+        "SocketName": "None",
+        "SocketIndex": "None",
+        "RowDescription": "None"
+      },
+      "401010": {
+        "SocketNum": 401010,
+        "SocketName": "None",
+        "SocketIndex": "None",
+        "RowDescription": "None"
+      },
+      "401020": {
+        "SocketNum": 401020,
+        "SocketName": "None",
+        "SocketIndex": "None",
+        "RowDescription": "None"
+      },
+      "402020": {
+        "SocketNum": 402020,
+        "SocketName": "None",
+        "SocketIndex": "None",
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 13
+  }
+]

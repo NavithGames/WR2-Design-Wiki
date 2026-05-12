@@ -1,0 +1,17 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "PartsMergeableDataTable_CombinationTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Ability/OperatorFormTool/CombinationTables/PartsMergeableDataTable_CombinationTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "PartsMergeableRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {},
+    "_RowCount": 0
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "GameItemToInventory",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/GameItemToInventory",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "DFMItemToInventoryRuleRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreExtraFields": true,
+    "bIgnoreMissingFields": true,
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "12": {
+        "IDPrefix": "12",
+        "Inventory": 99,
+        "InventoryName": null,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "22": {
+        "IDPrefix": "22",
+        "Inventory": 99,
+        "InventoryName": null,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "99": {
+        "IDPrefix": "99",
+        "Inventory": 99,
+        "InventoryName": null,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "10": {
+        "IDPrefix": "10",
+        "Inventory": 1,
+        "InventoryName": null,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "11": {
+        "IDPrefix": "11",
+        "Inventory": 1,
+        "InventoryName": null,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "13": {
+        "IDPrefix": "13",
+        "Inventory": 1,
+        "InventoryName": null,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "14": {
+        "IDPrefix": "14",
+        "Inventory": 1,
+        "InventoryName": null,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "15": {
+        "IDPrefix": "15",
+        "Inventory": 1,
+        "InventoryName": null,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "16": {
+        "IDPrefix": "16",
+        "Inventory": 1,
+        "InventoryName": null,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "18": {
+        "IDPrefix": "18",
+        "Inventory": 1,
+        "InventoryName": null,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "19": {
+        "IDPrefix": "19",
+        "Inventory": 1,
+        "InventoryName": null,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "20": {
+        "IDPrefix": "20",
+        "Inventory": 1,
+        "InventoryName": null,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "37": {
+        "IDPrefix": "37",
+        "Inventory": 1,
+        "InventoryName": null,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "17020000010": {
+        "IDPrefix": "17020000010",
+        "Inventory": 1,
+        "InventoryName": null,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "17": {
+        "IDPrefix": "17",
+        "Inventory": 4,
+        "InventoryName": null,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "28": {
+        "IDPrefix": "28",
+        "Inventory": 3,
+        "InventoryName": null,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "29": {
+        "IDPrefix": "29",
+        "Inventory": 3,
+        "InventoryName": null,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "32": {
+        "IDPrefix": "32",
+        "Inventory": 3,
+        "InventoryName": null,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "33": {
+        "IDPrefix": "33",
+        "Inventory": 3,
+        "InventoryName": null,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "34": {
+        "IDPrefix": "34",
+        "Inventory": 3,
+        "InventoryName": null,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "21": {
+        "IDPrefix": "21",
+        "Inventory": 5,
+        "InventoryName": null,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "24": {
+        "IDPrefix": "24",
+        "Inventory": 5,
+        "InventoryName": null,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "25": {
+        "IDPrefix": "25",
+        "Inventory": 5,
+        "InventoryName": null,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "30": {
+        "IDPrefix": "30",
+        "Inventory": 5,
+        "InventoryName": null,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "88": {
+        "IDPrefix": "88",
+        "Inventory": 5,
+        "InventoryName": null,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "35": {
+        "IDPrefix": "35",
+        "Inventory": 7,
+        "InventoryName": null,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "26010000001": {
+        "IDPrefix": "26010000001",
+        "Inventory": 11,
+        "InventoryName": null,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "26010000002": {
+        "IDPrefix": "26010000002",
+        "Inventory": 10,
+        "InventoryName": null,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "2602": {
+        "IDPrefix": "2602",
+        "Inventory": 12,
+        "InventoryName": null,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "26010000003": {
+        "IDPrefix": "26010000003",
+        "Inventory": 13,
+        "InventoryName": "",
+        "Desc": "",
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 30
+  }
+]

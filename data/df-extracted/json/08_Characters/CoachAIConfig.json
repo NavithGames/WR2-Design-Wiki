@@ -1,0 +1,87 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "CoachAIConfig",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/CharacterTemplate/CoachAIConfig",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "SimulateAIConfig",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "1": {
+        "ScreenplayID": 1,
+        "MinDistanceToPlayer": 5000,
+        "MaxDistanceToPlayer": 10000,
+        "DestoryDistance": 7500,
+        "DelayTime": 30,
+        "MoniterInterval": 240,
+        "FightInterval": 120,
+        "HurtPercentage": 30,
+        "Radius": 20000,
+        "MaxPlayerNum": 2,
+        "SimulateAIDistributionOfConfig": [
+          "Coach_Warm",
+          "Coach_Low",
+          "Coach_Mid",
+          "Coach_High",
+          "Coach_Warm",
+          "Coach_Top",
+          "Coach_Warm"
+        ],
+        "ImportantItems": [],
+        "RowDescription": "None"
+      },
+      "2": {
+        "ScreenplayID": 2,
+        "MinDistanceToPlayer": 5000,
+        "MaxDistanceToPlayer": 10000,
+        "DestoryDistance": 7500,
+        "DelayTime": 30,
+        "MoniterInterval": 240,
+        "FightInterval": 120,
+        "HurtPercentage": 50,
+        "Radius": 20000,
+        "MaxPlayerNum": 2,
+        "SimulateAIDistributionOfConfig": [
+          "Coach_Warm",
+          "Coach_Warm",
+          "Coach_Warm",
+          "Coach_Warm",
+          "Coach_Warm",
+          "Coach_Warm",
+          "Coach_Warm"
+        ],
+        "ImportantItems": [],
+        "RowDescription": "None"
+      },
+      "3": {
+        "ScreenplayID": 3,
+        "MinDistanceToPlayer": 5000,
+        "MaxDistanceToPlayer": 10000,
+        "DestoryDistance": 7500,
+        "DelayTime": 30,
+        "MoniterInterval": 240,
+        "FightInterval": 120,
+        "HurtPercentage": 70,
+        "Radius": 20000,
+        "MaxPlayerNum": 2,
+        "SimulateAIDistributionOfConfig": [
+          "Coach_Top",
+          "Coach_Top",
+          "Coach_Top",
+          "Coach_Top",
+          "Coach_Top",
+          "Coach_Top",
+          "Coach_Top"
+        ],
+        "ImportantItems": [],
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 3
+  }
+]

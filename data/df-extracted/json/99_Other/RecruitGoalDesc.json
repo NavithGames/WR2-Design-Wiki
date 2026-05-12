@@ -1,0 +1,152 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "RecruitGoalDesc",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/Hero/RecruitGoalDesc",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "HeroGoalDesc",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "10213499104": {
+        "GoalID": 10213499104,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "10200599105": {
+        "GoalID": 10200599105,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "10200599106": {
+        "GoalID": 10200599106,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "10213499107": {
+        "GoalID": 10213499107,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "10200599108": {
+        "GoalID": 10200599108,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "10200599109": {
+        "GoalID": 10200599109,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "10191999110": {
+        "GoalID": 10191999110,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "10185549111": {
+        "GoalID": 10185549111,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "10179099112": {
+        "GoalID": 10179099112,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "10213499113": {
+        "GoalID": 10213499113,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "10200599114": {
+        "GoalID": 10200599114,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "10200599115": {
+        "GoalID": 10200599115,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "10213499116": {
+        "GoalID": 10213499116,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "10200599117": {
+        "GoalID": 10200599117,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "10200599118": {
+        "GoalID": 10200599118,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "10213499119": {
+        "GoalID": 10213499119,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "10200599120": {
+        "GoalID": 10200599120,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "10200599121": {
+        "GoalID": 10200599121,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "10213499122": {
+        "GoalID": 10213499122,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "10203899123": {
+        "GoalID": 10203899123,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "10200599124": {
+        "GoalID": 10200599124,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "10213499125": {
+        "GoalID": 10213499125,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "10200599126": {
+        "GoalID": 10200599126,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "10200599127": {
+        "GoalID": 10200599127,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "10213499128": {
+        "GoalID": 10213499128,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "10204899129": {
+        "GoalID": 10204899129,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "10203999130": {
+        "GoalID": 10203999130,
+        "Desc": null,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 27
+  }
+]

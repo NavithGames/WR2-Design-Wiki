@@ -1,0 +1,6 @@
+﻿RowName,TraderSectorID,QualityID,TraderSectorTypeName,TraderSectorTypeKey,RowDescription
+1,1,100001,,Support,None
+2,2,100002,,Combat,None
+3,3,100003,,Tactical,None
+4,4,100004,,Med,None
+5,5,100006,,Research,None

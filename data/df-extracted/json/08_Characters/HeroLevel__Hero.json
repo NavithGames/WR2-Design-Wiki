@@ -1,0 +1,1367 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "HeroLevel",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/Hero/HeroLevel",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "HeroLevel",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "1": {
+        "HeroID": 88000000030,
+        "OpMetaLevel": 1,
+        "OpMetaTaskID": 10101,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "2": {
+        "HeroID": 88000000030,
+        "OpMetaLevel": 2,
+        "OpMetaTaskID": 10102,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "3": {
+        "HeroID": 88000000030,
+        "OpMetaLevel": 3,
+        "OpMetaTaskID": 10103,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "4": {
+        "HeroID": 88000000030,
+        "OpMetaLevel": 4,
+        "OpMetaTaskID": 10104,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "5": {
+        "HeroID": 88000000030,
+        "OpMetaLevel": 5,
+        "OpMetaTaskID": 10105,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "6": {
+        "HeroID": 88000000030,
+        "OpMetaLevel": 6,
+        "OpMetaTaskID": 10106,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "7": {
+        "HeroID": 88000000030,
+        "OpMetaLevel": 7,
+        "OpMetaTaskID": 10107,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "8": {
+        "HeroID": 88000000030,
+        "OpMetaLevel": 8,
+        "OpMetaTaskID": 10108,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "65": {
+        "HeroID": 88000000030,
+        "OpMetaLevel": 9,
+        "OpMetaTaskID": 10109,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "9": {
+        "HeroID": 88000000028,
+        "OpMetaLevel": 1,
+        "OpMetaTaskID": 20101,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "10": {
+        "HeroID": 88000000028,
+        "OpMetaLevel": 2,
+        "OpMetaTaskID": 20102,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "11": {
+        "HeroID": 88000000028,
+        "OpMetaLevel": 3,
+        "OpMetaTaskID": 20103,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "12": {
+        "HeroID": 88000000028,
+        "OpMetaLevel": 4,
+        "OpMetaTaskID": 20104,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "13": {
+        "HeroID": 88000000028,
+        "OpMetaLevel": 5,
+        "OpMetaTaskID": 20105,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "14": {
+        "HeroID": 88000000028,
+        "OpMetaLevel": 6,
+        "OpMetaTaskID": 20106,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "15": {
+        "HeroID": 88000000028,
+        "OpMetaLevel": 7,
+        "OpMetaTaskID": 20107,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "16": {
+        "HeroID": 88000000028,
+        "OpMetaLevel": 8,
+        "OpMetaTaskID": 20108,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "67": {
+        "HeroID": 88000000028,
+        "OpMetaLevel": 9,
+        "OpMetaTaskID": 20109,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "17": {
+        "HeroID": 88000000029,
+        "OpMetaLevel": 1,
+        "OpMetaTaskID": 30101,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "18": {
+        "HeroID": 88000000029,
+        "OpMetaLevel": 2,
+        "OpMetaTaskID": 30102,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "19": {
+        "HeroID": 88000000029,
+        "OpMetaLevel": 3,
+        "OpMetaTaskID": 30103,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "20": {
+        "HeroID": 88000000029,
+        "OpMetaLevel": 4,
+        "OpMetaTaskID": 30104,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "21": {
+        "HeroID": 88000000029,
+        "OpMetaLevel": 5,
+        "OpMetaTaskID": 30105,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "22": {
+        "HeroID": 88000000029,
+        "OpMetaLevel": 6,
+        "OpMetaTaskID": 30106,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "23": {
+        "HeroID": 88000000029,
+        "OpMetaLevel": 7,
+        "OpMetaTaskID": 30107,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "24": {
+        "HeroID": 88000000029,
+        "OpMetaLevel": 8,
+        "OpMetaTaskID": 30108,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "68": {
+        "HeroID": 88000000029,
+        "OpMetaLevel": 9,
+        "OpMetaTaskID": 30109,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "25": {
+        "HeroID": 88000000027,
+        "OpMetaLevel": 1,
+        "OpMetaTaskID": 40101,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "26": {
+        "HeroID": 88000000027,
+        "OpMetaLevel": 2,
+        "OpMetaTaskID": 40102,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "27": {
+        "HeroID": 88000000027,
+        "OpMetaLevel": 3,
+        "OpMetaTaskID": 40103,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "28": {
+        "HeroID": 88000000027,
+        "OpMetaLevel": 4,
+        "OpMetaTaskID": 40104,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "29": {
+        "HeroID": 88000000027,
+        "OpMetaLevel": 5,
+        "OpMetaTaskID": 40105,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "30": {
+        "HeroID": 88000000027,
+        "OpMetaLevel": 6,
+        "OpMetaTaskID": 40106,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "31": {
+        "HeroID": 88000000027,
+        "OpMetaLevel": 7,
+        "OpMetaTaskID": 40107,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "32": {
+        "HeroID": 88000000027,
+        "OpMetaLevel": 8,
+        "OpMetaTaskID": 40108,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "69": {
+        "HeroID": 88000000027,
+        "OpMetaLevel": 9,
+        "OpMetaTaskID": 40109,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "33": {
+        "HeroID": 88000000025,
+        "OpMetaLevel": 1,
+        "OpMetaTaskID": 50101,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "34": {
+        "HeroID": 88000000025,
+        "OpMetaLevel": 2,
+        "OpMetaTaskID": 50102,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "35": {
+        "HeroID": 88000000025,
+        "OpMetaLevel": 3,
+        "OpMetaTaskID": 50103,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "36": {
+        "HeroID": 88000000025,
+        "OpMetaLevel": 4,
+        "OpMetaTaskID": 50104,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "37": {
+        "HeroID": 88000000025,
+        "OpMetaLevel": 5,
+        "OpMetaTaskID": 50105,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "38": {
+        "HeroID": 88000000025,
+        "OpMetaLevel": 6,
+        "OpMetaTaskID": 50106,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "39": {
+        "HeroID": 88000000025,
+        "OpMetaLevel": 7,
+        "OpMetaTaskID": 50107,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "40": {
+        "HeroID": 88000000025,
+        "OpMetaLevel": 8,
+        "OpMetaTaskID": 50108,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "66": {
+        "HeroID": 88000000025,
+        "OpMetaLevel": 9,
+        "OpMetaTaskID": 50109,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "41": {
+        "HeroID": 88000000026,
+        "OpMetaLevel": 1,
+        "OpMetaTaskID": 60101,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "42": {
+        "HeroID": 88000000026,
+        "OpMetaLevel": 2,
+        "OpMetaTaskID": 60102,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "43": {
+        "HeroID": 88000000026,
+        "OpMetaLevel": 3,
+        "OpMetaTaskID": 60103,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "44": {
+        "HeroID": 88000000026,
+        "OpMetaLevel": 4,
+        "OpMetaTaskID": 60104,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "45": {
+        "HeroID": 88000000026,
+        "OpMetaLevel": 5,
+        "OpMetaTaskID": 60105,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "46": {
+        "HeroID": 88000000026,
+        "OpMetaLevel": 6,
+        "OpMetaTaskID": 60106,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "47": {
+        "HeroID": 88000000026,
+        "OpMetaLevel": 7,
+        "OpMetaTaskID": 60107,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "48": {
+        "HeroID": 88000000026,
+        "OpMetaLevel": 8,
+        "OpMetaTaskID": 60108,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "70": {
+        "HeroID": 88000000026,
+        "OpMetaLevel": 9,
+        "OpMetaTaskID": 60109,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "49": {
+        "HeroID": 88000000035,
+        "OpMetaLevel": 1,
+        "OpMetaTaskID": 70101,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "50": {
+        "HeroID": 88000000035,
+        "OpMetaLevel": 2,
+        "OpMetaTaskID": 70102,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "51": {
+        "HeroID": 88000000035,
+        "OpMetaLevel": 3,
+        "OpMetaTaskID": 70103,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "52": {
+        "HeroID": 88000000035,
+        "OpMetaLevel": 4,
+        "OpMetaTaskID": 70104,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "53": {
+        "HeroID": 88000000035,
+        "OpMetaLevel": 5,
+        "OpMetaTaskID": 70105,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "54": {
+        "HeroID": 88000000035,
+        "OpMetaLevel": 6,
+        "OpMetaTaskID": 70106,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "55": {
+        "HeroID": 88000000035,
+        "OpMetaLevel": 7,
+        "OpMetaTaskID": 70107,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "56": {
+        "HeroID": 88000000035,
+        "OpMetaLevel": 8,
+        "OpMetaTaskID": 70108,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "71": {
+        "HeroID": 88000000035,
+        "OpMetaLevel": 9,
+        "OpMetaTaskID": 70109,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "57": {
+        "HeroID": 88000000036,
+        "OpMetaLevel": 1,
+        "OpMetaTaskID": 80101,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "58": {
+        "HeroID": 88000000036,
+        "OpMetaLevel": 2,
+        "OpMetaTaskID": 80102,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "59": {
+        "HeroID": 88000000036,
+        "OpMetaLevel": 3,
+        "OpMetaTaskID": 80103,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "60": {
+        "HeroID": 88000000036,
+        "OpMetaLevel": 4,
+        "OpMetaTaskID": 80104,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "61": {
+        "HeroID": 88000000036,
+        "OpMetaLevel": 5,
+        "OpMetaTaskID": 80105,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "62": {
+        "HeroID": 88000000036,
+        "OpMetaLevel": 6,
+        "OpMetaTaskID": 80106,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "63": {
+        "HeroID": 88000000036,
+        "OpMetaLevel": 7,
+        "OpMetaTaskID": 80107,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "64": {
+        "HeroID": 88000000036,
+        "OpMetaLevel": 8,
+        "OpMetaTaskID": 80108,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "72": {
+        "HeroID": 88000000036,
+        "OpMetaLevel": 9,
+        "OpMetaTaskID": 80109,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "73": {
+        "HeroID": 88000000037,
+        "OpMetaLevel": 1,
+        "OpMetaTaskID": 90101,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "74": {
+        "HeroID": 88000000037,
+        "OpMetaLevel": 2,
+        "OpMetaTaskID": 90102,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "75": {
+        "HeroID": 88000000037,
+        "OpMetaLevel": 3,
+        "OpMetaTaskID": 90103,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "76": {
+        "HeroID": 88000000037,
+        "OpMetaLevel": 4,
+        "OpMetaTaskID": 90104,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "77": {
+        "HeroID": 88000000037,
+        "OpMetaLevel": 5,
+        "OpMetaTaskID": 90105,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "78": {
+        "HeroID": 88000000037,
+        "OpMetaLevel": 6,
+        "OpMetaTaskID": 90106,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "79": {
+        "HeroID": 88000000037,
+        "OpMetaLevel": 7,
+        "OpMetaTaskID": 90107,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "80": {
+        "HeroID": 88000000037,
+        "OpMetaLevel": 8,
+        "OpMetaTaskID": 90108,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "81": {
+        "HeroID": 88000000037,
+        "OpMetaLevel": 9,
+        "OpMetaTaskID": 90109,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "82": {
+        "HeroID": 88000000038,
+        "OpMetaLevel": 1,
+        "OpMetaTaskID": 11101,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "83": {
+        "HeroID": 88000000038,
+        "OpMetaLevel": 2,
+        "OpMetaTaskID": 11102,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "84": {
+        "HeroID": 88000000038,
+        "OpMetaLevel": 3,
+        "OpMetaTaskID": 11103,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "85": {
+        "HeroID": 88000000038,
+        "OpMetaLevel": 4,
+        "OpMetaTaskID": 11104,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "86": {
+        "HeroID": 88000000038,
+        "OpMetaLevel": 5,
+        "OpMetaTaskID": 11105,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "87": {
+        "HeroID": 88000000038,
+        "OpMetaLevel": 6,
+        "OpMetaTaskID": 11106,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "88": {
+        "HeroID": 88000000038,
+        "OpMetaLevel": 7,
+        "OpMetaTaskID": 11107,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "89": {
+        "HeroID": 88000000038,
+        "OpMetaLevel": 8,
+        "OpMetaTaskID": 11108,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "90": {
+        "HeroID": 88000000038,
+        "OpMetaLevel": 9,
+        "OpMetaTaskID": 11109,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "91": {
+        "HeroID": 88000000039,
+        "OpMetaLevel": 1,
+        "OpMetaTaskID": 12101,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "92": {
+        "HeroID": 88000000039,
+        "OpMetaLevel": 2,
+        "OpMetaTaskID": 12102,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "93": {
+        "HeroID": 88000000039,
+        "OpMetaLevel": 3,
+        "OpMetaTaskID": 12103,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "94": {
+        "HeroID": 88000000039,
+        "OpMetaLevel": 4,
+        "OpMetaTaskID": 12104,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "95": {
+        "HeroID": 88000000039,
+        "OpMetaLevel": 5,
+        "OpMetaTaskID": 12105,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "96": {
+        "HeroID": 88000000039,
+        "OpMetaLevel": 6,
+        "OpMetaTaskID": 12106,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "97": {
+        "HeroID": 88000000039,
+        "OpMetaLevel": 7,
+        "OpMetaTaskID": 12107,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "98": {
+        "HeroID": 88000000039,
+        "OpMetaLevel": 8,
+        "OpMetaTaskID": 12108,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "99": {
+        "HeroID": 88000000039,
+        "OpMetaLevel": 9,
+        "OpMetaTaskID": 12109,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "100": {
+        "HeroID": 88000000040,
+        "OpMetaLevel": 1,
+        "OpMetaTaskID": 13101,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "101": {
+        "HeroID": 88000000040,
+        "OpMetaLevel": 2,
+        "OpMetaTaskID": 13102,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "102": {
+        "HeroID": 88000000040,
+        "OpMetaLevel": 3,
+        "OpMetaTaskID": 13103,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "103": {
+        "HeroID": 88000000040,
+        "OpMetaLevel": 4,
+        "OpMetaTaskID": 13104,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "104": {
+        "HeroID": 88000000040,
+        "OpMetaLevel": 5,
+        "OpMetaTaskID": 13105,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "105": {
+        "HeroID": 88000000040,
+        "OpMetaLevel": 6,
+        "OpMetaTaskID": 13106,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "106": {
+        "HeroID": 88000000040,
+        "OpMetaLevel": 7,
+        "OpMetaTaskID": 13107,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "107": {
+        "HeroID": 88000000040,
+        "OpMetaLevel": 8,
+        "OpMetaTaskID": 13108,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "108": {
+        "HeroID": 88000000040,
+        "OpMetaLevel": 9,
+        "OpMetaTaskID": 13109,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "110": {
+        "HeroID": 88000000041,
+        "OpMetaLevel": 1,
+        "OpMetaTaskID": 14101,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "111": {
+        "HeroID": 88000000041,
+        "OpMetaLevel": 2,
+        "OpMetaTaskID": 14102,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "112": {
+        "HeroID": 88000000041,
+        "OpMetaLevel": 3,
+        "OpMetaTaskID": 14103,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "113": {
+        "HeroID": 88000000041,
+        "OpMetaLevel": 4,
+        "OpMetaTaskID": 14104,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "114": {
+        "HeroID": 88000000041,
+        "OpMetaLevel": 5,
+        "OpMetaTaskID": 14105,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "115": {
+        "HeroID": 88000000041,
+        "OpMetaLevel": 6,
+        "OpMetaTaskID": 14106,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "116": {
+        "HeroID": 88000000041,
+        "OpMetaLevel": 7,
+        "OpMetaTaskID": 14107,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "117": {
+        "HeroID": 88000000041,
+        "OpMetaLevel": 8,
+        "OpMetaTaskID": 14108,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "118": {
+        "HeroID": 88000000041,
+        "OpMetaLevel": 9,
+        "OpMetaTaskID": 14109,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "120": {
+        "HeroID": 88000000045,
+        "OpMetaLevel": 1,
+        "OpMetaTaskID": 15101,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "121": {
+        "HeroID": 88000000045,
+        "OpMetaLevel": 2,
+        "OpMetaTaskID": 15102,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "122": {
+        "HeroID": 88000000045,
+        "OpMetaLevel": 3,
+        "OpMetaTaskID": 15103,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "123": {
+        "HeroID": 88000000045,
+        "OpMetaLevel": 4,
+        "OpMetaTaskID": 15104,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "124": {
+        "HeroID": 88000000045,
+        "OpMetaLevel": 5,
+        "OpMetaTaskID": 15105,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "125": {
+        "HeroID": 88000000045,
+        "OpMetaLevel": 6,
+        "OpMetaTaskID": 15106,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "126": {
+        "HeroID": 88000000045,
+        "OpMetaLevel": 7,
+        "OpMetaTaskID": 15107,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "127": {
+        "HeroID": 88000000045,
+        "OpMetaLevel": 8,
+        "OpMetaTaskID": 15108,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "128": {
+        "HeroID": 88000000045,
+        "OpMetaLevel": 9,
+        "OpMetaTaskID": 15109,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "129": {
+        "HeroID": 88000000046,
+        "OpMetaLevel": 1,
+        "OpMetaTaskID": 16101,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "130": {
+        "HeroID": 88000000046,
+        "OpMetaLevel": 2,
+        "OpMetaTaskID": 16102,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "131": {
+        "HeroID": 88000000046,
+        "OpMetaLevel": 3,
+        "OpMetaTaskID": 16103,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 3,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "132": {
+        "HeroID": 88000000046,
+        "OpMetaLevel": 4,
+        "OpMetaTaskID": 16104,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "133": {
+        "HeroID": 88000000046,
+        "OpMetaLevel": 5,
+        "OpMetaTaskID": 16105,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "134": {
+        "HeroID": 88000000046,
+        "OpMetaLevel": 6,
+        "OpMetaTaskID": 16106,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "135": {
+        "HeroID": 88000000046,
+        "OpMetaLevel": 7,
+        "OpMetaTaskID": 16107,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "136": {
+        "HeroID": 88000000046,
+        "OpMetaLevel": 8,
+        "OpMetaTaskID": 16108,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      },
+      "137": {
+        "HeroID": 88000000046,
+        "OpMetaLevel": 9,
+        "OpMetaTaskID": 16109,
+        "OpMetaSeletcedNum": 3,
+        "OpMetaTotalGoalNum": 5,
+        "OpMetaGoals": [],
+        "OpMetaRewards": [],
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 135
+  }
+]

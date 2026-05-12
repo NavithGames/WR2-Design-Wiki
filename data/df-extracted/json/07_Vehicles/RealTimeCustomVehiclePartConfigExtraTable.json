@@ -1,0 +1,871 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "RealTimeCustomVehiclePartConfigExtraTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/BattleField/RealTimeCustomVehiclePartConfigExtraTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "RealTimeCustomVehiclePartMapConfigRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "1001": {
+        "MapID": 601,
+        "PartConfigs": [
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120000021,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000010004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000210004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000510004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120710004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120910004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120100007,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120100074,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120200034,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120900069,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40121000076,
+            "Price": 1500
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "1001_0": {
+        "MapID": 602,
+        "PartConfigs": [
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120000021,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000010004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000210004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000510004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120710004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120910004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120100007,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120100074,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120200034,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120900069,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40121000076,
+            "Price": 1500
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "1001_1": {
+        "MapID": 603,
+        "PartConfigs": [
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120000021,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000010004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000210004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000510004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120710004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120910004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120100007,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120100074,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120200034,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120900069,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40121000076,
+            "Price": 1500
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "1001_2": {
+        "MapID": 604,
+        "PartConfigs": [
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120000021,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000010004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000210004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000510004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120710004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120910004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120100007,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120100074,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120200034,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120900069,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40121000076,
+            "Price": 1500
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "1001_3": {
+        "MapID": 605,
+        "PartConfigs": [
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120000021,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000010004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000210004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000510004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120710004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120910004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120100007,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120100074,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120200034,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120900069,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40121000076,
+            "Price": 1500
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "1001_4": {
+        "MapID": 606,
+        "PartConfigs": [
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120000021,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000010004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000210004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000510004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120710004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120910004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120100007,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120100074,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120200034,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120900069,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40121000076,
+            "Price": 1500
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "1001_5": {
+        "MapID": 607,
+        "PartConfigs": [
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120000021,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000010004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000210004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000510004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120710004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120910004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120100007,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120100074,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120200034,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120900069,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40121000076,
+            "Price": 1500
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "1001_6": {
+        "MapID": 608,
+        "PartConfigs": [
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120000021,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000010004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000210004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000510004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120710004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120910004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120100007,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120100074,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120200034,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120900069,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40121000076,
+            "Price": 1500
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "1001_7": {
+        "MapID": 609,
+        "PartConfigs": [
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120000021,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000010004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000210004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000510004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120710004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120910004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120100007,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120100074,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120200034,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120900069,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40121000076,
+            "Price": 1500
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "1001_8": {
+        "MapID": 610,
+        "PartConfigs": [
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120000021,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000010004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000210004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000510004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120710004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120910004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120100007,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120100074,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120200034,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120900069,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40121000076,
+            "Price": 1500
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "1001_9": {
+        "MapID": 611,
+        "PartConfigs": [
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120000021,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000010004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000210004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000510004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120710004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120910004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120100007,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120100074,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120200034,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120900069,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40121000076,
+            "Price": 1500
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "1001_10": {
+        "MapID": 612,
+        "PartConfigs": [
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120000021,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000010004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000210004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000510004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120710004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120910004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120100007,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120100074,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120200034,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120900069,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40121000076,
+            "Price": 1500
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "1001_11": {
+        "MapID": 613,
+        "PartConfigs": [
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120000021,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000010004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000210004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000510004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120710004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120910004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120100007,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120100074,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120200034,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120900069,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40121000076,
+            "Price": 1500
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "1001_12": {
+        "MapID": 614,
+        "PartConfigs": [
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120000021,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000010004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000210004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40000510004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120710004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120910004,
+            "Price": 1000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120100007,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120100074,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120200034,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40120900069,
+            "Price": 1500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "PartItemID": 40121000076,
+            "Price": 1500
+          }
+        ],
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 14
+  }
+]

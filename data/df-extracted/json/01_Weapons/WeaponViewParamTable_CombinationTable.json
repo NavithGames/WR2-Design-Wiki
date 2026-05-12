@@ -1,0 +1,16 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "WeaponViewParamTable_CombinationTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Ability/OperatorFormTool/CombinationTables/WeaponViewParamTable_CombinationTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "WeaponDataViewParam",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {},
+    "_RowCount": 0
+  }
+]

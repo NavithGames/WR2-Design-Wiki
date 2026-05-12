@@ -1,0 +1,167 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "ArenaTraderType",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/ArenaTrader/ArenaTraderType",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "TraderTypeInfo",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "1": {
+        "TraderTypeID": 1,
+        "TraderTypeName": null,
+        "TraderTypeIconPath": "PaperSprite\u0027/Game/UI/UIAtlas/System/Shop/BakedSprite/Shop_Icon_10.Shop_Icon_10\u0027",
+        "RowDescription": "None"
+      },
+      "2": {
+        "TraderTypeID": 2,
+        "TraderTypeName": null,
+        "TraderTypeIconPath": "PaperSprite\u0027/Game/UI/UIAtlas/System/Warehouse/BakedSprite/warehouse_Icon_0605.Warehouse_Icon_0605\u0027",
+        "RowDescription": "None"
+      },
+      "3": {
+        "TraderTypeID": 3,
+        "TraderTypeName": null,
+        "TraderTypeIconPath": "PaperSprite\u0027/Game/UI/UIAtlas/System/Shop/BakedSprite/Shop_Icon_06.Shop_Icon_06\u0027",
+        "RowDescription": "None"
+      },
+      "4": {
+        "TraderTypeID": 4,
+        "TraderTypeName": null,
+        "TraderTypeIconPath": "PaperSprite\u0027/Game/UI/UIAtlas/System/Shop/BakedSprite/Shop_Icon_04.Shop_Icon_04\u0027",
+        "RowDescription": "None"
+      },
+      "5": {
+        "TraderTypeID": 5,
+        "TraderTypeName": null,
+        "TraderTypeIconPath": "PaperSprite\u0027/Game/UI/UIAtlas/System/Shop/BakedSprite/Shop_Icon_13.Shop_Icon_13\u0027",
+        "RowDescription": "None"
+      },
+      "6": {
+        "TraderTypeID": 6,
+        "TraderTypeName": null,
+        "TraderTypeIconPath": "PaperSprite\u0027/Game/UI/UIAtlas/System/Shop/BakedSprite/Shop_Icon_09.Shop_Icon_09\u0027",
+        "RowDescription": "None"
+      },
+      "7": {
+        "TraderTypeID": 7,
+        "TraderTypeName": null,
+        "TraderTypeIconPath": "PaperSprite\u0027/Game/UI/UIAtlas/System/Shop/BakedSprite/Shop_Icon_05.Shop_Icon_05\u0027",
+        "RowDescription": "None"
+      },
+      "8": {
+        "TraderTypeID": 8,
+        "TraderTypeName": null,
+        "TraderTypeIconPath": "PaperSprite\u0027/Game/UI/UIAtlas/System/Shop/BakedSprite/Shop_Icon_02.Shop_Icon_02\u0027",
+        "RowDescription": "None"
+      },
+      "10": {
+        "TraderTypeID": 10,
+        "TraderTypeName": null,
+        "TraderTypeIconPath": "PaperSprite\u0027/Game/UI/UIAtlas/System/Shop/BakedSprite/Shop_Icon_11.Shop_Icon_11\u0027",
+        "RowDescription": "None"
+      },
+      "11": {
+        "TraderTypeID": 11,
+        "TraderTypeName": null,
+        "TraderTypeIconPath": "PaperSprite\u0027/Game/UI/UIAtlas/System/Shop/BakedSprite/Shop_Icon_08.Shop_Icon_08\u0027",
+        "RowDescription": "None"
+      },
+      "12": {
+        "TraderTypeID": 12,
+        "TraderTypeName": null,
+        "TraderTypeIconPath": "PaperSprite\u0027/Game/UI/UIAtlas/System/Shop/BakedSprite/Shop_Icon_01.Shop_Icon_01\u0027",
+        "RowDescription": "None"
+      },
+      "13": {
+        "TraderTypeID": 13,
+        "TraderTypeName": null,
+        "TraderTypeIconPath": "PaperSprite\u0027/Game/UI/UIAtlas/System/Shop/BakedSprite/Shop_Icon_04.Shop_Icon_04\u0027",
+        "RowDescription": "None"
+      },
+      "14": {
+        "TraderTypeID": 14,
+        "TraderTypeName": null,
+        "TraderTypeIconPath": "PaperSprite\u0027/Game/UI/UIAtlas/System/Shop/BakedSprite/Shop_Icon_09.Shop_Icon_09\u0027",
+        "RowDescription": "None"
+      },
+      "15": {
+        "TraderTypeID": 15,
+        "TraderTypeName": null,
+        "TraderTypeIconPath": "PaperSprite\u0027/Game/UI/UIAtlas/System/Warehouse/BakedSprite/warehouse_Icon_0606.Warehouse_Icon_0606\u0027",
+        "RowDescription": "None"
+      },
+      "16": {
+        "TraderTypeID": 16,
+        "TraderTypeName": null,
+        "TraderTypeIconPath": "PaperSprite\u0027/Game/UI/UIAtlas/System/Warehouse/BakedSprite/warehouse_Icon_0004.Warehouse_Icon_0004\u0027",
+        "RowDescription": "None"
+      },
+      "17": {
+        "TraderTypeID": 17,
+        "TraderTypeName": null,
+        "TraderTypeIconPath": "PaperSprite\u0027/Game/UI/UIAtlas/System/Warehouse/BakedSprite/warehouse_Icon_0003.Warehouse_Icon_0003\u0027",
+        "RowDescription": "None"
+      },
+      "18": {
+        "TraderTypeID": 18,
+        "TraderTypeName": null,
+        "TraderTypeIconPath": "PaperSprite\u0027/Game/UI/UIAtlas/System/Warehouse/BakedSprite/warehouse_Icon_0602.Warehouse_Icon_0602\u0027",
+        "RowDescription": "None"
+      },
+      "19": {
+        "TraderTypeID": 19,
+        "TraderTypeName": null,
+        "TraderTypeIconPath": "PaperSprite\u0027/Game/UI/UIAtlas/System/Warehouse/BakedSprite/warehouse_Icon_0002.Warehouse_Icon_0002\u0027",
+        "RowDescription": "None"
+      },
+      "20": {
+        "TraderTypeID": 20,
+        "TraderTypeName": null,
+        "TraderTypeIconPath": "PaperSprite\u0027/Game/UI/UIAtlas/System/Warehouse/BakedSprite/warehouse_Icon_0603.Warehouse_Icon_0603\u0027",
+        "RowDescription": "None"
+      },
+      "21": {
+        "TraderTypeID": 21,
+        "TraderTypeName": null,
+        "TraderTypeIconPath": "PaperSprite\u0027/Game/UI/UIAtlas/System/Warehouse/BakedSprite/warehouse_Icon_0001.Warehouse_Icon_0001\u0027",
+        "RowDescription": "None"
+      },
+      "22": {
+        "TraderTypeID": 22,
+        "TraderTypeName": null,
+        "TraderTypeIconPath": "PaperSprite\u0027/Game/UI/UIAtlas/System/Shop/BakedSprite/Shop_Icon_10.Shop_Icon_10\u0027",
+        "RowDescription": "None"
+      },
+      "23": {
+        "TraderTypeID": 23,
+        "TraderTypeName": null,
+        "TraderTypeIconPath": "PaperSprite\u0027/Game/UI/UIAtlas/System/Shop/BakedSprite/Shop_Icon_04.Shop_Icon_04\u0027",
+        "RowDescription": "None"
+      },
+      "24": {
+        "TraderTypeID": 24,
+        "TraderTypeName": null,
+        "TraderTypeIconPath": "PaperSprite\u0027/Game/UI/UIAtlas/System/Shop/BakedSprite/Shop_Icon_12.Shop_Icon_12\u0027",
+        "RowDescription": "None"
+      },
+      "25": {
+        "TraderTypeID": 25,
+        "TraderTypeName": null,
+        "TraderTypeIconPath": "PaperSprite\u0027/Game/UI/UIAtlas/System/Warehouse/BakedSprite/warehouse_Icon_0607.Warehouse_Icon_0607\u0027",
+        "RowDescription": "None"
+      },
+      "26": {
+        "TraderTypeID": 26,
+        "TraderTypeName": null,
+        "TraderTypeIconPath": "PaperSprite\u0027/Game/UI/UIAtlas/System/Activity/BakedSprite/Activity_Icon_05.Activity_Icon_05\u0027",
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 25
+  }
+]

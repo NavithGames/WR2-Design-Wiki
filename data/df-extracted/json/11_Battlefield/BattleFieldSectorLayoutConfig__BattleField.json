@@ -1,0 +1,107 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "BattleFieldSectorLayoutConfig",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/BattleField/BattleFieldSectorLayoutConfig",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "BattleFieldDynamicLayoutRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "125(123)": {
+        "LayoutId": 1,
+        "SectorSequenceArray": [
+          1,
+          2,
+          5
+        ],
+        "LoadingImagePath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "LoadingMediaName": "None",
+        "bShowLoadingCornerTip": false,
+        "RowDescription": "None"
+      },
+      "126(123)": {
+        "LayoutId": 2,
+        "SectorSequenceArray": [
+          1,
+          2,
+          6
+        ],
+        "LoadingImagePath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "LoadingMediaName": "None",
+        "bShowLoadingCornerTip": false,
+        "RowDescription": "None"
+      },
+      "110701": {
+        "LayoutId": 110701,
+        "SectorSequenceArray": [
+          2,
+          3,
+          4
+        ],
+        "LoadingImagePath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "LoadingMediaName": "None",
+        "bShowLoadingCornerTip": true,
+        "RowDescription": "None"
+      },
+      "110702": {
+        "LayoutId": 110702,
+        "SectorSequenceArray": [
+          3,
+          4,
+          5
+        ],
+        "LoadingImagePath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "LoadingMediaName": "None",
+        "bShowLoadingCornerTip": true,
+        "RowDescription": "None"
+      },
+      "130201": {
+        "LayoutId": 130201,
+        "SectorSequenceArray": [
+          2,
+          3,
+          4
+        ],
+        "LoadingImagePath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "LoadingMediaName": "None",
+        "bShowLoadingCornerTip": true,
+        "RowDescription": "None"
+      },
+      "130202": {
+        "LayoutId": 130202,
+        "SectorSequenceArray": [
+          3,
+          4,
+          5
+        ],
+        "LoadingImagePath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "LoadingMediaName": "None",
+        "bShowLoadingCornerTip": true,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 6
+  }
+]

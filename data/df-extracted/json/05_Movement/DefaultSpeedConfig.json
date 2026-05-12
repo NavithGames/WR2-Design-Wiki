@@ -1,0 +1,57 @@
+[
+  {
+    "_Type": "GPCharacterMovementSpeedBaselineDataAsset",
+    "_Name": "DefaultSpeedConfig",
+    "_Class": "UObject",
+    "_Outer": "DeltaForce/Content/DataTables/Character/DefaultSpeedConfig",
+    "Description": "\u9ED8\u8BA4\u901F\u5EA6\u57FA\u51C6\u7EBF",
+    "StandStrafeSpeedScale": 0.93,
+    "StandBackwardSpeedScale": 0.88,
+    "StandSilentWalkStrafeSpeedScale": 0.93,
+    "StandSilentWalkBackwardSpeedScale": 0.88,
+    "CrouchRunStrafeSpeedScale": 0.88,
+    "CrouchRunBackwardSpeedScale": 0.7,
+    "CrouchSilentWalkStrafeSpeedScale": 0.88,
+    "CrouchSilentWalkBackwardSpeedScale": 0.7,
+    "ProneStrafeSpeedScale": 0.88,
+    "ProneBackwardSpeedScale": 0.7,
+    "StandMoveSpeedMax": 600,
+    "StandHalfSquatWalkSpeed": 170,
+    "StandHalfSquatWalkStrafeSpeedScale": 0.94,
+    "StandHalfSquatWalkBackwardSpeedScale": 0.88,
+    "CrouchHalfSquatWalkBackwardSpeedScale": 0.7,
+    "GamepadJoystickSpeedCurve": {
+      "_Type": "CurveFloat",
+      "_Name": "GamepadJoystickLinearSpeedCurve",
+      "_Class": "UCurveFloat",
+      "_Outer": "DeltaForce/Content/DataTables/Character/GamepadJoystickLinearSpeedCurve",
+      "FloatCurve": {
+        "_StructType": "FStructFallback",
+        "Keys": [
+          {
+            "_StructType": "FRichCurveKey",
+            "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+          },
+          {
+            "_StructType": "FRichCurveKey",
+            "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+          },
+          {
+            "_StructType": "FRichCurveKey",
+            "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+          },
+          {
+            "_StructType": "FRichCurveKey",
+            "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+          }
+        ],
+        "Orders": [
+          0,
+          2,
+          3,
+          1
+        ]
+      }
+    }
+  }
+]

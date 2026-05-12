@@ -1,0 +1,35 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "PhysicalSurfaceToBFE",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/BattleFieldEffect/PhysicalSurfaceToBFE",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "PhysicalSurfaceToBFERow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "1": {
+        "PhysicalSurfaceGroup": "EGPPhysicalSurfaceGroup::Cement",
+        "BattelFieldEffectName": "Dirty",
+        "BFEffectNameForExplosiones": "None",
+        "RowDescription": "None"
+      },
+      "2": {
+        "PhysicalSurfaceGroup": "EGPPhysicalSurfaceGroup::Soil",
+        "BattelFieldEffectName": "Dirty",
+        "BFEffectNameForExplosiones": "None",
+        "RowDescription": "None"
+      },
+      "3": {
+        "PhysicalSurfaceGroup": "EGPPhysicalSurfaceGroup::Grass",
+        "BattelFieldEffectName": "Dirty",
+        "BFEffectNameForExplosiones": "None",
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 3
+  }
+]

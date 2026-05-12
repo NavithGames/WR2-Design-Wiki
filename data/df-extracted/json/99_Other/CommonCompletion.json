@@ -1,0 +1,62 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "CommonCompletion",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/CommonCompletion",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "CommonCompletionRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "1": {
+        "ID": 1,
+        "Desc": "\u519B\u9700\u5904",
+        "CommonCompletionSystemTitle": null,
+        "CategoryType": 0,
+        "CheckBoxType": 1,
+        "ShowOwnerItems": 0,
+        "PriceComparisonAlert": 1
+      },
+      "2": {
+        "ID": 2,
+        "Desc": "\u6539\u67AA\u53F0",
+        "CommonCompletionSystemTitle": null,
+        "CategoryType": 1,
+        "CheckBoxType": 2,
+        "ShowOwnerItems": 1,
+        "PriceComparisonAlert": 0
+      },
+      "3": {
+        "ID": 3,
+        "Desc": "\u5165\u5C40",
+        "CommonCompletionSystemTitle": null,
+        "CategoryType": 0,
+        "CheckBoxType": 0,
+        "ShowOwnerItems": 0,
+        "PriceComparisonAlert": 0
+      },
+      "4": {
+        "ID": 4,
+        "Desc": "\u7279\u52E4\u5904",
+        "CommonCompletionSystemTitle": null,
+        "CategoryType": 0,
+        "CheckBoxType": 0,
+        "ShowOwnerItems": 0,
+        "PriceComparisonAlert": 0
+      },
+      "5": {
+        "ID": 5,
+        "Desc": "\u914D\u88C5",
+        "CommonCompletionSystemTitle": null,
+        "CategoryType": 1,
+        "CheckBoxType": 0,
+        "ShowOwnerItems": 1,
+        "PriceComparisonAlert": 0
+      }
+    },
+    "_RowCount": 5
+  }
+]

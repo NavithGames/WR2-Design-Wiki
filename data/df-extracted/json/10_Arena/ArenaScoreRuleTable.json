@@ -1,0 +1,311 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "ArenaScoreRuleTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Arena/ArenaScoreRuleTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "ArenaScoreRuleData",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "\u7B2C\u4E00\u56DE\u5408\u521D\u59CB\u79EF\u5206": {
+        "ArenaScoreEventName": "EArenaScoreChangeEvent::Round_1",
+        "ArenaScoreValue": 200,
+        "ArenaScoreIncreaseCount": 0,
+        "ArenaScoreIncreaseBase": 0,
+        "ArenaScoreIncreaseFactor": 0,
+        "bTriggerArenaScoreIncreaseInterest": false,
+        "ShowText": "",
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "IconColor": {
+          "R": 1,
+          "G": 1,
+          "B": 1,
+          "A": 1
+        },
+        "Audio": "",
+        "RowDescription": "None"
+      },
+      "\u80DC\u5229\u4E00\u56DE\u5408": {
+        "ArenaScoreEventName": "EArenaScoreChangeEvent::Win",
+        "ArenaScoreValue": 0,
+        "ArenaScoreIncreaseCount": 2,
+        "ArenaScoreIncreaseBase": 2000,
+        "ArenaScoreIncreaseFactor": 300,
+        "bTriggerArenaScoreIncreaseInterest": true,
+        "ShowText": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "IconColor": {
+          "R": 1,
+          "G": 1,
+          "B": 1,
+          "A": 1
+        },
+        "Audio": "UI_BF_MP_Score_Normal",
+        "RowDescription": "None"
+      },
+      "\u8FDE\u80DC": {
+        "ArenaScoreEventName": "EArenaScoreChangeEvent::Win_Continue",
+        "ArenaScoreValue": 0,
+        "ArenaScoreIncreaseCount": 1,
+        "ArenaScoreIncreaseBase": 1000,
+        "ArenaScoreIncreaseFactor": 200,
+        "bTriggerArenaScoreIncreaseInterest": true,
+        "ShowText": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "IconColor": {
+          "R": 1,
+          "G": 1,
+          "B": 1,
+          "A": 1
+        },
+        "Audio": "UI_BF_MP_Score_Normal",
+        "RowDescription": "None"
+      },
+      "\u8FDE\u80DC\u540E\u9996\u8D25": {
+        "ArenaScoreEventName": "EArenaScoreChangeEvent::Win_Continue_Turn_Lose",
+        "ArenaScoreValue": 0,
+        "ArenaScoreIncreaseCount": 1,
+        "ArenaScoreIncreaseBase": 1000,
+        "ArenaScoreIncreaseFactor": 200,
+        "bTriggerArenaScoreIncreaseInterest": true,
+        "ShowText": "",
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "IconColor": {
+          "R": 1,
+          "G": 1,
+          "B": 1,
+          "A": 1
+        },
+        "Audio": "UI_BF_MP_Score_Normal",
+        "RowDescription": "None"
+      },
+      "\u5931\u8D25\u4E00\u56DE\u5408": {
+        "ArenaScoreEventName": "EArenaScoreChangeEvent::Lose",
+        "ArenaScoreValue": 0,
+        "ArenaScoreIncreaseCount": 1,
+        "ArenaScoreIncreaseBase": 1000,
+        "ArenaScoreIncreaseFactor": 200,
+        "bTriggerArenaScoreIncreaseInterest": true,
+        "ShowText": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "IconColor": {
+          "R": 1,
+          "G": 1,
+          "B": 1,
+          "A": 1
+        },
+        "Audio": "UI_BF_MP_Score_Normal",
+        "RowDescription": "None"
+      },
+      "\u8FDE\u8D25": {
+        "ArenaScoreEventName": "EArenaScoreChangeEvent::Lose_Continue",
+        "ArenaScoreValue": 0,
+        "ArenaScoreIncreaseCount": 1,
+        "ArenaScoreIncreaseBase": 1000,
+        "ArenaScoreIncreaseFactor": 200,
+        "bTriggerArenaScoreIncreaseInterest": true,
+        "ShowText": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "IconColor": {
+          "R": 1,
+          "G": 1,
+          "B": 1,
+          "A": 1
+        },
+        "Audio": "UI_BF_MP_Score_Normal",
+        "RowDescription": "None"
+      },
+      "\u8FDE\u8D25\u540E\u9996\u80DC": {
+        "ArenaScoreEventName": "EArenaScoreChangeEvent::Lose_Continue_Turn_Win",
+        "ArenaScoreValue": 0,
+        "ArenaScoreIncreaseCount": 3,
+        "ArenaScoreIncreaseBase": 3000,
+        "ArenaScoreIncreaseFactor": 300,
+        "bTriggerArenaScoreIncreaseInterest": true,
+        "ShowText": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "IconColor": {
+          "R": 1,
+          "G": 1,
+          "B": 1,
+          "A": 1
+        },
+        "Audio": "UI_BF_MP_Score_Normal",
+        "RowDescription": "None"
+      },
+      "\u51FB\u5012\u73A9\u5BB6": {
+        "ArenaScoreEventName": "EArenaScoreChangeEvent::Kill",
+        "ArenaScoreValue": 100,
+        "ArenaScoreIncreaseCount": 0,
+        "ArenaScoreIncreaseBase": 0,
+        "ArenaScoreIncreaseFactor": 0,
+        "bTriggerArenaScoreIncreaseInterest": false,
+        "ShowText": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/HUD/BakedSprite/HUD_Feedback_Icon_0012.HUD_Feedback_Icon_0012"
+        },
+        "IconColor": {
+          "R": 1,
+          "G": 1,
+          "B": 1,
+          "A": 1
+        },
+        "Audio": "UI_BF_MP_Score_Normal",
+        "RowDescription": "None"
+      },
+      "\u534F\u52A9\u51FB\u5012\u73A9\u5BB6": {
+        "ArenaScoreEventName": "EArenaScoreChangeEvent::Assist",
+        "ArenaScoreValue": 50,
+        "ArenaScoreIncreaseCount": 0,
+        "ArenaScoreIncreaseBase": 0,
+        "ArenaScoreIncreaseFactor": 0,
+        "bTriggerArenaScoreIncreaseInterest": false,
+        "ShowText": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/HUD/BakedSprite/HUD_Feedback_Icon_0004.HUD_Feedback_Icon_0004"
+        },
+        "IconColor": {
+          "R": 1,
+          "G": 1,
+          "B": 1,
+          "A": 1
+        },
+        "Audio": "UI_BF_MP_Score_Normal",
+        "RowDescription": "None"
+      },
+      "\u56DE\u5408\u9996\u6B21\u62FF\u8D77\u66FC\u5FB7\u5C14\u7816": {
+        "ArenaScoreEventName": "EArenaScoreChangeEvent::Brick_RoundFirstPick",
+        "ArenaScoreValue": 100,
+        "ArenaScoreIncreaseCount": 0,
+        "ArenaScoreIncreaseBase": 0,
+        "ArenaScoreIncreaseFactor": 0,
+        "bTriggerArenaScoreIncreaseInterest": false,
+        "ShowText": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/CommonHud_MapMarker_Icon_0211.CommonHud_MapMarker_Icon_0211"
+        },
+        "IconColor": {
+          "R": 1,
+          "G": 1,
+          "B": 1,
+          "A": 1
+        },
+        "Audio": "UI_BF_MP_Score_Normal",
+        "RowDescription": "None"
+      },
+      "\u7834\u8BD1\u66FC\u5FB7\u5C14\u7816": {
+        "ArenaScoreEventName": "EArenaScoreChangeEvent::Brick_Decode",
+        "ArenaScoreValue": 100,
+        "ArenaScoreIncreaseCount": 0,
+        "ArenaScoreIncreaseBase": 0,
+        "ArenaScoreIncreaseFactor": 0,
+        "bTriggerArenaScoreIncreaseInterest": false,
+        "ShowText": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/CommonHud_MapMarker_Icon_0211.CommonHud_MapMarker_Icon_0211"
+        },
+        "IconColor": {
+          "R": 1,
+          "G": 1,
+          "B": 1,
+          "A": 1
+        },
+        "Audio": "UI_BF_MP_Score_Normal",
+        "RowDescription": "None"
+      },
+      "\u4E0A\u4F20\u66FC\u5FB7\u5C14\u7816": {
+        "ArenaScoreEventName": "EArenaScoreChangeEvent::Brick_Upload",
+        "ArenaScoreValue": 100,
+        "ArenaScoreIncreaseCount": 0,
+        "ArenaScoreIncreaseBase": 0,
+        "ArenaScoreIncreaseFactor": 0,
+        "bTriggerArenaScoreIncreaseInterest": false,
+        "ShowText": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/CommonHud_MapMarker_Icon_0211.CommonHud_MapMarker_Icon_0211"
+        },
+        "IconColor": {
+          "R": 1,
+          "G": 1,
+          "B": 1,
+          "A": 1
+        },
+        "Audio": "UI_BF_MP_Score_Normal",
+        "RowDescription": "None"
+      },
+      "\u51FB\u6740AI": {
+        "ArenaScoreEventName": "EArenaScoreChangeEvent::Kill_AI",
+        "ArenaScoreValue": 0,
+        "ArenaScoreIncreaseCount": 0,
+        "ArenaScoreIncreaseBase": 0,
+        "ArenaScoreIncreaseFactor": 0,
+        "bTriggerArenaScoreIncreaseInterest": false,
+        "ShowText": "",
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "IconColor": {
+          "R": 1,
+          "G": 1,
+          "B": 1,
+          "A": 1
+        },
+        "Audio": "",
+        "RowDescription": "None"
+      },
+      "\u534F\u52A9\u51FB\u6740AI": {
+        "ArenaScoreEventName": "EArenaScoreChangeEvent::Assist_Kill_AI",
+        "ArenaScoreValue": 0,
+        "ArenaScoreIncreaseCount": 0,
+        "ArenaScoreIncreaseBase": 0,
+        "ArenaScoreIncreaseFactor": 0,
+        "bTriggerArenaScoreIncreaseInterest": false,
+        "ShowText": "",
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "IconColor": {
+          "R": 1,
+          "G": 1,
+          "B": 1,
+          "A": 1
+        },
+        "Audio": "",
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 14
+  }
+]

@@ -1,0 +1,2 @@
+﻿RowName,BehaviorType,ThreatDecreaseDistance,ThreatDecrease_Default,ThreatDecrease_EyeSight,ThreatDecrease_Hurt,ThreatDecrease_HearSound,ThreatDecrease_AirHit,EyeSightDistCurve,EyeSightDirectionCurve,HearingDistCurve
+NewRow,EGPSpecificBehaviorType::ENormal,4000000,1,1,1,1,1,,,

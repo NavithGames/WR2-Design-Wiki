@@ -1,0 +1,525 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "CharacterScoringConfig",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Character/CharacterScoringConfig",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "AICharacterScoringData",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "0": {
+        "KillEnemyScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 50,
+          "Upper": 60
+        },
+        "PickupItemScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 5,
+          "Upper": 10
+        },
+        "MakeDamageScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 10,
+          "Upper": 15
+        },
+        "RecoverHealthScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 1,
+          "Upper": 1.5
+        },
+        "GetDamageScore": {
+          "_StructType": "FStructFallback",
+          "Lower": -2,
+          "Upper": -2.5
+        },
+        "TickingScore": {
+          "_StructType": "FStructFallback",
+          "Lower": -3,
+          "Upper": -6
+        },
+        "ScoreBound": {
+          "_StructType": "FStructFallback",
+          "Lower": 1,
+          "Upper": 299
+        },
+        "TickingDelay": 10,
+        "RowDescription": "None"
+      },
+      "30": {
+        "KillEnemyScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 50,
+          "Upper": 60
+        },
+        "PickupItemScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 5,
+          "Upper": 10
+        },
+        "MakeDamageScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 10,
+          "Upper": 15
+        },
+        "RecoverHealthScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 1,
+          "Upper": 1.5
+        },
+        "GetDamageScore": {
+          "_StructType": "FStructFallback",
+          "Lower": -2,
+          "Upper": -2.5
+        },
+        "TickingScore": {
+          "_StructType": "FStructFallback",
+          "Lower": -3,
+          "Upper": -6
+        },
+        "ScoreBound": {
+          "_StructType": "FStructFallback",
+          "Lower": 1,
+          "Upper": 299
+        },
+        "TickingDelay": 10,
+        "RowDescription": "None"
+      },
+      "20": {
+        "KillEnemyScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 50,
+          "Upper": 60
+        },
+        "PickupItemScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 5,
+          "Upper": 10
+        },
+        "MakeDamageScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 10,
+          "Upper": 15
+        },
+        "RecoverHealthScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 1,
+          "Upper": 1.5
+        },
+        "GetDamageScore": {
+          "_StructType": "FStructFallback",
+          "Lower": -2,
+          "Upper": -2.5
+        },
+        "TickingScore": {
+          "_StructType": "FStructFallback",
+          "Lower": -3,
+          "Upper": -6
+        },
+        "ScoreBound": {
+          "_StructType": "FStructFallback",
+          "Lower": 1,
+          "Upper": 299
+        },
+        "TickingDelay": 10,
+        "RowDescription": "None"
+      },
+      "10": {
+        "KillEnemyScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 50,
+          "Upper": 60
+        },
+        "PickupItemScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 5,
+          "Upper": 10
+        },
+        "MakeDamageScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 10,
+          "Upper": 15
+        },
+        "RecoverHealthScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 1,
+          "Upper": 1.5
+        },
+        "GetDamageScore": {
+          "_StructType": "FStructFallback",
+          "Lower": -2,
+          "Upper": -2.5
+        },
+        "TickingScore": {
+          "_StructType": "FStructFallback",
+          "Lower": -3,
+          "Upper": -6
+        },
+        "ScoreBound": {
+          "_StructType": "FStructFallback",
+          "Lower": 1,
+          "Upper": 299
+        },
+        "TickingDelay": 10,
+        "RowDescription": "None"
+      },
+      "121": {
+        "KillEnemyScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 50,
+          "Upper": 60
+        },
+        "PickupItemScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 5,
+          "Upper": 10
+        },
+        "MakeDamageScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 10,
+          "Upper": 15
+        },
+        "RecoverHealthScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 1,
+          "Upper": 1.5
+        },
+        "GetDamageScore": {
+          "_StructType": "FStructFallback",
+          "Lower": -2,
+          "Upper": -2.5
+        },
+        "TickingScore": {
+          "_StructType": "FStructFallback",
+          "Lower": -3,
+          "Upper": -6
+        },
+        "ScoreBound": {
+          "_StructType": "FStructFallback",
+          "Lower": 1,
+          "Upper": 299
+        },
+        "TickingDelay": 10,
+        "RowDescription": "None"
+      },
+      "122": {
+        "KillEnemyScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 50,
+          "Upper": 60
+        },
+        "PickupItemScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 5,
+          "Upper": 10
+        },
+        "MakeDamageScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 10,
+          "Upper": 15
+        },
+        "RecoverHealthScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 1,
+          "Upper": 1.5
+        },
+        "GetDamageScore": {
+          "_StructType": "FStructFallback",
+          "Lower": -2,
+          "Upper": -2.5
+        },
+        "TickingScore": {
+          "_StructType": "FStructFallback",
+          "Lower": -3,
+          "Upper": -6
+        },
+        "ScoreBound": {
+          "_StructType": "FStructFallback",
+          "Lower": 1,
+          "Upper": 299
+        },
+        "TickingDelay": 10,
+        "RowDescription": "None"
+      },
+      "120": {
+        "KillEnemyScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 50,
+          "Upper": 60
+        },
+        "PickupItemScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 5,
+          "Upper": 10
+        },
+        "MakeDamageScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 10,
+          "Upper": 15
+        },
+        "RecoverHealthScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 1,
+          "Upper": 1.5
+        },
+        "GetDamageScore": {
+          "_StructType": "FStructFallback",
+          "Lower": -2,
+          "Upper": -2.5
+        },
+        "TickingScore": {
+          "_StructType": "FStructFallback",
+          "Lower": -3,
+          "Upper": -6
+        },
+        "ScoreBound": {
+          "_StructType": "FStructFallback",
+          "Lower": 1,
+          "Upper": 299
+        },
+        "TickingDelay": 10,
+        "RowDescription": "None"
+      },
+      "10030": {
+        "KillEnemyScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 50,
+          "Upper": 60
+        },
+        "PickupItemScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 5,
+          "Upper": 10
+        },
+        "MakeDamageScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 10,
+          "Upper": 15
+        },
+        "RecoverHealthScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 1,
+          "Upper": 1.5
+        },
+        "GetDamageScore": {
+          "_StructType": "FStructFallback",
+          "Lower": -2,
+          "Upper": -2.5
+        },
+        "TickingScore": {
+          "_StructType": "FStructFallback",
+          "Lower": -3,
+          "Upper": -6
+        },
+        "ScoreBound": {
+          "_StructType": "FStructFallback",
+          "Lower": 1,
+          "Upper": 299
+        },
+        "TickingDelay": 10,
+        "RowDescription": "None"
+      },
+      "10020": {
+        "KillEnemyScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 50,
+          "Upper": 60
+        },
+        "PickupItemScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 5,
+          "Upper": 10
+        },
+        "MakeDamageScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 10,
+          "Upper": 15
+        },
+        "RecoverHealthScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 1,
+          "Upper": 1.5
+        },
+        "GetDamageScore": {
+          "_StructType": "FStructFallback",
+          "Lower": -2,
+          "Upper": -2.5
+        },
+        "TickingScore": {
+          "_StructType": "FStructFallback",
+          "Lower": -3,
+          "Upper": -6
+        },
+        "ScoreBound": {
+          "_StructType": "FStructFallback",
+          "Lower": 1,
+          "Upper": 299
+        },
+        "TickingDelay": 10,
+        "RowDescription": "None"
+      },
+      "10010": {
+        "KillEnemyScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 50,
+          "Upper": 60
+        },
+        "PickupItemScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 5,
+          "Upper": 10
+        },
+        "MakeDamageScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 10,
+          "Upper": 15
+        },
+        "RecoverHealthScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 1,
+          "Upper": 1.5
+        },
+        "GetDamageScore": {
+          "_StructType": "FStructFallback",
+          "Lower": -2,
+          "Upper": -2.5
+        },
+        "TickingScore": {
+          "_StructType": "FStructFallback",
+          "Lower": -3,
+          "Upper": -6
+        },
+        "ScoreBound": {
+          "_StructType": "FStructFallback",
+          "Lower": 1,
+          "Upper": 299
+        },
+        "TickingDelay": 10,
+        "RowDescription": "None"
+      },
+      "100121": {
+        "KillEnemyScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 50,
+          "Upper": 60
+        },
+        "PickupItemScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 5,
+          "Upper": 10
+        },
+        "MakeDamageScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 10,
+          "Upper": 15
+        },
+        "RecoverHealthScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 1,
+          "Upper": 1.5
+        },
+        "GetDamageScore": {
+          "_StructType": "FStructFallback",
+          "Lower": -2,
+          "Upper": -2.5
+        },
+        "TickingScore": {
+          "_StructType": "FStructFallback",
+          "Lower": -3,
+          "Upper": -6
+        },
+        "ScoreBound": {
+          "_StructType": "FStructFallback",
+          "Lower": 1,
+          "Upper": 299
+        },
+        "TickingDelay": 10,
+        "RowDescription": "None"
+      },
+      "100122": {
+        "KillEnemyScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 50,
+          "Upper": 60
+        },
+        "PickupItemScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 5,
+          "Upper": 10
+        },
+        "MakeDamageScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 10,
+          "Upper": 15
+        },
+        "RecoverHealthScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 1,
+          "Upper": 1.5
+        },
+        "GetDamageScore": {
+          "_StructType": "FStructFallback",
+          "Lower": -2,
+          "Upper": -2.5
+        },
+        "TickingScore": {
+          "_StructType": "FStructFallback",
+          "Lower": -3,
+          "Upper": -6
+        },
+        "ScoreBound": {
+          "_StructType": "FStructFallback",
+          "Lower": 1,
+          "Upper": 299
+        },
+        "TickingDelay": 10,
+        "RowDescription": "None"
+      },
+      "100120": {
+        "KillEnemyScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 50,
+          "Upper": 60
+        },
+        "PickupItemScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 5,
+          "Upper": 10
+        },
+        "MakeDamageScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 10,
+          "Upper": 15
+        },
+        "RecoverHealthScore": {
+          "_StructType": "FStructFallback",
+          "Lower": 1,
+          "Upper": 1.5
+        },
+        "GetDamageScore": {
+          "_StructType": "FStructFallback",
+          "Lower": -2,
+          "Upper": -2.5
+        },
+        "TickingScore": {
+          "_StructType": "FStructFallback",
+          "Lower": -3,
+          "Upper": -6
+        },
+        "ScoreBound": {
+          "_StructType": "FStructFallback",
+          "Lower": 1,
+          "Upper": 299
+        },
+        "TickingDelay": 10,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 13
+  }
+]

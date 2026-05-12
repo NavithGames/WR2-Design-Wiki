@@ -1,0 +1,52 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "MatchTeamMode",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/MatchName/MatchTeamMode",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "MatchTeamMode",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "1": {
+        "TeamMode": 1,
+        "TeamModeName": null,
+        "TeamModeFullName": null,
+        "TeamModeDesc": "",
+        "RowDescription": "None"
+      },
+      "2": {
+        "TeamMode": 2,
+        "TeamModeName": null,
+        "TeamModeFullName": null,
+        "TeamModeDesc": "",
+        "RowDescription": "None"
+      },
+      "3": {
+        "TeamMode": 3,
+        "TeamModeName": null,
+        "TeamModeFullName": null,
+        "TeamModeDesc": "",
+        "RowDescription": "None"
+      },
+      "4": {
+        "TeamMode": 4,
+        "TeamModeName": null,
+        "TeamModeFullName": null,
+        "TeamModeDesc": "",
+        "RowDescription": "None"
+      },
+      "7": {
+        "TeamMode": 7,
+        "TeamModeName": null,
+        "TeamModeFullName": null,
+        "TeamModeDesc": "",
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 5
+  }
+]

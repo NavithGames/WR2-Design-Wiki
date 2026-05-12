@@ -1,0 +1,320 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "PartsExcludeRule",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/WeaponPart/PartsExcludeRule",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "PartExcludeRuleRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "1": {
+        "RuleKey": 1,
+        "ItemId": 13110000001,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "Rea_point",
+        "ExcludeList": [
+          13190000001
+        ],
+        "RowDescription": "None"
+      },
+      "2": {
+        "RuleKey": 2,
+        "ItemId": 13110000002,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "Rea_point",
+        "ExcludeList": [
+          13190000001
+        ],
+        "RowDescription": "None"
+      },
+      "3": {
+        "RuleKey": 3,
+        "ItemId": 13110000003,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "Rea_point",
+        "ExcludeList": [
+          13190000001
+        ],
+        "RowDescription": "None"
+      },
+      "4": {
+        "RuleKey": 4,
+        "ItemId": 13110000004,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "Rea_point",
+        "ExcludeList": [],
+        "RowDescription": "None"
+      },
+      "5": {
+        "RuleKey": 5,
+        "ItemId": 13110000005,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "Rea_point",
+        "ExcludeList": [],
+        "RowDescription": "None"
+      },
+      "6": {
+        "RuleKey": 6,
+        "ItemId": 13110000006,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "Rea_point",
+        "ExcludeList": [],
+        "RowDescription": "None"
+      },
+      "7": {
+        "RuleKey": 7,
+        "ItemId": 13110000007,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "Rea_point",
+        "ExcludeList": [],
+        "RowDescription": "None"
+      },
+      "8": {
+        "RuleKey": 8,
+        "ItemId": 13110000011,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "Rea_point",
+        "ExcludeList": [],
+        "RowDescription": "None"
+      },
+      "9": {
+        "RuleKey": 9,
+        "ItemId": 13110000012,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "Rea_point",
+        "ExcludeList": [],
+        "RowDescription": "None"
+      },
+      "10": {
+        "RuleKey": 10,
+        "ItemId": 13110000013,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "Rea_point",
+        "ExcludeList": [],
+        "RowDescription": "None"
+      },
+      "11": {
+        "RuleKey": 11,
+        "ItemId": 13110000014,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "Rea_point",
+        "ExcludeList": [],
+        "RowDescription": "None"
+      },
+      "12": {
+        "RuleKey": 12,
+        "ItemId": 13110000015,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "Rea_point",
+        "ExcludeList": [],
+        "RowDescription": "None"
+      },
+      "13": {
+        "RuleKey": 13,
+        "ItemId": 13110000016,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "Rea_point",
+        "ExcludeList": [],
+        "RowDescription": "None"
+      },
+      "14": {
+        "RuleKey": 14,
+        "ItemId": 13110000017,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "Rea_point",
+        "ExcludeList": [],
+        "RowDescription": "None"
+      },
+      "15": {
+        "RuleKey": 15,
+        "ItemId": 13110000018,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "Rea_point",
+        "ExcludeList": [],
+        "RowDescription": "None"
+      },
+      "16": {
+        "RuleKey": 16,
+        "ItemId": 13110000019,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "Rea_point",
+        "ExcludeList": [],
+        "RowDescription": "None"
+      },
+      "17": {
+        "RuleKey": 17,
+        "ItemId": 13110000020,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "Rea_point",
+        "ExcludeList": [],
+        "RowDescription": "None"
+      },
+      "18": {
+        "RuleKey": 18,
+        "ItemId": 13110000021,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "Rea_point",
+        "ExcludeList": [],
+        "RowDescription": "None"
+      },
+      "19": {
+        "RuleKey": 19,
+        "ItemId": 13110000001,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "FroS_point",
+        "ExcludeList": [],
+        "RowDescription": "None"
+      },
+      "20": {
+        "RuleKey": 20,
+        "ItemId": 13110000002,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "FroS_point",
+        "ExcludeList": [],
+        "RowDescription": "None"
+      },
+      "21": {
+        "RuleKey": 21,
+        "ItemId": 13110000003,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "FroS_point",
+        "ExcludeList": [],
+        "RowDescription": "None"
+      },
+      "22": {
+        "RuleKey": 22,
+        "ItemId": 13110000004,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "FroS_point",
+        "ExcludeList": [],
+        "RowDescription": "None"
+      },
+      "23": {
+        "RuleKey": 23,
+        "ItemId": 13110000005,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "FroS_point",
+        "ExcludeList": [],
+        "RowDescription": "None"
+      },
+      "24": {
+        "RuleKey": 24,
+        "ItemId": 13110000006,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "FroS_point",
+        "ExcludeList": [],
+        "RowDescription": "None"
+      },
+      "25": {
+        "RuleKey": 25,
+        "ItemId": 13110000007,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "FroS_point",
+        "ExcludeList": [],
+        "RowDescription": "None"
+      },
+      "26": {
+        "RuleKey": 26,
+        "ItemId": 13110000011,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "FroS_point",
+        "ExcludeList": [],
+        "RowDescription": "None"
+      },
+      "27": {
+        "RuleKey": 27,
+        "ItemId": 13110000012,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "FroS_point",
+        "ExcludeList": [],
+        "RowDescription": "None"
+      },
+      "28": {
+        "RuleKey": 28,
+        "ItemId": 13110000013,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "FroS_point",
+        "ExcludeList": [],
+        "RowDescription": "None"
+      },
+      "29": {
+        "RuleKey": 29,
+        "ItemId": 13110000014,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "FroS_point",
+        "ExcludeList": [],
+        "RowDescription": "None"
+      },
+      "30": {
+        "RuleKey": 30,
+        "ItemId": 13110000015,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "FroS_point",
+        "ExcludeList": [],
+        "RowDescription": "None"
+      },
+      "31": {
+        "RuleKey": 31,
+        "ItemId": 13110000016,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "FroS_point",
+        "ExcludeList": [],
+        "RowDescription": "None"
+      },
+      "32": {
+        "RuleKey": 32,
+        "ItemId": 13110000017,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "FroS_point",
+        "ExcludeList": [],
+        "RowDescription": "None"
+      },
+      "33": {
+        "RuleKey": 33,
+        "ItemId": 13110000018,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "FroS_point",
+        "ExcludeList": [],
+        "RowDescription": "None"
+      },
+      "34": {
+        "RuleKey": 34,
+        "ItemId": 13110000019,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "FroS_point",
+        "ExcludeList": [],
+        "RowDescription": "None"
+      },
+      "35": {
+        "RuleKey": 35,
+        "ItemId": 13110000020,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "FroS_point",
+        "ExcludeList": [],
+        "RowDescription": "None"
+      },
+      "36": {
+        "RuleKey": 36,
+        "ItemId": 13110000021,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "FroS_point",
+        "ExcludeList": [],
+        "RowDescription": "None"
+      },
+      "37": {
+        "RuleKey": 37,
+        "ItemId": 13030000108,
+        "ExcludeSocketParentType": "EAdapterItemType::None",
+        "ExcludeSocketName": "Sto_point",
+        "ExcludeList": [],
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 37
+  }
+]

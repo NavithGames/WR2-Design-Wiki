@@ -1,0 +1,20 @@
+﻿RowName,MapID,VehicleSkillExtraDataConfigMap,RowDescription
+10001,601,"(Key=10004, Value=(SkillId=10004, CDTime=28, SkillLengthTime=8, SkillNum=100)); (Key=10003, Value=(SkillId=10003, CDTime=40, SkillLengthTime=10, SkillNum=100))",None
+10002,602,"(Key=10004, Value=(SkillId=10004, CDTime=28, SkillLengthTime=8, SkillNum=100)); (Key=10003, Value=(SkillId=10003, CDTime=40, SkillLengthTime=10, SkillNum=100))",None
+10003,603,"(Key=10004, Value=(SkillId=10004, CDTime=28, SkillLengthTime=8, SkillNum=100)); (Key=10003, Value=(SkillId=10003, CDTime=40, SkillLengthTime=10, SkillNum=100))",None
+10004,604,"(Key=10004, Value=(SkillId=10004, CDTime=28, SkillLengthTime=8, SkillNum=100)); (Key=10003, Value=(SkillId=10003, CDTime=40, SkillLengthTime=10, SkillNum=100))",None
+10005,605,"(Key=10004, Value=(SkillId=10004, CDTime=28, SkillLengthTime=8, SkillNum=100)); (Key=10003, Value=(SkillId=10003, CDTime=40, SkillLengthTime=10, SkillNum=100))",None
+10006,606,"(Key=10004, Value=(SkillId=10004, CDTime=28, SkillLengthTime=8, SkillNum=100)); (Key=10003, Value=(SkillId=10003, CDTime=40, SkillLengthTime=10, SkillNum=100))",None
+10007,607,"(Key=10004, Value=(SkillId=10004, CDTime=28, SkillLengthTime=8, SkillNum=100)); (Key=10003, Value=(SkillId=10003, CDTime=40, SkillLengthTime=10, SkillNum=100))",None
+10008,608,"(Key=10004, Value=(SkillId=10004, CDTime=28, SkillLengthTime=8, SkillNum=100)); (Key=10003, Value=(SkillId=10003, CDTime=40, SkillLengthTime=10, SkillNum=100))",None
+NewRow_6,621,"(Key=10004, Value=(SkillId=10004, CDTime=40, SkillLengthTime=4, SkillNum=1)); (Key=10003, Value=(SkillId=10003, CDTime=40, SkillLengthTime=10, SkillNum=100))",None
+NewRow,629,"(Key=10004, Value=(SkillId=10004, CDTime=40, SkillLengthTime=4, SkillNum=1)); (Key=10003, Value=(SkillId=10003, CDTime=40, SkillLengthTime=10, SkillNum=100))",None
+NewRow_7,622,"(Key=10004, Value=(SkillId=10004, CDTime=40, SkillLengthTime=4, SkillNum=1)); (Key=10003, Value=(SkillId=10003, CDTime=40, SkillLengthTime=10, SkillNum=100))",None
+NewRow_8,623,"(Key=10004, Value=(SkillId=10004, CDTime=40, SkillLengthTime=4, SkillNum=1)); (Key=10003, Value=(SkillId=10003, CDTime=40, SkillLengthTime=10, SkillNum=100))",None
+NewRow_9,626,"(Key=10004, Value=(SkillId=10004, CDTime=40, SkillLengthTime=4, SkillNum=1)); (Key=10003, Value=(SkillId=10003, CDTime=40, SkillLengthTime=10, SkillNum=100))",None
+NewRow_10,625,"(Key=10004, Value=(SkillId=10004, CDTime=40, SkillLengthTime=4, SkillNum=1)); (Key=10003, Value=(SkillId=10003, CDTime=40, SkillLengthTime=10, SkillNum=100))",None
+NewRow_0,956,"(Key=10004, Value=(SkillId=10004, CDTime=60, SkillLengthTime=15, SkillNum=100)); (Key=10001, Value=(SkillId=10001, CDTime=20, SkillLengthTime=12, SkillNum=100))",None
+NewRow_1,957,"(Key=10004, Value=(SkillId=10004, CDTime=60, SkillLengthTime=15, SkillNum=100)); (Key=10001, Value=(SkillId=10001, CDTime=20, SkillLengthTime=12, SkillNum=100))",None
+NewRow_2,958,"(Key=10004, Value=(SkillId=10004, CDTime=60, SkillLengthTime=15, SkillNum=100)); (Key=10001, Value=(SkillId=10001, CDTime=20, SkillLengthTime=12, SkillNum=100))",None
+NewRow_3,997,"(Key=10004, Value=(SkillId=10004, CDTime=60, SkillLengthTime=15, SkillNum=100)); (Key=10001, Value=(SkillId=10001, CDTime=20, SkillLengthTime=12, SkillNum=100))",None
+NewRow_4,996,"(Key=10004, Value=(SkillId=10004, CDTime=60, SkillLengthTime=15, SkillNum=100)); (Key=10001, Value=(SkillId=10001, CDTime=20, SkillLengthTime=12, SkillNum=100))",None

@@ -1,0 +1,17 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "AIDirectorParams",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/AIDirectorParams",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "AIDirectParams",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {},
+    "_RowCount": 0
+  }
+]

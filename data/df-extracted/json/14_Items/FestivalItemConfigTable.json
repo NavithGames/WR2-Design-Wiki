@@ -1,0 +1,93 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "FestivalItemConfigTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/BattleField/FestivalItemConfigTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "FestivalItemConfigRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "RedEnvelope": {
+        "MapFeatureTag": "EBattleFieldMapFutureTag::RedEnvelope",
+        "Priority": 0,
+        "ItemMesh": {
+          "AssetPath": "/Game/Effects/Common/Mesh/Object/SM_EFX_Envelope_02.SM_EFX_Envelope_02",
+          "SubPath": ""
+        },
+        "NewMeshTransformOffset": {
+          "_StructType": "FStructFallback",
+          "Rotation": {
+            "_StructType": "FQuat",
+            "_Value": "X=0.000 Y=-0.000 Z=0.000 W=1.000"
+          },
+          "Translation": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+          },
+          "Scale3D": {
+            "X": 1,
+            "Y": 1,
+            "Z": 1
+          }
+        },
+        "DropEffectId": "P_EFX_Redenvelope_Kill",
+        "ItemMaterial": {
+          "AssetPath": "/Game/Effects/Common/MaterialInstance/Object/M_WPO_LoopTransform_Envelope.M_WPO_LoopTransform_Envelope",
+          "SubPath": ""
+        },
+        "TopBarIconSprite": {
+          "AssetPath": "/Game/UI/UIAtlas/CommonHud/BakedSprite/CommonHud_MapMarker_Icon_0910.CommonHud_MapMarker_Icon_0910",
+          "SubPath": ""
+        },
+        "PlayerWidgetType": 1,
+        "PickUpScoreName": "EScoreName::EPickUpRedPacket",
+        "MaxSpeedBuffID": 140094,
+        "MaxHealthBuffID": 140093
+      },
+      "Zongzi": {
+        "MapFeatureTag": "EBattleFieldMapFutureTag::Zongzi",
+        "Priority": 100,
+        "ItemMesh": {
+          "AssetPath": "/Game/Models/Props/Collect/props_collect_Zongzi_1182/props_collect_Zongzi_1182_3P.props_collect_Zongzi_1182_3P",
+          "SubPath": ""
+        },
+        "NewMeshTransformOffset": {
+          "_StructType": "FStructFallback",
+          "Rotation": {
+            "_StructType": "FQuat",
+            "_Value": "X=0.000 Y=-0.000 Z=0.000 W=1.000"
+          },
+          "Translation": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+          },
+          "Scale3D": {
+            "X": 0.25,
+            "Y": 0.25,
+            "Z": 0.25
+          }
+        },
+        "DropEffectId": "P_EFX_ZongZi_Kill",
+        "ItemMaterial": {
+          "AssetPath": "/Game/Effects/Common/MaterialInstance/Object/M_WPO_LoopTransform_Zongzi.M_WPO_LoopTransform_Zongzi",
+          "SubPath": ""
+        },
+        "TopBarIconSprite": {
+          "AssetPath": "/Game/UI/UIAtlas/CommonHud/BakedSprite/CommonHud_MapMarker_Icon_0911.CommonHud_MapMarker_Icon_0911",
+          "SubPath": ""
+        },
+        "PlayerWidgetType": 2,
+        "PickUpScoreName": "EScoreName::EPickUpZongzi",
+        "MaxSpeedBuffID": 140104,
+        "MaxHealthBuffID": 140103
+      }
+    },
+    "_RowCount": 2
+  }
+]

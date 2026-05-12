@@ -1,0 +1,4 @@
+﻿RowName,PhysicalSurfaceGroup,BattelFieldEffectName,BFEffectNameForExplosiones,RowDescription
+1,EGPPhysicalSurfaceGroup::Cement,Dirty,None,None
+2,EGPPhysicalSurfaceGroup::Soil,Dirty,None,None
+3,EGPPhysicalSurfaceGroup::Grass,Dirty,None,None

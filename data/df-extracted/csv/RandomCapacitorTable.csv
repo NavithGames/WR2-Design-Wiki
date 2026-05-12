@@ -1,0 +1,11 @@
+﻿RowName,MapIDs,GroupName,CapacitorNumProbability,CapacitorRankProbability,ChainNumProbability
+AZ5_Low_GroupA,8901,GroupA,"(Key=2, Value=0.5); (Key=3, Value=0.5)","(Key=1, Value=0.05); (Key=2, Value=0.25); (Key=3, Value=0.6); (Key=4, Value=0.1)","(Key=2, Value=1)"
+AZ5_Low_GroupB,8901,GroupB,"(Key=1, Value=1)","(Key=1, Value=0.05); (Key=2, Value=0.25); (Key=3, Value=0.6); (Key=4, Value=0.1)","(Key=1, Value=1)"
+AZ5_Low_GroupC,8901,GroupC,"(Key=2, Value=1)","(Key=1, Value=0.05); (Key=2, Value=0.25); (Key=3, Value=0.6); (Key=4, Value=0.1)","(Key=1, Value=1)"
+AZ5_Low_GroupD,8901,GroupD,"(Key=2, Value=0.5); (Key=3, Value=0.5)","(Key=1, Value=0.05); (Key=2, Value=0.25); (Key=3, Value=0.6); (Key=4, Value=0.1)","(Key=2, Value=1)"
+AZ5_Low_GroupE,8901,GroupE,"(Key=1, Value=1)","(Key=1, Value=0.05); (Key=2, Value=0.25); (Key=3, Value=0.6); (Key=4, Value=0.1)","(Key=1, Value=0.5); (Key=2, Value=0.5)"
+AZ5_Mid_GroupA,8902,GroupA,"(Key=2, Value=0.5); (Key=3, Value=0.5)","(Key=1, Value=0.2); (Key=2, Value=0.45); (Key=3, Value=0.2); (Key=4, Value=0.15)","(Key=2, Value=1)"
+AZ5_Mid_GroupB,8902,GroupB,"(Key=1, Value=1)","(Key=1, Value=0.2); (Key=2, Value=0.45); (Key=3, Value=0.2); (Key=4, Value=0.15)","(Key=1, Value=1)"
+AZ5_Mid_GroupC,8902,GroupC,"(Key=2, Value=1)","(Key=1, Value=0.2); (Key=2, Value=0.45); (Key=3, Value=0.2); (Key=4, Value=0.15)","(Key=1, Value=1)"
+AZ5_Mid_GroupD,8902,GroupD,"(Key=2, Value=0.5); (Key=3, Value=0.5)","(Key=1, Value=0.2); (Key=2, Value=0.45); (Key=3, Value=0.2); (Key=4, Value=0.15)","(Key=2, Value=1)"
+AZ5_Mid_GroupE,8902,GroupE,"(Key=1, Value=1)","(Key=1, Value=0.2); (Key=2, Value=0.45); (Key=3, Value=0.2); (Key=4, Value=0.15)","(Key=1, Value=0.5); (Key=2, Value=0.5)"

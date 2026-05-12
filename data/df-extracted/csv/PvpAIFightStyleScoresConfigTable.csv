@@ -1,0 +1,4 @@
+﻿RowName,Style,MainTargetTreat_Medium,MainTargetTreat_Hight,MainTargetVulnerable_Medium,MainTargetVulnerable_High,EnvironmentTreat_Medium,EnvironmentTreat_High,RowDescription
+Aggressive,EPVPAIFightStyle::Aggressive,30,70,0.3,0.7,30,70,None
+Defensive,EPVPAIFightStyle::Defensive,30,70,0.3,0.7,30,70,None
+Passive,EPVPAIFightStyle::Passive,30,70,0.3,0.7,30,70,None

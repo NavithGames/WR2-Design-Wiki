@@ -1,0 +1,1328 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "HeroArchive",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/Hero/HeroArchive",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "HeroArchive",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "1": {
+        "ID": 88000000030,
+        "ArchiveID": 1001,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Kai/Kai_Equipment_05.Kai_Equipment_05"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=0289AC04D55FBC7F7CBC7AB69E3966192F71980A5981981CDB55CEE85C27E89B.jpg",
+        "RowDescription": "None"
+      },
+      "2": {
+        "ID": 88000000030,
+        "ArchiveID": 1002,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Kai/Kai_Weapon_04.Kai_Weapon_04"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=FE060AFF8DF960CAD962C8B1E5D724A303076679F1E2DC69182DB0D45A9E3AFE.jpg",
+        "RowDescription": "None"
+      },
+      "3": {
+        "ID": 88000000030,
+        "ArchiveID": 2001,
+        "OpMetaLevel": 2,
+        "ArchiveType": 2,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Kai/Kai_Psy.Kai_Psy"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=83B1337FB7F68B20C8F319DEABF14C4E9711668FA865990DD92CA5DDBF5D94AD.jpg",
+        "RowDescription": "None"
+      },
+      "4": {
+        "ID": 88000000030,
+        "ArchiveID": 3001,
+        "OpMetaLevel": 4,
+        "ArchiveType": 3,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Kai/Kai_DocPic.Kai_DocPic"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=7FA34906C91D664285248E50BAFC07DFAD9561FDA37BA0786A55FC11A68CCE76.jpg",
+        "RowDescription": "None"
+      },
+      "5": {
+        "ID": 88000000028,
+        "ArchiveID": 1003,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Luna/Luna_Weapon_02.Luna_Weapon_02"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=4F3B6FA57B0C0D6BB1231C3B4E22991372EFD566D85E616CB5118DE9611AEF5A.jpg",
+        "RowDescription": "None"
+      },
+      "6": {
+        "ID": 88000000028,
+        "ArchiveID": 2002,
+        "OpMetaLevel": 2,
+        "ArchiveType": 2,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Luna/Luna_Psy.Luna_Psy"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=C33A9DCBDA92A8B80AE69EDB493F33599711668FA865990DD92CA5DDBF5D94AD.jpg",
+        "RowDescription": "None"
+      },
+      "7": {
+        "ID": 88000000028,
+        "ArchiveID": 3002,
+        "OpMetaLevel": 4,
+        "ArchiveType": 3,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Luna/Luna_DocPic.Luna_DocPic"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=DD5F61422984E0C336C2E1BA6D5F8D36AD9561FDA37BA0786A55FC11A68CCE76.jpg",
+        "RowDescription": "None"
+      },
+      "8": {
+        "ID": 88000000029,
+        "ArchiveID": 1004,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Terry/Terry_Weapon_02.Terry_Weapon_02"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=A99D67C0CF9DF8FB8FB04058BE2C68AE80A41526ED011528A6F381926180E305.jpg",
+        "RowDescription": "None"
+      },
+      "9": {
+        "ID": 88000000029,
+        "ArchiveID": 1016,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Terry/Terry_Weapon_03.Terry_Weapon_03"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=A99D67C0CF9DF8FB8FB04058BE2C68AE75BA0A31E2CB574DB6A309FFBDD2EC95.jpg",
+        "RowDescription": "None"
+      },
+      "10": {
+        "ID": 88000000029,
+        "ArchiveID": 2003,
+        "OpMetaLevel": 2,
+        "ArchiveType": 2,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Terry/Terry_Psy.Terry_Psy"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=1A98C6DFE3805C70FE729246B7BEFCAD9711668FA865990DD92CA5DDBF5D94AD.jpg",
+        "RowDescription": "None"
+      },
+      "11": {
+        "ID": 88000000029,
+        "ArchiveID": 3003,
+        "OpMetaLevel": 4,
+        "ArchiveType": 3,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Terry/Terry_DocPic.Terry_DocPic"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=B1AE9F86F3099AE751FE41457B95D08CAD9561FDA37BA0786A55FC11A68CCE76.jpg",
+        "RowDescription": "None"
+      },
+      "12": {
+        "ID": 88000000027,
+        "ArchiveID": 1005,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Roy/Roy_Weapon_04.Roy_Weapon_04"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=35BAB872842A73EF2C8F5CFA4DD1788103076679F1E2DC69182DB0D45A9E3AFE.jpg",
+        "RowDescription": "None"
+      },
+      "13": {
+        "ID": 88000000027,
+        "ArchiveID": 1006,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Roy/Roy_Throw_02.Roy_Throw_02"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=AB5E1D851E2CFE764DF56BA4F95D4981AD9561FDA37BA0786A55FC11A68CCE76.jpg",
+        "RowDescription": "None"
+      },
+      "14": {
+        "ID": 88000000027,
+        "ArchiveID": 1007,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Roy/Roy_Weapon_03.Roy_Weapon_03"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=35BAB872842A73EF2C8F5CFA4DD17881A3AF26624D3D3603DA32BAF03B6E3146.jpg",
+        "RowDescription": "None"
+      },
+      "15": {
+        "ID": 88000000027,
+        "ArchiveID": 2004,
+        "OpMetaLevel": 2,
+        "ArchiveType": 2,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Roy/Roy_Psy.Roy_Psy"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=AE41BB5AE9B970554B094D6B6BAFF7439711668FA865990DD92CA5DDBF5D94AD.jpg",
+        "RowDescription": "None"
+      },
+      "16": {
+        "ID": 88000000027,
+        "ArchiveID": 3004,
+        "OpMetaLevel": 4,
+        "ArchiveType": 3,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Roy/Roy_DocPic.Roy_DocPic"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=98738D39185A0A0078D37CA312F76250AD9561FDA37BA0786A55FC11A68CCE76.jpg",
+        "RowDescription": "None"
+      },
+      "17": {
+        "ID": 88000000025,
+        "ArchiveID": 1008,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Vyron/Vyron_Weapon_05.Vyron_Weapon_05"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=54CD57FD6AC7827CED7DFEDDFA64D99CAF56943529A889C0B54D9B70E8EAAF679711668FA865990DD92CA5DDBF5D94AD.jpg",
+        "RowDescription": "None"
+      },
+      "18": {
+        "ID": 88000000025,
+        "ArchiveID": 1009,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Vyron/Vyron_Equipment_07.Vyron_Equipment_07"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=C6E0B038578D1BF0D9177427E37AD12A36D0602A98283CE65CB335047C125E03.jpg",
+        "RowDescription": "None"
+      },
+      "19": {
+        "ID": 88000000025,
+        "ArchiveID": 1010,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Vyron/Vyron_Throw_02.Vyron_Throw_02"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=45AA90B83542F3CAC242A459A765249A72EFD566D85E616CB5118DE9611AEF5A.jpg",
+        "RowDescription": "None"
+      },
+      "20": {
+        "ID": 88000000025,
+        "ArchiveID": 2005,
+        "OpMetaLevel": 2,
+        "ArchiveType": 2,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Vyron/Vyron_Psy.Vyron_Psy"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=337347350A69843F317D8688CB48A79F9711668FA865990DD92CA5DDBF5D94AD.jpg",
+        "RowDescription": "None"
+      },
+      "21": {
+        "ID": 88000000025,
+        "ArchiveID": 3005,
+        "OpMetaLevel": 4,
+        "ArchiveType": 3,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Vyron/Vyron_DocPic.Vyron_DocPic"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=0D987E33ACCF068402C554A1D8D902BAAD9561FDA37BA0786A55FC11A68CCE76.jpg",
+        "RowDescription": "None"
+      },
+      "22": {
+        "ID": 88000000026,
+        "ArchiveID": 1011,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Hack/Hack_Equipment_04.Hack_Equipment_04"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=BAB9C7FB07EFC9DC1D1DAF757BDF6C53284B085AFB17691EA4210E296886AB93.jpg",
+        "RowDescription": "None"
+      },
+      "23": {
+        "ID": 88000000026,
+        "ArchiveID": 1012,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Hack/Hack_Throw_03.Hack_Throw_03"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=5DE5BE58320954118BC81D5990262FFBA3AF26624D3D3603DA32BAF03B6E3146.jpg",
+        "RowDescription": "None"
+      },
+      "24": {
+        "ID": 88000000026,
+        "ArchiveID": 1013,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Hack/Hack_Throw_02.Hack_Throw_02"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=5DE5BE58320954118BC81D5990262FFB49127BE58BF8C9090D0D60A0DE8CB421.jpg",
+        "RowDescription": "None"
+      },
+      "25": {
+        "ID": 88000000026,
+        "ArchiveID": 2006,
+        "OpMetaLevel": 2,
+        "ArchiveType": 2,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Hack/Hack_Psy.Hack_Psy"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=7BC3BF7B22D7EF043B3A5394805580C59711668FA865990DD92CA5DDBF5D94AD.jpg",
+        "RowDescription": "None"
+      },
+      "26": {
+        "ID": 88000000026,
+        "ArchiveID": 3006,
+        "OpMetaLevel": 4,
+        "ArchiveType": 3,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Hack/Hack_DocPic.Hack_DocPic"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=38292164F586AA7535863112E39BAC68AD9561FDA37BA0786A55FC11A68CCE76.jpg",
+        "RowDescription": "None"
+      },
+      "27": {
+        "ID": 88000000035,
+        "ArchiveID": 1014,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/David/David_Weapon_02.David_Weapon_02"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=359F931A97007EDBCCA887AEC14CE9E980A41526ED011528A6F381926180E305.jpg",
+        "RowDescription": "None"
+      },
+      "28": {
+        "ID": 88000000035,
+        "ArchiveID": 1015,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/David/David_Throw_04.David_Throw_04"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=AEB9DFDBEECDC25D26DECD9724736588034B1C4407F959F0DF4AF1C70A2AC2E1.jpg",
+        "RowDescription": "None"
+      },
+      "29": {
+        "ID": 88000000035,
+        "ArchiveID": 2007,
+        "OpMetaLevel": 2,
+        "ArchiveType": 2,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/David/Davia_Psy.Davia_Psy"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=08DE62E2FD4B94E66AFCF251892140769711668FA865990DD92CA5DDBF5D94AD.jpg",
+        "RowDescription": "None"
+      },
+      "30": {
+        "ID": 88000000035,
+        "ArchiveID": 3007,
+        "OpMetaLevel": 4,
+        "ArchiveType": 3,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/David/Davia_DocPic.Davia_DocPic"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=6D858C53AF5E6B93BC5C9DAFC061D69FAD9561FDA37BA0786A55FC11A68CCE76.jpg",
+        "RowDescription": "None"
+      },
+      "31": {
+        "ID": 88000000036,
+        "ArchiveID": 1019,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Zoya/Zoya_equipment_03.Zoya_equipment_03"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=050C8F5DA2658669402EF0E66E0582339F38DB66F99FA637437FB96AC206E114.jpg",
+        "RowDescription": "None"
+      },
+      "32": {
+        "ID": 88000000036,
+        "ArchiveID": 1017,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Zoya/Zoya_equipment_01.Zoya_equipment_01"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=050C8F5DA2658669402EF0E66E05823343520A534E9720F0A569060A0DEB256C.jpg",
+        "RowDescription": "None"
+      },
+      "33": {
+        "ID": 88000000036,
+        "ArchiveID": 1018,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Zoya/Zoya_Throw_02.Zoya_Throw_02"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=E89DE2B19D07191F846FC0B95A5A8C3249127BE58BF8C9090D0D60A0DE8CB421.jpg",
+        "RowDescription": "None"
+      },
+      "34": {
+        "ID": 88000000036,
+        "ArchiveID": 2008,
+        "OpMetaLevel": 2,
+        "ArchiveType": 2,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Zoya/Zoya_Psy.Zoya_Psy"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=192984673DB1E85C6462BB5FF90230D49711668FA865990DD92CA5DDBF5D94AD.jpg",
+        "RowDescription": "None"
+      },
+      "35": {
+        "ID": 88000000036,
+        "ArchiveID": 3008,
+        "OpMetaLevel": 4,
+        "ArchiveType": 3,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Zoya/Zoya_DocPic.Zoya_DocPic"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=B673C0AFFB443B4B7EF852754AA1E256AD9561FDA37BA0786A55FC11A68CCE76.jpg",
+        "RowDescription": "None"
+      },
+      "36": {
+        "ID": 88000000037,
+        "ArchiveID": 1020,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Alex/Alex_equipment_01.Alex_equipment_01"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=600B00ED6126E7D0D616509C1573603443520A534E9720F0A569060A0DEB256C.jpg",
+        "RowDescription": "None"
+      },
+      "37": {
+        "ID": 88000000037,
+        "ArchiveID": 1021,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Alex/Alex_equipment_02.Alex_equipment_02"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=600B00ED6126E7D0D616509C15736034D6C025BC5244CCABFA9E5956F2DC72A8.jpg",
+        "RowDescription": "None"
+      },
+      "38": {
+        "ID": 88000000037,
+        "ArchiveID": 1022,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Alex/Alex_equipment_03.Alex_equipment_03"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=600B00ED6126E7D0D616509C157360349F38DB66F99FA637437FB96AC206E114.jpg",
+        "RowDescription": "None"
+      },
+      "39": {
+        "ID": 88000000037,
+        "ArchiveID": 2009,
+        "OpMetaLevel": 2,
+        "ArchiveType": 2,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Alex/Alex_Psy.Alex_Psy"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=A518CA8AC0ACE859741D98C899CD40BC9711668FA865990DD92CA5DDBF5D94AD.jpg",
+        "RowDescription": "None"
+      },
+      "40": {
+        "ID": 88000000037,
+        "ArchiveID": 3009,
+        "OpMetaLevel": 4,
+        "ArchiveType": 3,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Alex/Alex_DocPic.Alex_DocPic"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=D6220EF71CD032D0F18BAF878D14C319AD9561FDA37BA0786A55FC11A68CCE76.jpg",
+        "RowDescription": "None"
+      },
+      "41": {
+        "ID": 88000000038,
+        "ArchiveID": 1023,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Nox/Elio_Propeller_01.Elio_Propeller_01"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=6626A96EB63CCC390FDE16660FCE3AB4C6BCC2E61C1E8A06650CC2787B69BF7E.jpg",
+        "RowDescription": "None"
+      },
+      "42": {
+        "ID": 88000000038,
+        "ArchiveID": 1024,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Nox/Elio_Flash_01.Elio_Flash_01"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=3FE32F541D53AB60F0337C815BF2EE917833F4837E327947ADF403C82013E608.jpg",
+        "RowDescription": "None"
+      },
+      "43": {
+        "ID": 88000000038,
+        "ArchiveID": 1025,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Nox/Elio_Signal.Elio_Signal"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=C376CDF2AB6F49D6C5BEAF5E220F4AE8AD9561FDA37BA0786A55FC11A68CCE76.jpg",
+        "RowDescription": "None"
+      },
+      "44": {
+        "ID": 88000000038,
+        "ArchiveID": 2010,
+        "OpMetaLevel": 2,
+        "ArchiveType": 2,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Nox/Elio_Psy_g.Elio_Psy_g"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=60A1F7B348B4C62541973464F8DD2295AD9561FDA37BA0786A55FC11A68CCE76.jpg",
+        "RowDescription": "None"
+      },
+      "45": {
+        "ID": 88000000038,
+        "ArchiveID": 3010,
+        "OpMetaLevel": 4,
+        "ArchiveType": 3,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Nox/Elio_DocPic_01.Elio_DocPic_01"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=7710A0B0D012B1B5F5CFD453B66758EACB80E45DFC59243C60B7775ABD6473C1.jpg",
+        "RowDescription": "None"
+      },
+      "46": {
+        "ID": 88000000039,
+        "ArchiveID": 1026,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Claier/Claire_EEDevice_1.Claire_EEDevice_1"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=6D3161FE0EF50C01762B80493687B2FC87A6999EC839F0292DE63B656F004773.jpg",
+        "RowDescription": "None"
+      },
+      "47": {
+        "ID": 88000000039,
+        "ArchiveID": 1027,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Claier/Claire_Drill_01.Claire_Drill_01"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=58E7D7942E19ED6F0A2899DBCEE8F6FA79D15899C6003D6FACA274633A5B4791.jpg",
+        "RowDescription": "None"
+      },
+      "49": {
+        "ID": 88000000039,
+        "ArchiveID": 2011,
+        "OpMetaLevel": 2,
+        "ArchiveType": 2,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Claier/Claire_Psy.Claire_Psy"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=AC37827EF0EBAC6D1EDDC9EFDCB15643AD9561FDA37BA0786A55FC11A68CCE76.jpg",
+        "RowDescription": "None"
+      },
+      "50": {
+        "ID": 88000000039,
+        "ArchiveID": 3011,
+        "OpMetaLevel": 4,
+        "ArchiveType": 3,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Claier/Claire_DocPic.Claire_DocPic"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=FCA32D19EB9F7BBFD7FAF97B2086C7502FB16E4BEFA0251CAE7805CA0D249F0A.jpg",
+        "RowDescription": "None"
+      },
+      "51": {
+        "ID": 88000000040,
+        "ArchiveID": 1028,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Landon/Landon_SpyCamera_01.Landon_SpyCamera_01"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=59C90758FCEA1BE0117CAD4C38AFAEECAF1741B49E87AECFF4828B20DCC0DA639711668FA865990DD92CA5DDBF5D94AD.jpg",
+        "RowDescription": "None"
+      },
+      "52": {
+        "ID": 88000000040,
+        "ArchiveID": 1029,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Landon/Landon_RaptorDrone_01.Landon_RaptorDrone_01"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=61E3253B225F9CEBA6D239C2891BE8E9BA254304B943C5CCC5EC288D86995F659711668FA865990DD92CA5DDBF5D94AD.jpg",
+        "RowDescription": "None"
+      },
+      "53": {
+        "ID": 88000000040,
+        "ArchiveID": 1030,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Landon/Landon_EMPGrenade_01.Landon_EMPGrenade_01"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=C411E1F4C69C0878243457FEF510E83C57E333143DCB673DFAFD8FE4B0881E859711668FA865990DD92CA5DDBF5D94AD.jpg",
+        "RowDescription": "None"
+      },
+      "54": {
+        "ID": 88000000040,
+        "ArchiveID": 2012,
+        "OpMetaLevel": 2,
+        "ArchiveType": 2,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Landon/Landon_Psy.Landon_Psy"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=7910C4095B4F6B4D873506409FF69764AD9561FDA37BA0786A55FC11A68CCE76.jpg",
+        "RowDescription": "None"
+      },
+      "55": {
+        "ID": 88000000040,
+        "ArchiveID": 3012,
+        "OpMetaLevel": 4,
+        "ArchiveType": 3,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Landon/Landon_DocPic.Landon_DocPic"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=306B21950CFDEDF6346BEBD2EF26E44FC8788BE674874CB14D6ECBED39E12C53.jpg",
+        "RowDescription": "None"
+      },
+      "56": {
+        "ID": 88000000041,
+        "ArchiveID": 1031,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/GIZMO/Rashid_Spider.Rashid_Spider"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=67869B22B955025101993DD10FEFE3585B65A75382C59F223E5A0CB7EE9164FA.jpg",
+        "RowDescription": "None"
+      },
+      "57": {
+        "ID": 88000000041,
+        "ArchiveID": 1032,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/GIZMO/Rashid_Smoke.Rashid_Smoke"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=CE4C97CCA690747A4D4C5CAD1B81FE91AD9561FDA37BA0786A55FC11A68CCE76.jpg",
+        "RowDescription": "None"
+      },
+      "58": {
+        "ID": 88000000041,
+        "ArchiveID": 1033,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/GIZMO/Rashid_SentryBox.Rashid_SentryBox"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=158B72AFCE8835367195DA7DC0EE7FAFB579D1AB1DDD1729AF5862BFA50811B1.jpg",
+        "RowDescription": "None"
+      },
+      "59": {
+        "ID": 88000000041,
+        "ArchiveID": 2013,
+        "OpMetaLevel": 2,
+        "ArchiveType": 2,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/GIZMO/Rashid_Psy.Rashid_Psy"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=A80C1313FAC2A277BDA5474A11B85824AD9561FDA37BA0786A55FC11A68CCE76.jpg",
+        "RowDescription": "None"
+      },
+      "60": {
+        "ID": 88000000041,
+        "ArchiveID": 3013,
+        "OpMetaLevel": 4,
+        "ArchiveType": 3,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/GIZMO/Rashid_DocPic.Rashid_DocPic"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=5CAB55FE848994BBF601C75892D71A8BC8788BE674874CB14D6ECBED39E12C53.jpg",
+        "RowDescription": "None"
+      },
+      "61": {
+        "ID": 88000000045,
+        "ArchiveID": 1034,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Vlinder/Vlinder_Weapon_01.Vlinder_Weapon_01"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=C443FE986B16E41753E76F1D3DD09F453405B5D8354553B1AAB29603C211A82C.jpg",
+        "RowDescription": "None"
+      },
+      "62": {
+        "ID": 88000000045,
+        "ArchiveID": 1035,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Vlinder/Vlinder_Weapon_03.Vlinder_Weapon_03"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=C443FE986B16E41753E76F1D3DD09F45FB73ABF12FA17B7C8876AE039C1A838C.jpg",
+        "RowDescription": "None"
+      },
+      "63": {
+        "ID": 88000000045,
+        "ArchiveID": 1036,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Vlinder/Vlinder_Weapon_02.Vlinder_Weapon_02"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=C443FE986B16E41753E76F1D3DD09F45A6D7E657FDB7B74D45FCB1C6C48A40F4.jpg",
+        "RowDescription": "None"
+      },
+      "64": {
+        "ID": 88000000045,
+        "ArchiveID": 2014,
+        "OpMetaLevel": 2,
+        "ArchiveType": 2,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Vlinder/Vlinder_Psy.Vlinder_Psy"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=EDFB1DD88F35F22BC7C4FEDE967E3B77AD9561FDA37BA0786A55FC11A68CCE76.jpg",
+        "RowDescription": "None"
+      },
+      "65": {
+        "ID": 88000000045,
+        "ArchiveID": 3014,
+        "OpMetaLevel": 4,
+        "ArchiveType": 3,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Vlinder/Vlinder_DocPic.Vlinder_DocPic"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=4DDD5171E97571D87119C8B24F1E4DF140C237EF10D7A6E2952D08F0B955E70C.jpg",
+        "RowDescription": "None"
+      },
+      "66": {
+        "ID": 88000000046,
+        "ArchiveID": 1037,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Morse/Morse_Weapon_01.Morse_Weapon_01"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=FC1C399AB9C07113CC41919F768C5C3E7833F4837E327947ADF403C82013E608.jpg",
+        "RowDescription": "None"
+      },
+      "67": {
+        "ID": 88000000046,
+        "ArchiveID": 1038,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Morse/Morse_Weapon_02.Morse_Weapon_02"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=FC1C399AB9C07113CC41919F768C5C3E49127BE58BF8C9090D0D60A0DE8CB421.jpg",
+        "RowDescription": "None"
+      },
+      "68": {
+        "ID": 88000000046,
+        "ArchiveID": 1039,
+        "OpMetaLevel": 1,
+        "ArchiveType": 1,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Morse/Morse_Weapon_03.Morse_Weapon_03"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=FC1C399AB9C07113CC41919F768C5C3EA3AF26624D3D3603DA32BAF03B6E3146.jpg",
+        "RowDescription": "None"
+      },
+      "69": {
+        "ID": 88000000046,
+        "ArchiveID": 2015,
+        "OpMetaLevel": 2,
+        "ArchiveType": 2,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Morse/Morse_Psy.Morse_Psy"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=B7D26AD83C3C5EB448058FB14A632B7C9711668FA865990DD92CA5DDBF5D94AD.jpg",
+        "RowDescription": "None"
+      },
+      "70": {
+        "ID": 88000000046,
+        "ArchiveID": 3015,
+        "OpMetaLevel": 4,
+        "ArchiveType": 3,
+        "ArchiveName": null,
+        "ArchiveSubName": null,
+        "ArchiveBGImg": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Morse/Morse_DocPic.Morse_DocPic"
+        },
+        "ArchiveIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArchiveDesc": null,
+        "ArchiveBGImgUrl": "C=21A169ACFF7DBCEE351CE1451F3BF7DAAD9561FDA37BA0786A55FC11A68CCE76.jpg",
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 69
+  }
+]

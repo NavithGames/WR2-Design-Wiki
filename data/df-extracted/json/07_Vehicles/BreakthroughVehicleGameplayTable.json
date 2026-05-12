@@ -1,0 +1,367 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "BreakthroughVehicleGameplayTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/BattleField/BreakthroughVehicleGameplayTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "BreakthroughVehicleGameplayDataRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "1": {
+        "WeaponId": 18120000001,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "2": {
+        "WeaponId": 18120000002,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "3": {
+        "WeaponId": 18120000003,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "4": {
+        "WeaponId": 18120000004,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "5": {
+        "WeaponId": 18120000005,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "6": {
+        "WeaponId": 18120000006,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "7": {
+        "WeaponId": 18120000007,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "8": {
+        "WeaponId": 18990000003,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "9": {
+        "WeaponId": 18990000004,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "10": {
+        "WeaponId": 18990000005,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "11": {
+        "WeaponId": 18990000007,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "12": {
+        "WeaponId": 18990000008,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "13": {
+        "WeaponId": 18990000013,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "14": {
+        "WeaponId": 18990000014,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "15": {
+        "WeaponId": 18120000009,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "16": {
+        "WeaponId": 18120000010,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "17": {
+        "WeaponId": 18120000011,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "18": {
+        "WeaponId": 18120000012,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "19": {
+        "WeaponId": 18120000013,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "20": {
+        "WeaponId": 18120000014,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "21": {
+        "WeaponId": 18120000015,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "22": {
+        "WeaponId": 18120000016,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "23": {
+        "WeaponId": 18120000017,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "24": {
+        "WeaponId": 18120000018,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "25": {
+        "WeaponId": 18120000019,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "26": {
+        "WeaponId": 18120000020,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "27": {
+        "WeaponId": 18120000021,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "28": {
+        "WeaponId": 18120000022,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "29": {
+        "WeaponId": 18120000023,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "30": {
+        "WeaponId": 18120000024,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "31": {
+        "WeaponId": 18120000025,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "32": {
+        "WeaponId": 18120000026,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "33": {
+        "WeaponId": 18120000027,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "34": {
+        "WeaponId": 18120000028,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "35": {
+        "WeaponId": 18120000029,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "36": {
+        "WeaponId": 18120000030,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "37": {
+        "WeaponId": 18120000031,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "38": {
+        "WeaponId": 18120000032,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "39": {
+        "WeaponId": 18120000033,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "40": {
+        "WeaponId": 18120000034,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "41": {
+        "WeaponId": 18120000035,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "42": {
+        "WeaponId": 18120000036,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "43": {
+        "WeaponId": 18120000037,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "44": {
+        "WeaponId": 18120000038,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "45": {
+        "WeaponId": 18120000039,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "46": {
+        "WeaponId": 18120000040,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "47": {
+        "WeaponId": 18120000041,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "48": {
+        "WeaponId": 18120000042,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "49": {
+        "WeaponId": 18120000043,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "50": {
+        "WeaponId": 18120000044,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "51": {
+        "WeaponId": 18120000045,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "52": {
+        "WeaponId": 18120000046,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "53": {
+        "WeaponId": 18120000047,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "54": {
+        "WeaponId": 18120000048,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "55": {
+        "WeaponId": 18120000049,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "56": {
+        "WeaponId": 18120000050,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "57": {
+        "WeaponId": 18120000051,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "58": {
+        "WeaponId": 18080000017,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "59": {
+        "WeaponId": 18120000052,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "60": {
+        "WeaponId": 18120000053,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "61": {
+        "WeaponId": 18120000054,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "62": {
+        "WeaponId": 18120000055,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "63": {
+        "WeaponId": 18120000056,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "64": {
+        "WeaponId": 18120000057,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "65": {
+        "WeaponId": 18120000058,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "66": {
+        "WeaponId": 18120000059,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "67": {
+        "WeaponId": 18120000060,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "68": {
+        "WeaponId": 18120000061,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "69": {
+        "WeaponId": 18120000062,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      },
+      "70": {
+        "WeaponId": 18120000063,
+        "bSoliderSkill": false,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 70
+  }
+]

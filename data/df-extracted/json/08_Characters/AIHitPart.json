@@ -1,0 +1,2848 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "AIHitPart",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/CharacterTemplate/AIHitPart",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "AIHitPart",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "Default": {
+        "HitPartDistanceConf": [
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 2000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 25
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 20
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 4000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 2
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 28
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 20
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 15000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 40
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 20
+              }
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Sniper": {
+        "HitPartDistanceConf": [
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 4000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 20
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 20
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 20
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 25
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 20000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 20
+              }
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Paratrooper": {
+        "HitPartDistanceConf": [
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 2000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 25
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 20
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 4000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 2
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 28
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 20
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 15000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 40
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 12
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 12
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 20
+              }
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Shotgun": {
+        "HitPartDistanceConf": [
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 2000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 6
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 6
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 25
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 4000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 45
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 15
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 15000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 80
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 15
+              }
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "SMG": {
+        "HitPartDistanceConf": [
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 2000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 6
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 6
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 25
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 4000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 2
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 25
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 15000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 25
+              }
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "AR": {
+        "HitPartDistanceConf": [
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 2000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 6
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 6
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 25
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 4000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 2
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 25
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 15000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 25
+              }
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Shield": {
+        "HitPartDistanceConf": [
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 2000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 20
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 25
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 4000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 2
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 28
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 20
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 15000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 25
+              }
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Reis_Assault": {
+        "HitPartDistanceConf": [
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 2000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 25
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 20
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 4000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 2
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 28
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 20
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 15000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 40
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 12
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 12
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 20
+              }
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Reis": {
+        "HitPartDistanceConf": [
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 2000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 25
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 20
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 4000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 2
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 28
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 20
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 15000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 40
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 12
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 12
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 20
+              }
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "HvyMG": {
+        "HitPartDistanceConf": [
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 2000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 25
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 4000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 2
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 25
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 15000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 40
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 20
+              }
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Crocodile": {
+        "HitPartDistanceConf": [
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 20000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 50
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 50
+              }
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Maurice": {
+        "HitPartDistanceConf": [
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 20000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 20
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 30
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 20
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 5
+              }
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "MP_Bot": {
+        "HitPartDistanceConf": [
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 20000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 1
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 100
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 100
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 20
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 20
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 20
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 20
+              }
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Firebat": {
+        "HitPartDistanceConf": [
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 0,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 40
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 40
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 2500,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 30
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 30
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 10
+              }
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Anais": {
+        "HitPartDistanceConf": [
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 50000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 10000
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 1
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 1
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 1
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 1
+              }
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "RCV": {
+        "HitPartDistanceConf": [
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 50000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 100
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 0
+              }
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Raid": {
+        "HitPartDistanceConf": [
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 20000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 30
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 30
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 5
+              }
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Maurice_BlaskShield": {
+        "HitPartDistanceConf": [
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 20000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 50
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 20
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 5
+              }
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Reis_BlackShield": {
+        "HitPartDistanceConf": [
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 2000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 40
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 10
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 4000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 30
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 20
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 10
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 15000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 20
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 30
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 20
+              }
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Reis_Assault_BlackShield": {
+        "HitPartDistanceConf": [
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 2000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 40
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 10
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 4000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 30
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 20
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 20
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 15000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 20
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 20
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 12
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 12
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 20
+              }
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Shield_BlaskShield": {
+        "HitPartDistanceConf": [
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 2000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 40
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 20
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 4000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 30
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 20
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 20
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 15000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 25
+              }
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "RCV_BlaskShield": {
+        "HitPartDistanceConf": [
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 50000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 50
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 50
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 0
+              }
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "MP_Bot_BlaskShield": {
+        "HitPartDistanceConf": [
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 20000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 100
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 50
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 50
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 10
+              }
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Boss_Warder": {
+        "HitPartDistanceConf": [
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 2000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 2
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 2
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 2
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 2
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 10
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 4000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 3
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 3
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 3
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 3
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 10
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 15000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 2
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 2
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 2
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 2
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 10
+              }
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Raven": {
+        "HitPartDistanceConf": [
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 5000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 2000
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 6000
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 2000
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 1
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 1
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 1
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 1
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 20000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 1
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 999
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 1
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 1
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 1
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 1
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 1
+              }
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Toturial": {
+        "HitPartDistanceConf": [
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 20000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 50
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 50
+              }
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Henc": {
+        "HitPartDistanceConf": [
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 15000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 50
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 25
+              }
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Warder_BlaskShield": {
+        "HitPartDistanceConf": [
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 20000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 70
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 6
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 6
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 6
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 6
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 6
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 6
+              }
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Shark": {
+        "HitPartDistanceConf": [
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 20000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 50
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 50
+              }
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Hudson": {
+        "HitPartDistanceConf": [
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 50000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 50000
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 50000
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 1
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 1
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 1
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 1
+              }
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Hudson_Foot": {
+        "HitPartDistanceConf": [
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 50000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 50000
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 1
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 1
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 1
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 1
+              }
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Hudson_Guard": {
+        "HitPartDistanceConf": [
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 2000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 6
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 6
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 15
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 5500,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 8
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 6
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 6
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 15
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 7000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 7
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 10
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 6
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 6
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 10
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 50000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 7
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 15
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 4
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 4
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 10
+              }
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Hudson_Guard_BlaskShield": {
+        "HitPartDistanceConf": [
+          {
+            "_StructType": "FStructFallback",
+            "DistanceLess": 50000,
+            "ProbabilityList": [
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Head",
+                "Weight": 50
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Thorax",
+                "Weight": 40
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::Abdomen",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightArm",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftArm",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::RightLeg",
+                "Weight": 5
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BodyPart": "ECharacterPart::LeftLeg",
+                "Weight": 5
+              }
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 33
+  }
+]

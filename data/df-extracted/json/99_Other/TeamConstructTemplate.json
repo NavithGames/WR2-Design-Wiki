@@ -1,0 +1,217 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "TeamConstructTemplate",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/Breakthrough/TeamConstructTemplate",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "TeamConstructTemplate",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "0": {
+        "Index": 0,
+        "Priority": 95,
+        "Name": null,
+        "CQBNum": 4,
+        "MedicNum": 0,
+        "VehicleNum": 0
+      },
+      "1": {
+        "Index": 1,
+        "Priority": 99,
+        "Name": null,
+        "CQBNum": 3,
+        "MedicNum": 1,
+        "VehicleNum": 0
+      },
+      "2": {
+        "Index": 2,
+        "Priority": 86,
+        "Name": null,
+        "CQBNum": 3,
+        "MedicNum": 0,
+        "VehicleNum": 1
+      },
+      "3": {
+        "Index": 3,
+        "Priority": 98,
+        "Name": null,
+        "CQBNum": 2,
+        "MedicNum": 2,
+        "VehicleNum": 0
+      },
+      "4": {
+        "Index": 4,
+        "Priority": 93,
+        "Name": null,
+        "CQBNum": 2,
+        "MedicNum": 1,
+        "VehicleNum": 1
+      },
+      "5": {
+        "Index": 5,
+        "Priority": 92,
+        "Name": null,
+        "CQBNum": 2,
+        "MedicNum": 0,
+        "VehicleNum": 2
+      },
+      "6": {
+        "Index": 6,
+        "Priority": 96,
+        "Name": null,
+        "CQBNum": 1,
+        "MedicNum": 3,
+        "VehicleNum": 0
+      },
+      "7": {
+        "Index": 7,
+        "Priority": 88,
+        "Name": null,
+        "CQBNum": 1,
+        "MedicNum": 2,
+        "VehicleNum": 1
+      },
+      "8": {
+        "Index": 8,
+        "Priority": 94,
+        "Name": null,
+        "CQBNum": 1,
+        "MedicNum": 1,
+        "VehicleNum": 2
+      },
+      "9": {
+        "Index": 9,
+        "Priority": 100,
+        "Name": null,
+        "CQBNum": 1,
+        "MedicNum": 0,
+        "VehicleNum": 3
+      },
+      "10": {
+        "Index": 10,
+        "Priority": 90,
+        "Name": null,
+        "CQBNum": 0,
+        "MedicNum": 4,
+        "VehicleNum": 0
+      },
+      "11": {
+        "Index": 11,
+        "Priority": 91,
+        "Name": null,
+        "CQBNum": 0,
+        "MedicNum": 3,
+        "VehicleNum": 1
+      },
+      "12": {
+        "Index": 12,
+        "Priority": 97,
+        "Name": null,
+        "CQBNum": 0,
+        "MedicNum": 2,
+        "VehicleNum": 2
+      },
+      "13": {
+        "Index": 13,
+        "Priority": 101,
+        "Name": null,
+        "CQBNum": 0,
+        "MedicNum": 1,
+        "VehicleNum": 3
+      },
+      "14": {
+        "Index": 14,
+        "Priority": 102,
+        "Name": null,
+        "CQBNum": 0,
+        "MedicNum": 0,
+        "VehicleNum": 4
+      },
+      "15": {
+        "Index": 15,
+        "Priority": 1,
+        "Name": null,
+        "CQBNum": 0,
+        "MedicNum": 0,
+        "VehicleNum": 0
+      },
+      "16": {
+        "Index": 16,
+        "Priority": 84,
+        "Name": null,
+        "CQBNum": 3,
+        "MedicNum": 0,
+        "VehicleNum": 0
+      },
+      "17": {
+        "Index": 17,
+        "Priority": 81,
+        "Name": null,
+        "CQBNum": 2,
+        "MedicNum": 0,
+        "VehicleNum": 0
+      },
+      "18": {
+        "Index": 18,
+        "Priority": 78,
+        "Name": null,
+        "CQBNum": 1,
+        "MedicNum": 0,
+        "VehicleNum": 0
+      },
+      "19": {
+        "Index": 19,
+        "Priority": 85,
+        "Name": null,
+        "CQBNum": 0,
+        "MedicNum": 3,
+        "VehicleNum": 0
+      },
+      "20": {
+        "Index": 20,
+        "Priority": 82,
+        "Name": null,
+        "CQBNum": 0,
+        "MedicNum": 2,
+        "VehicleNum": 0
+      },
+      "21": {
+        "Index": 21,
+        "Priority": 79,
+        "Name": null,
+        "CQBNum": 0,
+        "MedicNum": 1,
+        "VehicleNum": 0
+      },
+      "22": {
+        "Index": 22,
+        "Priority": 87,
+        "Name": null,
+        "CQBNum": 0,
+        "MedicNum": 0,
+        "VehicleNum": 3
+      },
+      "23": {
+        "Index": 23,
+        "Priority": 83,
+        "Name": null,
+        "CQBNum": 0,
+        "MedicNum": 0,
+        "VehicleNum": 2
+      },
+      "24": {
+        "Index": 24,
+        "Priority": 80,
+        "Name": null,
+        "CQBNum": 0,
+        "MedicNum": 0,
+        "VehicleNum": 1
+      }
+    },
+    "_RowCount": 25
+  }
+]

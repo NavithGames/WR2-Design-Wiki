@@ -1,0 +1,117 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "WeaponBulletTable_CombinationTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Ability/OperatorFormTool/CombinationTables/WeaponBulletTable_CombinationTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "WeaponDataBullet",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "mzq\u5B50\u5F39": {
+        "BulletId": 2012,
+        "InitSpeedFor1P": 30000,
+        "InitSpeedFor3P": 30000,
+        "ZeroGravityDistance": 0,
+        "AirDragFactor": 0,
+        "GravityParam": 0,
+        "BulletSpawnLocOption": 0,
+        "bEnableHitEffectOnWeapon": true,
+        "bSplitView": false,
+        "ViewLerpDuration": 0.2,
+        "BulletBPClass": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/BluePrints/Ability/MedicalSoldier/101/BP_WeaponBulletSupport.BP_WeaponBulletSupport_C"
+        },
+        "LaserPointerReciverBulletBPClass": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "FlyMode": "EProjectileFlyMode::FlyMode_PhysicSimulate",
+        "Radius": 1,
+        "MaxDistance": 10000,
+        "ValidDistance": 10000,
+        "AttenModes": [],
+        "AttenDistances": [],
+        "bOverrideBaseDamage": false,
+        "AttenRates": [],
+        "AttenShowDistances": [
+          2500,
+          5000,
+          7500,
+          10000
+        ],
+        "VehicleDamageFalloffSettings": {
+          "_StructType": "FStructFallback",
+          "bEnabled": false,
+          "DefaultConfig": {
+            "_StructType": "FStructFallback",
+            "ValidDistance": 0,
+            "FalloffItems": []
+          },
+          "Overrides": []
+        },
+        "SpeedInWaterFactor": 0.5,
+        "WaterDragFactor": 0,
+        "bDetectByAPS": false,
+        "bOverrideBulletMode": true,
+        "BulletModeConfig": {
+          "_StructType": "FStructFallback",
+          "b1PSpawnBullet": true,
+          "MaxPingFor1PSpawnBullet": 1,
+          "b1PMakeDamage": true,
+          "bDSSpawnBullet": true,
+          "bDSMakeDamage": true,
+          "bReplicateTo1P": true,
+          "bReplicateTo3P": true,
+          "bEnableCustomReplication": false,
+          "NetRelevantDistance": 50000,
+          "bEnablePoolOnDS": false,
+          "b3PSpawnBullet": false
+        },
+        "ReleaseDelayOnHit": -1,
+        "ViewHiddenDelayOnStop": 0,
+        "ViewFadeoutDistance": 0,
+        "WarmupTime": 0,
+        "bFirstWarmBulletEffectView": false,
+        "MinColCheckDistSq": 0,
+        "bEnableDynamicTickInterval": false,
+        "TickIntervalCurve": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "bEnableInstantHitInstead": false,
+        "SlowBulletFlyByRadius": 0,
+        "SlowBulletFlyByInPath": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "SlowBulletFlyByOutPath": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "SlowBulletHowlRadius": 0,
+        "SlowBulletHowlInPath": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "SlowBulletHowlOutPath": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ExplosionInAirTime": -1,
+        "ExplosionInAirAlwaysPreview": false,
+        "bSupportPenetratingWater": true,
+        "TrailInWaterMode": "ETrailInWaterMode::ETrailMoveSelf",
+        "WaterEffectTrailID": 0,
+        "bSupportPenetrating": false,
+        "PenetratingPow": 100,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 1
+  }
+]

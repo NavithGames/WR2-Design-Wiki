@@ -1,0 +1,2217 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "BattleFieldInGameReplaceExpertDataConfigTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/BattleField/BattleFieldInGameReplaceExpertDataConfigTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "BattleFieldInGameReplaceExpertDataConfigRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "NewRow": {
+        "MapID": 553,
+        "ReplaceExpertData": [
+          {
+            "Key": 10012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10012,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10010,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10007,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 30010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 30010,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_0": {
+        "MapID": 554,
+        "ReplaceExpertData": [
+          {
+            "Key": 10012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10012,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10010,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10007,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 30010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 30010,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_1": {
+        "MapID": 555,
+        "ReplaceExpertData": [
+          {
+            "Key": 10012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10012,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10010,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10007,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 30010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 30010,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_2": {
+        "MapID": 556,
+        "ReplaceExpertData": [
+          {
+            "Key": 10012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10012,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10010,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10007,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 30010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 30010,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_3": {
+        "MapID": 557,
+        "ReplaceExpertData": [
+          {
+            "Key": 10012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10012,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10010,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10007,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 30010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 30010,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_4": {
+        "MapID": 558,
+        "ReplaceExpertData": [
+          {
+            "Key": 10012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10012,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10010,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10007,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 30010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 30010,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_5": {
+        "MapID": 559,
+        "ReplaceExpertData": [
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10010,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 18070000004,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_6": {
+        "MapID": 560,
+        "ReplaceExpertData": [
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10010,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 18070000004,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_7": {
+        "MapID": 561,
+        "ReplaceExpertData": [
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10010,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 18070000004,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_8": {
+        "MapID": 562,
+        "ReplaceExpertData": [
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10010,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 18070000004,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_9": {
+        "MapID": 563,
+        "ReplaceExpertData": [
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10010,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 18070000004,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_10": {
+        "MapID": 564,
+        "ReplaceExpertData": [
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10010,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 18070000004,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_11": {
+        "MapID": 565,
+        "ReplaceExpertData": [
+          {
+            "Key": 40005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40005,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 40010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40010,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10007,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10010,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10012,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_12": {
+        "MapID": 566,
+        "ReplaceExpertData": [
+          {
+            "Key": 40005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40005,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 40010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40010,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10007,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10010,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10012,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_13": {
+        "MapID": 567,
+        "ReplaceExpertData": [
+          {
+            "Key": 40005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40005,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 40010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40010,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10007,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10010,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10012,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_14": {
+        "MapID": 568,
+        "ReplaceExpertData": [
+          {
+            "Key": 40005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40005,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 40010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40010,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10007,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10010,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10012,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_15": {
+        "MapID": 569,
+        "ReplaceExpertData": [
+          {
+            "Key": 40005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40005,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 40010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40010,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10007,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10010,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10012,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_16": {
+        "MapID": 570,
+        "ReplaceExpertData": [
+          {
+            "Key": 40005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40005,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 40010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40010,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10007,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10010,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10012,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_17": {
+        "MapID": 571,
+        "ReplaceExpertData": [
+          {
+            "Key": 30010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 30010,
+              "MainWeaponID": 18080000018,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 18080000018
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_18": {
+        "MapID": 572,
+        "ReplaceExpertData": [
+          {
+            "Key": 30010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 30010,
+              "MainWeaponID": 18080000018,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 18080000018
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_19": {
+        "MapID": 573,
+        "ReplaceExpertData": [
+          {
+            "Key": 30010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 30010,
+              "MainWeaponID": 18080000018,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 18080000018
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_20": {
+        "MapID": 574,
+        "ReplaceExpertData": [
+          {
+            "Key": 30010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 30010,
+              "MainWeaponID": 18080000018,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 18080000018
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_21": {
+        "MapID": 575,
+        "ReplaceExpertData": [
+          {
+            "Key": 30010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 30010,
+              "MainWeaponID": 18080000018,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 18080000018
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_22": {
+        "MapID": 576,
+        "ReplaceExpertData": [
+          {
+            "Key": 30010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 30010,
+              "MainWeaponID": 18080000018,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 18080000018
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_23": {
+        "MapID": 577,
+        "ReplaceExpertData": [
+          {
+            "Key": 40005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40005,
+              "MainWeaponID": 18060000007,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 0,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 40011,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40011,
+              "MainWeaponID": 18060000007,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 0,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 40010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40010,
+              "MainWeaponID": 18060000007,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 0,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_24": {
+        "MapID": 578,
+        "ReplaceExpertData": [
+          {
+            "Key": 40005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40005,
+              "MainWeaponID": 18060000007,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 0,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 40011,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40011,
+              "MainWeaponID": 18060000007,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 0,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 40010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40010,
+              "MainWeaponID": 18060000007,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 0,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_25": {
+        "MapID": 579,
+        "ReplaceExpertData": [
+          {
+            "Key": 40005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40005,
+              "MainWeaponID": 18060000007,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 0,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 40011,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40011,
+              "MainWeaponID": 18060000007,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 0,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 40010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40010,
+              "MainWeaponID": 18060000007,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 0,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_26": {
+        "MapID": 580,
+        "ReplaceExpertData": [
+          {
+            "Key": 40005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40005,
+              "MainWeaponID": 18060000007,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 0,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 40011,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40011,
+              "MainWeaponID": 18060000007,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 0,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 40010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40010,
+              "MainWeaponID": 18060000007,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 0,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_27": {
+        "MapID": 581,
+        "ReplaceExpertData": [
+          {
+            "Key": 40005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40005,
+              "MainWeaponID": 18060000007,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 0,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 40011,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40011,
+              "MainWeaponID": 18060000007,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 0,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 40010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40010,
+              "MainWeaponID": 18060000007,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 0,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_28": {
+        "MapID": 582,
+        "ReplaceExpertData": [
+          {
+            "Key": 40005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40005,
+              "MainWeaponID": 18060000007,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 0,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 40011,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40011,
+              "MainWeaponID": 18060000007,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 0,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 40010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40010,
+              "MainWeaponID": 18060000007,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 0,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_29": {
+        "MapID": 583,
+        "ReplaceExpertData": [
+          {
+            "Key": 10012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10012,
+              "MainWeaponID": 18030000004,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 0,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10010,
+              "MainWeaponID": 18030000004,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 0,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10007,
+              "MainWeaponID": 18030000004,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 0,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_30": {
+        "MapID": 584,
+        "ReplaceExpertData": [
+          {
+            "Key": 10012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10012,
+              "MainWeaponID": 18030000004,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10010,
+              "MainWeaponID": 18030000004,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10007,
+              "MainWeaponID": 18030000004,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_31": {
+        "MapID": 585,
+        "ReplaceExpertData": [
+          {
+            "Key": 10012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10012,
+              "MainWeaponID": 18030000004,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10010,
+              "MainWeaponID": 18030000004,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10007,
+              "MainWeaponID": 18030000004,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_32": {
+        "MapID": 586,
+        "ReplaceExpertData": [
+          {
+            "Key": 10012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10012,
+              "MainWeaponID": 18030000004,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10010,
+              "MainWeaponID": 18030000004,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10007,
+              "MainWeaponID": 18030000004,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_33": {
+        "MapID": 587,
+        "ReplaceExpertData": [
+          {
+            "Key": 10012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10012,
+              "MainWeaponID": 18030000004,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10010,
+              "MainWeaponID": 18030000004,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10007,
+              "MainWeaponID": 18030000004,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_34": {
+        "MapID": 588,
+        "ReplaceExpertData": [
+          {
+            "Key": 10012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10012,
+              "MainWeaponID": 18030000004,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10010,
+              "MainWeaponID": 18030000004,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10007,
+              "MainWeaponID": 18030000004,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_35": {
+        "MapID": 949,
+        "ReplaceExpertData": [
+          {
+            "Key": 40005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40005,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 40010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40010,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10007,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10010,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10012,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_36": {
+        "MapID": 951,
+        "ReplaceExpertData": [
+          {
+            "Key": 40005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40005,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 40010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40010,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10007,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10010,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10012,
+              "MainWeaponID": 18150000001,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_37": {
+        "MapID": 948,
+        "ReplaceExpertData": [
+          {
+            "Key": 10012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10012,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10010,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10007,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 30010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 30010,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_38": {
+        "MapID": 950,
+        "ReplaceExpertData": [
+          {
+            "Key": 10012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10012,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10010,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10007,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 30010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 30010,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_39": {
+        "MapID": 965,
+        "ReplaceExpertData": [
+          {
+            "Key": 10012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10012,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10010,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10007,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 30010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 30010,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 40005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40005,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 30008,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 30008,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 20003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 20003,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 40010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40010,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 30009,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 30009,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 20004,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 20004,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10011,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10011,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 40011,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40011,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 30011,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 30011,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 20005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 20005,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_43": {
+        "MapID": 966,
+        "ReplaceExpertData": [
+          {
+            "Key": 10012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10012,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10010,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10007,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 30010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 30010,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 40005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40005,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 30008,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 30008,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 20003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 20003,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 40010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40010,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 30009,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 30009,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 20004,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 20004,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10011,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10011,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 40011,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40011,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 30011,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 30011,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 20005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 20005,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_44": {
+        "MapID": 967,
+        "ReplaceExpertData": [
+          {
+            "Key": 10012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10012,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10010,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10007,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 30010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 30010,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 40005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40005,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 30008,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 30008,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 20003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 20003,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 40010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40010,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 30009,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 30009,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 20004,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 20004,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10011,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10011,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 40011,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40011,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 30011,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 30011,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 20005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 20005,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_45": {
+        "MapID": 968,
+        "ReplaceExpertData": [
+          {
+            "Key": 10012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10012,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10010,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10007,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 30010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 30010,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 40005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40005,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 30008,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 30008,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 20003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 20003,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 40010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40010,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 30009,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 30009,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 20004,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 20004,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10011,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10011,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 40011,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40011,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 30011,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 30011,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 20005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 20005,
+              "MainWeaponID": 0,
+              "SecondaryWeaponID": 0,
+              "MeleeWeaponID": 18100000002,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 44
+  }
+]

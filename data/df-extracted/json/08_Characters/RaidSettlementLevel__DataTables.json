@@ -1,0 +1,288 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "RaidSettlementLevel",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/RaidSettlementLevel",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "RaidSettlementLevelConfig",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "1": {
+        "ID": 1,
+        "RaidID": null,
+        "EvaluateLevel": 5,
+        "EvaluateScore": 5000000000,
+        "RaidScore": 1000000,
+        "Prize": "10010000018:1:1",
+        "RowDescription": "None"
+      },
+      "2": {
+        "ID": 2,
+        "RaidID": null,
+        "EvaluateLevel": 4,
+        "EvaluateScore": 900000,
+        "RaidScore": 1000000,
+        "Prize": "10010000030:2:1;11050004004:1:1;11010004004:1:1;15030050001:1:1",
+        "RowDescription": "None"
+      },
+      "3": {
+        "ID": 3,
+        "RaidID": null,
+        "EvaluateLevel": 3,
+        "EvaluateScore": 700000,
+        "RaidScore": 1000000,
+        "Prize": "10010000018:1:1",
+        "RowDescription": "None"
+      },
+      "4": {
+        "ID": 4,
+        "RaidID": null,
+        "EvaluateLevel": 2,
+        "EvaluateScore": 400000,
+        "RaidScore": 1000000,
+        "Prize": "11010005001:1:1",
+        "RowDescription": "None"
+      },
+      "5": {
+        "ID": 5,
+        "RaidID": null,
+        "EvaluateLevel": 1,
+        "EvaluateScore": 0,
+        "RaidScore": 1000000,
+        "Prize": "15010040001:1:1",
+        "RowDescription": "None"
+      },
+      "6": {
+        "ID": 6,
+        "RaidID": null,
+        "EvaluateLevel": 5,
+        "EvaluateScore": 5000000000,
+        "RaidScore": 1000000,
+        "Prize": "10010000018:1:1",
+        "RowDescription": "None"
+      },
+      "7": {
+        "ID": 7,
+        "RaidID": null,
+        "EvaluateLevel": 4,
+        "EvaluateScore": 900000,
+        "RaidScore": 1000000,
+        "Prize": "10010000031:2:1;11050005003:1:1;11010005003:1:1;15030050003:1:1",
+        "RowDescription": "None"
+      },
+      "8": {
+        "ID": 8,
+        "RaidID": null,
+        "EvaluateLevel": 3,
+        "EvaluateScore": 700000,
+        "RaidScore": 1000000,
+        "Prize": "10010000122:1:1;11010005003:1:1",
+        "RowDescription": "None"
+      },
+      "9": {
+        "ID": 9,
+        "RaidID": null,
+        "EvaluateLevel": 2,
+        "EvaluateScore": 400000,
+        "RaidScore": 1000000,
+        "Prize": "10010000122:1:1",
+        "RowDescription": "None"
+      },
+      "10": {
+        "ID": 10,
+        "RaidID": null,
+        "EvaluateLevel": 1,
+        "EvaluateScore": 0,
+        "RaidScore": 1000000,
+        "Prize": "10010000018:1:1",
+        "RowDescription": "None"
+      },
+      "11": {
+        "ID": 11,
+        "RaidID": null,
+        "EvaluateLevel": 5,
+        "EvaluateScore": 5000000000,
+        "RaidScore": 1000000,
+        "Prize": "10010000018:1:1",
+        "RowDescription": "None"
+      },
+      "12": {
+        "ID": 12,
+        "RaidID": null,
+        "EvaluateLevel": 4,
+        "EvaluateScore": 900000,
+        "RaidScore": 1000000,
+        "Prize": "10010000032:2:1;11050005002:1:1;11010005002:1:1;15030050007:1:1;15070050002:1:1",
+        "RowDescription": "None"
+      },
+      "13": {
+        "ID": 13,
+        "RaidID": null,
+        "EvaluateLevel": 3,
+        "EvaluateScore": 700000,
+        "RaidScore": 1000000,
+        "Prize": "10010000032:2:1",
+        "RowDescription": "None"
+      },
+      "14": {
+        "ID": 14,
+        "RaidID": null,
+        "EvaluateLevel": 2,
+        "EvaluateScore": 400000,
+        "RaidScore": 1000000,
+        "Prize": "10010000038:2:1",
+        "RowDescription": "None"
+      },
+      "15": {
+        "ID": 15,
+        "RaidID": null,
+        "EvaluateLevel": 1,
+        "EvaluateScore": 0,
+        "RaidScore": 1000000,
+        "Prize": "10010000122:2:1",
+        "RowDescription": "None"
+      },
+      "16": {
+        "ID": 16,
+        "RaidID": null,
+        "EvaluateLevel": 5,
+        "EvaluateScore": 5000000000,
+        "RaidScore": 1000000,
+        "Prize": "10010000018:1:1",
+        "RowDescription": "None"
+      },
+      "17": {
+        "ID": 17,
+        "RaidID": null,
+        "EvaluateLevel": 4,
+        "EvaluateScore": 900000,
+        "RaidScore": 1000000,
+        "Prize": "10010000201:2:1;11050004004:1:1;11010004004:1:1;15030040010:1:1",
+        "RowDescription": "None"
+      },
+      "18": {
+        "ID": 18,
+        "RaidID": null,
+        "EvaluateLevel": 3,
+        "EvaluateScore": 700000,
+        "RaidScore": 1000000,
+        "Prize": "10010000201:1:1",
+        "RowDescription": "None"
+      },
+      "19": {
+        "ID": 19,
+        "RaidID": null,
+        "EvaluateLevel": 2,
+        "EvaluateScore": 400000,
+        "RaidScore": 1000000,
+        "Prize": "11070005001:1:1",
+        "RowDescription": "None"
+      },
+      "20": {
+        "ID": 20,
+        "RaidID": null,
+        "EvaluateLevel": 1,
+        "EvaluateScore": 0,
+        "RaidScore": 1000000,
+        "Prize": "15010040001:1:1",
+        "RowDescription": "None"
+      },
+      "21": {
+        "ID": 21,
+        "RaidID": null,
+        "EvaluateLevel": 5,
+        "EvaluateScore": 5000000000,
+        "RaidScore": 1000000,
+        "Prize": "10010000018:1:1",
+        "RowDescription": "None"
+      },
+      "22": {
+        "ID": 22,
+        "RaidID": null,
+        "EvaluateLevel": 4,
+        "EvaluateScore": 900000,
+        "RaidScore": 1000000,
+        "Prize": "10010000207:2:1;11050005003:1:1;11010005003:1:1;15030050003:1:1",
+        "RowDescription": "None"
+      },
+      "23": {
+        "ID": 23,
+        "RaidID": null,
+        "EvaluateLevel": 3,
+        "EvaluateScore": 700000,
+        "RaidScore": 1000000,
+        "Prize": "10010000207:1:1",
+        "RowDescription": "None"
+      },
+      "24": {
+        "ID": 24,
+        "RaidID": null,
+        "EvaluateLevel": 2,
+        "EvaluateScore": 400000,
+        "RaidScore": 1000000,
+        "Prize": "10010000531:1:1",
+        "RowDescription": "None"
+      },
+      "25": {
+        "ID": 25,
+        "RaidID": null,
+        "EvaluateLevel": 1,
+        "EvaluateScore": 0,
+        "RaidScore": 1000000,
+        "Prize": "10010000434:1:1",
+        "RowDescription": "None"
+      },
+      "26": {
+        "ID": 26,
+        "RaidID": null,
+        "EvaluateLevel": 5,
+        "EvaluateScore": 5000000000,
+        "RaidScore": 1000000,
+        "Prize": "11010005004:2:1",
+        "RowDescription": "None"
+      },
+      "27": {
+        "ID": 27,
+        "RaidID": null,
+        "EvaluateLevel": 4,
+        "EvaluateScore": 900000,
+        "RaidScore": 1000000,
+        "Prize": "10010000202:2:1;11050005002:1:1;11010005002:1:1;15060040004:1:1;15030050002:1:1",
+        "RowDescription": "None"
+      },
+      "28": {
+        "ID": 28,
+        "RaidID": null,
+        "EvaluateLevel": 3,
+        "EvaluateScore": 700000,
+        "RaidScore": 1000000,
+        "Prize": "10010000633:2:1",
+        "RowDescription": "None"
+      },
+      "29": {
+        "ID": 29,
+        "RaidID": null,
+        "EvaluateLevel": 2,
+        "EvaluateScore": 400000,
+        "RaidScore": 1000000,
+        "Prize": "10010000633:1:1",
+        "RowDescription": "None"
+      },
+      "30": {
+        "ID": 30,
+        "RaidID": null,
+        "EvaluateLevel": 1,
+        "EvaluateScore": 0,
+        "RaidScore": 1000000,
+        "Prize": "10010000539:1:1",
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 30
+  }
+]

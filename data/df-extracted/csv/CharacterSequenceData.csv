@@ -1,0 +1,45 @@
+﻿RowName,IsValid,bUseTransitionCamera,LevelSequenceActor,bLevelSequenceUseMotionBlur,LevelSequenceMotionBlurIntensity,MarkNameList,MatchLevelSequenceActor,LightGroupName,HeroItemInfoMapForSeq,HeroItemMeshMap,ShowNames,RowDescription
+30000020005,True,True,(),False,0,,(),None,"(Key=Recon_C203_Raptor_Drone_UI_V1, Value=38110050048); (Key=Recon_C203_EMPGrenade_UI, Value=38110050049)",,,None
+30000020004,True,False,(),False,0,,(),None,,,,None
+30000020002,True,False,(),False,0,,(),None,,,,None
+30000020003,True,True,(),False,0,,(),None,,,,None
+30000020006,True,True,(),False,0,,(),None,,,,None
+30000020007,True,True,(),False,0,,(),None,,,,None
+30000050002,True,True,(),False,0,,(),None,,,,None
+30000050010,True,True,(),False,0,,(),None,,,,None
+30000020008,True,True,(),False,0,,(),None,,,,None
+30000050009,True,True,(),False,0,,(),None,,,,None
+30000060001,True,True,(),False,0,,(),None,,,,None
+30000050008,True,True,(),False,0,,(),None,,,,None
+30000020009,True,True,(),False,0,,(),None,,,,None
+30000060002,True,True,(),False,0,,(),None,,,,None
+30000020010,True,True,(),False,0,,(),None,,,,None
+30000040004,True,True,(),False,0,,(),None,"(Key=Engineering_C402_LM_Fly_UI, Value=None); (Key=Engineering_C402_LM_UI, Value=38110040009)",,,None
+30000040005,True,True,(),False,0,,(),None,"(Key=Assault_C301_Exoskeleton_01_UI, Value=8800000003001); (Key=Assault_C301_Launcher_007, Value=38110040022)",,,None
+30000040006,True,True,(),False,0,,(),None,"(Key=Support_C101_Medical_Gun_01_UI_New, Value=38110040020)",,,None
+30000040007,True,True,(),False,0,,(),None,"(Key=Engineering_C401_UAV_UI, Value=38110040016)",,,None
+30000050011,True,True,(),False,0,,(),None,,,,None
+30000020011,True,True,(),False,0,,(),None,,,,None
+30000050012,True,True,(),False,0,,(),None,"(Key=Assault_C303_AllProp_PC_UI, Value=38110050022); (Key=Assault_C303_Propeller_UI, Value=38110050023)",,,None
+30000050013,True,True,(),False,0,,(),None,,,,None
+30000020012,True,True,(),False,0,,(),None,,,,None
+30000060004,True,True,(),False,0,,(),None,,,,None
+30000060005,True,True,(),False,0,,(),None,,,,None
+30000050014,True,True,(),False,0,,(),None,"(Key=Support_C101_Medical_Gun_01_UI_New, Value=38110050025)",,,None
+30000060006,True,True,(),False,0,,(),None,,,,None
+30000050015,True,True,(),False,0,,(),None,"(Key=Assault_C301_Exoskeleton_01_UI, Value=8800000003001); (Key=Assault_C301_Launcher_007, Value=38110050028)",,,None
+30000020013,True,True,(),False,0,,(),None,,,,None
+30000050016,True,True,(),False,0,,(),None,"(Key=Engineering_C403_Hook_Gun_UI, Value=38110050032); (Key=Engineering_C403_Shield_UI, Value=38110050033)",,,None
+30000020014,True,True,(),False,0,,(),None,,,,None
+30000050017,True,True,(),False,0,,(),None,"(Key=Assault_C303_AllProp_PC_UI, Value=38110050036); (Key=Assault_C303_Propeller_UI, Value=38110050037)",,,None
+30000050019,True,True,(),False,0,,(),None,"(Key=Scout_C201_Bow_UI, Value=38110050034)",,,None
+30000050020,True,True,(),False,0,,(),None,,,,None
+30000020018,True,True,(),False,0,,(),None,,,,None
+30000050018,True,True,(),False,0,,(),None,"(Key=Engineering_C402_LM_UI, Value=38110050039); (Key=Engineering_C402_LM_Fly_UI, Value=None)",,,None
+30000060007,True,True,(),False,0,,(),None,,,,None
+30000020015,True,True,(),False,0,,(),None,,,,None
+30000020016,True,True,(),False,0,,(),None,,,,None
+30000020017,True,True,(),False,0,,(),None,,,,None
+30000020019,True,True,(),False,0,,(),None,,,,None
+30000050021,True,True,(),False,0,,(),None,"(Key=Scout_C201_Bow_UI, Value=38110050045)",,,None
+30000050022,True,True,(),False,0,,(),None,"(Key=Recon_C203_Raptor_Drone_UI_V1, Value=38110050048); (Key=Recon_C203_EMPGrenade_UI, Value=38110050049)","(Key=Recon_C203_Raptor_Drone_UI_V1, Value=38110050048)",,None

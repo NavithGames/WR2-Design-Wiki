@@ -1,0 +1,511 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "VehicleSkillExtraTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/BattleField/VehicleSkillExtraTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "VehicleSkillExtraDataTableRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "10001": {
+        "MapID": 601,
+        "VehicleSkillExtraDataConfigMap": [
+          {
+            "Key": 10004,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10004,
+              "CDTime": 28,
+              "SkillLengthTime": 8,
+              "SkillNum": 100
+            }
+          },
+          {
+            "Key": 10003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10003,
+              "CDTime": 40,
+              "SkillLengthTime": 10,
+              "SkillNum": 100
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "10002": {
+        "MapID": 602,
+        "VehicleSkillExtraDataConfigMap": [
+          {
+            "Key": 10004,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10004,
+              "CDTime": 28,
+              "SkillLengthTime": 8,
+              "SkillNum": 100
+            }
+          },
+          {
+            "Key": 10003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10003,
+              "CDTime": 40,
+              "SkillLengthTime": 10,
+              "SkillNum": 100
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "10003": {
+        "MapID": 603,
+        "VehicleSkillExtraDataConfigMap": [
+          {
+            "Key": 10004,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10004,
+              "CDTime": 28,
+              "SkillLengthTime": 8,
+              "SkillNum": 100
+            }
+          },
+          {
+            "Key": 10003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10003,
+              "CDTime": 40,
+              "SkillLengthTime": 10,
+              "SkillNum": 100
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "10004": {
+        "MapID": 604,
+        "VehicleSkillExtraDataConfigMap": [
+          {
+            "Key": 10004,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10004,
+              "CDTime": 28,
+              "SkillLengthTime": 8,
+              "SkillNum": 100
+            }
+          },
+          {
+            "Key": 10003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10003,
+              "CDTime": 40,
+              "SkillLengthTime": 10,
+              "SkillNum": 100
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "10005": {
+        "MapID": 605,
+        "VehicleSkillExtraDataConfigMap": [
+          {
+            "Key": 10004,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10004,
+              "CDTime": 28,
+              "SkillLengthTime": 8,
+              "SkillNum": 100
+            }
+          },
+          {
+            "Key": 10003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10003,
+              "CDTime": 40,
+              "SkillLengthTime": 10,
+              "SkillNum": 100
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "10006": {
+        "MapID": 606,
+        "VehicleSkillExtraDataConfigMap": [
+          {
+            "Key": 10004,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10004,
+              "CDTime": 28,
+              "SkillLengthTime": 8,
+              "SkillNum": 100
+            }
+          },
+          {
+            "Key": 10003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10003,
+              "CDTime": 40,
+              "SkillLengthTime": 10,
+              "SkillNum": 100
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "10007": {
+        "MapID": 607,
+        "VehicleSkillExtraDataConfigMap": [
+          {
+            "Key": 10004,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10004,
+              "CDTime": 28,
+              "SkillLengthTime": 8,
+              "SkillNum": 100
+            }
+          },
+          {
+            "Key": 10003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10003,
+              "CDTime": 40,
+              "SkillLengthTime": 10,
+              "SkillNum": 100
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "10008": {
+        "MapID": 608,
+        "VehicleSkillExtraDataConfigMap": [
+          {
+            "Key": 10004,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10004,
+              "CDTime": 28,
+              "SkillLengthTime": 8,
+              "SkillNum": 100
+            }
+          },
+          {
+            "Key": 10003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10003,
+              "CDTime": 40,
+              "SkillLengthTime": 10,
+              "SkillNum": 100
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_6": {
+        "MapID": 621,
+        "VehicleSkillExtraDataConfigMap": [
+          {
+            "Key": 10004,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10004,
+              "CDTime": 40,
+              "SkillLengthTime": 4,
+              "SkillNum": 1
+            }
+          },
+          {
+            "Key": 10003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10003,
+              "CDTime": 40,
+              "SkillLengthTime": 10,
+              "SkillNum": 100
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow": {
+        "MapID": 629,
+        "VehicleSkillExtraDataConfigMap": [
+          {
+            "Key": 10004,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10004,
+              "CDTime": 40,
+              "SkillLengthTime": 4,
+              "SkillNum": 1
+            }
+          },
+          {
+            "Key": 10003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10003,
+              "CDTime": 40,
+              "SkillLengthTime": 10,
+              "SkillNum": 100
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_7": {
+        "MapID": 622,
+        "VehicleSkillExtraDataConfigMap": [
+          {
+            "Key": 10004,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10004,
+              "CDTime": 40,
+              "SkillLengthTime": 4,
+              "SkillNum": 1
+            }
+          },
+          {
+            "Key": 10003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10003,
+              "CDTime": 40,
+              "SkillLengthTime": 10,
+              "SkillNum": 100
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_8": {
+        "MapID": 623,
+        "VehicleSkillExtraDataConfigMap": [
+          {
+            "Key": 10004,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10004,
+              "CDTime": 40,
+              "SkillLengthTime": 4,
+              "SkillNum": 1
+            }
+          },
+          {
+            "Key": 10003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10003,
+              "CDTime": 40,
+              "SkillLengthTime": 10,
+              "SkillNum": 100
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_9": {
+        "MapID": 626,
+        "VehicleSkillExtraDataConfigMap": [
+          {
+            "Key": 10004,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10004,
+              "CDTime": 40,
+              "SkillLengthTime": 4,
+              "SkillNum": 1
+            }
+          },
+          {
+            "Key": 10003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10003,
+              "CDTime": 40,
+              "SkillLengthTime": 10,
+              "SkillNum": 100
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_10": {
+        "MapID": 625,
+        "VehicleSkillExtraDataConfigMap": [
+          {
+            "Key": 10004,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10004,
+              "CDTime": 40,
+              "SkillLengthTime": 4,
+              "SkillNum": 1
+            }
+          },
+          {
+            "Key": 10003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10003,
+              "CDTime": 40,
+              "SkillLengthTime": 10,
+              "SkillNum": 100
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_0": {
+        "MapID": 956,
+        "VehicleSkillExtraDataConfigMap": [
+          {
+            "Key": 10004,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10004,
+              "CDTime": 60,
+              "SkillLengthTime": 15,
+              "SkillNum": 100
+            }
+          },
+          {
+            "Key": 10001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10001,
+              "CDTime": 20,
+              "SkillLengthTime": 12,
+              "SkillNum": 100
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_1": {
+        "MapID": 957,
+        "VehicleSkillExtraDataConfigMap": [
+          {
+            "Key": 10004,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10004,
+              "CDTime": 60,
+              "SkillLengthTime": 15,
+              "SkillNum": 100
+            }
+          },
+          {
+            "Key": 10001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10001,
+              "CDTime": 20,
+              "SkillLengthTime": 12,
+              "SkillNum": 100
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_2": {
+        "MapID": 958,
+        "VehicleSkillExtraDataConfigMap": [
+          {
+            "Key": 10004,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10004,
+              "CDTime": 60,
+              "SkillLengthTime": 15,
+              "SkillNum": 100
+            }
+          },
+          {
+            "Key": 10001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10001,
+              "CDTime": 20,
+              "SkillLengthTime": 12,
+              "SkillNum": 100
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_3": {
+        "MapID": 997,
+        "VehicleSkillExtraDataConfigMap": [
+          {
+            "Key": 10004,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10004,
+              "CDTime": 60,
+              "SkillLengthTime": 15,
+              "SkillNum": 100
+            }
+          },
+          {
+            "Key": 10001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10001,
+              "CDTime": 20,
+              "SkillLengthTime": 12,
+              "SkillNum": 100
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_4": {
+        "MapID": 996,
+        "VehicleSkillExtraDataConfigMap": [
+          {
+            "Key": 10004,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10004,
+              "CDTime": 60,
+              "SkillLengthTime": 15,
+              "SkillNum": 100
+            }
+          },
+          {
+            "Key": 10001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillId": 10001,
+              "CDTime": 20,
+              "SkillLengthTime": 12,
+              "SkillNum": 100
+            }
+          }
+        ],
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 19
+  }
+]

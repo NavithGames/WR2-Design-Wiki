@@ -1,0 +1,81 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "EquipmentCheckTypeConfig",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/EquipmentCheckTypeConfig",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "EquipmentCheckConfig",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "0": {
+        "PanelType": 0,
+        "Title": "",
+        "Desc": "",
+        "Slot": 0,
+        "RowDescription": "None"
+      },
+      "1": {
+        "PanelType": 1,
+        "Title": null,
+        "Desc": null,
+        "Slot": 0,
+        "RowDescription": "None"
+      },
+      "2": {
+        "PanelType": 2,
+        "Title": null,
+        "Desc": null,
+        "Slot": 0,
+        "RowDescription": "None"
+      },
+      "3": {
+        "PanelType": 3,
+        "Title": null,
+        "Desc": null,
+        "Slot": 108,
+        "RowDescription": "None"
+      },
+      "4": {
+        "PanelType": 4,
+        "Title": null,
+        "Desc": null,
+        "Slot": 122,
+        "RowDescription": "None"
+      },
+      "5": {
+        "PanelType": 5,
+        "Title": null,
+        "Desc": null,
+        "Slot": 101,
+        "RowDescription": "None"
+      },
+      "6": {
+        "PanelType": 6,
+        "Title": null,
+        "Desc": null,
+        "Slot": 105,
+        "RowDescription": "None"
+      },
+      "7": {
+        "PanelType": 7,
+        "Title": null,
+        "Desc": null,
+        "Slot": 108,
+        "RowDescription": "None"
+      },
+      "8": {
+        "PanelType": 8,
+        "Title": null,
+        "Desc": null,
+        "Slot": 122,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 9
+  }
+]

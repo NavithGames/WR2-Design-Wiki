@@ -1,0 +1,16 @@
+﻿RowName,AttackerValueId,DisplayName,DamageType,DestructibleItemDemageType,DefaultDamageId,DamageIdGameMode01,DamageIdGameMode02,DamageIdGameMode03,DamageIdGameMode04,DefaultDamageId_Mobile,DamageIdGameMode01_Mobile,DamageIdGameMode02_Mobile,DamageIdGameMode03_Mobile,DamageIdGameMode04_Mobile,NeedHitMark,HitMarkMakerFeedBackId,HitMarkFeedBackId,bHitDirForCharacter,NeedBeHitFeedback,RowDescription
+1982076,1982076,,EDamageSystemDamageType::Buff,None,1000012,0,0,0,0,0,0,0,0,0,True,0,0,True,True,None
+1982061,1982061,,EDamageSystemDamageType::Buff,None,1000036,0,0,0,0,0,0,0,0,0,True,0,0,True,False,None
+1982062,1982062,,EDamageSystemDamageType::Buff,None,1000037,0,0,0,0,0,0,0,0,0,True,0,0,True,False,None
+2040001,2040001,,EDamageSystemDamageType::Buff,None,1000041,0,0,0,0,0,0,0,0,0,True,0,0,True,False,None
+1985007,1985007,,EDamageSystemDamageType::Radial,Small_Explosion,30,0,0,0,0,0,0,0,0,0,True,0,0,True,True,None
+1982071,1982071,,EDamageSystemDamageType::Point,None,1982071,0,0,0,0,0,0,0,0,0,True,0,0,True,True,None
+1982072,1982072,,EDamageSystemDamageType::Buff,None,1000028,0,0,0,0,0,0,0,0,0,True,0,0,True,True,None
+1982073,1982073,,EDamageSystemDamageType::Buff,None,1000029,0,0,0,0,0,0,0,0,0,True,0,0,True,True,None
+1982070,1982070,,EDamageSystemDamageType::Buff,None,1000030,0,0,0,0,0,0,0,0,0,True,0,0,True,False,None
+181903,181903,,EDamageSystemDamageType::Radial,Cannon_Explosion,181903,0,0,0,0,0,0,0,0,0,True,0,0,True,True,None
+2100031,2100031,,EDamageSystemDamageType::Buff,None,1000033,0,0,0,0,0,0,0,0,0,True,0,0,True,True,None
+2100032,2100032,,EDamageSystemDamageType::Buff,None,1000034,0,0,0,0,0,0,0,0,0,True,0,0,True,True,None
+2100033,2100033,,EDamageSystemDamageType::Buff,None,1000035,0,0,0,0,0,0,0,0,0,True,0,0,True,True,None
+2100034,2100034,,EDamageSystemDamageType::Point,Bullet,501001,0,0,0,0,0,0,0,0,0,True,0,0,True,True,None
+1982074,1982074,,EDamageSystemDamageType::Physics,None,17,0,0,0,0,0,0,0,0,0,True,0,0,True,True,None

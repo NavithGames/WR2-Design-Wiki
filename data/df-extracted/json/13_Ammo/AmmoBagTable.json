@@ -1,0 +1,49 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "AmmoBagTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/Ammo/AmmoBagTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "DeadbodyAmmoBoxConfig",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "1": {
+        "ConfigId": 1,
+        "VisibilityRule": "EDBAmmoBoxVisibilityRule::OnlyKiller",
+        "CountLimitRule": "EDBAmmoBoxCountLimitRule::OnlyOnce",
+        "Lifespan": 60,
+        "Capacity": 160,
+        "bOnlyAddToCurrent": false,
+        "bMainWeapon": true,
+        "bAbilityWeapon": false,
+        "bOverrideAddAmmoNum": false,
+        "AddAmmoType": "EWeaponAddAmmoType::AddToFull",
+        "AddAmmoValue": 0,
+        "AmmoType_BlackList": [],
+        "AddAmmoOverrides": [],
+        "RowDescription": "None"
+      },
+      "2": {
+        "ConfigId": 2,
+        "VisibilityRule": "EDBAmmoBoxVisibilityRule::All",
+        "CountLimitRule": "EDBAmmoBoxCountLimitRule::OnlyOnce",
+        "Lifespan": 60,
+        "Capacity": 600,
+        "bOnlyAddToCurrent": false,
+        "bMainWeapon": true,
+        "bAbilityWeapon": false,
+        "bOverrideAddAmmoNum": false,
+        "AddAmmoType": "EWeaponAddAmmoType::AddToFull",
+        "AddAmmoValue": 0,
+        "AmmoType_BlackList": [],
+        "AddAmmoOverrides": [],
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 2
+  }
+]

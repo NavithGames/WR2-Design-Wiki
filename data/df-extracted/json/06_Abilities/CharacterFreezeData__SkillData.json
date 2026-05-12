@@ -1,0 +1,66 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "CharacterFreezeData",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Ability/SkillData/CharacterFreezeData",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "CharacterFreezeData",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "NewRow": {
+        "AreaGameMode": [],
+        "MaxFreezeValue": 100,
+        "AIFreezeValueMaxMap": [
+          {
+            "Key": "EAICharacterTag::EAICharacterTag_Boss",
+            "Value": 100000000
+          },
+          {
+            "Key": "EAICharacterTag::EAICharacterTag_BoyBand",
+            "Value": 100
+          },
+          {
+            "Key": "EAICharacterTag::EAICharacterTag_Elite",
+            "Value": 100
+          },
+          {
+            "Key": "EAICharacterTag::EAICharacterTag_Shark",
+            "Value": 100
+          },
+          {
+            "Key": "EAICharacterTag::EAICharacterTag_Crocodile",
+            "Value": 100
+          },
+          {
+            "Key": "EAICharacterTag::EAICharacterTag_Civilian",
+            "Value": 20
+          }
+        ],
+        "FreezeValueLimitStates": [],
+        "RequiredStruggleTime": 4,
+        "StruggleDecayTime": 2,
+        "InputTimeout": 0.2,
+        "StruggleCheckInterval": 0.05,
+        "BuffIdsToRemoveOnComplete": [
+          405006
+        ],
+        "FreezeValueImmuneDuration": 2,
+        "RequiredBuffIdsForStruggle": [
+          405006
+        ],
+        "MobileJoystickTimeWindow": 0.5,
+        "MobileJoystickMinDistance": 0.5,
+        "FreezeValueReduceOnComplete": 100,
+        "BuffTypeToRemoveOnComplete": [],
+        "StruggleHudStateName": "None",
+        "BuffTypeToRemoveOnLeave": [],
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 1
+  }
+]

@@ -1,0 +1,578 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "SpecialWeaponAnim",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/WeaponAppearance/SpecialWeaponAnim",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "SpecialWeaponAnimTableRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "M2HB": {
+        "Idle": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Inactive": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "FireMontage": {
+          "_StructType": "FStructFallback",
+          "FPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FPPCameraShakeScale": 0,
+          "TPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TPPCameraShakeScale": 0,
+          "WeaponAnimItemMap": []
+        },
+        "FireZoomingMontage": {
+          "_StructType": "FStructFallback",
+          "FPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FPPCameraShakeScale": 0,
+          "TPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TPPCameraShakeScale": 0,
+          "WeaponAnimItemMap": []
+        },
+        "Equip": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Unequip": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Reload": {
+          "_StructType": "FStructFallback",
+          "AnimItemSeqBaseArray": []
+        },
+        "AimReload": {
+          "_StructType": "FStructFallback",
+          "AnimItemSeqBaseArray": []
+        },
+        "RowDescription": "None"
+      },
+      "M2HB_OnVehicle": {
+        "Idle": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Inactive": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "FireMontage": {
+          "_StructType": "FStructFallback",
+          "FPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FPPCameraShakeScale": 0,
+          "TPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TPPCameraShakeScale": 0,
+          "WeaponAnimItemMap": []
+        },
+        "FireZoomingMontage": {
+          "_StructType": "FStructFallback",
+          "FPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FPPCameraShakeScale": 0,
+          "TPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TPPCameraShakeScale": 0,
+          "WeaponAnimItemMap": []
+        },
+        "Equip": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Unequip": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Reload": {
+          "_StructType": "FStructFallback",
+          "AnimItemSeqBaseArray": []
+        },
+        "AimReload": {
+          "_StructType": "FStructFallback",
+          "AnimItemSeqBaseArray": []
+        },
+        "RowDescription": "None"
+      },
+      "CarrierRemoteurret": {
+        "Idle": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Inactive": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "FireMontage": {
+          "_StructType": "FStructFallback",
+          "FPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FPPCameraShakeScale": 0,
+          "TPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TPPCameraShakeScale": 0,
+          "WeaponAnimItemMap": []
+        },
+        "FireZoomingMontage": {
+          "_StructType": "FStructFallback",
+          "FPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FPPCameraShakeScale": 0,
+          "TPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TPPCameraShakeScale": 0,
+          "WeaponAnimItemMap": []
+        },
+        "Equip": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Unequip": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Reload": {
+          "_StructType": "FStructFallback",
+          "AnimItemSeqBaseArray": []
+        },
+        "AimReload": {
+          "_StructType": "FStructFallback",
+          "AnimItemSeqBaseArray": []
+        },
+        "RowDescription": "None"
+      },
+      "HMG_M134": {
+        "Idle": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Inactive": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "FireMontage": {
+          "_StructType": "FStructFallback",
+          "FPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FPPCameraShakeScale": 0,
+          "TPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TPPCameraShakeScale": 0,
+          "WeaponAnimItemMap": []
+        },
+        "FireZoomingMontage": {
+          "_StructType": "FStructFallback",
+          "FPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FPPCameraShakeScale": 0,
+          "TPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TPPCameraShakeScale": 0,
+          "WeaponAnimItemMap": []
+        },
+        "Equip": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Unequip": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Reload": {
+          "_StructType": "FStructFallback",
+          "AnimItemSeqBaseArray": []
+        },
+        "AimReload": {
+          "_StructType": "FStructFallback",
+          "AnimItemSeqBaseArray": []
+        },
+        "RowDescription": "None"
+      },
+      "RaidJeepFNMini": {
+        "Idle": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Inactive": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "FireMontage": {
+          "_StructType": "FStructFallback",
+          "FPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FPPCameraShakeScale": 0,
+          "TPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TPPCameraShakeScale": 0,
+          "WeaponAnimItemMap": []
+        },
+        "FireZoomingMontage": {
+          "_StructType": "FStructFallback",
+          "FPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FPPCameraShakeScale": 0,
+          "TPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TPPCameraShakeScale": 0,
+          "WeaponAnimItemMap": []
+        },
+        "Equip": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Unequip": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Reload": {
+          "_StructType": "FStructFallback",
+          "AnimItemSeqBaseArray": []
+        },
+        "AimReload": {
+          "_StructType": "FStructFallback",
+          "AnimItemSeqBaseArray": []
+        },
+        "RowDescription": "None"
+      },
+      "AAGun": {
+        "Idle": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Inactive": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "FireMontage": {
+          "_StructType": "FStructFallback",
+          "FPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FPPCameraShakeScale": 0,
+          "TPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TPPCameraShakeScale": 0,
+          "WeaponAnimItemMap": []
+        },
+        "FireZoomingMontage": {
+          "_StructType": "FStructFallback",
+          "FPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FPPCameraShakeScale": 0,
+          "TPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TPPCameraShakeScale": 0,
+          "WeaponAnimItemMap": []
+        },
+        "Equip": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Unequip": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Reload": {
+          "_StructType": "FStructFallback",
+          "AnimItemSeqBaseArray": []
+        },
+        "AimReload": {
+          "_StructType": "FStructFallback",
+          "AnimItemSeqBaseArray": []
+        },
+        "RowDescription": "None"
+      },
+      "Shore_Main_Gun": {
+        "Idle": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Inactive": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "FireMontage": {
+          "_StructType": "FStructFallback",
+          "FPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FPPCameraShakeScale": 0,
+          "TPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TPPCameraShakeScale": 0,
+          "WeaponAnimItemMap": []
+        },
+        "FireZoomingMontage": {
+          "_StructType": "FStructFallback",
+          "FPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FPPCameraShakeScale": 0,
+          "TPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TPPCameraShakeScale": 0,
+          "WeaponAnimItemMap": []
+        },
+        "Equip": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Unequip": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Reload": {
+          "_StructType": "FStructFallback",
+          "AnimItemSeqBaseArray": [
+            {
+              "_StructType": "FStructFallback",
+              "WeaponAnimItemMap": []
+            }
+          ]
+        },
+        "AimReload": {
+          "_StructType": "FStructFallback",
+          "AnimItemSeqBaseArray": [
+            {
+              "_StructType": "FStructFallback",
+              "WeaponAnimItemMap": []
+            }
+          ]
+        },
+        "RowDescription": "None"
+      },
+      "Military_Weapon01": {
+        "Idle": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Inactive": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "FireMontage": {
+          "_StructType": "FStructFallback",
+          "FPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FPPCameraShakeScale": 0,
+          "TPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TPPCameraShakeScale": 0,
+          "WeaponAnimItemMap": []
+        },
+        "FireZoomingMontage": {
+          "_StructType": "FStructFallback",
+          "FPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FPPCameraShakeScale": 0,
+          "TPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TPPCameraShakeScale": 0,
+          "WeaponAnimItemMap": []
+        },
+        "Equip": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Unequip": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Reload": {
+          "_StructType": "FStructFallback",
+          "AnimItemSeqBaseArray": []
+        },
+        "AimReload": {
+          "_StructType": "FStructFallback",
+          "AnimItemSeqBaseArray": []
+        },
+        "RowDescription": "None"
+      },
+      "Military_DefenseGuns01": {
+        "Idle": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Inactive": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "FireMontage": {
+          "_StructType": "FStructFallback",
+          "FPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FPPCameraShakeScale": 0,
+          "TPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TPPCameraShakeScale": 0,
+          "WeaponAnimItemMap": []
+        },
+        "FireZoomingMontage": {
+          "_StructType": "FStructFallback",
+          "FPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FPPCameraShakeScale": 0,
+          "TPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TPPCameraShakeScale": 0,
+          "WeaponAnimItemMap": []
+        },
+        "Equip": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Unequip": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Reload": {
+          "_StructType": "FStructFallback",
+          "AnimItemSeqBaseArray": []
+        },
+        "AimReload": {
+          "_StructType": "FStructFallback",
+          "AnimItemSeqBaseArray": []
+        },
+        "RowDescription": "None"
+      },
+      "Heavy_Machine_Gun": {
+        "Idle": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Inactive": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "FireMontage": {
+          "_StructType": "FStructFallback",
+          "FPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FPPCameraShakeScale": 0,
+          "TPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TPPCameraShakeScale": 0,
+          "WeaponAnimItemMap": []
+        },
+        "FireZoomingMontage": {
+          "_StructType": "FStructFallback",
+          "FPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FPPCameraShakeScale": 0,
+          "TPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TPPCameraShakeScale": 0,
+          "WeaponAnimItemMap": []
+        },
+        "Equip": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Unequip": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Reload": {
+          "_StructType": "FStructFallback",
+          "AnimItemSeqBaseArray": []
+        },
+        "AimReload": {
+          "_StructType": "FStructFallback",
+          "AnimItemSeqBaseArray": []
+        },
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 10
+  }
+]

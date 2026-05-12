@@ -1,0 +1,457 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "BreakthroughOutToInGameMapIDTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/BattleField/BreakthroughOutToInGameMapIDTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "BreakthroughOutToInGameMapIDRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "1": {
+        "OutGameMapID": 54,
+        "InGameMapID": "100101",
+        "RowDescription": "None"
+      },
+      "2": {
+        "OutGameMapID": 54,
+        "InGameMapID": "110101",
+        "RowDescription": "None"
+      },
+      "3": {
+        "OutGameMapID": 33,
+        "InGameMapID": "100102",
+        "RowDescription": "None"
+      },
+      "4": {
+        "OutGameMapID": 33,
+        "InGameMapID": "110102",
+        "RowDescription": "None"
+      },
+      "5": {
+        "OutGameMapID": 75,
+        "InGameMapID": "100103",
+        "RowDescription": "None"
+      },
+      "6": {
+        "OutGameMapID": 75,
+        "InGameMapID": "110103",
+        "RowDescription": "None"
+      },
+      "7": {
+        "OutGameMapID": 113,
+        "InGameMapID": "100104",
+        "RowDescription": "None"
+      },
+      "8": {
+        "OutGameMapID": 113,
+        "InGameMapID": "110104",
+        "RowDescription": "None"
+      },
+      "9": {
+        "OutGameMapID": 107,
+        "InGameMapID": "100105",
+        "RowDescription": "None"
+      },
+      "10": {
+        "OutGameMapID": 107,
+        "InGameMapID": "110105",
+        "RowDescription": "None"
+      },
+      "11": {
+        "OutGameMapID": 111,
+        "InGameMapID": "100106",
+        "RowDescription": "None"
+      },
+      "12": {
+        "OutGameMapID": 111,
+        "InGameMapID": "110106",
+        "RowDescription": "None"
+      },
+      "13": {
+        "OutGameMapID": 121,
+        "InGameMapID": "100107",
+        "RowDescription": "None"
+      },
+      "14": {
+        "OutGameMapID": 121,
+        "InGameMapID": "110107",
+        "RowDescription": "None"
+      },
+      "15": {
+        "OutGameMapID": 302,
+        "InGameMapID": "100108",
+        "RowDescription": "None"
+      },
+      "16": {
+        "OutGameMapID": 302,
+        "InGameMapID": "110108",
+        "RowDescription": "None"
+      },
+      "17": {
+        "OutGameMapID": 138,
+        "InGameMapID": "110111",
+        "RowDescription": "None"
+      },
+      "18": {
+        "OutGameMapID": 801,
+        "InGameMapID": "100113",
+        "RowDescription": "None"
+      },
+      "19": {
+        "OutGameMapID": 801,
+        "InGameMapID": "110113",
+        "RowDescription": "None"
+      },
+      "20": {
+        "OutGameMapID": 116,
+        "InGameMapID": "100201",
+        "RowDescription": "None"
+      },
+      "21": {
+        "OutGameMapID": 116,
+        "InGameMapID": "110201",
+        "RowDescription": "None"
+      },
+      "22": {
+        "OutGameMapID": 118,
+        "InGameMapID": "100202",
+        "RowDescription": "None"
+      },
+      "23": {
+        "OutGameMapID": 118,
+        "InGameMapID": "110202",
+        "RowDescription": "None"
+      },
+      "24": {
+        "OutGameMapID": 0,
+        "InGameMapID": "100203",
+        "RowDescription": "None"
+      },
+      "25": {
+        "OutGameMapID": 0,
+        "InGameMapID": "110203",
+        "RowDescription": "None"
+      },
+      "26": {
+        "OutGameMapID": 0,
+        "InGameMapID": "100204",
+        "RowDescription": "None"
+      },
+      "27": {
+        "OutGameMapID": 0,
+        "InGameMapID": "110204",
+        "RowDescription": "None"
+      },
+      "28": {
+        "OutGameMapID": 0,
+        "InGameMapID": "100205",
+        "RowDescription": "None"
+      },
+      "29": {
+        "OutGameMapID": 0,
+        "InGameMapID": "110205",
+        "RowDescription": "None"
+      },
+      "30": {
+        "OutGameMapID": 0,
+        "InGameMapID": "100206",
+        "RowDescription": "None"
+      },
+      "31": {
+        "OutGameMapID": 0,
+        "InGameMapID": "110206",
+        "RowDescription": "None"
+      },
+      "32": {
+        "OutGameMapID": 0,
+        "InGameMapID": "100207",
+        "RowDescription": "None"
+      },
+      "33": {
+        "OutGameMapID": 0,
+        "InGameMapID": "110207",
+        "RowDescription": "None"
+      },
+      "34": {
+        "OutGameMapID": 805,
+        "InGameMapID": "100213",
+        "RowDescription": "None"
+      },
+      "35": {
+        "OutGameMapID": 805,
+        "InGameMapID": "110213",
+        "RowDescription": "None"
+      },
+      "36": {
+        "OutGameMapID": 103,
+        "InGameMapID": "200101",
+        "RowDescription": "None"
+      },
+      "37": {
+        "OutGameMapID": 103,
+        "InGameMapID": "210101",
+        "RowDescription": "None"
+      },
+      "38": {
+        "OutGameMapID": 34,
+        "InGameMapID": "200102",
+        "RowDescription": "None"
+      },
+      "39": {
+        "OutGameMapID": 34,
+        "InGameMapID": "210102",
+        "RowDescription": "None"
+      },
+      "40": {
+        "OutGameMapID": 210,
+        "InGameMapID": "200103",
+        "RowDescription": "None"
+      },
+      "41": {
+        "OutGameMapID": 210,
+        "InGameMapID": "210103",
+        "RowDescription": "None"
+      },
+      "42": {
+        "OutGameMapID": 114,
+        "InGameMapID": "200104",
+        "RowDescription": "None"
+      },
+      "43": {
+        "OutGameMapID": 114,
+        "InGameMapID": "210104",
+        "RowDescription": "None"
+      },
+      "44": {
+        "OutGameMapID": 108,
+        "InGameMapID": "200105",
+        "RowDescription": "None"
+      },
+      "45": {
+        "OutGameMapID": 108,
+        "InGameMapID": "210105",
+        "RowDescription": "None"
+      },
+      "46": {
+        "OutGameMapID": 112,
+        "InGameMapID": "200106",
+        "RowDescription": "None"
+      },
+      "47": {
+        "OutGameMapID": 112,
+        "InGameMapID": "210106",
+        "RowDescription": "None"
+      },
+      "48": {
+        "OutGameMapID": 122,
+        "InGameMapID": "200107",
+        "RowDescription": "None"
+      },
+      "49": {
+        "OutGameMapID": 122,
+        "InGameMapID": "210107",
+        "RowDescription": "None"
+      },
+      "50": {
+        "OutGameMapID": 802,
+        "InGameMapID": "200113",
+        "RowDescription": "None"
+      },
+      "51": {
+        "OutGameMapID": 802,
+        "InGameMapID": "210113",
+        "RowDescription": "None"
+      },
+      "52": {
+        "OutGameMapID": 139,
+        "InGameMapID": "210111",
+        "RowDescription": "None"
+      },
+      "53": {
+        "OutGameMapID": 105,
+        "InGameMapID": "200201",
+        "RowDescription": "None"
+      },
+      "54": {
+        "OutGameMapID": 105,
+        "InGameMapID": "210201",
+        "RowDescription": "None"
+      },
+      "55": {
+        "OutGameMapID": 109,
+        "InGameMapID": "200202",
+        "RowDescription": "None"
+      },
+      "56": {
+        "OutGameMapID": 109,
+        "InGameMapID": "210202",
+        "RowDescription": "None"
+      },
+      "57": {
+        "OutGameMapID": 213,
+        "InGameMapID": "200203",
+        "RowDescription": "None"
+      },
+      "58": {
+        "OutGameMapID": 213,
+        "InGameMapID": "210203",
+        "RowDescription": "None"
+      },
+      "59": {
+        "OutGameMapID": 0,
+        "InGameMapID": "200204",
+        "RowDescription": "None"
+      },
+      "60": {
+        "OutGameMapID": 0,
+        "InGameMapID": "210204",
+        "RowDescription": "None"
+      },
+      "61": {
+        "OutGameMapID": 0,
+        "InGameMapID": "200205",
+        "RowDescription": "None"
+      },
+      "62": {
+        "OutGameMapID": 0,
+        "InGameMapID": "210205",
+        "RowDescription": "None"
+      },
+      "63": {
+        "OutGameMapID": 0,
+        "InGameMapID": "200206",
+        "RowDescription": "None"
+      },
+      "64": {
+        "OutGameMapID": 0,
+        "InGameMapID": "210206",
+        "RowDescription": "None"
+      },
+      "65": {
+        "OutGameMapID": 123,
+        "InGameMapID": "200207",
+        "RowDescription": "None"
+      },
+      "66": {
+        "OutGameMapID": 123,
+        "InGameMapID": "210207",
+        "RowDescription": "None"
+      },
+      "67": {
+        "OutGameMapID": 804,
+        "InGameMapID": "200213",
+        "RowDescription": "None"
+      },
+      "68": {
+        "OutGameMapID": 804,
+        "InGameMapID": "210213",
+        "RowDescription": "None"
+      },
+      "69": {
+        "OutGameMapID": 403,
+        "InGameMapID": "200305",
+        "RowDescription": "None"
+      },
+      "70": {
+        "OutGameMapID": 403,
+        "InGameMapID": "210305",
+        "RowDescription": "None"
+      },
+      "71": {
+        "OutGameMapID": 402,
+        "InGameMapID": "200302",
+        "RowDescription": "None"
+      },
+      "72": {
+        "OutGameMapID": 402,
+        "InGameMapID": "210302",
+        "RowDescription": "None"
+      },
+      "73": {
+        "OutGameMapID": 401,
+        "InGameMapID": "200301",
+        "RowDescription": "None"
+      },
+      "74": {
+        "OutGameMapID": 401,
+        "InGameMapID": "210301",
+        "RowDescription": "None"
+      },
+      "75": {
+        "OutGameMapID": 803,
+        "InGameMapID": "200306",
+        "RowDescription": "None"
+      },
+      "76": {
+        "OutGameMapID": 803,
+        "InGameMapID": "210306",
+        "RowDescription": "None"
+      },
+      "77": {
+        "OutGameMapID": 401,
+        "InGameMapID": "110112",
+        "RowDescription": "None"
+      },
+      "78": {
+        "OutGameMapID": 401,
+        "InGameMapID": "100212",
+        "RowDescription": "None"
+      },
+      "79": {
+        "OutGameMapID": 33,
+        "InGameMapID": "100114",
+        "RowDescription": "None"
+      },
+      "80": {
+        "OutGameMapID": 33,
+        "InGameMapID": "110114",
+        "RowDescription": "None"
+      },
+      "81": {
+        "OutGameMapID": 34,
+        "InGameMapID": "200114",
+        "RowDescription": "None"
+      },
+      "82": {
+        "OutGameMapID": 34,
+        "InGameMapID": "210114",
+        "RowDescription": "None"
+      },
+      "83": {
+        "OutGameMapID": 118,
+        "InGameMapID": "100214",
+        "RowDescription": "None"
+      },
+      "84": {
+        "OutGameMapID": 118,
+        "InGameMapID": "110214",
+        "RowDescription": "None"
+      },
+      "85": {
+        "OutGameMapID": 109,
+        "InGameMapID": "200214",
+        "RowDescription": "None"
+      },
+      "86": {
+        "OutGameMapID": 109,
+        "InGameMapID": "210214",
+        "RowDescription": "None"
+      },
+      "87": {
+        "OutGameMapID": 612,
+        "InGameMapID": "110109",
+        "RowDescription": "None"
+      },
+      "88": {
+        "OutGameMapID": 615,
+        "InGameMapID": "110116",
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 88
+  }
+]

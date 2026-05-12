@@ -1,0 +1,861 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "VehicleHUDTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/PC/DataTables/Vehicle/VehicleHUDTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "DFMVehicleHUDDataTableRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "\u5766\u514B": {
+        "VehicleId": 1101001,
+        "VehicleIcon": {
+          "AssetPath": "/Game/UI/UIAtlas/System/HUD_ArmedDriverView/SP/HUD_ArmedDriverView_Icon_SP_0508.HUD_ArmedDriverView_Icon_SP_0508",
+          "SubPath": ""
+        },
+        "CommonHUDNames": [
+          "VehicleBloodBarSubView",
+          "VehicleWeaponBarSubView",
+          "VehicleLockSubView",
+          "VehicleSupplyTipView"
+        ],
+        "SeatLayoutType": 0,
+        "SeatHUDConfigs": [
+          {
+            "Key": "Point_FL",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleTankStateSubView",
+                "TankWeaponAimWidgetSubView",
+                "TankWeaponMirrorWidgetSubView"
+              ]
+            }
+          },
+          {
+            "Key": "Point_FR",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleGunSubView"
+              ]
+            }
+          },
+          {
+            "Key": "Point_BL",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleGunSubView"
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u9632\u7A7A\u8F66": {
+        "VehicleId": 1101002,
+        "VehicleIcon": {
+          "AssetPath": "/Game/UI/UIAtlas/System/HUD_ArmedDriverView/SP/HUD_ArmedDriverView_Icon_SP_0515.HUD_ArmedDriverView_Icon_SP_0515",
+          "SubPath": ""
+        },
+        "CommonHUDNames": [
+          "VehicleWeaponBarSubView",
+          "VehicleBloodBarSubView",
+          "VehicleLockSubView",
+          "VehicleSupplyTipView"
+        ],
+        "SeatLayoutType": 0,
+        "SeatHUDConfigs": [
+          {
+            "Key": "Point_Seat_01",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleAAStateSubView",
+                "TankWeaponAimWidgetSubView",
+                "TankWeaponMirrorWidgetSubView"
+              ]
+            }
+          },
+          {
+            "Key": "Point_Seat_02",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleGunSubView"
+              ]
+            }
+          },
+          {
+            "Key": "Point_Seat_03",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleGunSubView"
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u6B65\u5175\u8F66": {
+        "VehicleId": 1101003,
+        "VehicleIcon": {
+          "AssetPath": "/Game/UI/UIAtlas/System/HUD_ArmedDriverView/SP/HUD_ArmedDriverView_Icon_SP_0515.HUD_ArmedDriverView_Icon_SP_0515",
+          "SubPath": ""
+        },
+        "CommonHUDNames": [
+          "VehicleWeaponBarSubView",
+          "VehicleBloodBarSubView",
+          "VehicleLockSubView",
+          "VehicleSupplyTipView"
+        ],
+        "SeatLayoutType": 0,
+        "SeatHUDConfigs": [
+          {
+            "Key": "Point_Seat_01",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleInfantryStateSubView",
+                "TankWeaponAimWidgetSubView",
+                "TankWeaponMirrorWidgetSubView"
+              ]
+            }
+          },
+          {
+            "Key": "Point_Seat_02",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleGunSubView"
+              ]
+            }
+          },
+          {
+            "Key": "Point_Seat_03",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleGunSubView"
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u519B\u4E8B\u5409\u666E": {
+        "VehicleId": 1103002,
+        "VehicleIcon": {
+          "AssetPath": "/Game/UI/UIAtlas/System/HUD_ArmedDriverView/SP/HUD_ArmedDriverView_Icon_SP_0511.HUD_ArmedDriverView_Icon_SP_0511",
+          "SubPath": ""
+        },
+        "CommonHUDNames": [
+          "VehicleBloodBarSubView",
+          "VehicleLockSubView",
+          "VehicleSupplyTipView"
+        ],
+        "SeatLayoutType": 0,
+        "SeatHUDConfigs": [
+          {
+            "Key": "Point_FL",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleCommonStateSubView"
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u5973\u6B66\u795E": {
+        "VehicleId": 1103001,
+        "VehicleIcon": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "CommonHUDNames": [
+          "VehicleBloodBarSubView",
+          "VehicleSupplyTipView"
+        ],
+        "SeatLayoutType": 0,
+        "SeatHUDConfigs": [
+          {
+            "Key": "Point_FL",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": []
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u653B\u51FB\u8247": {
+        "VehicleId": 1201003,
+        "VehicleIcon": {
+          "AssetPath": "/Game/UI/UIAtlas/System/HUD_ArmedDriverView/SP/HUD_ArmedDriverView_Icon_SP_0505.HUD_ArmedDriverView_Icon_SP_0505",
+          "SubPath": ""
+        },
+        "CommonHUDNames": [
+          "VehicleBloodBarSubView",
+          "VehicleLockSubView",
+          "VehicleSupplyTipView"
+        ],
+        "SeatLayoutType": 0,
+        "SeatHUDConfigs": [
+          {
+            "Key": "Point_Seat_01",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleCommonStateSubView",
+                "VehicleTPPWeaponCommonAimWidget",
+                "VehicleWeaponBarSubView"
+              ]
+            }
+          },
+          {
+            "Key": "Point_Seat_02",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleWeaponBarSubView"
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u6B66\u88C5\u76F4\u5347\u673A": {
+        "VehicleId": 1301001,
+        "VehicleIcon": {
+          "AssetPath": "/Game/UI/UIAtlas/System/HUD_ArmedDriverView/SP/HUD_ArmedDriverView_Icon_SP_0514.HUD_ArmedDriverView_Icon_SP_0514",
+          "SubPath": ""
+        },
+        "CommonHUDNames": [
+          "VehicleWeaponBarSubView",
+          "VehicleBloodBarSubView",
+          "VehicleLockSubView",
+          "VehicleSupplyTipView"
+        ],
+        "SeatLayoutType": 0,
+        "SeatHUDConfigs": [
+          {
+            "Key": "Point_FL",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "HelicopterDriverSubView"
+              ]
+            }
+          },
+          {
+            "Key": "Point_FR",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleGunSubView"
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "ATV": {
+        "VehicleId": 1103007,
+        "VehicleIcon": {
+          "AssetPath": "/Game/UI/UIAtlas/System/HUD_ArmedDriverView/SP/HUD_ArmedDriverView_Icon_SP_0512.HUD_ArmedDriverView_Icon_SP_0512",
+          "SubPath": ""
+        },
+        "CommonHUDNames": [
+          "VehicleBloodBarSubView",
+          "VehicleLockSubView",
+          "VehicleSupplyTipView"
+        ],
+        "SeatLayoutType": 2,
+        "SeatHUDConfigs": [
+          {
+            "Key": "Point_Seat_01",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleCommonStateSubView"
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "raid\u5409\u666E": {
+        "VehicleId": 1103009,
+        "VehicleIcon": {
+          "AssetPath": "/Game/UI/UIAtlas/System/HUD_ArmedDriverView/SP/HUD_ArmedDriverView_Icon_SP_0511.HUD_ArmedDriverView_Icon_SP_0511",
+          "SubPath": ""
+        },
+        "CommonHUDNames": [
+          "VehicleCommonSubView",
+          "VehicleSupplyTipView"
+        ],
+        "SeatLayoutType": 0,
+        "SeatHUDConfigs": [
+          {
+            "Key": "Point_FL",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleDriverSubView",
+                "VehicleControllerRootSubView"
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "ORV": {
+        "VehicleId": 1102001,
+        "VehicleIcon": {
+          "AssetPath": "/Game/UI/UIAtlas/System/HUD_ArmedDriverView/SP/HUD_ArmedDriverView_Icon_SP_0513.HUD_ArmedDriverView_Icon_SP_0513",
+          "SubPath": ""
+        },
+        "CommonHUDNames": [
+          "VehicleBloodBarSubView",
+          "VehicleLockSubView",
+          "VehicleWeaponBarSubView",
+          "VehicleSupplyTipView"
+        ],
+        "SeatLayoutType": 0,
+        "SeatHUDConfigs": [
+          {
+            "Key": "Point_Seat_01",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleCommonStateSubView"
+              ]
+            }
+          },
+          {
+            "Key": "Point_Seat_02",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleGunSubView"
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u963F\u5E15\u5947": {
+        "VehicleId": 1301002,
+        "VehicleIcon": {
+          "AssetPath": "/Game/UI/UIAtlas/System/HUD_ArmedDriverView/SP/HUD_ArmedDriverView_Icon_SP_0514.HUD_ArmedDriverView_Icon_SP_0514",
+          "SubPath": ""
+        },
+        "CommonHUDNames": [
+          "VehicleWeaponBarSubView",
+          "VehicleBloodBarSubView",
+          "VehicleLockSubView",
+          "VehicleSupplyTipView"
+        ],
+        "SeatLayoutType": 0,
+        "SeatHUDConfigs": [
+          {
+            "Key": "Point_Seat_01",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "HelicopterDriverSubView",
+                "HelicopterStateSubView"
+              ]
+            }
+          },
+          {
+            "Key": "Point_Seat_02",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "HelicopterGunSubView",
+                "HelicopterStateSubView"
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "LSOV": {
+        "VehicleId": 1103012,
+        "VehicleIcon": {
+          "AssetPath": "/Game/UI/UIAtlas/System/HUD_ArmedDriverView/SP/HUD_ArmedDriverView_Icon_SP_0518.HUD_ArmedDriverView_Icon_SP_0518",
+          "SubPath": ""
+        },
+        "CommonHUDNames": [
+          "VehicleBloodBarSubView",
+          "VehicleLockSubView",
+          "VehicleSupplyTipView"
+        ],
+        "SeatLayoutType": 0,
+        "SeatHUDConfigs": [
+          {
+            "Key": "Point_Seat_01",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleCommonStateSubView"
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u8F6E\u5F0F\u7A81\u51FB\u70AE": {
+        "VehicleId": 1101004,
+        "VehicleIcon": {
+          "AssetPath": "/Game/UI/UIAtlas/System/HUD_ArmedDriverView/SP/HUD_ArmedDriverView_Icon_SP_0519.HUD_ArmedDriverView_Icon_SP_0519",
+          "SubPath": ""
+        },
+        "CommonHUDNames": [
+          "VehicleWeaponBarSubView",
+          "VehicleBloodBarSubView",
+          "VehicleLockSubView",
+          "VehicleSupplyTipView"
+        ],
+        "SeatLayoutType": 0,
+        "SeatHUDConfigs": [
+          {
+            "Key": "Point_Seat_01",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleWheeledTankStateSubView",
+                "TankWeaponAimWidgetSubView",
+                "TankWeaponMirrorWidgetSubView"
+              ]
+            }
+          },
+          {
+            "Key": "Point_Seat_02",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleGunSubView"
+              ]
+            }
+          },
+          {
+            "Key": "Point_Seat_03",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleGunSubView"
+              ]
+            }
+          },
+          {
+            "Key": "Point_Seat_04",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleTPPLockWeaponAimWidget"
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "SOLBOSS\u76F4\u5347\u673A": {
+        "VehicleId": 1301004,
+        "VehicleIcon": {
+          "AssetPath": "/Game/UI/UIAtlas/System/HUD_ArmedDriverView/SP/HUD_ArmedDriverView_Icon_SP_0514.HUD_ArmedDriverView_Icon_SP_0514",
+          "SubPath": ""
+        },
+        "CommonHUDNames": [
+          "VehicleWeaponBarSubView",
+          "VehicleBloodBarSubView",
+          "VehicleLockSubView",
+          "VehicleSupplyTipView"
+        ],
+        "SeatLayoutType": 0,
+        "SeatHUDConfigs": [
+          {
+            "Key": "Point_Seat_01",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "HelicopterDriverSubView"
+              ]
+            }
+          },
+          {
+            "Key": "Point_Seat_02",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleGunSubView"
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "MH-33D\u4FA6\u5BDF\u76F4\u5347\u673A": {
+        "VehicleId": 1301005,
+        "VehicleIcon": {
+          "AssetPath": "/Game/UI/UIAtlas/System/HUD_ArmedDriverView/SP/HUD_ArmedDriverView_Icon_SP_0514.HUD_ArmedDriverView_Icon_SP_0514",
+          "SubPath": ""
+        },
+        "CommonHUDNames": [
+          "VehicleWeaponBarSubView",
+          "VehicleBloodBarSubView",
+          "VehicleLockSubView",
+          "VehicleSupplyTipView"
+        ],
+        "SeatLayoutType": 0,
+        "SeatHUDConfigs": [
+          {
+            "Key": "Point_Seat_01",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "HelicopterBirdDriverSubView",
+                "HelicopterBirdStateSubView"
+              ]
+            }
+          },
+          {
+            "Key": "Point_Seat_02",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "HelicopterBirdStateSubView"
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "UH60": {
+        "VehicleId": 1301006,
+        "VehicleIcon": {
+          "AssetPath": "/Game/UI/UIAtlas/System/HUD_ArmedDriverView/SP/HUD_ArmedDriverView_Icon_SP_0514.HUD_ArmedDriverView_Icon_SP_0514",
+          "SubPath": ""
+        },
+        "CommonHUDNames": [
+          "VehicleCommonSubView",
+          "VehicleBloodBarSubView",
+          "VehicleLockSubView",
+          "VehicleSupplyTipView"
+        ],
+        "SeatLayoutType": 3,
+        "SeatHUDConfigs": [
+          {
+            "Key": "Point_FL",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "HelicopterDriverSubView",
+                "VehicleJoystickStyleControllerSubView"
+              ]
+            }
+          },
+          {
+            "Key": "Point_FR",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "HelicopterGunSubView"
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "F35": {
+        "VehicleId": 1301007,
+        "VehicleIcon": {
+          "AssetPath": "/Game/UI/UIAtlas/System/HUD_ArmedDriverView/SP/HUD_ArmedDriverView_Icon_SP_0525.HUD_ArmedDriverView_Icon_SP_0525",
+          "SubPath": ""
+        },
+        "CommonHUDNames": [
+          "VehicleWeaponBarSubView",
+          "VehicleBloodBarSubView",
+          "VehicleLockSubView",
+          "VehicleSupplyTipView",
+          "JetF35StateSubView"
+        ],
+        "SeatLayoutType": 5,
+        "SeatHUDConfigs": [
+          {
+            "Key": "Point_FL",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "JetDriverSubView"
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "GTQ-35\u8F7B\u578B\u5766\u514B": {
+        "VehicleId": 1101005,
+        "VehicleIcon": {
+          "AssetPath": "/Game/UI/UIAtlas/System/HUD_ArmedDriverView/SP/HUD_ArmedDriverView_Icon_SP_0508.HUD_ArmedDriverView_Icon_SP_0508",
+          "SubPath": ""
+        },
+        "CommonHUDNames": [
+          "VehicleBloodBarSubView",
+          "VehicleWeaponBarSubView",
+          "VehicleLockSubView",
+          "VehicleSupplyTipView"
+        ],
+        "SeatLayoutType": 0,
+        "SeatHUDConfigs": [
+          {
+            "Key": "Point_FL",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleGTQTankStateSubView",
+                "TankWeaponAimWidgetSubView",
+                "TankWeaponMirrorWidgetSubView"
+              ]
+            }
+          },
+          {
+            "Key": "Point_FR",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleGunSubView"
+              ]
+            }
+          },
+          {
+            "Key": "Point_BL",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleGunSubView"
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u6469\u6258\u8247": {
+        "VehicleId": 1201002,
+        "VehicleIcon": {
+          "AssetPath": "/Game/UI/UIAtlas/System/HUD_ArmedDriverView/SP/HUD_ArmedDriverView_Icon_SP_0526.HUD_ArmedDriverView_Icon_SP_0526",
+          "SubPath": ""
+        },
+        "CommonHUDNames": [
+          "VehicleBloodBarSubView",
+          "VehicleLockSubView",
+          "VehicleSupplyTipView"
+        ],
+        "SeatLayoutType": 2,
+        "SeatHUDConfigs": [
+          {
+            "Key": "Point_Seat_01",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleCommonStateSubView"
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u51B2\u950B\u8247-\u51B0\u5C9B": {
+        "VehicleId": 1201001,
+        "VehicleIcon": {
+          "AssetPath": "/Game/UI/UIAtlas/System/HUD_ArmedDriverView/SP/HUD_ArmedDriverView_Icon_SP_0505.HUD_ArmedDriverView_Icon_SP_0505",
+          "SubPath": ""
+        },
+        "CommonHUDNames": [
+          "VehicleBloodBarSubView",
+          "VehicleLockSubView",
+          "VehicleSupplyTipView"
+        ],
+        "SeatLayoutType": 0,
+        "SeatHUDConfigs": [
+          {
+            "Key": "Point_Seat_01",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleCommonStateSubView"
+              ]
+            }
+          },
+          {
+            "Key": "Point_Seat_02",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleWeaponBarSubView"
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "AAV\u4E24\u6816\u88C5\u7532\u8FD0\u8F93\u8F66": {
+        "VehicleId": 1101006,
+        "VehicleIcon": {
+          "AssetPath": "/Game/UI/UIAtlas/System/HUD_ArmedDriverView/SP/HUD_ArmedDriverView_Icon_SP_0508.HUD_ArmedDriverView_Icon_SP_0508",
+          "SubPath": ""
+        },
+        "CommonHUDNames": [
+          "VehicleBloodBarSubView",
+          "VehicleWeaponBarSubView",
+          "VehicleLockSubView",
+          "VehicleSupplyTipView"
+        ],
+        "SeatLayoutType": 3,
+        "SeatHUDConfigs": [
+          {
+            "Key": "Point_FL",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleAAV7StateSubView",
+                "AAVWeaponAimWidgetSubView",
+                "TankWeaponMirrorWidgetSubView"
+              ]
+            }
+          },
+          {
+            "Key": "Point_FR",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleGunSubView"
+              ]
+            }
+          },
+          {
+            "Key": "Point_BL",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleGunSubView"
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "RCV": {
+        "VehicleId": 1101007,
+        "VehicleIcon": {
+          "AssetPath": "/Game/UI/UIAtlas/System/HUD_ArmedDriverView/SP/HUD_ArmedDriverView_Icon_SP_0515.HUD_ArmedDriverView_Icon_SP_0515",
+          "SubPath": ""
+        },
+        "CommonHUDNames": [
+          "VehicleWeaponBarSubView",
+          "VehicleBloodBarSubView",
+          "VehicleLockSubView",
+          "VehicleSupplyTipView"
+        ],
+        "SeatLayoutType": 0,
+        "SeatHUDConfigs": [
+          {
+            "Key": "Point_Seat_01",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleInfantryStateSubView",
+                "TankWeaponAimWidgetSubView",
+                "TankWeaponMirrorWidgetSubView"
+              ]
+            }
+          },
+          {
+            "Key": "Point_Seat_02",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleGunSubView"
+              ]
+            }
+          },
+          {
+            "Key": "Point_Seat_03",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleGunSubView"
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u9C7C\u9E70": {
+        "VehicleId": 1301008,
+        "VehicleIcon": {
+          "AssetPath": "/Game/UI/UIAtlas/System/HUD_ArmedDriverView/SP/HUD_ArmedDriverView_Icon_SP_0525.HUD_ArmedDriverView_Icon_SP_0525",
+          "SubPath": ""
+        },
+        "CommonHUDNames": [
+          "VehicleWeaponBarSubView",
+          "VehicleBloodBarSubView",
+          "VehicleLockSubView",
+          "VehicleSupplyTipView",
+          "JetF35StateSubView"
+        ],
+        "SeatLayoutType": 5,
+        "SeatHUDConfigs": [
+          {
+            "Key": "Point_FL",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "JetDriverSubView"
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "RCV_2": {
+        "VehicleId": 1101008,
+        "VehicleIcon": {
+          "AssetPath": "/Game/UI/UIAtlas/System/HUD_ArmedDriverView/SP/HUD_ArmedDriverView_Icon_SP_0515.HUD_ArmedDriverView_Icon_SP_0515",
+          "SubPath": ""
+        },
+        "CommonHUDNames": [
+          "VehicleWeaponBarSubView",
+          "VehicleBloodBarSubView",
+          "VehicleLockSubView",
+          "VehicleSupplyTipView"
+        ],
+        "SeatLayoutType": 0,
+        "SeatHUDConfigs": [
+          {
+            "Key": "Point_FL",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SeatHUDNames": [
+                "VehicleInfantryStateSubView",
+                "TankWeaponAimWidgetSubView",
+                "TankWeaponMirrorWidgetSubView"
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 24
+  }
+]

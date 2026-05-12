@@ -1,0 +1,1008 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "CharacterSequenceData",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Global/PC/DataTables/CharacterSequenceData",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "CharacterSequenceDataRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "30000020005": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Kai_HD/M_Kai_002_HD/M_Kai_002_HallSeq_HD.M_Kai_002_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Kai_HD/M_Kai_002_HD/M_Kai_002_Hall_Seq_Team_HD.M_Kai_002_Hall_Seq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [
+          {
+            "Key": "Recon_C203_Raptor_Drone_UI_V1",
+            "Value": "38110050048"
+          },
+          {
+            "Key": "Recon_C203_EMPGrenade_UI",
+            "Value": "38110050049"
+          }
+        ],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000020004": {
+        "IsValid": true,
+        "bUseTransitionCamera": false,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Terry_HD/M_Terry_018_HD/M_Terry_018_HallSeq_HD.M_Terry_018_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Terry_HD/M_Terry_018_HD/M_Terry_018_HallSeq_Team_HD.M_Terry_018_HallSeq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000020002": {
+        "IsValid": true,
+        "bUseTransitionCamera": false,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Roy_HD/M_Roy_016_HD/M_Roy_016_HallSeq_HD.M_Roy_016_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Roy_HD/M_Roy_016_HD/M_Roy_016_HallSeq_Team_HD.M_Roy_016_HallSeq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000020003": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/F_Luna_HD/F_Luna_014_HD/F_Luna_014_HallSeq_HD.F_Luna_014_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/F_Luna_HD/F_Luna_014_HD/F_Luna_014_HallSeq_Team_HD.F_Luna_014_HallSeq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000020006": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Dragon_HD/M_Dragon_008_HD/M_Dragon_008_HallSeq_HD.M_Dragon_008_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Dragon_HD/M_Dragon_008_HD/M_Dragon_008_Seq_Team_Global_HD.M_Dragon_008_Seq_Team_Global_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000020007": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/F_Hack_HD/F_Hack_011_HD/F_Hack_011_HallSeq_HD.F_Hack_011_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/F_Hack_HD/F_Hack_011_HD/F_Hack_011_HallSeq_Team_HD.F_Hack_011_HallSeq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000050002": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Dragon_HD/M_Dragon_008_HD/M_Dragon_008_HallSeq_HD.M_Dragon_008_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Dragon_HD/M_Dragon_008_HD/M_Dragon_008_Seq_Team_Global_HD.M_Dragon_008_Seq_Team_Global_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000050010": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Dragon_HD/M_Dragon_008_HD/M_Dragon_008_HallSeq_HD.M_Dragon_008_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Dragon_HD/M_Dragon_008_HD/M_Dragon_008_Seq_Team_Global_HD.M_Dragon_008_Seq_Team_Global_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000020008": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_David_HD/M_David_027_HD/M_David_027_HallSeq_HD.M_David_027_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_David_HD/M_David_027_HD/M_David_027_HallSeq_Team_HD.M_David_027_HallSeq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000050009": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Terry_HD/M_Terry_King_A_031_HD/M_Terry_King_A_031_HallSeq_HD.M_Terry_King_A_031_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Terry_HD/M_Terry_King_A_031_HD/M_Terry_King_A_031_HallSeq_Team_HD.M_Terry_King_A_031_HallSeq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000060001": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Kai_HD/M_Kai_Subrosa_S_006_HD/M_Kai_Subrosa_S_006_HallSeq_HD.M_Kai_Subrosa_S_006_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Kai_HD/M_Kai_Subrosa_S_006_HD/M_Kai_Subrosa_S_006_HallSeq_Team_HD.M_Kai_Subrosa_S_006_HallSeq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000050008": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Roy_HD/M_Roy_Doctor_A_030_HD/M_Roy_Doctor_A_030_HallSeq_HD.M_Roy_Doctor_A_030_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Roy_HD/M_Roy_Doctor_A_030_HD/M_Roy_Doctor_A_030_HallSeq_Team_HD.M_Roy_Doctor_A_030_HallSeq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000020009": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/F_Zoya_HD/F_Zoya_025_HD/F_Zoya_025_HallSeq_HD.F_Zoya_025_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/F_Zoya_HD/F_Zoya_025_HD/F_Zoya_025_HallSeq_Team_HD.F_Zoya_025_HallSeq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000060002": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/F_Hack_HD/F_Hack_ink_S_012_HD/F_Hack_ink_S_012_HallSeq_HD.F_Hack_ink_S_012_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/F_Hack_HD/F_Hack_ink_S_012_HD/F_Hack_ink_S_012_HallSeq_Team_HD.F_Hack_ink_S_012_HallSeq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000020010": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Sineva_HD/M_Sineva_034_HD/M_Sineva_034_HallSeq_HD.M_Sineva_034_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Sineva_HD/M_Sineva_034_HD/M_Sineva_034_HallSeq_Team_HD.M_Sineva_034_HallSeq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000040004": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_David_HD/M_David_027_HD/M_David_027_HallSeq_HD.M_David_027_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_David_HD/M_David_027_HD/M_David_027_HallSeq_Team_HD.M_David_027_HallSeq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [
+          {
+            "Key": "Engineering_C402_LM_Fly_UI",
+            "Value": "None"
+          },
+          {
+            "Key": "Engineering_C402_LM_UI",
+            "Value": "38110040009"
+          }
+        ],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000040005": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Kai_HD/M_Kai_002_HD/M_Kai_002_HallSeq_HD.M_Kai_002_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Kai_HD/M_Kai_002_HD/M_Kai_002_Hall_Seq_Team_HD.M_Kai_002_Hall_Seq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [
+          {
+            "Key": "Assault_C301_Exoskeleton_01_UI",
+            "Value": "8800000003001"
+          },
+          {
+            "Key": "Assault_C301_Launcher_007",
+            "Value": "38110040022"
+          }
+        ],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000040006": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Roy_HD/M_Roy_016_HD/M_Roy_016_HallSeq_HD.M_Roy_016_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Roy_HD/M_Roy_016_HD/M_Roy_016_HallSeq_Team_HD.M_Roy_016_HallSeq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [
+          {
+            "Key": "Support_C101_Medical_Gun_01_UI_New",
+            "Value": "38110040020"
+          }
+        ],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000040007": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Terry_HD/M_Terry_018_HD/M_Terry_018_HallSeq_HD.M_Terry_018_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Terry_HD/M_Terry_018_HD/M_Terry_018_HallSeq_Team_HD.M_Terry_018_HallSeq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [
+          {
+            "Key": "Engineering_C401_UAV_UI",
+            "Value": "38110040016"
+          }
+        ],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000050011": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Dragon_HD/M_Dragon_Long_A_042_HD/M_Dragon_Long_A_042_HallSeq_HD.M_Dragon_Long_A_042_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Dragon_HD/M_Dragon_008_HD/M_Dragon_008_Seq_Team_Global_HD.M_Dragon_008_Seq_Team_Global_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000020011": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Elio_HD/M_Elio_036_HD/M_Elio_036_HallSeq_HD.M_Elio_036_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Elio_HD/M_Elio_036_HD/M_Elio_036_HallSeq_Team_HD.M_Elio_036_HallSeq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000050012": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Elio_HD/M_Elio_036_HD/M_Elio_036_HallSeq_HD.M_Elio_036_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Elio_HD/M_Elio_036_HD/M_Elio_036_HallSeq_Team_HD.M_Elio_036_HallSeq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [
+          {
+            "Key": "Assault_C303_AllProp_PC_UI",
+            "Value": "38110050022"
+          },
+          {
+            "Key": "Assault_C303_Propeller_UI",
+            "Value": "38110050023"
+          }
+        ],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000050013": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Dragon_HD/M_Dragon_Daniel_A_048_HD/M_Dragon_Daniel_A_048_HallSeq_HD.M_Dragon_Daniel_A_048_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Dragon_HD/M_Dragon_Daniel_A_048_HD/M_Dragon_Daniel_A_048_Seq_Team_HD.M_Dragon_Daniel_A_048_Seq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000020012": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/F_Claire_HD/F_Claire_062_HD/F_Claire_062_HallSeq_HD.F_Claire_062_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/F_Claire_HD/F_Claire_062_HD/F_Claire_062_HallSeq_Team_HD.F_Claire_062_HallSeq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000060004": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/F_Luna_HD/F_Luna_Black_S_044_HD/F_Luna_Black_S_044_HallSeq_HD.F_Luna_Black_S_044_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/F_Luna_HD/F_Luna_Black_S_044_HD/F_Luna_Black_S_HallSeq_Team_HD.F_Luna_Black_S_HallSeq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000060005": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/F_Zoya_HD/F_Zoya_Angel_S_045_HD/F_Zoya_Angel_S_045_HallSeq_HD.F_Zoya_Angel_S_045_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/F_Zoya_HD/F_Zoya_Angel_S_045_HD/F_Zoya_Angel_S_045_HallSeq_Team_HD.F_Zoya_Angel_S_045_HallSeq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000050014": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Roy_HD/M_Roy_mourners_A_046_HD/M_Roy_Mourners_A_046_HallSeq_HD.M_Roy_Mourners_A_046_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Roy_HD/M_Roy_016_HD/M_Roy_016_HallSeq_Team_HD.M_Roy_016_HallSeq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [
+          {
+            "Key": "Support_C101_Medical_Gun_01_UI_New",
+            "Value": "38110050025"
+          }
+        ],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000060006": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/F_Hack_HD/F_Hack_AN252G_xl_S_HD/F_Hack_AN252G_xl_S_HallSeq_HD.F_Hack_AN252G_xl_S_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/F_Hack_HD/F_Hack_AN252G_xl_S_HD/F_Hack_AN252G_xl_S_HallSeq_Team_HD.F_Hack_AN252G_xl_S_HallSeq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000050015": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Kai_HD/M_Kai_SXI253M_07_A_HD/M_Kai_SXI253M_07_A_HallSeq_HD.M_Kai_SXI253M_07_A_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Kai_HD/M_Kai_SXI253M_07_A_HD/M_Kai_SXI253M_07_A_Hall_Seq_Team_HD.M_Kai_SXI253M_07_A_Hall_Seq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [
+          {
+            "Key": "Assault_C301_Exoskeleton_01_UI",
+            "Value": "8800000003001"
+          },
+          {
+            "Key": "Assault_C301_Launcher_007",
+            "Value": "38110050028"
+          }
+        ],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000020013": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Landon_20_HD/M_Landon_20_HD/A_Landon_Seq/A_Landon_20_HallSeq_HD.A_Landon_20_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Landon_20_HD/M_Landon_20_HD/A_Landon_Seq/A_Landon_20_HallSeq_Team_HD.A_Landon_20_HallSeq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000050016": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Sineva_HD/M_Sineva_034_HD/M_Sineva_034_HallSeq_HD.M_Sineva_034_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Sineva_HD/M_Sineva_034_HD/M_Sineva_034_HallSeq_Team_HD.M_Sineva_034_HallSeq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [
+          {
+            "Key": "Engineering_C403_Hook_Gun_UI",
+            "Value": "38110050032"
+          },
+          {
+            "Key": "Engineering_C403_Shield_UI",
+            "Value": "38110050033"
+          }
+        ],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000020014": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Rashid_v5_HD/M_Rashid_v5_HD/M_Rashid_v5_HallSeq_HD.M_Rashid_v5_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Rashid_v5_HD/M_Rashid_v5_HD/M_Rashid_v5_HallSeq_Team_HD.M_Rashid_v5_HallSeq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000050017": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Commerical/CharAppear/HP23H_i6/Character/M_Elio_HP23H_i6_S_HD/sequence/M_Elio_HP23H_i6_S_HallSeq_HD.M_Elio_HP23H_i6_S_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Commerical/CharAppear/HP23H_i6/Character/M_Elio_HP23H_i6_S_HD/sequence/M_Elio_HP23H_i6_HallSeq_Team_HD.M_Elio_HP23H_i6_HallSeq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [
+          {
+            "Key": "Assault_C303_AllProp_PC_UI",
+            "Value": "38110050036"
+          },
+          {
+            "Key": "Assault_C303_Propeller_UI",
+            "Value": "38110050037"
+          }
+        ],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000050019": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Commerical/CharAppear/Olymp_du/Character/F_Luna_Olymp_du_A_HD/F_Luna_Olymp_du_A_HallSeq_HD.F_Luna_Olymp_du_A_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/F_Luna_HD/F_Luna_014_HD/F_Luna_014_HallSeq_Team_HD.F_Luna_014_HallSeq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [
+          {
+            "Key": "Scout_C201_Bow_UI",
+            "Value": "38110050034"
+          }
+        ],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000050020": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Commerical/CharAppear/Graffiti_g8/Character/F_Zoya_Graffiti_g8_A_HD/seq/F_Zoya_Graffiti_g8_A_HallSeq_HD.F_Zoya_Graffiti_g8_A_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Commerical/CharAppear/Graffiti_g8/Character/F_Zoya_Graffiti_g8_A_HD/seq/F_Zoya_Graffiti_g8_A_HallSeq_Team_HD.F_Zoya_Graffiti_g8_A_HallSeq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000020018": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/F_C103_HD/F_C103_HD/F_C103_HallSeq_HD.F_C103_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/F_C103_HD/F_C103_HD/F_C103_HallSeq_Team_HD.F_C103_HallSeq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000050018": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_David_HD/M_David_027_HD/M_David_027_HallSeq_HD.M_David_027_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_David_HD/M_David_027_HD/M_David_027_HallSeq_Team_HD.M_David_027_HallSeq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [
+          {
+            "Key": "Engineering_C402_LM_UI",
+            "Value": "38110050039"
+          },
+          {
+            "Key": "Engineering_C402_LM_Fly_UI",
+            "Value": "None"
+          }
+        ],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000060007": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Commerical/CharAppear/Outers_1u/Character/M_Dragon_Outers_1u_S_HD/M_Dragon_Outers_1u_S_HallSeq_HD.M_Dragon_Outers_1u_S_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Commerical/CharAppear/Outers_1u/Character/M_Dragon_Outers_1u_S_HD/M_Dragon_Outers_1u_S_Seq_Team_HD.M_Dragon_Outers_1u_S_Seq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000020015": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_C501_HD/M_C501_Cutscene/Teamshow/M_Saeed_C501_HallSeq_Team_HD.M_Saeed_C501_HallSeq_Team_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_C501_HD/M_C501_Cutscene/Teamshow/M_Saeed_C501_HallSeq_Team_HD.M_Saeed_C501_HallSeq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000020016": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_C501_HD/M_C501_Cutscene/Soldier_Flamethrower_team_HD/Soldier_Flamethrower_team_HD.Soldier_Flamethrower_team_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_C501_HD/M_C501_Cutscene/Soldier_Flamethrower_team_HD/Soldier_Flamethrower_team_HD.Soldier_Flamethrower_team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000020017": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_C501_HD/M_C501_Cutscene/soldierRPG_HallSeq_Team_HD/soldierRPG_HallSeq_Team_HD.soldierRPG_HallSeq_Team_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_C501_HD/M_C501_Cutscene/soldierRPG_HallSeq_Team_HD/soldierRPG_HallSeq_Team_HD.soldierRPG_HallSeq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000020019": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_C204_HD/M_C204_HD/Seq/M_C204_HallSeq_HD.M_C204_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_C204_HD/M_C204_HD/Seq/M_C204_HallSeq_Team_HD.M_C204_HallSeq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000050021": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Commerical/CharAppear/9CYV3_vv/Character/F_Luna_9CYV3_vv_A_HD/Seq/F_Luna_9CYV3_vv_A_HallSeq_HD.F_Luna_9CYV3_vv_A_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Commerical/CharAppear/9CYV3_vv/Character/F_Luna_9CYV3_vv_A_HD/Seq/F_Luna_9CYV3_vv_A_HallSeq_Team_HD.F_Luna_9CYV3_vv_A_HallSeq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [
+          {
+            "Key": "Scout_C201_Bow_UI",
+            "Value": "38110050045"
+          }
+        ],
+        "HeroItemMeshMap": [],
+        "ShowNames": [],
+        "RowDescription": "None"
+      },
+      "30000050022": {
+        "IsValid": true,
+        "bUseTransitionCamera": true,
+        "LevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Landon_20_HD/M_Landon_20_HD/A_Landon_Seq/A_Landon_20_HallSeq_HD.A_Landon_20_HallSeq_HD"
+        },
+        "bLevelSequenceUseMotionBlur": false,
+        "LevelSequenceMotionBlurIntensity": 0,
+        "MarkNameList": [],
+        "MatchLevelSequenceActor": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Characters_HD/Hero_HD/M_Landon_20_HD/M_Landon_20_HD/A_Landon_Seq/A_Landon_20_HallSeq_Team_HD.A_Landon_20_HallSeq_Team_HD"
+        },
+        "LightGroupName": "None",
+        "HeroItemInfoMapForSeq": [
+          {
+            "Key": "Recon_C203_Raptor_Drone_UI_V1",
+            "Value": "38110050048"
+          },
+          {
+            "Key": "Recon_C203_EMPGrenade_UI",
+            "Value": "38110050049"
+          }
+        ],
+        "HeroItemMeshMap": [
+          {
+            "Key": "Recon_C203_Raptor_Drone_UI_V1",
+            "Value": "38110050048"
+          }
+        ],
+        "ShowNames": [],
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 44
+  }
+]

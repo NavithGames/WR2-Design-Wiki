@@ -1,0 +1,29 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "GunsmithPartFixTransform",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/WeaponPart/GunsmithPartFixTransform",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "GunsmithPartFixTransformRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "13120000235": {
+        "PartID": 13120000273,
+        "WeaponIDs": [
+          18020000003
+        ],
+        "FixLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 10
+        },
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 1
+  }
+]

@@ -1,0 +1,286 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "KnockbackData",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Ability/SkillData/KnockbackData",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "KnockbackData",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "Tiger": {
+        "Key": "Tiger",
+        "HeightCurve": {
+          "_Type": "CurveFloat",
+          "_Name": "KnockBackHeight",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/MedicalSoldier/101/KnockBackHeight",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        "MovePath": {
+          "_Type": "CurveFloat",
+          "_Name": "KnockBackPath",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/MedicalSoldier/101/KnockBackPath",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              1
+            ]
+          }
+        },
+        "RotLerpTime": 0.03,
+        "bNeedStand": false,
+        "KnockDownTime": 4.5,
+        "GetUpTime": 0.54,
+        "InitZSpped": 500,
+        "BlendInTime": 0,
+        "BlendOutTime": 0,
+        "GravityZ": -1000,
+        "CheckFallingTime": 0.4,
+        "bForceRotateImmediate": true,
+        "FallingVelocityDecelerate": 100,
+        "KnockBackBodyLength": 130,
+        "KnockBackDownTime": 0.5,
+        "EnterPostProcessName": "MI_EFX_PP_Fog_RadialBlur_1_HQ_HD",
+        "DisableCrouchInSimulation": true,
+        "bUseFullBodyAllOverride": true,
+        "SimulationAnimLoopAddTime": 0.3,
+        "RoleLoadConfigArray": [],
+        "FallingAttackValueId": 2100010,
+        "GetUpEvent": "Foley_Anim_StandUp",
+        "FallDownTime": 0.5,
+        "FallDownFootSoundType": "EGPAudioFootSoundType::EACTION_FOOTSTEP_BodyFall",
+        "AddBuffs": [
+          303050
+        ],
+        "DefaultFallDownTime": 10,
+        "ForceResetMoveMode": true,
+        "RollSetupRevertDistance": 100,
+        "RollRevertAngle": 90,
+        "EnterWaterEffectOnWaterOffset": 30,
+        "EnterWaterStartEffectOnWaterOffset": 25,
+        "DiveIntoWaterOffset": 100,
+        "InToWaterInteractionName": "P_EFX_Dive_WaterInteraction_Medium",
+        "RowDescription": "None"
+      },
+      "Shield": {
+        "Key": "Shield",
+        "HeightCurve": {
+          "_Type": "CurveFloat",
+          "_Name": "KnockBackHeight_Shield",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/MedicalSoldier/101/KnockBackHeight_Shield",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        "MovePath": {
+          "_Type": "CurveFloat",
+          "_Name": "KnockBackPath_Shield",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/MedicalSoldier/101/KnockBackPath_Shield",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              2,
+              1
+            ]
+          }
+        },
+        "RotLerpTime": 0.03,
+        "bNeedStand": true,
+        "KnockDownTime": 1.5,
+        "GetUpTime": 0.3,
+        "InitZSpped": 500,
+        "BlendInTime": 0,
+        "BlendOutTime": 0,
+        "GravityZ": -1000,
+        "CheckFallingTime": 0.4,
+        "bForceRotateImmediate": true,
+        "FallingVelocityDecelerate": 100,
+        "KnockBackBodyLength": 130,
+        "KnockBackDownTime": 0.5,
+        "EnterPostProcessName": "None",
+        "DisableCrouchInSimulation": true,
+        "bUseFullBodyAllOverride": true,
+        "SimulationAnimLoopAddTime": 0.3,
+        "RoleLoadConfigArray": [],
+        "FallingAttackValueId": 2100010,
+        "GetUpEvent": "Foley_Anim_StandUp",
+        "FallDownTime": 0.5,
+        "FallDownFootSoundType": "EGPAudioFootSoundType::EACTION_FOOTSTEP_BodyFall",
+        "AddBuffs": [
+          303057
+        ],
+        "DefaultFallDownTime": 10,
+        "ForceResetMoveMode": true,
+        "RollSetupRevertDistance": 100,
+        "RollRevertAngle": 90,
+        "EnterWaterEffectOnWaterOffset": 30,
+        "EnterWaterStartEffectOnWaterOffset": 25,
+        "DiveIntoWaterOffset": 100,
+        "InToWaterInteractionName": "P_EFX_Dive_WaterInteraction_Medium",
+        "RowDescription": "None"
+      },
+      "Missle": {
+        "Key": "Missle",
+        "HeightCurve": {
+          "_Type": "CurveFloat",
+          "_Name": "KnockBackHeight",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/MedicalSoldier/101/KnockBackHeight",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        "MovePath": {
+          "_Type": "CurveFloat",
+          "_Name": "KnockBackPath",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/MedicalSoldier/101/KnockBackPath",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              1
+            ]
+          }
+        },
+        "RotLerpTime": 0.03,
+        "bNeedStand": false,
+        "KnockDownTime": 4.5,
+        "GetUpTime": 0.54,
+        "InitZSpped": 500,
+        "BlendInTime": 0,
+        "BlendOutTime": 0,
+        "GravityZ": -1000,
+        "CheckFallingTime": 0.4,
+        "bForceRotateImmediate": true,
+        "FallingVelocityDecelerate": 100,
+        "KnockBackBodyLength": 130,
+        "KnockBackDownTime": 0.5,
+        "EnterPostProcessName": "MI_EFX_PP_Fog_RadialBlur_1_HQ_HD",
+        "DisableCrouchInSimulation": true,
+        "bUseFullBodyAllOverride": true,
+        "SimulationAnimLoopAddTime": 0.3,
+        "RoleLoadConfigArray": [],
+        "FallingAttackValueId": 2100010,
+        "GetUpEvent": "Foley_Anim_StandUp",
+        "FallDownTime": 0.5,
+        "FallDownFootSoundType": "EGPAudioFootSoundType::EACTION_FOOTSTEP_BodyFall",
+        "AddBuffs": [
+          303050
+        ],
+        "DefaultFallDownTime": 10,
+        "ForceResetMoveMode": true,
+        "RollSetupRevertDistance": 100,
+        "RollRevertAngle": 90,
+        "EnterWaterEffectOnWaterOffset": 30,
+        "EnterWaterStartEffectOnWaterOffset": 25,
+        "DiveIntoWaterOffset": 100,
+        "InToWaterInteractionName": "P_EFX_Dive_WaterInteraction_Medium",
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 3
+  }
+]

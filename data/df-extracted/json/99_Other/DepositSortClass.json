@@ -1,0 +1,146 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "DepositSortClass",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/DepositSortClass",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "DepositSortClass",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "1": {
+        "ClassName": null,
+        "ItemTypeID": [
+          11
+        ],
+        "TagID": [
+          11
+        ],
+        "ClassIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_ItemClass_Icon_0046.Common_ItemClass_Icon_0046"
+        },
+        "RowDescription": "None"
+      },
+      "2": {
+        "ClassName": null,
+        "ItemTypeID": [
+          10,
+          18
+        ],
+        "TagID": [
+          10,
+          18
+        ],
+        "ClassIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_ItemClass_Icon_0043.Common_ItemClass_Icon_0043"
+        },
+        "RowDescription": "None"
+      },
+      "3": {
+        "ClassName": null,
+        "ItemTypeID": [
+          1501,
+          1502,
+          1503,
+          1504,
+          1502,
+          1506,
+          1507,
+          1508,
+          1509,
+          19
+        ],
+        "TagID": [
+          1501,
+          1502,
+          1503,
+          1504,
+          1502,
+          1507,
+          1508,
+          1509,
+          19
+        ],
+        "ClassIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_ItemClass_Icon_0048.Common_ItemClass_Icon_0048"
+        },
+        "RowDescription": "None"
+      },
+      "4": {
+        "ClassName": null,
+        "ItemTypeID": [
+          20
+        ],
+        "TagID": [
+          20
+        ],
+        "ClassIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_ItemClass_Icon_0049.Common_ItemClass_Icon_0049"
+        },
+        "RowDescription": "None"
+      },
+      "5": {
+        "ClassName": null,
+        "ItemTypeID": [
+          13
+        ],
+        "TagID": [
+          13
+        ],
+        "ClassIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_ItemClass_Icon_0045.Common_ItemClass_Icon_0045"
+        },
+        "RowDescription": "None"
+      },
+      "6": {
+        "ClassName": null,
+        "ItemTypeID": [
+          14,
+          37
+        ],
+        "TagID": [
+          14
+        ],
+        "ClassIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_ItemClass_Icon_0044.Common_ItemClass_Icon_0044"
+        },
+        "RowDescription": "None"
+      },
+      "7": {
+        "ClassName": null,
+        "ItemTypeID": [
+          1505
+        ],
+        "TagID": [
+          1505
+        ],
+        "ClassIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_ItemClass_Icon_0047.Common_ItemClass_Icon_0047"
+        },
+        "RowDescription": "None"
+      },
+      "8": {
+        "ClassName": null,
+        "ItemTypeID": [],
+        "TagID": [],
+        "ClassIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_ItemClass_Icon_0050.Common_ItemClass_Icon_0050"
+        },
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 8
+  }
+]

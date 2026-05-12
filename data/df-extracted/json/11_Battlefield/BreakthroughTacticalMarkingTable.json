@@ -1,0 +1,98 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "BreakthroughTacticalMarkingTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/PC/DataTables/BattleField/BreakthroughTacticalMarkingTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "BreakThroughTacticalMarkingRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "CommanderMarking": {
+        "MarkingTagName": "CommanderMarking",
+        "IdentityAvailableTacticalMarkingTypes": [
+          {
+            "Key": "ETeamIdentity::TeamMember",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "MarkingTypes": [
+                "ETacticalMarkingType::TacticalMarking_RequestAttention",
+                "ETacticalMarkingType::TacticalMarking_RequestHelp",
+                "ETacticalMarkingType::TacticalMarking_RequestAttack",
+                "ETacticalMarkingType::TacticalMarking_RequestRebornFlag"
+              ]
+            }
+          },
+          {
+            "Key": "ETeamIdentity::TeamLeader",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "MarkingTypes": [
+                "ETacticalMarkingType::TacticalMarking_RequestAttention",
+                "ETacticalMarkingType::TacticalMarking_RequestHelp",
+                "ETacticalMarkingType::TacticalMarking_RequestAttack",
+                "ETacticalMarkingType::TacticalMarking_RequestRebornFlag"
+              ]
+            }
+          },
+          {
+            "Key": "ETeamIdentity::Commander",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "MarkingTypes": [
+                "ETacticalMarkingType::TacticalMarking_Attack",
+                "ETacticalMarkingType::TacticalMarking_AttentionEnemy",
+                "ETacticalMarkingType::TacticalMarking_AttentionVehicle",
+                "ETacticalMarkingType::TacticalMarking_Defense",
+                "ETacticalMarkingType::TacticalMarking_GoAheadThere",
+                "ETacticalMarkingType::TacticalMarking_VehicleGoAheadThere",
+                "ETacticalMarkingType::TacticalMarking_Digit1",
+                "ETacticalMarkingType::TacticalMarking_Digit2",
+                "ETacticalMarkingType::TacticalMarking_Digit3"
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "GeneralMarking": {
+        "MarkingTagName": "GeneralMarking",
+        "IdentityAvailableTacticalMarkingTypes": [
+          {
+            "Key": "ETeamIdentity::TeamMember",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "MarkingTypes": [
+                "ETacticalMarkingType::TacticalMarking_RequestAttention",
+                "ETacticalMarkingType::TacticalMarking_RequestHelp",
+                "ETacticalMarkingType::TacticalMarking_RequestAttack",
+                "ETacticalMarkingType::TacticalMarking_RequestRebornFlag"
+              ]
+            }
+          },
+          {
+            "Key": "ETeamIdentity::TeamLeader",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "MarkingTypes": [
+                "ETacticalMarkingType::TacticalMarking_Attack",
+                "ETacticalMarkingType::TacticalMarking_AttentionEnemy",
+                "ETacticalMarkingType::TacticalMarking_AttentionVehicle",
+                "ETacticalMarkingType::TacticalMarking_Defense",
+                "ETacticalMarkingType::TacticalMarking_GoAheadThere",
+                "ETacticalMarkingType::TacticalMarking_VehicleGoAheadThere",
+                "ETacticalMarkingType::TacticalMarking_RequestAttack",
+                "ETacticalMarkingType::TacticalMarking_RequestRebornFlag"
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 2
+  }
+]

@@ -1,0 +1,16 @@
+﻿RowName,VehicleName,CarType,SoftRefIcon,SoftRefIconInMap,RowDescription
+1_1,,EAnimVehicleType::BaseCar,(),(),None
+1_2,,EAnimVehicleType::UNTruck,(),(),None
+1_3,,EAnimVehicleType::TutuCar,(),(),None
+1_4,,EAnimVehicleType::Jeep,(),(),None
+1_5,,EAnimVehicleType::Valkyrie,(),(),None
+1_6,,EAnimVehicleType::Boat,(),(),None
+1_7,,EAnimVehicleType::MilitaryJeep,(),(),None
+1_8,,EAnimVehicleType::Tank,(),(),None
+1_9,,EAnimVehicleType::Helicopter,(),(),None
+1_10,,EAnimVehicleType::Infantry,(),(),None
+1_11,,EAnimVehicleType::SPAAG,(),(),None
+1_12,,EAnimVehicleType::ATV,(),(),None
+1_13,,EAnimVehicleType::NoVehicle,(),(),None
+1_14,,EAnimVehicleType::ORV,(),(),None
+1_15,,EAnimVehicleType::Humvee,(),(),None

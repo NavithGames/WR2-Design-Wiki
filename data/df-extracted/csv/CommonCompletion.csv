@@ -1,0 +1,6 @@
+﻿RowName,ID,Desc,CommonCompletionSystemTitle,CategoryType,CheckBoxType,ShowOwnerItems,PriceComparisonAlert
+1,1,军需处,,0,1,0,1
+2,2,改枪台,,1,2,1,0
+3,3,入局,,0,0,0,0
+4,4,特勤处,,0,0,0,0
+5,5,配装,,1,0,1,0

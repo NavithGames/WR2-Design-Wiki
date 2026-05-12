@@ -1,0 +1,472 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "EquipmentPresetPriceDataConfig",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/EquipmentPresetPriceDataConfig",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "EquipmentPresetPriceDataInfo",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "1": {
+        "Key": 1,
+        "TypeID": 1,
+        "PresetID": 1,
+        "PresetPrice": 50000,
+        "RowDescription": "None"
+      },
+      "2": {
+        "Key": 2,
+        "TypeID": 1,
+        "PresetID": 2,
+        "PresetPrice": 50000,
+        "RowDescription": "None"
+      },
+      "3": {
+        "Key": 3,
+        "TypeID": 2,
+        "PresetID": 1,
+        "PresetPrice": 50000,
+        "RowDescription": "None"
+      },
+      "4": {
+        "Key": 4,
+        "TypeID": 2,
+        "PresetID": 2,
+        "PresetPrice": 50000,
+        "RowDescription": "None"
+      },
+      "5": {
+        "Key": 5,
+        "TypeID": 3,
+        "PresetID": 1,
+        "PresetPrice": 50000,
+        "RowDescription": "None"
+      },
+      "6": {
+        "Key": 6,
+        "TypeID": 3,
+        "PresetID": 2,
+        "PresetPrice": 50000,
+        "RowDescription": "None"
+      },
+      "7": {
+        "Key": 7,
+        "TypeID": 3,
+        "PresetID": 3,
+        "PresetPrice": 50000,
+        "RowDescription": "None"
+      },
+      "8": {
+        "Key": 8,
+        "TypeID": 1,
+        "PresetID": 1,
+        "PresetPrice": 200000,
+        "RowDescription": "None"
+      },
+      "9": {
+        "Key": 9,
+        "TypeID": 1,
+        "PresetID": 2,
+        "PresetPrice": 200000,
+        "RowDescription": "None"
+      },
+      "10": {
+        "Key": 10,
+        "TypeID": 1,
+        "PresetID": 3,
+        "PresetPrice": 200000,
+        "RowDescription": "None"
+      },
+      "11": {
+        "Key": 11,
+        "TypeID": 1,
+        "PresetID": 4,
+        "PresetPrice": 200000,
+        "RowDescription": "None"
+      },
+      "12": {
+        "Key": 12,
+        "TypeID": 2,
+        "PresetID": 1,
+        "PresetPrice": 200000,
+        "RowDescription": "None"
+      },
+      "13": {
+        "Key": 13,
+        "TypeID": 2,
+        "PresetID": 2,
+        "PresetPrice": 200000,
+        "RowDescription": "None"
+      },
+      "14": {
+        "Key": 14,
+        "TypeID": 2,
+        "PresetID": 3,
+        "PresetPrice": 200000,
+        "RowDescription": "None"
+      },
+      "15": {
+        "Key": 15,
+        "TypeID": 2,
+        "PresetID": 4,
+        "PresetPrice": 200000,
+        "RowDescription": "None"
+      },
+      "16": {
+        "Key": 16,
+        "TypeID": 3,
+        "PresetID": 1,
+        "PresetPrice": 200000,
+        "RowDescription": "None"
+      },
+      "17": {
+        "Key": 17,
+        "TypeID": 3,
+        "PresetID": 2,
+        "PresetPrice": 200000,
+        "RowDescription": "None"
+      },
+      "18": {
+        "Key": 18,
+        "TypeID": 3,
+        "PresetID": 3,
+        "PresetPrice": 200000,
+        "RowDescription": "None"
+      },
+      "19": {
+        "Key": 19,
+        "TypeID": 3,
+        "PresetID": 4,
+        "PresetPrice": 200000,
+        "RowDescription": "None"
+      },
+      "20": {
+        "Key": 20,
+        "TypeID": 1,
+        "PresetID": 1,
+        "PresetPrice": 550000,
+        "RowDescription": "None"
+      },
+      "21": {
+        "Key": 21,
+        "TypeID": 1,
+        "PresetID": 2,
+        "PresetPrice": 550000,
+        "RowDescription": "None"
+      },
+      "22": {
+        "Key": 22,
+        "TypeID": 1,
+        "PresetID": 3,
+        "PresetPrice": 550000,
+        "RowDescription": "None"
+      },
+      "23": {
+        "Key": 23,
+        "TypeID": 1,
+        "PresetID": 4,
+        "PresetPrice": 550000,
+        "RowDescription": "None"
+      },
+      "24": {
+        "Key": 24,
+        "TypeID": 2,
+        "PresetID": 1,
+        "PresetPrice": 550000,
+        "RowDescription": "None"
+      },
+      "25": {
+        "Key": 25,
+        "TypeID": 2,
+        "PresetID": 2,
+        "PresetPrice": 550000,
+        "RowDescription": "None"
+      },
+      "26": {
+        "Key": 26,
+        "TypeID": 2,
+        "PresetID": 3,
+        "PresetPrice": 550000,
+        "RowDescription": "None"
+      },
+      "27": {
+        "Key": 27,
+        "TypeID": 2,
+        "PresetID": 4,
+        "PresetPrice": 550000,
+        "RowDescription": "None"
+      },
+      "28": {
+        "Key": 28,
+        "TypeID": 3,
+        "PresetID": 1,
+        "PresetPrice": 550000,
+        "RowDescription": "None"
+      },
+      "29": {
+        "Key": 29,
+        "TypeID": 3,
+        "PresetID": 2,
+        "PresetPrice": 550000,
+        "RowDescription": "None"
+      },
+      "30": {
+        "Key": 30,
+        "TypeID": 3,
+        "PresetID": 3,
+        "PresetPrice": 550000,
+        "RowDescription": "None"
+      },
+      "31": {
+        "Key": 31,
+        "TypeID": 3,
+        "PresetID": 4,
+        "PresetPrice": 550000,
+        "RowDescription": "None"
+      },
+      "32": {
+        "Key": 32,
+        "TypeID": 1,
+        "PresetID": 1,
+        "PresetPrice": 780000,
+        "RowDescription": "None"
+      },
+      "33": {
+        "Key": 33,
+        "TypeID": 1,
+        "PresetID": 2,
+        "PresetPrice": 780000,
+        "RowDescription": "None"
+      },
+      "34": {
+        "Key": 34,
+        "TypeID": 1,
+        "PresetID": 3,
+        "PresetPrice": 780000,
+        "RowDescription": "None"
+      },
+      "35": {
+        "Key": 35,
+        "TypeID": 2,
+        "PresetID": 1,
+        "PresetPrice": 780000,
+        "RowDescription": "None"
+      },
+      "36": {
+        "Key": 36,
+        "TypeID": 2,
+        "PresetID": 2,
+        "PresetPrice": 780000,
+        "RowDescription": "None"
+      },
+      "37": {
+        "Key": 37,
+        "TypeID": 2,
+        "PresetID": 3,
+        "PresetPrice": 780000,
+        "RowDescription": "None"
+      },
+      "38": {
+        "Key": 38,
+        "TypeID": 3,
+        "PresetID": 1,
+        "PresetPrice": 780000,
+        "RowDescription": "None"
+      },
+      "39": {
+        "Key": 39,
+        "TypeID": 3,
+        "PresetID": 2,
+        "PresetPrice": 780000,
+        "RowDescription": "None"
+      },
+      "40": {
+        "Key": 40,
+        "TypeID": 3,
+        "PresetID": 3,
+        "PresetPrice": 780000,
+        "RowDescription": "None"
+      },
+      "41": {
+        "Key": 41,
+        "TypeID": 1,
+        "PresetID": 1,
+        "PresetPrice": 780000,
+        "RowDescription": "None"
+      },
+      "42": {
+        "Key": 42,
+        "TypeID": 1,
+        "PresetID": 2,
+        "PresetPrice": 780000,
+        "RowDescription": "None"
+      },
+      "43": {
+        "Key": 43,
+        "TypeID": 1,
+        "PresetID": 3,
+        "PresetPrice": 780000,
+        "RowDescription": "None"
+      },
+      "44": {
+        "Key": 44,
+        "TypeID": 2,
+        "PresetID": 1,
+        "PresetPrice": 780000,
+        "RowDescription": "None"
+      },
+      "45": {
+        "Key": 45,
+        "TypeID": 2,
+        "PresetID": 2,
+        "PresetPrice": 780000,
+        "RowDescription": "None"
+      },
+      "46": {
+        "Key": 46,
+        "TypeID": 2,
+        "PresetID": 3,
+        "PresetPrice": 780000,
+        "RowDescription": "None"
+      },
+      "47": {
+        "Key": 47,
+        "TypeID": 1,
+        "PresetID": 1,
+        "PresetPrice": 550000,
+        "RowDescription": "None"
+      },
+      "48": {
+        "Key": 48,
+        "TypeID": 2,
+        "PresetID": 1,
+        "PresetPrice": 550000,
+        "RowDescription": "None"
+      },
+      "49": {
+        "Key": 49,
+        "TypeID": 3,
+        "PresetID": 1,
+        "PresetPrice": 550000,
+        "RowDescription": "None"
+      },
+      "50": {
+        "Key": 50,
+        "TypeID": 1,
+        "PresetID": 1,
+        "PresetPrice": 780000,
+        "RowDescription": "None"
+      },
+      "51": {
+        "Key": 51,
+        "TypeID": 1,
+        "PresetID": 2,
+        "PresetPrice": 780000,
+        "RowDescription": "None"
+      },
+      "52": {
+        "Key": 52,
+        "TypeID": 2,
+        "PresetID": 1,
+        "PresetPrice": 780000,
+        "RowDescription": "None"
+      },
+      "53": {
+        "Key": 53,
+        "TypeID": 2,
+        "PresetID": 2,
+        "PresetPrice": 780000,
+        "RowDescription": "None"
+      },
+      "54": {
+        "Key": 54,
+        "TypeID": 1,
+        "PresetID": 1,
+        "PresetPrice": 550000,
+        "RowDescription": "None"
+      },
+      "55": {
+        "Key": 55,
+        "TypeID": 1,
+        "PresetID": 2,
+        "PresetPrice": 550000,
+        "RowDescription": "None"
+      },
+      "56": {
+        "Key": 56,
+        "TypeID": 2,
+        "PresetID": 1,
+        "PresetPrice": 550000,
+        "RowDescription": "None"
+      },
+      "57": {
+        "Key": 57,
+        "TypeID": 2,
+        "PresetID": 2,
+        "PresetPrice": 550000,
+        "RowDescription": "None"
+      },
+      "58": {
+        "Key": 58,
+        "TypeID": 1,
+        "PresetID": 1,
+        "PresetPrice": 550000,
+        "RowDescription": "None"
+      },
+      "59": {
+        "Key": 59,
+        "TypeID": 1,
+        "PresetID": 2,
+        "PresetPrice": 550000,
+        "RowDescription": "None"
+      },
+      "60": {
+        "Key": 60,
+        "TypeID": 2,
+        "PresetID": 1,
+        "PresetPrice": 550000,
+        "RowDescription": "None"
+      },
+      "61": {
+        "Key": 61,
+        "TypeID": 2,
+        "PresetID": 2,
+        "PresetPrice": 550000,
+        "RowDescription": "None"
+      },
+      "62": {
+        "Key": 62,
+        "TypeID": 1,
+        "PresetID": 1,
+        "PresetPrice": 200000,
+        "RowDescription": "None"
+      },
+      "63": {
+        "Key": 63,
+        "TypeID": 1,
+        "PresetID": 2,
+        "PresetPrice": 200000,
+        "RowDescription": "None"
+      },
+      "64": {
+        "Key": 64,
+        "TypeID": 2,
+        "PresetID": 1,
+        "PresetPrice": 200000,
+        "RowDescription": "None"
+      },
+      "65": {
+        "Key": 65,
+        "TypeID": 2,
+        "PresetID": 2,
+        "PresetPrice": 200000,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 65
+  }
+]

@@ -1,0 +1,13 @@
+﻿RowName,AIDamageRatio,AIHurtRatio,AIHurtRatioHead,AIHurtRatioThorax,AIHurtRatioRightArm,AIHurtRatioLeftArm,AIHurtRatioRightLeg,AIHurtRatioLeftLeg,AIHitEnemyRatio,AIHitEnemyRatioHead,AIHitEnemyRatioThorax,AIHitEnemyRatioRightArm,AIHitEnemyRatioLeftArm,AIHitEnemyRatioRightLeg,AIHitEnemyRatioLeftLeg,OverrideAttackLevel,OverrideBulletGroup,RowDescription
+Rifle,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,-1,-1,None
+Submachine,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,-1,-1,None
+Shotgun,0.85,1,1,1,1,1,1,1,1,1,1,1,1,1,1,-1,-1,None
+LightMachine,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,-1,-1,None
+PrecisionShootingRifle,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,-1,-1,None
+Sniper,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,-1,-1,None
+Pistol,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,-1,-1,None
+Heavy,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,-1,-1,None
+Melee,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,-1,-1,None
+EmptyHand,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,-1,-1,None
+Throwable,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,-1,-1,None
+HeavyMachineGun,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,-1,-1,None

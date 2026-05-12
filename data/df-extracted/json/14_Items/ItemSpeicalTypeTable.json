@@ -1,0 +1,122 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "ItemSpeicalTypeTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/ItemSpeicalTypeTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "ItemSpeicalTypeData",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "11010005010": {
+        "ItemID": 11010005010,
+        "NightVision": true,
+        "ThermalImagine": false,
+        "Flashlight": false,
+        "RowDescription": "None"
+      },
+      "11010006007": {
+        "ItemID": 11010006007,
+        "NightVision": true,
+        "ThermalImagine": false,
+        "Flashlight": false,
+        "RowDescription": "None"
+      },
+      "11010005009": {
+        "ItemID": 11010005009,
+        "NightVision": true,
+        "ThermalImagine": false,
+        "Flashlight": false,
+        "RowDescription": "None"
+      },
+      "13140000041": {
+        "ItemID": 13140000041,
+        "NightVision": false,
+        "ThermalImagine": false,
+        "Flashlight": true,
+        "RowDescription": "None"
+      },
+      "13140000042": {
+        "ItemID": 13140000042,
+        "NightVision": false,
+        "ThermalImagine": false,
+        "Flashlight": true,
+        "RowDescription": "None"
+      },
+      "13160000007": {
+        "ItemID": 13160000007,
+        "NightVision": false,
+        "ThermalImagine": false,
+        "Flashlight": true,
+        "RowDescription": "None"
+      },
+      "13160000013": {
+        "ItemID": 13160000013,
+        "NightVision": false,
+        "ThermalImagine": false,
+        "Flashlight": true,
+        "RowDescription": "None"
+      },
+      "13160000014": {
+        "ItemID": 13160000014,
+        "NightVision": false,
+        "ThermalImagine": false,
+        "Flashlight": true,
+        "RowDescription": "None"
+      },
+      "13160000016": {
+        "ItemID": 13160000016,
+        "NightVision": false,
+        "ThermalImagine": false,
+        "Flashlight": true,
+        "RowDescription": "None"
+      },
+      "13160000018": {
+        "ItemID": 13160000018,
+        "NightVision": false,
+        "ThermalImagine": false,
+        "Flashlight": true,
+        "RowDescription": "None"
+      },
+      "13160000008": {
+        "ItemID": 13160000008,
+        "NightVision": false,
+        "ThermalImagine": false,
+        "Flashlight": true,
+        "RowDescription": "None"
+      },
+      "13160000015": {
+        "ItemID": 13160000015,
+        "NightVision": false,
+        "ThermalImagine": false,
+        "Flashlight": true,
+        "RowDescription": "None"
+      },
+      "13110000066": {
+        "ItemID": 13110000066,
+        "NightVision": false,
+        "ThermalImagine": true,
+        "Flashlight": false,
+        "RowDescription": "None"
+      },
+      "13110000067": {
+        "ItemID": 13110000067,
+        "NightVision": false,
+        "ThermalImagine": true,
+        "Flashlight": false,
+        "RowDescription": "None"
+      },
+      "13110000068": {
+        "ItemID": 13110000068,
+        "NightVision": false,
+        "ThermalImagine": true,
+        "Flashlight": false,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 15
+  }
+]

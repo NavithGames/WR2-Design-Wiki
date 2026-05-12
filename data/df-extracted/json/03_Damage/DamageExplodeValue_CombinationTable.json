@@ -1,0 +1,173 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "DamageExplodeValue_CombinationTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Ability/OperatorFormTool/CombinationTables/DamageExplodeValue_CombinationTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "DamageExplodeValue",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "30": {
+        "ExplodeValueId": 30,
+        "ExplodeRadius": 400,
+        "ExplodeRadiusVehicle": -1,
+        "Damage": 20,
+        "VehicleDamage": 25,
+        "PenetrateLevel": 6,
+        "bOverrideArmorDamage": false,
+        "OverrideArmorDamage": 0,
+        "AttackLevelDetailGroup": 202,
+        "HealthHeadDamageRate": 0.1,
+        "HealthThoraxDamageRate": 0.1,
+        "HealthAbdomenDamageRate": 0.1,
+        "HealthLegDamageRate": 0.375,
+        "HealthArmDamageRate": 0.25,
+        "HealthLegRightDamageRate": 0.3,
+        "HealthArmRightDamageRate": 0.25,
+        "VehicleArmorDamageId": 1982007,
+        "IsRangeAttenuation": true,
+        "bEnableFlyDistanceConfigDamage": false,
+        "DistanceConfigDamage": {
+          "_StructType": "FStructFallback",
+          "DamageConfigArray": []
+        },
+        "FullExplodeRadius": 100,
+        "FullExplodeRadiusVehicle": -1,
+        "MinDamage": 5,
+        "MinVehicleDamage": 30,
+        "bOverrideAIDamage": true,
+        "AIDamage": 60,
+        "MinAIDamage": 20,
+        "bOverrideBossValue": false,
+        "BossOverrideValueParam": {
+          "_StructType": "FStructFallback",
+          "MinDamage": 20,
+          "PenetrateLevel": 6,
+          "Damage": 60,
+          "bRealDamage": false,
+          "bAlwaysDamage": false
+        },
+        "IsThroughBunker": false,
+        "BunkerDamageRate": 0.5,
+        "DamageExplodeBlockCheckType": "EDamageExplodeBlockCheckType::High",
+        "CheckBlockDistOffset": 15,
+        "EnableDamageToFriend": "EGPDamageEnableType::EnableWithEnemy",
+        "EnableDamageToSelf": "EGPDamageEnableType::Enable",
+        "FriendDamageRate": 1,
+        "bRealDamage": false,
+        "bAlwaysDamage": true,
+        "KillIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/HUD/BakedSprite/HUD_TipsBroadcast_Icon_0027.HUD_TipsBroadcast_Icon_0027"
+        },
+        "DeathInfoIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Arms/Commando/BakedSprite/Commando_Skill_Icon_05.Commando_Skill_Icon_05"
+        },
+        "bApplyBuffWhileMakingDamage": false,
+        "OriginDamageIntervalBuffMap": [
+          {
+            "_StructType": "FStructFallback",
+            "BuffApplyProbability": 1,
+            "DamageUpperBound": 30,
+            "DamageLowerBound": 0,
+            "BuffID": 201012,
+            "EnabledGameModes": [
+              "EDFMGamePlayMode::GamePlayMode_SOL"
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "BuffApplyProbability": 1,
+            "DamageUpperBound": 50,
+            "DamageLowerBound": 31,
+            "BuffID": 201013,
+            "EnabledGameModes": [
+              "EDFMGamePlayMode::GamePlayMode_SOL"
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "BuffApplyProbability": 1,
+            "DamageUpperBound": 50,
+            "DamageLowerBound": 15,
+            "BuffID": 201017,
+            "EnabledGameModes": [
+              "EDFMGamePlayMode::GamePlayMode_SOL"
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "BuffApplyProbability": 1,
+            "DamageUpperBound": 30,
+            "DamageLowerBound": 10,
+            "BuffID": 201011,
+            "EnabledGameModes": [
+              "EDFMGamePlayMode::GamePlayMode_Conquest",
+              "EDFMGamePlayMode::GamePlayMode_Breakthrough"
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "BuffApplyProbability": 1,
+            "DamageUpperBound": 50,
+            "DamageLowerBound": 31,
+            "BuffID": 201012,
+            "EnabledGameModes": [
+              "EDFMGamePlayMode::GamePlayMode_Conquest",
+              "EDFMGamePlayMode::GamePlayMode_Breakthrough"
+            ]
+          }
+        ],
+        "RealDamageIntervalBuffMap": [
+          {
+            "_StructType": "FStructFallback",
+            "BuffApplyProbability": 1,
+            "DamageUpperBound": 30,
+            "DamageLowerBound": 0,
+            "BuffID": 201014,
+            "EnabledGameModes": [
+              "EDFMGamePlayMode::GamePlayMode_SOL",
+              "EDFMGamePlayMode::GamePlayMode_Conquest",
+              "EDFMGamePlayMode::GamePlayMode_Breakthrough"
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "BuffApplyProbability": 1,
+            "DamageUpperBound": 60,
+            "DamageLowerBound": 31,
+            "BuffID": 201015,
+            "EnabledGameModes": [
+              "EDFMGamePlayMode::GamePlayMode_SOL",
+              "EDFMGamePlayMode::GamePlayMode_Conquest",
+              "EDFMGamePlayMode::GamePlayMode_Breakthrough"
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "BuffApplyProbability": 1,
+            "DamageUpperBound": 150,
+            "DamageLowerBound": 61,
+            "BuffID": 201016,
+            "EnabledGameModes": [
+              "EDFMGamePlayMode::GamePlayMode_SOL",
+              "EDFMGamePlayMode::GamePlayMode_Conquest",
+              "EDFMGamePlayMode::GamePlayMode_Breakthrough"
+            ]
+          }
+        ],
+        "RagdollImpulseType": "EExplodeRagdollImpulseType::Low",
+        "SmokeBreakerId": "Shell",
+        "FreezeAreaDamageRate": 0,
+        "DamageApplyFreezeValue": 25,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 1
+  }
+]

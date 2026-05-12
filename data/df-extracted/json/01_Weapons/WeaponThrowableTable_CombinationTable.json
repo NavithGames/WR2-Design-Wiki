@@ -1,0 +1,187 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "WeaponThrowableTable_CombinationTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Ability/OperatorFormTool/CombinationTables/WeaponThrowableTable_CombinationTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "WeaponThrowableTable",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "\u533B\u7597\u7C89\u5C18": {
+        "ItemId": 21020300035,
+        "FunctionId": 0,
+        "BPClass": {
+          "AssetPath": "/Game/BluePrints/Ability/MedicalSoldier/103/BP_WeaponThrow_MedicalDrone.BP_WeaponThrow_MedicalDrone_C",
+          "SubPath": ""
+        },
+        "ABP_AnimInstClass": {
+          "AssetPath": "/Game/Models/Weapons/MilitaryProps/Support_C103_MedicalDrone/ABP_Support_C103_MedicalDrone_1P.ABP_Support_C103_MedicalDrone_1P_C",
+          "SubPath": ""
+        },
+        "ABP_AnimInstClass_3P": {
+          "AssetPath": "/Game/Models/Weapons/MilitaryProps/Support_C103_MedicalDrone/ABP_Support_C103_MedicalDrone_1P.ABP_Support_C103_MedicalDrone_1P_C",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "\u9065\u63A7\u70DF\u96FE": {
+        "ItemId": 21020300036,
+        "FunctionId": 0,
+        "BPClass": {
+          "AssetPath": "/Game/BluePrints/Ability/MedicalSoldier/103/BP_WeaponBaseLeftThrow_C103Smoke.BP_WeaponBaseLeftThrow_C103Smoke_C",
+          "SubPath": ""
+        },
+        "ABP_AnimInstClass": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ABP_AnimInstClass_3P": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "\u6551\u63F4\u65E0\u4EBA\u673A": {
+        "ItemId": 21020300037,
+        "FunctionId": 0,
+        "BPClass": {
+          "AssetPath": "/Game/BluePrints/Ability/MedicalSoldier/103/BP_WeaponBaseLeftThrow_Butter.BP_WeaponBaseLeftThrow_Butter_C",
+          "SubPath": ""
+        },
+        "ABP_AnimInstClass": {
+          "AssetPath": "/Game/Models/Weapons/MilitaryProps/Support_C103_Butterfly/ABP_Support_C103_Butterfly_1P.ABP_Support_C103_Butterfly_1P_C",
+          "SubPath": ""
+        },
+        "ABP_AnimInstClass_3P": {
+          "AssetPath": "/Game/Models/Weapons/MilitaryProps/Support_C103_Butterfly/ABP_Support_C103_Butterfly_1P.ABP_Support_C103_Butterfly_1P_C",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "21010000046": {
+        "ItemId": 21010000046,
+        "FunctionId": 0,
+        "BPClass": {
+          "AssetPath": "/Game/BluePrints/Weapons/WeaponBP/BP_WeaponBaseLeftThrow_C101Smoke.BP_WeaponBaseLeftThrow_C101Smoke_C",
+          "SubPath": ""
+        },
+        "ABP_AnimInstClass": {
+          "AssetPath": "/Game/Models/Weapons/MilitaryProps/Support_C101_honeycombsmoke_01/ABP_Support_C101_honeycombsmoke_01_1P.ABP_Support_C101_honeycombsmoke_01_1P_C",
+          "SubPath": ""
+        },
+        "ABP_AnimInstClass_3P": {
+          "AssetPath": "/Game/Models/Weapons/MilitaryProps/Support_C101_honeycombsmoke_01/ABP_Support_C101_honeycombsmoke_01_1P.ABP_Support_C101_honeycombsmoke_01_1P_C",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "\u58F0\u7EB3\u63A2\u6D4B\u88C5\u7F6E": {
+        "ItemId": 21020300050,
+        "FunctionId": 0,
+        "BPClass": {
+          "AssetPath": "/Game/BluePrints/Ability/Scout/C204/BP_WeaponThrow_SonarDetectDevice.BP_WeaponThrow_SonarDetectDevice_C",
+          "SubPath": ""
+        },
+        "ABP_AnimInstClass": {
+          "AssetPath": "/Game/Models/Weapons/MilitaryProps/Recon_C204_SoundDetect/ABP_Recon_C204_SoundDetect.ABP_Recon_C204_SoundDetect_C",
+          "SubPath": ""
+        },
+        "ABP_AnimInstClass_3P": {
+          "AssetPath": "/Game/Models/Weapons/MilitaryProps/Recon_C204_SoundDetect/ABP_Recon_C204_SoundDetect.ABP_Recon_C204_SoundDetect_C",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "\u6295\u63B7\u578B\u5E72\u6270\u88C5\u7F6E": {
+        "ItemId": 21020300051,
+        "FunctionId": 0,
+        "BPClass": {
+          "AssetPath": "/Game/BluePrints/Ability/Scout/C204/BP_WeaponThrow_C204Interference.BP_WeaponThrow_C204Interference_C",
+          "SubPath": ""
+        },
+        "ABP_AnimInstClass": {
+          "AssetPath": "/Game/Models/Weapons/MilitaryProps/Recon_C204_Interference/ABP_Recon_C204_Interference_1P.ABP_Recon_C204_Interference_1P_C",
+          "SubPath": ""
+        },
+        "ABP_AnimInstClass_3P": {
+          "AssetPath": "/Game/Models/Weapons/MilitaryProps/Recon_C204_Interference/ABP_Recon_C204_Interference_3P.ABP_Recon_C204_Interference_3P_C",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "\u5EF6\u65F6\u578B\u95EA\u5149\u5F39": {
+        "ItemId": 21020300052,
+        "FunctionId": 0,
+        "BPClass": {
+          "AssetPath": "/Game/BluePrints/Weapons/WeaponBP/BP_WeaponBaseLeftThrow_C204Flash.BP_WeaponBaseLeftThrow_C204Flash_C",
+          "SubPath": ""
+        },
+        "ABP_AnimInstClass": {
+          "AssetPath": "/Game/Models/Weapons/MilitaryProps/Recon_C204_Flash/ABP_Recon_C204_Flash_1P.ABP_Recon_C204_Flash_1P_C",
+          "SubPath": ""
+        },
+        "ABP_AnimInstClass_3P": {
+          "AssetPath": "/Game/Models/Weapons/MilitaryProps/Recon_C204_Flash/ABP_Recon_C204_Flash_3P.ABP_Recon_C204_Flash_3P_C",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "21010000044": {
+        "ItemId": 21010000044,
+        "FunctionId": 0,
+        "BPClass": {
+          "AssetPath": "/Game/BluePrints/Ability/C405/BP_WeaponBaseThrowLiquidNitrogen.BP_WeaponBaseThrowLiquidNitrogen_C",
+          "SubPath": ""
+        },
+        "ABP_AnimInstClass": {
+          "AssetPath": "/Game/Models/Weapons/MilitaryProps/Engineering_C405_IceSpray/ABP_Engineering_C405_IceSpray_1P.ABP_Engineering_C405_IceSpray_1P_C",
+          "SubPath": ""
+        },
+        "ABP_AnimInstClass_3P": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "21010000045": {
+        "ItemId": 21010000045,
+        "FunctionId": 0,
+        "BPClass": {
+          "AssetPath": "/Game/BluePrints/Weapons/WeaponBP/BP_WeaponBaseThrow.BP_WeaponBaseThrow_C",
+          "SubPath": ""
+        },
+        "ABP_AnimInstClass": {
+          "AssetPath": "/Game/Models/Weapons/MilitaryProps/Incendiary_Grenade_001/ABP_Incendiary_Grenade_001_1P.ABP_Incendiary_Grenade_001_1P_C",
+          "SubPath": ""
+        },
+        "ABP_AnimInstClass_3P": {
+          "AssetPath": "/Game/Models/Weapons/MilitaryProps/Incendiary_Grenade_001/ABP_Incendiary_Grenade_001_3P.ABP_Incendiary_Grenade_001_3P_C",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "\u8111\u63A7\u5C0F\u8F66": {
+        "ItemId": 21026010001,
+        "FunctionId": 0,
+        "BPClass": {
+          "AssetPath": "/Game/BluePrints/Ability/Havvk/C601/BP_WeaponThrow_RemoteCar.BP_WeaponThrow_RemoteCar_C",
+          "SubPath": ""
+        },
+        "ABP_AnimInstClass": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ABP_AnimInstClass_3P": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 10
+  }
+]

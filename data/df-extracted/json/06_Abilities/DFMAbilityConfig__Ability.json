@@ -1,0 +1,37 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "DFMAbilityConfig",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Ability/DFMAbilityConfig",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "DFMAbilityConfig",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "GSAbilityComponent": {
+        "Name": "GSAbilityComponent",
+        "ProxyClass": {
+          "_Type": "UScriptClass",
+          "_Name": "DFMAbilityGameStateComponent",
+          "_Class": "UScriptClass",
+          "_Outer": null
+        },
+        "RowDescription": "None"
+      },
+      "FreezeZoneManager": {
+        "Name": "FreezeZoneManager",
+        "ProxyClass": {
+          "_Type": "UScriptClass",
+          "_Name": "FreezeZoneManagerComponent",
+          "_Class": "UScriptClass",
+          "_Outer": null
+        },
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 2
+  }
+]

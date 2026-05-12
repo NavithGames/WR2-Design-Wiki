@@ -1,0 +1,4 @@
+﻿RowName,MapID,SubGameMode,SpawnAreaAlterScoreList,BigEventSpecialSectorIdList,RowDescription
+断层指挥官,611,EDFMGamePlaySubMode::GamePlaySubMode_Commander,0.7; 0.4; 0.3,,None
+运河攻防S2,311,EDFMGamePlaySubMode::None,0.5,10143,None
+运河指挥官S2,612,EDFMGamePlaySubMode::GamePlaySubMode_Commander,0.5,10143,None

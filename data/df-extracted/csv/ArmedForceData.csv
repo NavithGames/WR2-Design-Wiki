@@ -1,0 +1,5 @@
+﻿RowName,ArmedForceId,Name,Icon,WeaponTypeList,WeaponList,AbilityId,RedeployHeroViewColorType,RedeployHeroViewColor,RedeployHeroViewArmBigIcon,IconForRedeploy,RowDescription
+1,1,,(),"1801,1807",,1100001,D003,"(R=1, G=0.035601, B=0.082283, A=1)",(),(),None
+2,2,,(),"1802,1807",,1200001,D002,"(R=0.004777, G=0.938686, B=0.327778, A=1)",(),(),None
+3,3,,(),"1803,1804,1807,1808",,1300001,D004,"(R=1, G=0.665387, B=0.109462, A=1)",(),(),None
+4,4,,(),"1805,1806,1807",,1400001,D001,"(R=0.004777, G=0.887923, B=0.930111, A=1)",(),(),None

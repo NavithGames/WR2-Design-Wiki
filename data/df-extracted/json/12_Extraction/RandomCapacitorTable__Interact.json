@@ -1,0 +1,401 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "RandomCapacitorTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/Interact/RandomCapacitorTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "RandomCapacitorTableRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "AZ5_Low_GroupA": {
+        "MapIDs": [
+          8901
+        ],
+        "GroupName": "GroupA",
+        "CapacitorNumProbability": [
+          {
+            "Key": 2,
+            "Value": 0.5
+          },
+          {
+            "Key": 3,
+            "Value": 0.5
+          }
+        ],
+        "CapacitorRankProbability": [
+          {
+            "Key": 1,
+            "Value": 0.05
+          },
+          {
+            "Key": 2,
+            "Value": 0.25
+          },
+          {
+            "Key": 3,
+            "Value": 0.6
+          },
+          {
+            "Key": 4,
+            "Value": 0.1
+          }
+        ],
+        "ChainNumProbability": [
+          {
+            "Key": 2,
+            "Value": 1
+          }
+        ]
+      },
+      "AZ5_Low_GroupB": {
+        "MapIDs": [
+          8901
+        ],
+        "GroupName": "GroupB",
+        "CapacitorNumProbability": [
+          {
+            "Key": 1,
+            "Value": 1
+          }
+        ],
+        "CapacitorRankProbability": [
+          {
+            "Key": 1,
+            "Value": 0.05
+          },
+          {
+            "Key": 2,
+            "Value": 0.25
+          },
+          {
+            "Key": 3,
+            "Value": 0.6
+          },
+          {
+            "Key": 4,
+            "Value": 0.1
+          }
+        ],
+        "ChainNumProbability": [
+          {
+            "Key": 1,
+            "Value": 1
+          }
+        ]
+      },
+      "AZ5_Low_GroupC": {
+        "MapIDs": [
+          8901
+        ],
+        "GroupName": "GroupC",
+        "CapacitorNumProbability": [
+          {
+            "Key": 2,
+            "Value": 1
+          }
+        ],
+        "CapacitorRankProbability": [
+          {
+            "Key": 1,
+            "Value": 0.05
+          },
+          {
+            "Key": 2,
+            "Value": 0.25
+          },
+          {
+            "Key": 3,
+            "Value": 0.6
+          },
+          {
+            "Key": 4,
+            "Value": 0.1
+          }
+        ],
+        "ChainNumProbability": [
+          {
+            "Key": 1,
+            "Value": 1
+          }
+        ]
+      },
+      "AZ5_Low_GroupD": {
+        "MapIDs": [
+          8901
+        ],
+        "GroupName": "GroupD",
+        "CapacitorNumProbability": [
+          {
+            "Key": 2,
+            "Value": 0.5
+          },
+          {
+            "Key": 3,
+            "Value": 0.5
+          }
+        ],
+        "CapacitorRankProbability": [
+          {
+            "Key": 1,
+            "Value": 0.05
+          },
+          {
+            "Key": 2,
+            "Value": 0.25
+          },
+          {
+            "Key": 3,
+            "Value": 0.6
+          },
+          {
+            "Key": 4,
+            "Value": 0.1
+          }
+        ],
+        "ChainNumProbability": [
+          {
+            "Key": 2,
+            "Value": 1
+          }
+        ]
+      },
+      "AZ5_Low_GroupE": {
+        "MapIDs": [
+          8901
+        ],
+        "GroupName": "GroupE",
+        "CapacitorNumProbability": [
+          {
+            "Key": 1,
+            "Value": 1
+          }
+        ],
+        "CapacitorRankProbability": [
+          {
+            "Key": 1,
+            "Value": 0.05
+          },
+          {
+            "Key": 2,
+            "Value": 0.25
+          },
+          {
+            "Key": 3,
+            "Value": 0.6
+          },
+          {
+            "Key": 4,
+            "Value": 0.1
+          }
+        ],
+        "ChainNumProbability": [
+          {
+            "Key": 1,
+            "Value": 0.5
+          },
+          {
+            "Key": 2,
+            "Value": 0.5
+          }
+        ]
+      },
+      "AZ5_Mid_GroupA": {
+        "MapIDs": [
+          8902
+        ],
+        "GroupName": "GroupA",
+        "CapacitorNumProbability": [
+          {
+            "Key": 2,
+            "Value": 0.5
+          },
+          {
+            "Key": 3,
+            "Value": 0.5
+          }
+        ],
+        "CapacitorRankProbability": [
+          {
+            "Key": 1,
+            "Value": 0.2
+          },
+          {
+            "Key": 2,
+            "Value": 0.45
+          },
+          {
+            "Key": 3,
+            "Value": 0.2
+          },
+          {
+            "Key": 4,
+            "Value": 0.15
+          }
+        ],
+        "ChainNumProbability": [
+          {
+            "Key": 2,
+            "Value": 1
+          }
+        ]
+      },
+      "AZ5_Mid_GroupB": {
+        "MapIDs": [
+          8902
+        ],
+        "GroupName": "GroupB",
+        "CapacitorNumProbability": [
+          {
+            "Key": 1,
+            "Value": 1
+          }
+        ],
+        "CapacitorRankProbability": [
+          {
+            "Key": 1,
+            "Value": 0.2
+          },
+          {
+            "Key": 2,
+            "Value": 0.45
+          },
+          {
+            "Key": 3,
+            "Value": 0.2
+          },
+          {
+            "Key": 4,
+            "Value": 0.15
+          }
+        ],
+        "ChainNumProbability": [
+          {
+            "Key": 1,
+            "Value": 1
+          }
+        ]
+      },
+      "AZ5_Mid_GroupC": {
+        "MapIDs": [
+          8902
+        ],
+        "GroupName": "GroupC",
+        "CapacitorNumProbability": [
+          {
+            "Key": 2,
+            "Value": 1
+          }
+        ],
+        "CapacitorRankProbability": [
+          {
+            "Key": 1,
+            "Value": 0.2
+          },
+          {
+            "Key": 2,
+            "Value": 0.45
+          },
+          {
+            "Key": 3,
+            "Value": 0.2
+          },
+          {
+            "Key": 4,
+            "Value": 0.15
+          }
+        ],
+        "ChainNumProbability": [
+          {
+            "Key": 1,
+            "Value": 1
+          }
+        ]
+      },
+      "AZ5_Mid_GroupD": {
+        "MapIDs": [
+          8902
+        ],
+        "GroupName": "GroupD",
+        "CapacitorNumProbability": [
+          {
+            "Key": 2,
+            "Value": 0.5
+          },
+          {
+            "Key": 3,
+            "Value": 0.5
+          }
+        ],
+        "CapacitorRankProbability": [
+          {
+            "Key": 1,
+            "Value": 0.2
+          },
+          {
+            "Key": 2,
+            "Value": 0.45
+          },
+          {
+            "Key": 3,
+            "Value": 0.2
+          },
+          {
+            "Key": 4,
+            "Value": 0.15
+          }
+        ],
+        "ChainNumProbability": [
+          {
+            "Key": 2,
+            "Value": 1
+          }
+        ]
+      },
+      "AZ5_Mid_GroupE": {
+        "MapIDs": [
+          8902
+        ],
+        "GroupName": "GroupE",
+        "CapacitorNumProbability": [
+          {
+            "Key": 1,
+            "Value": 1
+          }
+        ],
+        "CapacitorRankProbability": [
+          {
+            "Key": 1,
+            "Value": 0.2
+          },
+          {
+            "Key": 2,
+            "Value": 0.45
+          },
+          {
+            "Key": 3,
+            "Value": 0.2
+          },
+          {
+            "Key": 4,
+            "Value": 0.15
+          }
+        ],
+        "ChainNumProbability": [
+          {
+            "Key": 1,
+            "Value": 0.5
+          },
+          {
+            "Key": 2,
+            "Value": 0.5
+          }
+        ]
+      }
+    },
+    "_RowCount": 10
+  }
+]

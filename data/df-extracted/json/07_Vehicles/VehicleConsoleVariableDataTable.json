@@ -1,0 +1,146 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "VehicleConsoleVariableDataTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Vehicle/VehicleConsoleVariableDataTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "DFMVehicleConsoleVariableDataTableRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "\u4E0D\u5728\u8F7D\u5177\u4E0A": {
+        "VehicleType": "EDFMVehicleClassType::VehicleType_None",
+        "PCData": {
+          "_StructType": "FStructFallback",
+          "QualityData": [],
+          "NonQualityData": {
+            "_StructType": "FStructFallback",
+            "QualityDataItems": [],
+            "QualityCommandsGetOn": [],
+            "QualityCommandsGetOff": []
+          },
+          "DataForMap": []
+        },
+        "MobileData": {
+          "_StructType": "FStructFallback",
+          "QualityData": [],
+          "NonQualityData": {
+            "_StructType": "FStructFallback",
+            "QualityDataItems": [],
+            "QualityCommandsGetOn": [],
+            "QualityCommandsGetOff": []
+          },
+          "DataForMap": []
+        },
+        "RowDescription": "None"
+      },
+      "\u5730\u9762\u8F7D\u5177": {
+        "VehicleType": "EDFMVehicleClassType::VehicleClassType_Ground",
+        "PCData": {
+          "_StructType": "FStructFallback",
+          "QualityData": [],
+          "NonQualityData": {
+            "_StructType": "FStructFallback",
+            "QualityDataItems": [],
+            "QualityCommandsGetOn": [
+              "r.FixScreenMultipleScale 0"
+            ],
+            "QualityCommandsGetOff": [
+              "r.FixScreenMultipleScale 2"
+            ]
+          },
+          "DataForMap": []
+        },
+        "MobileData": {
+          "_StructType": "FStructFallback",
+          "QualityData": [],
+          "NonQualityData": {
+            "_StructType": "FStructFallback",
+            "QualityDataItems": [],
+            "QualityCommandsGetOn": [],
+            "QualityCommandsGetOff": []
+          },
+          "DataForMap": []
+        },
+        "RowDescription": "None"
+      },
+      "\u6C34\u4E0A\u8F7D\u5177": {
+        "VehicleType": "EDFMVehicleClassType::VehicleClassType_Water",
+        "PCData": {
+          "_StructType": "FStructFallback",
+          "QualityData": [],
+          "NonQualityData": {
+            "_StructType": "FStructFallback",
+            "QualityDataItems": [],
+            "QualityCommandsGetOn": [
+              "r.FixScreenMultipleScale 0"
+            ],
+            "QualityCommandsGetOff": [
+              "r.FixScreenMultipleScale 2"
+            ]
+          },
+          "DataForMap": []
+        },
+        "MobileData": {
+          "_StructType": "FStructFallback",
+          "QualityData": [],
+          "NonQualityData": {
+            "_StructType": "FStructFallback",
+            "QualityDataItems": [],
+            "QualityCommandsGetOn": [],
+            "QualityCommandsGetOff": []
+          },
+          "DataForMap": []
+        },
+        "RowDescription": "None"
+      },
+      "\u7A7A\u4E2D\u8F7D\u5177": {
+        "VehicleType": "EDFMVehicleClassType::VehicleClassType_Sky",
+        "PCData": {
+          "_StructType": "FStructFallback",
+          "QualityData": [],
+          "NonQualityData": {
+            "_StructType": "FStructFallback",
+            "QualityDataItems": [
+              {
+                "_StructType": "FStructFallback",
+                "ConsoleVariableName": "r.CullScreenSizeRatio",
+                "ConsoleVariableValue": 0.3
+              },
+              {
+                "_StructType": "FStructFallback",
+                "ConsoleVariableName": "r.VT.MaxUploadsPerFrame",
+                "ConsoleVariableValue": 8
+              }
+            ],
+            "QualityCommandsGetOn": [
+              "r.FixScreenMultipleScale 0",
+              "r.StreamingPRT 0"
+            ],
+            "QualityCommandsGetOff": [
+              "r.FixScreenMultipleScale 2",
+              "r.StreamingPRT 1"
+            ]
+          },
+          "DataForMap": []
+        },
+        "MobileData": {
+          "_StructType": "FStructFallback",
+          "QualityData": [],
+          "NonQualityData": {
+            "_StructType": "FStructFallback",
+            "QualityDataItems": [],
+            "QualityCommandsGetOn": [],
+            "QualityCommandsGetOff": []
+          },
+          "DataForMap": []
+        },
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 4
+  }
+]

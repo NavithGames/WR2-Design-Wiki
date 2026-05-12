@@ -1,0 +1,26 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "ArmorRepairConfig",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/ArmorRepairConfig",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "ArmorRepairRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "1.25": {
+        "LowRepairCost": 1.25,
+        "MidRepairCost": 1,
+        "HighRepairCost": 0.8,
+        "LowRepairReduce": 1.25,
+        "MidRepairReduce": 1,
+        "HighRepairReduce": 1,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 1
+  }
+]

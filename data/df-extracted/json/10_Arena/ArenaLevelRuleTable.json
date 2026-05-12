@@ -1,0 +1,149 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "ArenaLevelRuleTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Arena/ArenaLevelRuleTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "ArenaLevelRuleData",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "\u68EE\u6797\u9152\u5E97": {
+        "MapID": 1921,
+        "MaxRoundCount": 7,
+        "ToWinRoundCount": 3,
+        "RoundMaxDuration": 600,
+        "RoundPrepareDuration": 30,
+        "FirstRoundPrepareDuration": 45,
+        "RoundSettlementDuration": 6,
+        "ContinueWinMinCount": 2,
+        "ContinueLoseMinCount": 2,
+        "RowDescription": "None"
+      },
+      "\u96F7\u8FBE\u7AD9\u4E3B\u697C": {
+        "MapID": 1922,
+        "MaxRoundCount": 7,
+        "ToWinRoundCount": 3,
+        "RoundMaxDuration": 270,
+        "RoundPrepareDuration": 30,
+        "FirstRoundPrepareDuration": 45,
+        "RoundSettlementDuration": 6,
+        "ContinueWinMinCount": 2,
+        "ContinueLoseMinCount": 2,
+        "RowDescription": "None"
+      },
+      "\u5DF4\u514B\u4EC0\u8D5B\u4E8B\u6A21\u677F": {
+        "MapID": 8121,
+        "MaxRoundCount": 7,
+        "ToWinRoundCount": 3,
+        "RoundMaxDuration": 600,
+        "RoundPrepareDuration": 30,
+        "FirstRoundPrepareDuration": 45,
+        "RoundSettlementDuration": 6,
+        "ContinueWinMinCount": 2,
+        "ContinueLoseMinCount": 2,
+        "RowDescription": "None"
+      },
+      "\u5DF4\u522B\u5854\u6D77\u6C34\u89C2\u6D4B\u533A": {
+        "MapID": 8122,
+        "MaxRoundCount": 7,
+        "ToWinRoundCount": 3,
+        "RoundMaxDuration": 270,
+        "RoundPrepareDuration": 30,
+        "FirstRoundPrepareDuration": 45,
+        "RoundSettlementDuration": 6,
+        "ContinueWinMinCount": 2,
+        "ContinueLoseMinCount": 2,
+        "RowDescription": "None"
+      },
+      "\u5927\u575D\u7EAF\u5730\u4E0B": {
+        "MapID": 2221,
+        "MaxRoundCount": 7,
+        "ToWinRoundCount": 3,
+        "RoundMaxDuration": 270,
+        "RoundPrepareDuration": 30,
+        "FirstRoundPrepareDuration": 45,
+        "RoundSettlementDuration": 6,
+        "ContinueWinMinCount": 2,
+        "ContinueLoseMinCount": 2,
+        "RowDescription": "None"
+      },
+      "\u5927\u575D\u519B\u8425": {
+        "MapID": 2222,
+        "MaxRoundCount": 7,
+        "ToWinRoundCount": 3,
+        "RoundMaxDuration": 270,
+        "RoundPrepareDuration": 30,
+        "FirstRoundPrepareDuration": 45,
+        "RoundSettlementDuration": 6,
+        "ContinueWinMinCount": 2,
+        "ContinueLoseMinCount": 2,
+        "RowDescription": "None"
+      },
+      "\u822A\u5929\u57CEboss\u5BA4": {
+        "MapID": 3921,
+        "MaxRoundCount": 7,
+        "ToWinRoundCount": 3,
+        "RoundMaxDuration": 270,
+        "RoundPrepareDuration": 30,
+        "FirstRoundPrepareDuration": 45,
+        "RoundSettlementDuration": 6,
+        "ContinueWinMinCount": 2,
+        "ContinueLoseMinCount": 2,
+        "RowDescription": "None"
+      },
+      "\u822A\u5929\u8D5B\u4E8B\u6A21\u677F": {
+        "MapID": 3922,
+        "MaxRoundCount": 7,
+        "ToWinRoundCount": 3,
+        "RoundMaxDuration": 600,
+        "RoundPrepareDuration": 30,
+        "FirstRoundPrepareDuration": 45,
+        "RoundSettlementDuration": 6,
+        "ContinueWinMinCount": 2,
+        "ContinueLoseMinCount": 2,
+        "RowDescription": "None"
+      },
+      "\u76D1\u72F1\u6838\u5FC3\u533A": {
+        "MapID": 8821,
+        "MaxRoundCount": 7,
+        "ToWinRoundCount": 3,
+        "RoundMaxDuration": 600,
+        "RoundPrepareDuration": 30,
+        "FirstRoundPrepareDuration": 45,
+        "RoundSettlementDuration": 6,
+        "ContinueWinMinCount": 2,
+        "ContinueLoseMinCount": 2,
+        "RowDescription": "None"
+      },
+      "\u5DF4\u522B\u5854\u9876": {
+        "MapID": 8123,
+        "MaxRoundCount": 7,
+        "ToWinRoundCount": 3,
+        "RoundMaxDuration": 600,
+        "RoundPrepareDuration": 30,
+        "FirstRoundPrepareDuration": 45,
+        "RoundSettlementDuration": 6,
+        "ContinueWinMinCount": 2,
+        "ContinueLoseMinCount": 2,
+        "RowDescription": "None"
+      },
+      "\u5927\u575D\u884C\u653F\u697C": {
+        "MapID": 2223,
+        "MaxRoundCount": 7,
+        "ToWinRoundCount": 3,
+        "RoundMaxDuration": 600,
+        "RoundPrepareDuration": 30,
+        "FirstRoundPrepareDuration": 45,
+        "RoundSettlementDuration": 6,
+        "ContinueWinMinCount": 2,
+        "ContinueLoseMinCount": 2,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 11
+  }
+]

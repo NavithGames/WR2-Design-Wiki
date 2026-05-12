@@ -1,0 +1,16 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "VehiclePosPredictTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/PC/DataTables/Vehicle/VehiclePosPredictTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "DFMVehiclePosPredictConfigRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {},
+    "_RowCount": 0
+  }
+]

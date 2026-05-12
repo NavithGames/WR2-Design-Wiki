@@ -1,0 +1,156 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "AbilityData",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/AbilityData",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "AbilityDataInfo",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "1100001": {
+        "AbilityId": 1100001,
+        "Name": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_ArmsSkills_Icon_0003.Common_ArmsSkills_Icon_0003"
+        },
+        "BuffIdArray": [
+          8013
+        ],
+        "SpecialItemIdArray": [],
+        "SpecialItemCountArray": [],
+        "SpecialItemSlotArray": [],
+        "RowDescription": "None"
+      },
+      "1200001": {
+        "AbilityId": 1200001,
+        "Name": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_ArmsSkills_Icon_0004.Common_ArmsSkills_Icon_0004"
+        },
+        "BuffIdArray": [
+          8009
+        ],
+        "SpecialItemIdArray": [],
+        "SpecialItemCountArray": [],
+        "SpecialItemSlotArray": [],
+        "RowDescription": "None"
+      },
+      "1300001": {
+        "AbilityId": 1300001,
+        "Name": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_ArmsSkills_Icon_0008.Common_ArmsSkills_Icon_0008"
+        },
+        "BuffIdArray": [
+          8010
+        ],
+        "SpecialItemIdArray": [
+          10100000001,
+          13270000001
+        ],
+        "SpecialItemCountArray": [
+          1,
+          5
+        ],
+        "SpecialItemSlotArray": [
+          125,
+          127
+        ],
+        "RowDescription": "None"
+      },
+      "1400001": {
+        "AbilityId": 1400001,
+        "Name": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_ArmsSkills_Icon_0001.Common_ArmsSkills_Icon_0001"
+        },
+        "BuffIdArray": [
+          8011
+        ],
+        "SpecialItemIdArray": [],
+        "SpecialItemCountArray": [],
+        "SpecialItemSlotArray": [],
+        "RowDescription": "None"
+      },
+      "2100001": {
+        "AbilityId": 2100001,
+        "Name": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_ArmsSkills_Icon_0002.Common_ArmsSkills_Icon_0002"
+        },
+        "BuffIdArray": [
+          8014
+        ],
+        "SpecialItemIdArray": [],
+        "SpecialItemCountArray": [],
+        "SpecialItemSlotArray": [],
+        "RowDescription": "None"
+      },
+      "2200001": {
+        "AbilityId": 2200001,
+        "Name": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_ArmsSkills_Icon_0006.Common_ArmsSkills_Icon_0006"
+        },
+        "BuffIdArray": [
+          8005,
+          8016
+        ],
+        "SpecialItemIdArray": [],
+        "SpecialItemCountArray": [],
+        "SpecialItemSlotArray": [],
+        "RowDescription": "None"
+      },
+      "2300001": {
+        "AbilityId": 2300001,
+        "Name": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_ArmsSkills_Icon_0007.Common_ArmsSkills_Icon_0007"
+        },
+        "BuffIdArray": [
+          8015
+        ],
+        "SpecialItemIdArray": [],
+        "SpecialItemCountArray": [],
+        "SpecialItemSlotArray": [],
+        "RowDescription": "None"
+      },
+      "2400001": {
+        "AbilityId": 2400001,
+        "Name": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_ArmsSkills_Icon_0005.Common_ArmsSkills_Icon_0005"
+        },
+        "BuffIdArray": [
+          8012
+        ],
+        "SpecialItemIdArray": [],
+        "SpecialItemCountArray": [],
+        "SpecialItemSlotArray": [],
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 8
+  }
+]

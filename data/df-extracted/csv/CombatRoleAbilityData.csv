@@ -1,0 +1,13 @@
+﻿RowName,ID,CombatRoleAbilityID,GameMode,ThrowWeapon,ThrowWeaponNum,AbilityList,SpecialItemIcon,RowDescription
+1,1,10001,1,0,0,2100001,/Game/UI/UIAtlas/Common/BakedSprite/Common_ArmsSkills_Icon_0010.Common_ArmsSkills_Icon_0010,None
+2,2,10001,2,0,0,,,None
+3,3,10001,3,0,0,2100001,/Game/UI/UIAtlas/Common/BakedSprite/Common_ArmsSkills_Icon_0010.Common_ArmsSkills_Icon_0010,None
+4,4,10002,1,0,0,2200001,/Game/UI/UIAtlas/Common/BakedSprite/Common_ArmsSkills_Icon_0011.Common_ArmsSkills_Icon_0011,None
+5,5,10002,2,0,0,,,None
+6,6,10002,3,0,0,2200001,/Game/UI/UIAtlas/Common/BakedSprite/Common_ArmsSkills_Icon_0011.Common_ArmsSkills_Icon_0011,None
+7,7,10003,1,0,0,2300001,,None
+8,8,10003,2,0,0,,,None
+9,9,10003,3,0,0,2300001,,None
+10,10,10004,1,0,0,2400001,/Game/UI/UIAtlas/Common/BakedSprite/Common_ArmsSkills_Icon_0010.Common_ArmsSkills_Icon_0010,None
+11,11,10004,2,0,0,,,None
+12,12,10004,3,0,0,2400001,/Game/UI/UIAtlas/Common/BakedSprite/Common_ArmsSkills_Icon_0010.Common_ArmsSkills_Icon_0010,None

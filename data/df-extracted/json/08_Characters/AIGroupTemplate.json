@@ -1,0 +1,4880 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "AIGroupTemplate",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/CharacterTemplate/AIGroupTemplate",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "GroupTemplateTable",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "Group0": {
+        "GroupMember": [
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Easy"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Normal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Hard"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Sniper_Normal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Easy_0"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Normal_0"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Hard_0"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Boss_LeiSi"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "BossTeam_LeiSi_1"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": {
+              "_Type": "DataTable",
+              "_Name": "AICharacterNameTable",
+              "_Class": "UDataTable",
+              "_Outer": "DeltaForce/Content/DataTables/CharacterName/AICharacterNameTable",
+              "RowStruct": {
+                "_Type": "UScriptClass",
+                "_Name": "CharacterDefaultNameTable",
+                "_Class": "UScriptClass",
+                "_Outer": null
+              },
+              "bIgnoreReferencedObjectsGC": true,
+              "_Rows": {
+                "1": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "2": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "3": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "4": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "5": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "6": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "7": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "8": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "9": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "10": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "11": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "12": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "13": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "14": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "15": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "16": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "17": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "18": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "19": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "20": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "21": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "22": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "23": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "24": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1003",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "25": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1003",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "26": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1003",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "27": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1003",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "28": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1003",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "29": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "30": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "31": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "32": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "33": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "34": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "35": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "36": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "37": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "38": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "39": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "40": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "41": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "42": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "43": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "44": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "45": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "46": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "47": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "48": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "49": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "50": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "51": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "52": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "53": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "54": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "55": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "56": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1004",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "57": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1004",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "58": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1004",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "59": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1004",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "60": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1004",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "61": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1011",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "62": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "63": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "64": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "65": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "66": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "67": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "68": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "69": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "70": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "71": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "72": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "73": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "74": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "75": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "76": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "77": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "78": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "79": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "80": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "81": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "82": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "83": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "84": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "85": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "86": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "87": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "88": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "89": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "90": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "91": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "92": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "93": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "94": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "95": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "96": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "97": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "98": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "99": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "100": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "101": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "102": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "103": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "104": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "105": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "106": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "107": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2002",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "108": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2003",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "109": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2003",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "110": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2003",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "111": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2003",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "112": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2003",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "113": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2003",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "114": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2003",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "115": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2003",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "116": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2003",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "117": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2003",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "118": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2003",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "119": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2003",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "120": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2003",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "121": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2003",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "122": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2003",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "123": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2003",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "124": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2003",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "125": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2003",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "126": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2003",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "127": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2003",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "128": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2003",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "129": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2003",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "130": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "2003",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "131": {
+                  "Name": null,
+                  "Desc": "",
+                  "Pool": "2004",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "132": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1005",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "133": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1006",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "134": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1012",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Marker_Character_Icon_0406.Common_Marker_Character_Icon_0406",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "135": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1012",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Marker_Character_Icon_0406.Common_Marker_Character_Icon_0406",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "136": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1012",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Marker_Character_Icon_0406.Common_Marker_Character_Icon_0406",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "137": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1012",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Marker_Character_Icon_0406.Common_Marker_Character_Icon_0406",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "138": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1021",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "139": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1022",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_10.G_AIPortrait_10",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "140": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1101",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "141": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1101",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "142": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1101",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "143": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1101",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "144": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1101",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "145": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1101",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "146": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1101",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "147": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "1101",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "148": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "3001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "149": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "3001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_07_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "150": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "3001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_08_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "151": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "3001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_09_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "152": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "3001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_10_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "153": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "3001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_11_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "154": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "3001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_12_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "155": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "3001",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_13_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_43.G_AIPortrait_43",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "156": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "101001",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_psycho_06.DT_psycho_06",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "157": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "101001",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_psycho_06.DT_psycho_06",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "158": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "101001",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_psycho_06.DT_psycho_06",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "159": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "101002",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_psycho_08.DT_psycho_08",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "160": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "101002",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_psycho_08.DT_psycho_08",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "161": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "101002",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_psycho_08.DT_psycho_08",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "162": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "101011",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_Shield_01.DT_Shield_01",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "163": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "101012",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_sniper_01.DT_sniper_01",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "164": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "101013",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_RPGer_01.DT_RPGer_01",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "165": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "101014",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_Heavy_Armor_215.DT_Heavy_Armor_215",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "166": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "101015",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DTDumi_069.DTDumi_069",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "167": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "101016",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_FireFlamer.DT_FireFlamer",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "SOL_Boss_Reis": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "201000",
+                  "Icon": {
+                    "AssetPath": "/Game/UI/UIAtlas/HUD/H_LargePopup/Frames/H_LargePopup_NewBag_BG_06_png.H_LargePopup_NewBag_BG_06_png",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Marker_Character_Icon_0406.Common_Marker_Character_Icon_0406",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/NPCAvatar/NPCAvatar_05.NPCAvatar_05",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "SOL_Boss_Assault": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "201001",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_psycho_08.DT_psycho_08",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "SOL_Boss_Guard": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "201002",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_psycho_06.DT_psycho_06",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "SOL_Boss_Maurice": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "201003",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_Maurice_205.DT_Maurice_205",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "172": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "102001",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/Hs_Security_06.Hs_Security_06",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "173": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "102001",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/Hs_Security_06.Hs_Security_06",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "174": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "102001",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/Hs_Security_06.Hs_Security_06",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "175": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "102002",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/Hs_Security_06.Hs_Security_06",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "176": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "102002",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/Hs_Security_06.Hs_Security_06",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "177": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "102002",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/Hs_Security_06.Hs_Security_06",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "178": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "102011",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/HS_Shield_01.HS_Shield_01",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "179": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "102012",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/HS_sniper_01.HS_sniper_01",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "180": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "102013",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/HS_Heavy_Armor_216.HS_Heavy_Armor_216",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "181": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "102014",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/Hs_Security_06.Hs_Security_06",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "182": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "102014",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/Hs_Security_06.Hs_Security_06",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "183": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "102015",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/Hs_Security_06.Hs_Security_06",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "184": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "102016",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/HS_FireFlamer.HS_FireFlamer",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "185": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "102017",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/Hs_Security_06.Hs_Security_06",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "186": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "102018",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/Hs_Security_06.Hs_Security_06",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "SOL_Boss_Anais": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "201004",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/F_HS_BOSS03.F_HS_BOSS03",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "188": {
+                  "Name": null,
+                  "Desc": "",
+                  "Pool": "201005",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/AI_Croco.AI_Croco",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "189": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "None",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Global/G_AIPortrait/Image/G_AIPortrait_44.G_AIPortrait_44",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "SOL_DT_Sniper_Adjutant": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "102021",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_sniper_01.DT_sniper_01",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "SOL_DT_AR_Adjutant": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "102022",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_psycho_08.DT_psycho_08",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "SOL_DT_Shielder_Adjutant": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "102023",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_Shield_01.DT_Shield_01",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "SOL_DT_HeavyMachineGun_Adjutant": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "102024",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_Heavy_Armor_215.DT_Heavy_Armor_215",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "SOL_DT_Firebat_Adjutant": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "102025",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_psycho_08.DT_psycho_08",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "SOL_HS_HeavyMachineGun_Adjutant": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "102026",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/HS_Heavy_Armor_216.HS_Heavy_Armor_216",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "SOL_HS_Firebat_Adjutant": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "102027",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/Hs_Security_06.Hs_Security_06",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "SOL_HS_Sniper_Adjutant": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "102028",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/HS_sniper_01.HS_sniper_01",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "\u6478\u51FA\u597D\u8D27\u7684\u706B\u7BAD\u9F20\u9F20": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "101017",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_RPGer_01.DT_RPGer_01",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "SOL_Boss_RCV": {
+                  "Name": null,
+                  "Desc": "",
+                  "Pool": "201006",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/M_HS_BOSS03_RCV_02.M_HS_BOSS03_RCV_02",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "190": {
+                  "Name": null,
+                  "Desc": "",
+                  "Pool": "201007",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/Boss04.Boss04",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "191": {
+                  "Name": null,
+                  "Desc": "",
+                  "Pool": "201008",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/HS_Romytheus_Shield.HS_Romytheus_Shield",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "192": {
+                  "Name": null,
+                  "Desc": "",
+                  "Pool": "201009",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/HS_Romytheus_Assault.HS_Romytheus_Assault",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "193": {
+                  "Name": null,
+                  "Desc": "",
+                  "Pool": "102029",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_psycho_08.DT_psycho_08",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "194": {
+                  "Name": null,
+                  "Desc": "",
+                  "Pool": "201010",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/HS_Romytheus_Assault.HS_Romytheus_Assault",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "195": {
+                  "Name": null,
+                  "Desc": "",
+                  "Pool": "201011",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/M_HS_BOSS03_SuicideCar.M_HS_BOSS03_SuicideCar",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "196": {
+                  "Name": null,
+                  "Desc": "",
+                  "Pool": "201012",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "197": {
+                  "Name": null,
+                  "Desc": "",
+                  "Pool": "102030",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/HS_Romytheus_Assault.HS_Romytheus_Assault",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "197_0": {
+                  "Name": null,
+                  "Desc": "",
+                  "Pool": "1020301",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/HS_Romytheus_Shield.HS_Romytheus_Shield",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "197_1": {
+                  "Name": null,
+                  "Desc": "",
+                  "Pool": "1020302",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/HS_Heavy_Armor_216.HS_Heavy_Armor_216",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "SOL_Boss_Raven": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "201013",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/Boss05.Boss05",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "198": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "102031",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_RPGer_01.DT_RPGer_01",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "SOL_Boss_06_Warder": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "201020",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/HS_Boss06_Warder.HS_Boss06_Warder",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "201": {
+                  "Name": null,
+                  "Desc": "",
+                  "Pool": "201014",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_BOSS05_Crew.DT_BOSS05_Crew",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "200_0": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "201021",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/HS_Security_08_Masked.HS_Security_08_Masked",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "203": {
+                  "Name": null,
+                  "Desc": "",
+                  "Pool": "201022",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_RPGer_01.DT_RPGer_01",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "204": {
+                  "Name": null,
+                  "Desc": "",
+                  "Pool": "201023",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/HS_Heavy_Armor_216.HS_Heavy_Armor_216",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "205": {
+                  "Name": null,
+                  "Desc": "",
+                  "Pool": "201024",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/HS_Shield_01.HS_Shield_01",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "206": {
+                  "Name": null,
+                  "Desc": "",
+                  "Pool": "201025",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/Hs_Security_06.Hs_Security_06",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "207": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "201026",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/HS_Security_06_Masked.HS_Security_06_Masked",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "208": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "201027",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/HS_Shield_01_Masked.HS_Shield_01_Masked",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "209": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "201028",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/HS_sniper_01.HS_sniper_01",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "210": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "201029",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/HS_Heavy_Armor_216.HS_Heavy_Armor_216",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "211": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "201030",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/HS_FireFlamer.HS_FireFlamer",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "212": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "201031",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_Prisoner_02.DT_Prisoner_02",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "213": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "201032",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_Prisoner_01.DT_Prisoner_01",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "214": {
+                  "Name": null,
+                  "Desc": "",
+                  "Pool": "102032",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_RPGer_01.DT_RPGer_01",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "215": {
+                  "Name": null,
+                  "Desc": "",
+                  "Pool": "102033",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_RPGer_01.DT_RPGer_01",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "216": {
+                  "Name": null,
+                  "Desc": "",
+                  "Pool": "201033",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/Hs_Security_06.Hs_Security_06",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "217": {
+                  "Name": null,
+                  "Desc": "",
+                  "Pool": "201034",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/HS_Shield_01.HS_Shield_01",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "218": {
+                  "Name": null,
+                  "Desc": "",
+                  "Pool": "201035",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/HS_Heavy_Armor_216.HS_Heavy_Armor_216",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "219": {
+                  "Name": null,
+                  "Desc": "",
+                  "Pool": "102034",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_Prisoner_02.DT_Prisoner_02",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "220": {
+                  "Name": null,
+                  "Desc": "",
+                  "Pool": "102035",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_psycho_06.DT_psycho_06",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "221": {
+                  "Name": null,
+                  "Desc": "",
+                  "Pool": "102036",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_Heavy_Armor_215.DT_Heavy_Armor_215",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "222": {
+                  "Name": null,
+                  "Desc": "",
+                  "Pool": "201036",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/HS_Romytheus_Shield.HS_Romytheus_Shield",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "223": {
+                  "Name": null,
+                  "Desc": "",
+                  "Pool": "201037",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/AI_Shark.AI_Shark",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "172_0": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "102038",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/Hs_Security_06.Hs_Security_06",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "224": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "201038",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/M_HS_Boss07.M_HS_Boss07",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "225": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "201039",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/M_HS_BOSS07_Guard.M_HS_BOSS07_Guard",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "226": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "201040",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/M_HS_BOSS03_RCV_02.M_HS_BOSS03_RCV_02",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "215_0": {
+                  "Name": null,
+                  "Desc": "",
+                  "Pool": "102037",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_RPGer_01.DT_RPGer_01",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "227": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "501001",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_psycho_06.DT_psycho_06",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "228": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "501002",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_Shield_01.DT_Shield_01",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "229": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "501003",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_Heavy_Armor_215.DT_Heavy_Armor_215",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "230": {
+                  "Name": null,
+                  "Desc": null,
+                  "Pool": "501004",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_FireFlamer.DT_FireFlamer",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "231": {
+                  "Name": "",
+                  "Desc": "",
+                  "Pool": "104001",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "232": {
+                  "Name": null,
+                  "Desc": "",
+                  "Pool": "102040",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_RPGer_01.DT_RPGer_01",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                },
+                "233": {
+                  "Name": null,
+                  "Desc": "",
+                  "Pool": "102039",
+                  "Icon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "RankIcon": {
+                    "AssetPath": "None",
+                    "SubPath": ""
+                  },
+                  "HalfBodyImage": {
+                    "AssetPath": "/Game/UI/UIAtlas/Icon/AIPortrait/DT_RPGer_01.DT_RPGer_01",
+                    "SubPath": ""
+                  },
+                  "RowDescription": "None"
+                }
+              },
+              "_RowCount": 247
+            },
+            "NpcName": "BossTeam_LeiSi_3"
+          }
+        ],
+        "ConfigObjectClass": null,
+        "RowDescription": "None"
+      },
+      "EasyGroup1": {
+        "GroupMember": [
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Easy"
+          }
+        ],
+        "ConfigObjectClass": null,
+        "RowDescription": "None"
+      },
+      "EasyGroup2": {
+        "GroupMember": [
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Easy"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Easy"
+          }
+        ],
+        "ConfigObjectClass": null,
+        "RowDescription": "None"
+      },
+      "EasyGroup3": {
+        "GroupMember": [
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Easy"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Easy"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Easy"
+          }
+        ],
+        "ConfigObjectClass": null,
+        "RowDescription": "None"
+      },
+      "EasyGroup4": {
+        "GroupMember": [
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Easy"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Easy"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Easy"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Easy"
+          }
+        ],
+        "ConfigObjectClass": null,
+        "RowDescription": "None"
+      },
+      "EasyGroup5": {
+        "GroupMember": [
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Easy"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Easy"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Easy"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Easy"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Easy"
+          }
+        ],
+        "ConfigObjectClass": null,
+        "RowDescription": "None"
+      },
+      "NormalGroup1": {
+        "GroupMember": [
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Normal"
+          }
+        ],
+        "ConfigObjectClass": null,
+        "RowDescription": "None"
+      },
+      "NormalGroup2": {
+        "GroupMember": [
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Normal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Easy"
+          }
+        ],
+        "ConfigObjectClass": null,
+        "RowDescription": "None"
+      },
+      "NormalGroup3": {
+        "GroupMember": [
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Normal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Easy"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Easy"
+          }
+        ],
+        "ConfigObjectClass": null,
+        "RowDescription": "None"
+      },
+      "NormalGroup4": {
+        "GroupMember": [
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Normal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Easy"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Easy"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Easy"
+          }
+        ],
+        "ConfigObjectClass": null,
+        "RowDescription": "None"
+      },
+      "NormalGroup5": {
+        "GroupMember": [
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Normal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Easy"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Easy"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Easy"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Easy"
+          }
+        ],
+        "ConfigObjectClass": null,
+        "RowDescription": "None"
+      },
+      "HardGroup1": {
+        "GroupMember": [
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Hard"
+          }
+        ],
+        "ConfigObjectClass": null,
+        "RowDescription": "None"
+      },
+      "HardGroup2": {
+        "GroupMember": [
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Hard"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Normal"
+          }
+        ],
+        "ConfigObjectClass": null,
+        "RowDescription": "None"
+      },
+      "HardGroup3": {
+        "GroupMember": [
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Hard"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Normal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Normal"
+          }
+        ],
+        "ConfigObjectClass": null,
+        "RowDescription": "None"
+      },
+      "HardGroup4": {
+        "GroupMember": [
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Hard"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Normal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Normal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Common_Normal"
+          }
+        ],
+        "ConfigObjectClass": null,
+        "RowDescription": "None"
+      },
+      "HardGroup5": {
+        "GroupMember": [
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Group_Hard"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Group_Normal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Group_Hard"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Group_Normal"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Group_Easy"
+          }
+        ],
+        "ConfigObjectClass": null,
+        "RowDescription": "None"
+      },
+      "BossTeam_LeiSi": {
+        "GroupMember": [
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "Boss_LeiSi"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "BossTeam_LeiSi_1"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "BossTeam_LeiSi_2"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "BossTeam_LeiSi_3"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NpcTemplateTable": null,
+            "NpcName": "BossTeam_LeiSi_4"
+          }
+        ],
+        "ConfigObjectClass": null,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 17
+  }
+]

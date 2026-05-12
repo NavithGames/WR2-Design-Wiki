@@ -1,0 +1,149 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "VehicleUnlock",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/Vehicle/VehicleUnlock",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "VehicleUnlockDataConfig",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "39001101001": {
+        "ID": 39001101001,
+        "VehicleID": 1101001,
+        "VehicleName": null,
+        "VehicleDescription": null,
+        "UnlockMethod": 1,
+        "UnlockPara": 1,
+        "UnlockDescription": "",
+        "SortID": 1,
+        "RowDescription": "None"
+      },
+      "39001102003": {
+        "ID": 39001102003,
+        "VehicleID": 1101003,
+        "VehicleName": null,
+        "VehicleDescription": null,
+        "UnlockMethod": 1,
+        "UnlockPara": 1,
+        "UnlockDescription": "",
+        "SortID": 2,
+        "RowDescription": "None"
+      },
+      "39001102001": {
+        "ID": 39001102001,
+        "VehicleID": 1102001,
+        "VehicleName": null,
+        "VehicleDescription": null,
+        "UnlockMethod": 1,
+        "UnlockPara": 1,
+        "UnlockDescription": "",
+        "SortID": 7,
+        "RowDescription": "None"
+      },
+      "39001101002": {
+        "ID": 39001101002,
+        "VehicleID": 1101002,
+        "VehicleName": null,
+        "VehicleDescription": null,
+        "UnlockMethod": 1,
+        "UnlockPara": 1,
+        "UnlockDescription": "",
+        "SortID": 3,
+        "RowDescription": "None"
+      },
+      "39001301002": {
+        "ID": 39001301002,
+        "VehicleID": 1301002,
+        "VehicleName": null,
+        "VehicleDescription": null,
+        "UnlockMethod": 1,
+        "UnlockPara": 1,
+        "UnlockDescription": "",
+        "SortID": 8,
+        "RowDescription": "None"
+      },
+      "39001101004": {
+        "ID": 39001101004,
+        "VehicleID": 1101004,
+        "VehicleName": null,
+        "VehicleDescription": null,
+        "UnlockMethod": 1,
+        "UnlockPara": 1,
+        "UnlockDescription": "",
+        "SortID": 4,
+        "RowDescription": "None"
+      },
+      "39001301005": {
+        "ID": 39001301005,
+        "VehicleID": 1301005,
+        "VehicleName": null,
+        "VehicleDescription": null,
+        "UnlockMethod": 1,
+        "UnlockPara": 1,
+        "UnlockDescription": "",
+        "SortID": 9,
+        "RowDescription": "None"
+      },
+      "39001103007": {
+        "ID": 39001103007,
+        "VehicleID": 1103007,
+        "VehicleName": null,
+        "VehicleDescription": null,
+        "UnlockMethod": 1,
+        "UnlockPara": 1,
+        "UnlockDescription": "",
+        "SortID": 12,
+        "RowDescription": "None"
+      },
+      "39001101005": {
+        "ID": 39001101005,
+        "VehicleID": 1101005,
+        "VehicleName": null,
+        "VehicleDescription": null,
+        "UnlockMethod": 1,
+        "UnlockPara": 1,
+        "UnlockDescription": "",
+        "SortID": 5,
+        "RowDescription": "None"
+      },
+      "39001301007": {
+        "ID": 39001301007,
+        "VehicleID": 1301007,
+        "VehicleName": null,
+        "VehicleDescription": null,
+        "UnlockMethod": 1,
+        "UnlockPara": 1,
+        "UnlockDescription": "",
+        "SortID": 10,
+        "RowDescription": "None"
+      },
+      "39001201003": {
+        "ID": 39001201003,
+        "VehicleID": 1201003,
+        "VehicleName": null,
+        "VehicleDescription": null,
+        "UnlockMethod": 1,
+        "UnlockPara": 1,
+        "UnlockDescription": "",
+        "SortID": 11,
+        "RowDescription": "None"
+      },
+      "39001101006": {
+        "ID": 39001101006,
+        "VehicleID": 1101006,
+        "VehicleName": null,
+        "VehicleDescription": null,
+        "UnlockMethod": 1,
+        "UnlockPara": 1,
+        "UnlockDescription": "",
+        "SortID": 6,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 12
+  }
+]

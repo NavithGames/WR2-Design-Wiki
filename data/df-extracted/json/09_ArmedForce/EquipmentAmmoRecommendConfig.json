@@ -1,0 +1,198 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "EquipmentAmmoRecommendConfig",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/EquipmentAmmoRecommendConfig",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "EquipmentAmmoRecommendConfig",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "1": {
+        "WeaponItemType": 1,
+        "RecommendNum": 240,
+        "AddNum": 60,
+        "RowDescription": "None"
+      },
+      "2": {
+        "WeaponItemType": 2,
+        "RecommendNum": 240,
+        "AddNum": 60,
+        "RowDescription": "None"
+      },
+      "3": {
+        "WeaponItemType": 3,
+        "RecommendNum": 40,
+        "AddNum": 20,
+        "RowDescription": "None"
+      },
+      "4": {
+        "WeaponItemType": 4,
+        "RecommendNum": 240,
+        "AddNum": 60,
+        "RowDescription": "None"
+      },
+      "5": {
+        "WeaponItemType": 5,
+        "RecommendNum": 120,
+        "AddNum": 30,
+        "RowDescription": "None"
+      },
+      "6": {
+        "WeaponItemType": 6,
+        "RecommendNum": 40,
+        "AddNum": 20,
+        "RowDescription": "None"
+      },
+      "7": {
+        "WeaponItemType": 7,
+        "RecommendNum": 120,
+        "AddNum": 30,
+        "RowDescription": "None"
+      },
+      "8": {
+        "WeaponItemType": 8,
+        "RecommendNum": 30,
+        "AddNum": 30,
+        "RowDescription": "None"
+      },
+      "9": {
+        "WeaponItemType": 9,
+        "RecommendNum": 30,
+        "AddNum": 30,
+        "RowDescription": "None"
+      },
+      "10": {
+        "WeaponItemType": 10,
+        "RecommendNum": 30,
+        "AddNum": 30,
+        "RowDescription": "None"
+      },
+      "11": {
+        "WeaponItemType": 11,
+        "RecommendNum": 30,
+        "AddNum": 30,
+        "RowDescription": "None"
+      },
+      "12": {
+        "WeaponItemType": 12,
+        "RecommendNum": 30,
+        "AddNum": 30,
+        "RowDescription": "None"
+      },
+      "13": {
+        "WeaponItemType": 13,
+        "RecommendNum": 30,
+        "AddNum": 30,
+        "RowDescription": "None"
+      },
+      "14": {
+        "WeaponItemType": 14,
+        "RecommendNum": 30,
+        "AddNum": 30,
+        "RowDescription": "None"
+      },
+      "15": {
+        "WeaponItemType": 15,
+        "RecommendNum": 30,
+        "AddNum": 30,
+        "RowDescription": "None"
+      },
+      "16": {
+        "WeaponItemType": 16,
+        "RecommendNum": 30,
+        "AddNum": 30,
+        "RowDescription": "None"
+      },
+      "17": {
+        "WeaponItemType": 17,
+        "RecommendNum": 30,
+        "AddNum": 30,
+        "RowDescription": "None"
+      },
+      "18": {
+        "WeaponItemType": 18,
+        "RecommendNum": 30,
+        "AddNum": 30,
+        "RowDescription": "None"
+      },
+      "19": {
+        "WeaponItemType": 19,
+        "RecommendNum": 30,
+        "AddNum": 30,
+        "RowDescription": "None"
+      },
+      "20": {
+        "WeaponItemType": 20,
+        "RecommendNum": 30,
+        "AddNum": 30,
+        "RowDescription": "None"
+      },
+      "21": {
+        "WeaponItemType": 21,
+        "RecommendNum": 30,
+        "AddNum": 30,
+        "RowDescription": "None"
+      },
+      "22": {
+        "WeaponItemType": 22,
+        "RecommendNum": 30,
+        "AddNum": 20,
+        "RowDescription": "None"
+      },
+      "23": {
+        "WeaponItemType": 23,
+        "RecommendNum": 30,
+        "AddNum": 20,
+        "RowDescription": "None"
+      },
+      "24": {
+        "WeaponItemType": 24,
+        "RecommendNum": 30,
+        "AddNum": 20,
+        "RowDescription": "None"
+      },
+      "25": {
+        "WeaponItemType": 25,
+        "RecommendNum": 30,
+        "AddNum": 20,
+        "RowDescription": "None"
+      },
+      "26": {
+        "WeaponItemType": 26,
+        "RecommendNum": 30,
+        "AddNum": 30,
+        "RowDescription": "None"
+      },
+      "27": {
+        "WeaponItemType": 27,
+        "RecommendNum": 30,
+        "AddNum": 30,
+        "RowDescription": "None"
+      },
+      "28": {
+        "WeaponItemType": 28,
+        "RecommendNum": 16,
+        "AddNum": 16,
+        "RowDescription": "None"
+      },
+      "29": {
+        "WeaponItemType": 29,
+        "RecommendNum": 30,
+        "AddNum": 20,
+        "RowDescription": "None"
+      },
+      "30": {
+        "WeaponItemType": 30,
+        "RecommendNum": 30,
+        "AddNum": 20,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 30
+  }
+]

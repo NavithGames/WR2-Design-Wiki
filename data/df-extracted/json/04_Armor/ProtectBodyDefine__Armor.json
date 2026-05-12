@@ -1,0 +1,148 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "ProtectBodyDefine",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Armor/ProtectBodyDefine",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "ProtectBodyDefineRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "Body": {
+        "BodyName": "light",
+        "BonesNames": [
+          "Spine1",
+          "Spine2"
+        ],
+        "ProtectPartDisplayText": "",
+        "RowDescription": "None"
+      },
+      "Head_0": {
+        "BodyName": "mid",
+        "BonesNames": [
+          "Hips",
+          "Spine1",
+          "Spine2"
+        ],
+        "ProtectPartDisplayText": "",
+        "RowDescription": "None"
+      },
+      "Head_1": {
+        "BodyName": "heavy",
+        "BonesNames": [
+          "LeftShoulder",
+          "RightShoulder",
+          "RightHead",
+          "RightArm",
+          "LeftArm",
+          "Spine1",
+          "Spine2",
+          "Hips"
+        ],
+        "ProtectPartDisplayText": "",
+        "RowDescription": "None"
+      },
+      "Head": {
+        "BodyName": "Helmet1",
+        "BonesNames": [
+          "TopHead",
+          "Head",
+          "BackHead",
+          "Neck"
+        ],
+        "ProtectPartDisplayText": "",
+        "RowDescription": "None"
+      },
+      "Head_2": {
+        "BodyName": "Helmet2",
+        "BonesNames": [
+          "TopHead",
+          "LeftHead",
+          "RightHead",
+          "BackHead",
+          "Head",
+          "Neck"
+        ],
+        "ProtectPartDisplayText": "",
+        "RowDescription": "None"
+      },
+      "Head_3": {
+        "BodyName": "Helmet3",
+        "BonesNames": [
+          "TopHead",
+          "BackHead",
+          "FrontHead",
+          "Head",
+          "Neck"
+        ],
+        "ProtectPartDisplayText": "",
+        "RowDescription": "None"
+      },
+      "Head_4": {
+        "BodyName": "Helmet4",
+        "BonesNames": [
+          "TopHead",
+          "LeftHead",
+          "RightHead",
+          "BackHead",
+          "FrontHead",
+          "Head",
+          "Neck"
+        ],
+        "ProtectPartDisplayText": "",
+        "RowDescription": "None"
+      },
+      "Head_5": {
+        "BodyName": "Helmet5",
+        "BonesNames": [
+          "TopHead",
+          "LeftHead",
+          "RightHead",
+          "BackHead",
+          "FrontHeadDown",
+          "Head",
+          "Neck"
+        ],
+        "ProtectPartDisplayText": "",
+        "RowDescription": "None"
+      },
+      "Head_6": {
+        "BodyName": "Helmet6",
+        "BonesNames": [
+          "TopHead",
+          "LeftHead",
+          "RightHead",
+          "BackHead",
+          "FrontHead",
+          "Head",
+          "FrontHeadDown",
+          "Neck"
+        ],
+        "ProtectPartDisplayText": "",
+        "RowDescription": "None"
+      },
+      "Body_0": {
+        "BodyName": "Body",
+        "BonesNames": [
+          "Spine1",
+          "Spine2"
+        ],
+        "ProtectPartDisplayText": "",
+        "RowDescription": "None"
+      },
+      "Body_1": {
+        "BodyName": "Head",
+        "BonesNames": [
+          "Head"
+        ],
+        "ProtectPartDisplayText": "",
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 11
+  }
+]

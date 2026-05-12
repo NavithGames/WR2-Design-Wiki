@@ -1,0 +1,7 @@
+﻿RowName,LayoutId,SectorSequenceArray,LoadingImagePath,LoadingMediaName,bShowLoadingCornerTip,RowDescription
+125(123),1,1; 2; 5,(),None,False,None
+126(123),2,1; 2; 6,(),None,False,None
+110701,110701,2; 3; 4,(),None,True,None
+110702,110702,3; 4; 5,(),None,True,None
+130201,130201,2; 3; 4,(),None,True,None
+130202,130202,3; 4; 5,(),None,True,None

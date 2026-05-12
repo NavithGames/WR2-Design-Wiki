@@ -1,0 +1,8 @@
+﻿RowName,MeritObtainType,MeritObtainName,HitDamage,IsAssist,IsHitHead,ContinueKillNum,ContinueKillCD,LongDistanceKill,ShortDistanceKill,Merit,RowDescription
+HitTarget,EMeritObtainType::HitTarget,,10,False,False,0,0,0,0,10,None
+HeadShot,EMeritObtainType::HeadShot,,20,False,True,0,0,0,0,100,None
+Assist,EMeritObtainType::Assist,,0,False,False,0,0,0,0,20,None
+BasicKill,EMeritObtainType::BasicKill,,60,False,False,1,0,0,0,40,None
+ContinueKillTwo,EMeritObtainType::ContinueKillTwo,,0,False,False,2,3,0,0,80,None
+LongDistanceKill,EMeritObtainType::LongDistanceKill,,0,False,False,0,0,2000,0,60,None
+ShortDistanceKill,EMeritObtainType::ShortDistanceKill,,0,False,False,0,0,0,800,60,None

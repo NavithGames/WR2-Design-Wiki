@@ -1,0 +1,6 @@
+﻿RowName,SkeletalMesh,StaticMesh,AIName,RowDescription
+MachineGunner_DT_Helmet,(),(),SOL_DT_HeavyMachineGun_01,None
+MachineGunner_HS_Helmet,(),(),SOL_HS_HeavyMachineGun_01,None
+MachineGunner_DT_Helmet_Adjutant,(),(),SOL_DT_HeavyMachineGun_Adjutant,None
+MachineGunner_HS_Helmet_Adjutant,(),(),SOL_HS_HeavyMachineGun_Adjutant,None
+CallAIAbility_DT_HeavyMachineGun,(),(),CallAIAbility_DT_HeavyMachineGun,None

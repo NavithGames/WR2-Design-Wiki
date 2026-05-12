@@ -1,0 +1,12 @@
+﻿RowName,BodyName,BonesNames,ProtectPartDisplayText,RowDescription
+Body,light,Spine1; Spine2,,None
+Head_0,mid,Hips; Spine1; Spine2,,None
+Head_1,heavy,LeftShoulder; RightShoulder; RightHead; RightArm; LeftArm; Spine1; Spine2; Hips,,None
+Head,Helmet1,TopHead; Head; BackHead; Neck,,None
+Head_2,Helmet2,TopHead; LeftHead; RightHead; BackHead; Head; Neck,,None
+Head_3,Helmet3,TopHead; BackHead; FrontHead; Head; Neck,,None
+Head_4,Helmet4,TopHead; LeftHead; RightHead; BackHead; FrontHead; Head; Neck,,None
+Head_5,Helmet5,TopHead; LeftHead; RightHead; BackHead; FrontHeadDown; Head; Neck,,None
+Head_6,Helmet6,TopHead; LeftHead; RightHead; BackHead; FrontHead; Head; FrontHeadDown; Neck,,None
+Body_0,Body,Spine1; Spine2,,None
+Body_1,Head,Head,,None

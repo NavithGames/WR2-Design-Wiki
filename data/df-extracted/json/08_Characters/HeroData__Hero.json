@@ -1,0 +1,1657 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "HeroData",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/Hero/HeroData",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "HeroDataRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "88000000001": {
+        "HeroId": "88000000001",
+        "Name": null,
+        "Title": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/HeroAvatar_03.HeroAvatar_03"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArmedForceId": 3,
+        "ExpertID": 30001,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "bUserSelectable": false,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "FootstepAudioStyleID": 0,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "",
+        "RowDescription": "None"
+      },
+      "88000000002": {
+        "HeroId": "88000000002",
+        "Name": null,
+        "Title": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/HeroAvatar_01.HeroAvatar_01"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArmedForceId": 3,
+        "ExpertID": 30002,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "bUserSelectable": false,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "FootstepAudioStyleID": 0,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "",
+        "RowDescription": "None"
+      },
+      "88000000003": {
+        "HeroId": "88000000003",
+        "Name": null,
+        "Title": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/HeroAvatar_04.HeroAvatar_04"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArmedForceId": 3,
+        "ExpertID": 30003,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "bUserSelectable": false,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "FootstepAudioStyleID": 0,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "",
+        "RowDescription": "None"
+      },
+      "88000000005": {
+        "HeroId": "88000000005",
+        "Name": null,
+        "Title": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/HeroAvatar_07.HeroAvatar_07"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArmedForceId": 1,
+        "ExpertID": 10001,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "bUserSelectable": false,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "FootstepAudioStyleID": 0,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "",
+        "RowDescription": "None"
+      },
+      "88000000006": {
+        "HeroId": "88000000006",
+        "Name": null,
+        "Title": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/HeroAvatar_06.HeroAvatar_06"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArmedForceId": 2,
+        "ExpertID": 20001,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "bUserSelectable": false,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "FootstepAudioStyleID": 0,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "",
+        "RowDescription": "None"
+      },
+      "88000000007": {
+        "HeroId": "88000000007",
+        "Name": null,
+        "Title": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/HeroAvatar_05_1.HeroAvatar_05"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArmedForceId": 1,
+        "ExpertID": 10002,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "bUserSelectable": false,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "FootstepAudioStyleID": 0,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "",
+        "RowDescription": "None"
+      },
+      "88000000008": {
+        "HeroId": "88000000008",
+        "Name": null,
+        "Title": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/HeroAvatar_05_1.HeroAvatar_05"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArmedForceId": 1,
+        "ExpertID": 10002,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "bUserSelectable": false,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "FootstepAudioStyleID": 0,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "",
+        "RowDescription": "None"
+      },
+      "88000000009": {
+        "HeroId": "88000000009",
+        "Name": null,
+        "Title": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/HeroAvatar_12.HeroAvatar_12"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArmedForceId": 1,
+        "ExpertID": 10003,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "bUserSelectable": false,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "FootstepAudioStyleID": 0,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "",
+        "RowDescription": "None"
+      },
+      "88000000010": {
+        "HeroId": "88000000010",
+        "Name": null,
+        "Title": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/HeroAvatar_10.HeroAvatar_10"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArmedForceId": 1,
+        "ExpertID": 10004,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "bUserSelectable": false,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "FootstepAudioStyleID": 0,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "",
+        "RowDescription": "None"
+      },
+      "88000000011": {
+        "HeroId": "88000000011",
+        "Name": null,
+        "Title": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/HeroAvatar_11.HeroAvatar_11"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArmedForceId": 1,
+        "ExpertID": 10005,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "bUserSelectable": false,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "FootstepAudioStyleID": 0,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "",
+        "RowDescription": "None"
+      },
+      "88000000012": {
+        "HeroId": "88000000012",
+        "Name": null,
+        "Title": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_Hoot_g_01.AM_Hoot_g_01"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArmedForceId": 1,
+        "ExpertID": 10001,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "bUserSelectable": false,
+        "bIsInit": false,
+        "LoadLevel": 2,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "FootstepAudioStyleID": 0,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "",
+        "RowDescription": "None"
+      },
+      "88000000013": {
+        "HeroId": "88000000013",
+        "Name": null,
+        "Title": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_Scalpel_g_01.AM_Scalpel_g_01"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArmedForceId": 2,
+        "ExpertID": 20001,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "bUserSelectable": false,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "FootstepAudioStyleID": 0,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "",
+        "RowDescription": "None"
+      },
+      "88000000014": {
+        "HeroId": "88000000014",
+        "Name": null,
+        "Title": null,
+        "Desc": "",
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArmedForceId": 1,
+        "ExpertID": 0,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "bUserSelectable": false,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "FootstepAudioStyleID": 0,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "",
+        "RowDescription": "None"
+      },
+      "88000000015": {
+        "HeroId": "88000000015",
+        "Name": null,
+        "Title": null,
+        "Desc": "",
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArmedForceId": 1,
+        "ExpertID": 0,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "bUserSelectable": false,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "FootstepAudioStyleID": 0,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "",
+        "RowDescription": "None"
+      },
+      "88000000016": {
+        "HeroId": "88000000016",
+        "Name": null,
+        "Title": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/HeroAvatar_13_2.HeroAvatar_13_2"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArmedForceId": 4,
+        "ExpertID": 40001,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "bUserSelectable": false,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "FootstepAudioStyleID": 0,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "",
+        "RowDescription": "None"
+      },
+      "88000000017": {
+        "HeroId": "88000000017",
+        "Name": null,
+        "Title": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/HeroAvatar_15_1.HeroAvatar_15_1"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArmedForceId": 3,
+        "ExpertID": 30004,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "bUserSelectable": false,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "FootstepAudioStyleID": 0,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "",
+        "RowDescription": "None"
+      },
+      "88000000018": {
+        "HeroId": "88000000018",
+        "Name": null,
+        "Title": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/HeroAvatar_14.HeroAvatar_14"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArmedForceId": 4,
+        "ExpertID": 40002,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "bUserSelectable": false,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "FootstepAudioStyleID": 0,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "",
+        "RowDescription": "None"
+      },
+      "88000000019": {
+        "HeroId": "88000000019",
+        "Name": null,
+        "Title": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/HeroAvatar_16.HeroAvatar_16"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArmedForceId": 3,
+        "ExpertID": 30005,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "bUserSelectable": false,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "FootstepAudioStyleID": 0,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "",
+        "RowDescription": "None"
+      },
+      "88000000020": {
+        "HeroId": "88000000020",
+        "Name": null,
+        "Title": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/HeroAvatar_17.HeroAvatar_17"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArmedForceId": 4,
+        "ExpertID": 40003,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "bUserSelectable": false,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "FootstepAudioStyleID": 0,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "",
+        "RowDescription": "None"
+      },
+      "88000000021": {
+        "HeroId": "88000000021",
+        "Name": null,
+        "Title": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/HeroAvatar_18_1.HeroAvatar_18_1"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArmedForceId": 2,
+        "ExpertID": 20002,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "bUserSelectable": false,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "FootstepAudioStyleID": 0,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "",
+        "RowDescription": "None"
+      },
+      "88000000022": {
+        "HeroId": "88000000022",
+        "Name": null,
+        "Title": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/HeroAvatar_19_2.HeroAvatar_19_2"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArmedForceId": 1,
+        "ExpertID": 10006,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_04.Hero_Sp_04"
+        },
+        "bUserSelectable": false,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Assembly/BakedSprite/Assembly_Icon_0009.Assembly_Icon_0009"
+        },
+        "FootstepAudioStyleID": 0,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "",
+        "RowDescription": "None"
+      },
+      "88000000023": {
+        "HeroId": "88000000023",
+        "Name": null,
+        "Title": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/HeroAvatar_20_2.HeroAvatar_20_2"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "ArmedForceId": 3,
+        "ExpertID": 30006,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_05.Hero_Sp_05"
+        },
+        "bUserSelectable": false,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Assembly/BakedSprite/Assembly_Icon_0009.Assembly_Icon_0009"
+        },
+        "FootstepAudioStyleID": 0,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "",
+        "RowDescription": "None"
+      },
+      "88000000030": {
+        "HeroId": "88000000030",
+        "Name": null,
+        "Title": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_Kai_g_01.AM_Kai_g_01"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/TeamAvatars_2/BakedSprite/TeamAvatars_Icon_0101.TeamAvatars_Icon_0101"
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_Kai_g_02.AM_Kai_g_02"
+        },
+        "ArmedForceId": 1,
+        "ExpertID": 10007,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0002.Common_Arms_Icon_0002"
+        },
+        "bUserSelectable": true,
+        "bIsInit": true,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_04.Hero_Sp_04"
+        },
+        "FootstepAudioStyleID": 1001,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_16.Hero_Sp_16"
+        },
+        "SocialShareCDN": "C=A65C5BA09110CF586DE8DB3B43D680131EA4A649AA742DF2B4B338752A4AC6CF49127BE58BF8C9090D0D60A0DE8CB421.jpg",
+        "RowDescription": "None"
+      },
+      "88000000028": {
+        "HeroId": "88000000028",
+        "Name": null,
+        "Title": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AF_Luna_g_01.AF_Luna_g_01"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/TeamAvatars_2/BakedSprite/TeamAvatars_Icon_0102.TeamAvatars_Icon_0102"
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AF_Luna_g_02.AF_Luna_g_02"
+        },
+        "ArmedForceId": 4,
+        "ExpertID": 40005,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0001.Common_Arms_Icon_0001"
+        },
+        "bUserSelectable": true,
+        "bIsInit": true,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_03.Hero_Sp_03"
+        },
+        "FootstepAudioStyleID": 1004,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_17.Hero_Sp_17"
+        },
+        "SocialShareCDN": "C=6D393C3EF0203959918394031F692EC782A883FBF12FDA435B38EF738B3833F9DA28EFBEDFBC76BE899265F144C75B72.jpg",
+        "RowDescription": "None"
+      },
+      "88000000029": {
+        "HeroId": "88000000029",
+        "Name": null,
+        "Title": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_Terry_g_01.AM_Terry_g_01"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/TeamAvatars_2/BakedSprite/TeamAvatars_Icon_0104.TeamAvatars_Icon_0104"
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_Terry_g_02.AM_Terry_g_02"
+        },
+        "ArmedForceId": 3,
+        "ExpertID": 30008,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0004.Common_Arms_Icon_0004"
+        },
+        "bUserSelectable": true,
+        "bIsInit": true,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_05.Hero_Sp_05"
+        },
+        "FootstepAudioStyleID": 1003,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_18.Hero_Sp_18"
+        },
+        "SocialShareCDN": "C=10A57DD375FEE047E6F282D0E3A55D66CBC4A0C7C54059EFE9334BFE8159E3203B6B9D946B42D648A03E60CD90ABBAAB.jpg",
+        "RowDescription": "None"
+      },
+      "88000000027": {
+        "HeroId": "88000000027",
+        "Name": null,
+        "Title": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_Smee_g_01.AM_Smee_g_01"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/TeamAvatars_2/BakedSprite/TeamAvatars_Icon_0103.TeamAvatars_Icon_0103"
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_Smee_g_02.AM_Smee_g_02"
+        },
+        "ArmedForceId": 2,
+        "ExpertID": 20003,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0003.Common_Arms_Icon_0003"
+        },
+        "bUserSelectable": true,
+        "bIsInit": true,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_06.Hero_Sp_06"
+        },
+        "FootstepAudioStyleID": 1002,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_15.Hero_Sp_15"
+        },
+        "SocialShareCDN": "C=16A5032E8A8A7B63DC1F77C39814084D1EA4A649AA742DF2B4B338752A4AC6CF49127BE58BF8C9090D0D60A0DE8CB421.jpg",
+        "RowDescription": "None"
+      },
+      "88000000025": {
+        "HeroId": "88000000025",
+        "Name": null,
+        "Title": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_Kuno_g_01.AM_Kuno_g_01"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/TeamAvatars_2/BakedSprite/TeamAvatars_Icon_0106.TeamAvatars_Icon_0106"
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_Kuno_g_02.AM_Kuno_g_02"
+        },
+        "ArmedForceId": 1,
+        "ExpertID": 10010,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0002.Common_Arms_Icon_0002"
+        },
+        "bUserSelectable": true,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_08.Hero_Sp_08"
+        },
+        "FootstepAudioStyleID": 0,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "C=EEAEF1CF6470564595D994F046DAF7D33CF5CABE9C37A7525ED30608028D1C40DA28EFBEDFBC76BE899265F144C75B72.jpg",
+        "RowDescription": "None"
+      },
+      "88000000026": {
+        "HeroId": "88000000026",
+        "Name": null,
+        "Title": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_Yukine_g_01.AM_Yukine_g_01"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/TeamAvatars_2/BakedSprite/TeamAvatars_Icon_0108.TeamAvatars_Icon_0108"
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_Yukine_g_02.AM_Yukine_g_02"
+        },
+        "ArmedForceId": 4,
+        "ExpertID": 40010,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0001.Common_Arms_Icon_0001"
+        },
+        "bUserSelectable": true,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_09.Hero_Sp_09"
+        },
+        "FootstepAudioStyleID": 0,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "C=F5FA1E5EE7C87AA0A0DDA74B447A2E991EA4A649AA742DF2B4B338752A4AC6CF49127BE58BF8C9090D0D60A0DE8CB421.jpg",
+        "RowDescription": "None"
+      },
+      "88000000035": {
+        "HeroId": "88000000035",
+        "Name": null,
+        "Title": null,
+        "Desc": "",
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_David_g_01.AM_David_g_01"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/TeamAvatars_2/BakedSprite/TeamAvatars_Icon_0107.TeamAvatars_Icon_0107"
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_David_g_02.AM_David_g_02"
+        },
+        "ArmedForceId": 3,
+        "ExpertID": 30009,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0004.Common_Arms_Icon_0004"
+        },
+        "bUserSelectable": true,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_Icon_10.Hero_Sp_Icon_10"
+        },
+        "FootstepAudioStyleID": 1003,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "C=EE50B7B2156EDEF0A7A333B3288C484E341A60EA8A2738D0FFC685561C2847743B6B9D946B42D648A03E60CD90ABBAAB.jpg",
+        "RowDescription": "None"
+      },
+      "88000000036": {
+        "HeroId": "88000000036",
+        "Name": null,
+        "Title": null,
+        "Desc": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_Zoya_g_01.AM_Zoya_g_01"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/TeamAvatars_2/BakedSprite/TeamAvatars_Icon_0109.TeamAvatars_Icon_0109"
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_Zoya_g_02.AM_Zoya_g_02"
+        },
+        "ArmedForceId": 2,
+        "ExpertID": 20004,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0003.Common_Arms_Icon_0003"
+        },
+        "bUserSelectable": true,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_Icon_11.Hero_Sp_Icon_11"
+        },
+        "FootstepAudioStyleID": 0,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "C=A9E3EE89D9DB7C99DD5FBAF1B063203582A883FBF12FDA435B38EF738B3833F9DA28EFBEDFBC76BE899265F144C75B72.jpg",
+        "RowDescription": "None"
+      },
+      "88000000037": {
+        "HeroId": "88000000037",
+        "Name": null,
+        "Title": null,
+        "Desc": "",
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_Alexei_g_01.AM_Alexei_g_01"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/TeamAvatars_2/BakedSprite/TeamAvatars_Icon_0110.TeamAvatars_Icon_0110"
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_Alexei_g_02.AM_Alexei_g_02"
+        },
+        "ArmedForceId": 3,
+        "ExpertID": 30010,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0004.Common_Arms_Icon_0004"
+        },
+        "bUserSelectable": true,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_Icon_12.Hero_Sp_Icon_12"
+        },
+        "FootstepAudioStyleID": 1003,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "C=B87FF03BB7A998ECB09D70FB25937C86D56073193714A58B9644ECBBD3D67D40F6C144FAD9ACE84D8A81FE57F7B57118.jpg",
+        "RowDescription": "None"
+      },
+      "88000000038": {
+        "HeroId": "88000000038",
+        "Name": null,
+        "Title": null,
+        "Desc": "",
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_Elio_g_01.AM_Elio_g_01"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/TeamAvatars_2/BakedSprite/TeamAvatars_Icon_0111.TeamAvatars_Icon_0111"
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_Elio_g_02.AM_Elio_g_02"
+        },
+        "ArmedForceId": 1,
+        "ExpertID": 10011,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0002.Common_Arms_Icon_0002"
+        },
+        "bUserSelectable": true,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_Icon_13.Hero_Sp_Icon_13"
+        },
+        "FootstepAudioStyleID": 1003,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "C=D2A6D06F7A68D1E25121A8629F6FE7611EA4A649AA742DF2B4B338752A4AC6CF49127BE58BF8C9090D0D60A0DE8CB421.jpg",
+        "RowDescription": "None"
+      },
+      "88000000039": {
+        "HeroId": "88000000039",
+        "Name": null,
+        "Title": null,
+        "Desc": "",
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_Claire_g_01.AM_Claire_g_01"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/TeamAvatars_2/BakedSprite/TeamAvatars_Icon_0112.TeamAvatars_Icon_0112"
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_Claire_g_02.AM_Claire_g_02"
+        },
+        "ArmedForceId": 1,
+        "ExpertID": 10012,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0002.Common_Arms_Icon_0002"
+        },
+        "bUserSelectable": true,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_Icon_14.Hero_Sp_Icon_14"
+        },
+        "FootstepAudioStyleID": 0,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "C=BD2FD0589897635BB573360529C77EAEDC141B37A348BE0E0FD7C428FB9E793DF6C144FAD9ACE84D8A81FE57F7B57118.jpg",
+        "RowDescription": "None"
+      },
+      "88000000040": {
+        "HeroId": "88000000040",
+        "Name": null,
+        "Title": null,
+        "Desc": "",
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_Landon_g_01.AM_Landon_g_01"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/TeamAvatars_2/BakedSprite/TeamAvatars_Icon_0113.TeamAvatars_Icon_0113"
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_C203_g_01.AM_C203_g_01"
+        },
+        "ArmedForceId": 4,
+        "ExpertID": 40011,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0001.Common_Arms_Icon_0001"
+        },
+        "bUserSelectable": true,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_Icon_15.Hero_Sp_Icon_15"
+        },
+        "FootstepAudioStyleID": 0,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "C=AD94EE57D3EE3525AA1B2430959609624E6F5E305CA9A06A666E4387798C7875AD9561FDA37BA0786A55FC11A68CCE76.jpg",
+        "RowDescription": "None"
+      },
+      "88000000041": {
+        "HeroId": "88000000041",
+        "Name": null,
+        "Title": null,
+        "Desc": "",
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_Rashid_v5_g_01.AM_Rashid_v5_g_01"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/TeamAvatars_2/BakedSprite/TeamAvatars_Icon_0114.TeamAvatars_Icon_0114"
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_Rashid_v5_g_02.AM_Rashid_v5_g_02"
+        },
+        "ArmedForceId": 3,
+        "ExpertID": 30011,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0004.Common_Arms_Icon_0004"
+        },
+        "bUserSelectable": true,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_Icon_16.Hero_Sp_Icon_16"
+        },
+        "FootstepAudioStyleID": 0,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "C=9BA5C70FACB0665F1DF8A77C9A7AA57DA7D791C29B402AE19D814284219F9C943B6B9D946B42D648A03E60CD90ABBAAB.jpg",
+        "RowDescription": "None"
+      },
+      "88000000042": {
+        "HeroId": "88000000042",
+        "Name": null,
+        "Title": null,
+        "Desc": "",
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_C501_g_01.AM_C501_g_01"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/TeamAvatars_2/BakedSprite/TeamAvatars_Icon_0115.TeamAvatars_Icon_0115"
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_C501_g_02.AM_C501_g_02"
+        },
+        "ArmedForceId": 5,
+        "ExpertID": 50001,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0005.Common_Arms_Icon_0005"
+        },
+        "bUserSelectable": true,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 1,
+        "IsBossModeTypeDef": false,
+        "IsBoss": true,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_Icon_17.Hero_Sp_Icon_17"
+        },
+        "FootstepAudioStyleID": 0,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "C=9BA5C70FACB0665F1DF8A77C9A7AA57D538B76F39BC60966337D2666B97C8318AD9561FDA37BA0786A55FC11A68CCE76.jpg",
+        "RowDescription": "None"
+      },
+      "88000000043": {
+        "HeroId": "88000000043",
+        "Name": null,
+        "Title": null,
+        "Desc": "",
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_Flamethrower_g_01.AM_Flamethrower_g_01"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/TeamAvatars_2/BakedSprite/TeamAvatars_Icon_0118.TeamAvatars_Icon_0118"
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_Flamethrower_g_02.AM_Flamethrower_g_02"
+        },
+        "ArmedForceId": 5,
+        "ExpertID": 50002,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0005.Common_Arms_Icon_0005"
+        },
+        "bUserSelectable": true,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 1,
+        "IsBossModeTypeDef": true,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_Icon_17.Hero_Sp_Icon_17"
+        },
+        "FootstepAudioStyleID": 0,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "C=9BA5C70FACB0665F1DF8A77C9A7AA57D538B76F39BC60966337D2666B97C8318AD9561FDA37BA0786A55FC11A68CCE76.jpg",
+        "RowDescription": "None"
+      },
+      "88000000044": {
+        "HeroId": "88000000044",
+        "Name": null,
+        "Title": null,
+        "Desc": "",
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_Rocketeer_g_01.AM_Rocketeer_g_01"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/TeamAvatars_2/BakedSprite/TeamAvatars_Icon_0117.TeamAvatars_Icon_0117"
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_Rocketeer_g_02.AM_Rocketeer_g_02"
+        },
+        "ArmedForceId": 5,
+        "ExpertID": 50003,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0005.Common_Arms_Icon_0005"
+        },
+        "bUserSelectable": true,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 1,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_Icon_17.Hero_Sp_Icon_17"
+        },
+        "FootstepAudioStyleID": 0,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "C=9BA5C70FACB0665F1DF8A77C9A7AA57D538B76F39BC60966337D2666B97C8318AD9561FDA37BA0786A55FC11A68CCE76.jpg",
+        "RowDescription": "None"
+      },
+      "88000000045": {
+        "HeroId": "88000000045",
+        "Name": null,
+        "Title": null,
+        "Desc": "",
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_C103_g_01.AM_C103_g_01"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/TeamAvatars_2/BakedSprite/TeamAvatars_Icon_0116.TeamAvatars_Icon_0116"
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_C103_g_02.AM_C103_g_02"
+        },
+        "ArmedForceId": 2,
+        "ExpertID": 20005,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0003.Common_Arms_Icon_0003"
+        },
+        "bUserSelectable": true,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_Icon_18.Hero_Sp_Icon_18"
+        },
+        "FootstepAudioStyleID": 0,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "C=87699CA85CE0B513F50FA84BE2F9D1292E05BB8EA51E29769E7A9BBD92403D30AD9561FDA37BA0786A55FC11A68CCE76.jpg",
+        "RowDescription": "None"
+      },
+      "88000000046": {
+        "HeroId": "88000000046",
+        "Name": null,
+        "Title": null,
+        "Desc": "",
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_C204_g_01.AM_C204_g_01"
+        },
+        "AvatarIcon_PC": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/TeamAvatars_2/BakedSprite/TeamAvatars_Icon_0119.TeamAvatars_Icon_0119"
+        },
+        "AvatarIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Icon/HeroAvatar/AM_C204_g_02.AM_C204_g_02"
+        },
+        "ArmedForceId": 4,
+        "ExpertID": 40012,
+        "ExpertIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0001.Common_Arms_Icon_0001"
+        },
+        "bUserSelectable": true,
+        "bIsInit": false,
+        "LoadLevel": 1,
+        "BossModeType": 0,
+        "IsBossModeTypeDef": false,
+        "IsBoss": false,
+        "BackgroundIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_Icon_19.Hero_Sp_Icon_19"
+        },
+        "FootstepAudioStyleID": 0,
+        "CodeNameImage": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "SocialShareCDN": "C=87699CA85CE0B513F50FA84BE2F9D1292E05BB8EA51E29769E7A9BBD92403D30AD9561FDA37BA0786A55FC11A68CCE76.jpg",
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 40
+  }
+]

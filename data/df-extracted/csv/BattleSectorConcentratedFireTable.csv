@@ -1,0 +1,45 @@
+﻿RowName,MapID,BattleSectorConcentratedFireData,RowDescription
+NewRow_15,-1,,None
+90010,681,"(Key=90010, Value=Gym_Breakthrough_S1)",None
+10010,54,"(Key=10010, Value=攀升PC攻防S1); (Key=10011, Value=攀升PC攻防S2); (Key=10012, Value=攀升PC攻防S3); (Key=10013, Value=攀升PC攻防S4)",None
+10020,33,"(Key=10020, Value=烬区PC攻防S1); (Key=10021, Value=烬区PC攻防S2); (Key=10022, Value=烬区PC攻防S3)",None
+10030,75,"(Key=10030, Value=临界点PC攻防S1); (Key=10031, Value=临界点PC攻防S2); (Key=10032, Value=临界点PC攻防S3)",None
+10041,113,"(Key=10041, Value=贯穿PC攻防S1); (Key=10042, Value=贯穿PC攻防S2); (Key=10043, Value=贯穿PC攻防S3)",None
+10050,107,"(Key=10050, Value=堑壕战PC攻防S1); (Key=10051, Value=堑壕战PC攻防S2); (Key=10052, Value=堑壕战PC攻防S3); (Key=10053, Value=堑壕战PC攻防S4); (Key=10054, Value=堑壕战PC攻防S5)",None
+NewRow_7,801,"(Key=10050, Value=夜战堑壕战PC攻防S1); (Key=10051, Value=夜战堑壕战PC攻防S2); (Key=10052, Value=夜战堑壕战PC攻防S3); (Key=10053, Value=夜战堑壕战PC攻防S4); (Key=10054, Value=夜战堑壕战PC攻防S5)",None
+10060,111,"(Key=10060, Value=断轨PC攻防S1); (Key=10061, Value=断轨PC攻防S2); (Key=10062, Value=断轨PC攻防S3); (Key=10063, Value=断轨PC攻防S4)",None
+10071,121,"(Key=10071, Value=刀锋PC攻防S1); (Key=10072, Value=刀锋PC攻防S2); (Key=10073, Value=刀锋PC攻防S3)",None
+NewRow_18,302,"(Key=10080, Value=风暴眼PC攻防S1); (Key=10081, Value=风暴眼PC攻防S2); (Key=10082, Value=风暴眼PC攻防S3); (Key=10083, Value=风暴眼PC攻防S4); (Key=10084, Value=风暴眼PC攻防S5)",None
+NewRow_20,151,"(Key=10091, Value=3S1); (Key=10092, Value=3S2); (Key=10093, Value=3S3)",None
+NewRow_21,138,"(Key=10110, Value=4S1); (Key=10111, Value=4S2); (Key=10112, Value=4S3); (Key=10113, Value=4S4)",None
+NewRow_24,145,"(Key=10085, Value=4S1); (Key=10086, Value=4S2); (Key=10087, Value=4S3); (Key=10088, Value=4S4); (Key=10089, Value=4S3); (Key=10090, Value=4S3)",None
+NewRow_26,311,"(Key=10140, Value=4S1); (Key=10141, Value=4S2); (Key=10142, Value=4S3); (Key=10143, Value=4S4)",None
+NewRow_28,1107,"(Key=10051, Value=3S1); (Key=10052, Value=3S2); (Key=10053, Value=3S3); (Key=10054, Value=3S3)",None
+NewRow_29,1302,"(Key=10081, Value=3S1); (Key=10082, Value=3S2); (Key=10083, Value=3S3); (Key=10084, Value=3S3)",None
+NewRow_30,-1,,None
+40010,116,"(Key=40010, Value=攀升PC围攻)",None
+40020,118,"(Key=40020, Value=烬区PC围攻)",None
+40030,126,"(Key=40030, Value=临界点PC围攻)",None
+40050,128,"(Key=40050, Value=堑壕战PC围攻)",None
+NewRow,-1,,None
+NewRow_0,601,"(Key=10010, Value=指挥官攀升PC攻防S1); (Key=10011, Value=指挥官攀升PC攻防S2); (Key=10012, Value=指挥官攀升PC攻防S3); (Key=10013, Value=指挥官攀升PC攻防S4); (Key=10014, Value=指挥官攀升PC攻防S5)",None
+NewRow_1,602,"(Key=10020, Value=指挥官烬区PC攻防S1); (Key=10021, Value=指挥官烬区PC攻防S2); (Key=10022, Value=指挥官烬区PC攻防S3)",None
+NewRow_2,603,"(Key=10030, Value=指挥官临界点PC攻防S1); (Key=10031, Value=指挥官临界点PC攻防S2); (Key=10032, Value=指挥官临界点PC攻防S3)",None
+NewRow_3,604,"(Key=10041, Value=指挥官贯穿PC攻防S1); (Key=10042, Value=指挥官贯穿PC攻防S2); (Key=10043, Value=指挥官贯穿PC攻防S3)",None
+NewRow_4,605,"(Key=10050, Value=指挥官堑壕战PC攻防S1); (Key=10051, Value=指挥官堑壕战PC攻防S2); (Key=10052, Value=指挥官堑壕战PC攻防S3); (Key=10053, Value=指挥官堑壕战PC攻防S4); (Key=10054, Value=指挥官堑壕战PC攻防S5)",None
+NewRow_5,606,"(Key=10060, Value=指挥官断轨PC攻防S1); (Key=10061, Value=指挥官断轨PC攻防S2); (Key=10062, Value=指挥官断轨PC攻防S3); (Key=10063, Value=指挥官断轨PC攻防S4)",None
+NewRow_6,607,"(Key=10071, Value=指挥官刀锋PC攻防S1); (Key=10072, Value=指挥官刀锋PC攻防S2); (Key=10073, Value=指挥官刀锋PC攻防S3)",None
+NewRow_19,608,"(Key=10080, Value=指挥官风暴眼PC攻防S1); (Key=10081, Value=指挥官风暴眼PC攻防); (Key=10082, Value=指挥官风暴眼PC攻防); (Key=10083, Value=指挥官风暴眼PC攻防); (Key=10084, Value=指挥官风暴眼PC攻防)",None
+NewRow_22,611,"(Key=10091, Value=CS1); (Key=10092, Value=CSALL); (Key=10093, Value=CSALL)",None
+NewRow_23,609,"(Key=10110, Value=CS1); (Key=10111, Value=CSALL); (Key=10112, Value=CSALL); (Key=10113, Value=CSALL)",None
+NewRow_25,610,"(Key=10085, Value=CS1); (Key=10086, Value=CSALL); (Key=10087, Value=CSALL); (Key=10088, Value=CSALL); (Key=10089, Value=CSALL); (Key=10090, Value=CSALL)",None
+NewRow_27,612,"(Key=10140, Value=CS1); (Key=10141, Value=CSALL); (Key=10142, Value=CSALL); (Key=10143, Value=CSALL)",None
+NewRow_8,-1,,None
+NewRow_10,621,"(Key=20010, Value=指挥官占领基础据点); (Key=20011, Value=指挥官占领基础据点); (Key=20012, Value=指挥官占领基础据点); (Key=20013, Value=指挥官占领基础据点); (Key=20014, Value=指挥官占领基础据点); (Key=20015, Value=指挥官占领基础据点)",None
+NewRow_11,622,"(Key=20020, Value=指挥官占领基础据点); (Key=20021, Value=指挥官占领基础据点); (Key=20022, Value=指挥官占领基础据点); (Key=20023, Value=指挥官占领基础据点); (Key=20024, Value=指挥官占领基础据点)",None
+NewRow_12,623,"(Key=20030, Value=指挥官占领基础据点); (Key=20031, Value=指挥官占领基础据点); (Key=20032, Value=指挥官占领基础据点); (Key=20033, Value=指挥官占领基础据点); (Key=20034, Value=指挥官占领基础据点)",None
+NewRow_13,624,,None
+NewRow_14,625,"(Key=20050, Value=指挥官占领基础据点); (Key=20051, Value=指挥官占领基础据点); (Key=20052, Value=指挥官占领基础据点); (Key=20053, Value=指挥官占领基础据点); (Key=20054, Value=指挥官占领基础据点)",None
+NewRow_9,626,"(Key=20060, Value=指挥官占领基础据点); (Key=20061, Value=指挥官占领基础据点); (Key=20062, Value=指挥官占领基础据点); (Key=20063, Value=指挥官占领基础据点); (Key=20064, Value=指挥官占领基础据点)",None
+NewRow_16,627,,None
+NewRow_17,629,"(Key=20110, Value=指挥官占领基础据点); (Key=20111, Value=指挥官占领基础据点); (Key=20112, Value=指挥官占领基础据点); (Key=20113, Value=指挥官占领基础据点); (Key=20114, Value=指挥官占领基础据点); (Key=20115, Value=指挥官占领基础据点)",None

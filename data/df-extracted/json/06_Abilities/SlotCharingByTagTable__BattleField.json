@@ -1,0 +1,55 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "SlotCharingByTagTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/BattleField/SlotCharingByTagTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "SlotCharingByTagDataRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "NewRow": {
+        "Tag": "None",
+        "SlotCharingMap": [
+          {
+            "Key": 0,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "Init": 0,
+              "Max": 0,
+              "Time": 0,
+              "UseTime": 0,
+              "ChargeAmmoReplenish": 1,
+              "PerkScaleMap": [],
+              "MaxScoreReduceCDPercent": 0.25,
+              "MaxScore": 0,
+              "LimitPlayMode": [],
+              "LimitPlaySubMode": [],
+              "AddToCurrentAmmo": false,
+              "CurrentAmmoNum": 0,
+              "MaxClipAmmoNum": 0,
+              "SkillNumType": "ESkillNumType::UT_Normal",
+              "DoneVoiceString": "",
+              "NoCDType": false,
+              "bWeaponCheckAmmo": false,
+              "bUseLocalAmmo": false,
+              "AmmoBoxChargeCnt": 0,
+              "AmmoPackChargeCnt": 0,
+              "SceneAmmoBoxChargeCnt": 0,
+              "bOnlyWeaponCountAmmo": true,
+              "bRebornReset": true,
+              "bPauseCanAddScore": true,
+              "InitialChargingPercent": 0,
+              "bChargingOnlyWhenEmpty": false
+            }
+          }
+        ],
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 1
+  }
+]

@@ -1,0 +1,473 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "MedalPointTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/BattleField/MedalPointTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "MedalPointData",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "1": {
+        "ID": 1,
+        "ModalPointType": "EModalPointType::EFight",
+        "ModalName": null,
+        "MedalDesc": null,
+        "Icon": [
+          {
+            "_StructType": "FSoftObjectPath",
+            "_Value": "/Game/UI/UIAtlas/Texture/Medal/Medal_0304.Medal_0304"
+          },
+          {
+            "_StructType": "FSoftObjectPath",
+            "_Value": "/Game/UI/UIAtlas/Texture/Medal/Medal_0303.Medal_0303"
+          },
+          {
+            "_StructType": "FSoftObjectPath",
+            "_Value": "/Game/UI/UIAtlas/Texture/Medal/Medal_0302.Medal_0302"
+          },
+          {
+            "_StructType": "FSoftObjectPath",
+            "_Value": "/Game/UI/UIAtlas/Texture/Medal/Medal_0301.Medal_0301"
+          }
+        ],
+        "IncludeAction": [
+          "EScoreName::EHitPlayerCharacter",
+          "EScoreName::EPositionSupportSkillHit",
+          "EScoreName::ENormalKill",
+          "EScoreName::EVehicle_KillCharacter",
+          "EScoreName::WeaponKillCharacter",
+          "EScoreName::WeaponKillCharacter",
+          "EScoreName::ESceneWeapon_KillCharacter",
+          "EScoreName::EPositionSupportSkillKill",
+          "EScoreName::EHeadKill",
+          "EScoreName::EContinueKill",
+          "EScoreName::EKillEnemyPilot",
+          "EScoreName::EReboot",
+          "EScoreName::EBreakEnemyContinueKill",
+          "EScoreName::EAid",
+          "EScoreName::ERevenge",
+          "EScoreName::ESquadRevenge",
+          "EScoreName::EFarGunKill",
+          "EScoreName::EFarHeadKill",
+          "EScoreName::EVehicle_AttackVehicle",
+          "EScoreName::EVehicle_DestroyVehicle",
+          "EScoreName::EVehicle_DestroyVehicle",
+          "EScoreName::EVehicle_PartEngineDamage",
+          "EScoreName::EVehicle_PartCannoDamage",
+          "EScoreName::EVehicle_PartTrackDamage",
+          "EScoreName::EVehicle_HeavyDamage",
+          "EScoreName::ENormalAssist",
+          "EScoreName::EAssistKill",
+          "EScoreName::EVehicle_PassengerAssist",
+          "EScoreName::EVehicle_DriverAssist",
+          "EScoreName::EFireSuppressionAssistCamp",
+          "EScoreName::EFireSuppressionAssistTeam",
+          "EScoreName::ENormalKill",
+          "EScoreName::EHeadKill",
+          "EScoreName::ENormalKnockDown",
+          "EScoreName::EHeadKnockDown",
+          "EScoreName::EAssistKill",
+          "EScoreName::EAssistKnockDown",
+          "EScoreName::EGunner_Resonate",
+          "EScoreName::EGunner_ResonateMine",
+          "EScoreName::C301LauncherKill",
+          "EScoreName::C301LauncherDestroyVehicle",
+          "EScoreName::C301SuperSprintKill",
+          "EScoreName::C301SuperSprintAssist",
+          "EScoreName::C301SmokeAssist",
+          "EScoreName::ElectricArrowHit",
+          "EScoreName::ElectricArrowKill",
+          "EScoreName::ElectricArrowDestroyVehicle",
+          "EScoreName::ArrowHit",
+          "EScoreName::ArrowKill",
+          "EScoreName::C401MineKill",
+          "EScoreName::C401MineActivated",
+          "EScoreName::C302KnockBack",
+          "EScoreName::C302KnockBackBeKill",
+          "EScoreName::WeaponKillCharacter",
+          "EScoreName::C302C4Assist",
+          "EScoreName::EGunner_Attack",
+          "EScoreName::EGunner_Defend",
+          "EScoreName::WeaponKillCharacter",
+          "EScoreName::WeaponDestroyVehicle",
+          "EScoreName::EKillHighThreatTarget",
+          "EScoreName::EKillHighThreatTargetAssist",
+          "EScoreName::EHighThreatTargetClear",
+          "EScoreName::EBattleFieldOrdersConcentratedFireCompleted",
+          "EScoreName::EVehicle_DestroyVehicle",
+          "EScoreName::EVehicle_DestroyVehicle",
+          "EScoreName::EVehicle_DestroyVehicle",
+          "EScoreName::EVehicle_DestroyVehicle",
+          "EScoreName::EVehicle_DestroyVehicle",
+          "EScoreName::EVehicle_DestroyVehicle",
+          "EScoreName::EVehicle_DestroyVehicle",
+          "EScoreName::EVehicle_DestroyVehicle",
+          "EScoreName::BreakAbilityLevelActor",
+          "EScoreName::LaserPointerAssist",
+          "EScoreName::LaserPointerLocked",
+          "EScoreName::IncendiaryAssist",
+          "EScoreName::IncendiaryKill",
+          "EScoreName::DataKnifeAssist",
+          "EScoreName::CatTracingEnemyKill",
+          "EScoreName::DataKnifeKill",
+          "EScoreName::FlashDroneAssist",
+          "EScoreName::CatTracingEnemyKill",
+          "EScoreName::CatTracingEnemyAssist",
+          "EScoreName::ESmokeAssist",
+          "EScoreName::GrenadeDestroyVehicle",
+          "EScoreName::FlashDroneAssist",
+          "EScoreName::DataKnifeKill",
+          "EScoreName::ArrowHit",
+          "EScoreName::ArrowKill",
+          "EScoreName::BreakRebornFlag",
+          "EScoreName::BreakAbilityLevelActor",
+          "EScoreName::ADSBlock",
+          "EScoreName::C102BlindingSmokeScore",
+          "EScoreName::C102BlindingSmokeKill",
+          "EScoreName::ENone"
+        ],
+        "LevelPoint": [
+          0,
+          2000,
+          5500,
+          9000
+        ],
+        "LevelRewards": [
+          {
+            "_StructType": "FStructFallback",
+            "Level": 0,
+            "ItemInfos": []
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Level": 1,
+            "ItemInfos": [
+              {
+                "_StructType": "FStructFallback",
+                "ItemID": 0,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Level": 2,
+            "ItemInfos": [
+              {
+                "_StructType": "FStructFallback",
+                "ItemID": 0,
+                "ItemNum": 750
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Level": 3,
+            "ItemInfos": [
+              {
+                "_StructType": "FStructFallback",
+                "ItemID": 0,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Level": 0,
+            "ItemInfos": []
+          }
+        ],
+        "LevelRewardBehaviorScore": [],
+        "RowDescription": "None"
+      },
+      "2": {
+        "ID": 2,
+        "ModalPointType": "EModalPointType::EConquer",
+        "ModalName": null,
+        "MedalDesc": null,
+        "Icon": [
+          {
+            "_StructType": "FSoftObjectPath",
+            "_Value": "/Game/UI/UIAtlas/Texture/Medal/Medal_0404.Medal_0404"
+          },
+          {
+            "_StructType": "FSoftObjectPath",
+            "_Value": "/Game/UI/UIAtlas/Texture/Medal/Medal_0403.Medal_0403"
+          },
+          {
+            "_StructType": "FSoftObjectPath",
+            "_Value": "/Game/UI/UIAtlas/Texture/Medal/Medal_0402.Medal_0402"
+          },
+          {
+            "_StructType": "FSoftObjectPath",
+            "_Value": "/Game/UI/UIAtlas/Texture/Medal/Medal_0401.Medal_0401"
+          }
+        ],
+        "IncludeAction": [
+          "EScoreName::ECaptured2Neutral",
+          "EScoreName::ECaptured",
+          "EScoreName::ECapturedSector",
+          "EScoreName::EStickToTheGoal",
+          "EScoreName::ECaptureProgress",
+          "EScoreName::EDefendCapPointKill",
+          "EScoreName::ECapturedByCamp"
+        ],
+        "LevelPoint": [
+          0,
+          250,
+          750,
+          1250
+        ],
+        "LevelRewards": [
+          {
+            "_StructType": "FStructFallback",
+            "Level": 0,
+            "ItemInfos": []
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Level": 1,
+            "ItemInfos": [
+              {
+                "_StructType": "FStructFallback",
+                "ItemID": 0,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Level": 2,
+            "ItemInfos": [
+              {
+                "_StructType": "FStructFallback",
+                "ItemID": 0,
+                "ItemNum": 750
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Level": 3,
+            "ItemInfos": [
+              {
+                "_StructType": "FStructFallback",
+                "ItemID": 0,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Level": 0,
+            "ItemInfos": []
+          }
+        ],
+        "LevelRewardBehaviorScore": [],
+        "RowDescription": "None"
+      },
+      "3": {
+        "ID": 3,
+        "ModalPointType": "EModalPointType::ELogistics",
+        "ModalName": null,
+        "MedalDesc": null,
+        "Icon": [
+          {
+            "_StructType": "FSoftObjectPath",
+            "_Value": "/Game/UI/UIAtlas/Texture/Medal/Medal_0204.Medal_0204"
+          },
+          {
+            "_StructType": "FSoftObjectPath",
+            "_Value": "/Game/UI/UIAtlas/Texture/Medal/Medal_0203.Medal_0203"
+          },
+          {
+            "_StructType": "FSoftObjectPath",
+            "_Value": "/Game/UI/UIAtlas/Texture/Medal/Medal_0202.Medal_0202"
+          },
+          {
+            "_StructType": "FSoftObjectPath",
+            "_Value": "/Game/UI/UIAtlas/Texture/Medal/Medal_0201.Medal_0201"
+          }
+        ],
+        "IncludeAction": [
+          "EScoreName::ERepairVehicleAssist",
+          "EScoreName::ERepairSceneWeaponAssist",
+          "EScoreName::ERescue",
+          "EScoreName::ERescueTeam",
+          "EScoreName::ERepairCamp",
+          "EScoreName::ERepairTeam",
+          "EScoreName::ERedeployOnPlayer",
+          "EScoreName::EReDeployOnLastMan",
+          "EScoreName::EVehicle_Redeploy",
+          "EScoreName::RebornFlag",
+          "EScoreName::ERescue",
+          "EScoreName::C301SmokeRescue",
+          "EScoreName::C201SupportWeaponHit",
+          "EScoreName::C201ColorSmokeBuff",
+          "EScoreName::C201HealthEffect",
+          "EScoreName::ENone",
+          "EScoreName::C301SmokeRescue",
+          "EScoreName::EAddAmmo",
+          "EScoreName::EAddAmmo",
+          "EScoreName::ADSBlock",
+          "EScoreName::UseRankSkillRebornFlag",
+          "EScoreName::UseVehicleRebornFlag",
+          "EScoreName::UseRebornFlag",
+          "EScoreName::ThrowBlockingRadialDamage",
+          "EScoreName::SupportPack",
+          "EScoreName::C201ColorSmokeBuff"
+        ],
+        "LevelPoint": [
+          0,
+          100,
+          350,
+          700
+        ],
+        "LevelRewards": [
+          {
+            "_StructType": "FStructFallback",
+            "Level": 0,
+            "ItemInfos": []
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Level": 1,
+            "ItemInfos": [
+              {
+                "_StructType": "FStructFallback",
+                "ItemID": 0,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Level": 2,
+            "ItemInfos": [
+              {
+                "_StructType": "FStructFallback",
+                "ItemID": 0,
+                "ItemNum": 750
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Level": 3,
+            "ItemInfos": [
+              {
+                "_StructType": "FStructFallback",
+                "ItemID": 0,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Level": 0,
+            "ItemInfos": []
+          }
+        ],
+        "LevelRewardBehaviorScore": [],
+        "RowDescription": "None"
+      },
+      "4": {
+        "ID": 4,
+        "ModalPointType": "EModalPointType::EInformation",
+        "ModalName": null,
+        "MedalDesc": null,
+        "Icon": [
+          {
+            "_StructType": "FSoftObjectPath",
+            "_Value": "/Game/UI/UIAtlas/Texture/Medal/Medal_0104.Medal_0104"
+          },
+          {
+            "_StructType": "FSoftObjectPath",
+            "_Value": "/Game/UI/UIAtlas/Texture/Medal/Medal_0103.Medal_0103"
+          },
+          {
+            "_StructType": "FSoftObjectPath",
+            "_Value": "/Game/UI/UIAtlas/Texture/Medal/Medal_0102.Medal_0102"
+          },
+          {
+            "_StructType": "FSoftObjectPath",
+            "_Value": "/Game/UI/UIAtlas/Texture/Medal/Medal_0101.Medal_0101"
+          }
+        ],
+        "IncludeAction": [
+          "EScoreName::ECampMarkAssist",
+          "EScoreName::EMarkEnemy",
+          "EScoreName::ProxSensorMark",
+          "EScoreName::ProxSensorArrowAssist",
+          "EScoreName::BreakRebornFlag",
+          "EScoreName::DataKnifeEMP",
+          "EScoreName::FlashDroneHitEnemy",
+          "EScoreName::CatTracingEnemy",
+          "EScoreName::EMPHitVehicle",
+          "EScoreName::EMPHitEnemy",
+          "EScoreName::FlashDroneHitEnemy",
+          "EScoreName::DataKnifeEMP",
+          "EScoreName::DataKnifeAssist"
+        ],
+        "LevelPoint": [
+          0,
+          50,
+          150,
+          400
+        ],
+        "LevelRewards": [
+          {
+            "_StructType": "FStructFallback",
+            "Level": 0,
+            "ItemInfos": []
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Level": 1,
+            "ItemInfos": [
+              {
+                "_StructType": "FStructFallback",
+                "ItemID": 0,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Level": 2,
+            "ItemInfos": [
+              {
+                "_StructType": "FStructFallback",
+                "ItemID": 0,
+                "ItemNum": 750
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Level": 3,
+            "ItemInfos": [
+              {
+                "_StructType": "FStructFallback",
+                "ItemID": 0,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Level": 0,
+            "ItemInfos": []
+          }
+        ],
+        "LevelRewardBehaviorScore": [],
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 4
+  }
+]

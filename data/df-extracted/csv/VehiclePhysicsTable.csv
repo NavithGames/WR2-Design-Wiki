@@ -1,0 +1,3 @@
+﻿RowName,VehicleId,bEnableModifyCollisionContact,MinContactModificationVelocity,MaxContactModificationVelocityScale,MinContactModificationVelocityScale,ContactNormalModifyScale,ContactModificationCoolingTime,bEnableAutoBalance,BalanceStrengthRoll,BalanceStrengthPitch,BalanceAngluarDamping,bEnableAutoBalanceWhenFalling,MinFallingLinearVelocity,bEnableAutoBalanceWhenStationary,MaxStationaryLinearVelocity,MaxStationaryAngularVelocity,bEnableStickToGround,StickToGroundRiseStrength,StickToGroundFallStrength,RowDescription
+AH-1035D突击直升机,1301002,True,5,5000,1000,0.5,0.5,False,1,1,5,False,1000,False,10,10,False,10,1,None
+MH-33D侦察直升机,1301005,True,5,5000,1000,0.5,0.5,False,1,1,5,False,1000,False,10,10,False,10,1,None

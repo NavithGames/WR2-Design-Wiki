@@ -1,0 +1,137 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "ArenaTraderPageMain",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/ArenaTrader/ArenaTraderPageMain",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "TraderPageMainInfo",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "1": {
+        "LabelNo1": 10011,
+        "LabelNo1Name": null,
+        "LabelNo1Icon": "PaperSprite\u0027/Game/UI/UIAtlas/CommonHall/BakedSprite/CommonHall_Merchant_Icon_0108.CommonHall_Merchant_Icon_0108\u0027",
+        "RowDescription": "None"
+      },
+      "2": {
+        "LabelNo1": 10021,
+        "LabelNo1Name": null,
+        "LabelNo1Icon": "PaperSprite\u0027/Game/UI/UIAtlas/System/Warehouse/BakedSprite/warehouse_Icon_0605.Warehouse_Icon_0605\u0027",
+        "RowDescription": "None"
+      },
+      "3": {
+        "LabelNo1": 10031,
+        "LabelNo1Name": null,
+        "LabelNo1Icon": "PaperSprite\u0027/Game/UI/UIAtlas/System/Warehouse/BakedSprite/warehouse_Icon_0004.Warehouse_Icon_0004\u0027",
+        "RowDescription": "None"
+      },
+      "4": {
+        "LabelNo1": 10041,
+        "LabelNo1Name": null,
+        "LabelNo1Icon": "PaperSprite\u0027/Game/UI/UIAtlas/CommonHall/BakedSprite/CommonHall_Merchant_Icon_0103.CommonHall_Merchant_Icon_0103\u0027",
+        "RowDescription": "None"
+      },
+      "5": {
+        "LabelNo1": 20011,
+        "LabelNo1Name": null,
+        "LabelNo1Icon": "PaperSprite\u0027/Game/UI/UIAtlas/CommonHall/BakedSprite/CommonHall_Merchant_Icon_0112.CommonHall_Merchant_Icon_0112\u0027",
+        "RowDescription": "None"
+      },
+      "6": {
+        "LabelNo1": 20021,
+        "LabelNo1Name": null,
+        "LabelNo1Icon": "PaperSprite\u0027/Game/UI/UIAtlas/CommonHall/BakedSprite/CommonHall_Merchant_Icon_0106.CommonHall_Merchant_Icon_0106\u0027",
+        "RowDescription": "None"
+      },
+      "7": {
+        "LabelNo1": 20051,
+        "LabelNo1Name": null,
+        "LabelNo1Icon": "PaperSprite\u0027/Game/UI/UIAtlas/System/Warehouse/BakedSprite/warehouse_Icon_0003.Warehouse_Icon_0003\u0027",
+        "RowDescription": "None"
+      },
+      "8": {
+        "LabelNo1": 20061,
+        "LabelNo1Name": null,
+        "LabelNo1Icon": "PaperSprite\u0027/Game/UI/UIAtlas/System/Warehouse/BakedSprite/warehouse_Icon_0602.Warehouse_Icon_0602\u0027",
+        "RowDescription": "None"
+      },
+      "9": {
+        "LabelNo1": 30011,
+        "LabelNo1Name": null,
+        "LabelNo1Icon": "PaperSprite\u0027/Game/UI/UIAtlas/Common/BakedSprite/Common_ItemProp_icon_0504.Common_ItemProp_icon_0504\u0027",
+        "RowDescription": "None"
+      },
+      "10": {
+        "LabelNo1": 30021,
+        "LabelNo1Name": null,
+        "LabelNo1Icon": "PaperSprite\u0027/Game/UI/UIAtlas/CommonHall/BakedSprite/CommonHall_Merchant_Icon_0101.CommonHall_Merchant_Icon_0101\u0027",
+        "RowDescription": "None"
+      },
+      "11": {
+        "LabelNo1": 30031,
+        "LabelNo1Name": null,
+        "LabelNo1Icon": "PaperSprite\u0027/Game/UI/UIAtlas/CommonHall/BakedSprite/CommonHall_Merchant_Icon_0102.CommonHall_Merchant_Icon_0102\u0027",
+        "RowDescription": "None"
+      },
+      "12": {
+        "LabelNo1": 30041,
+        "LabelNo1Name": null,
+        "LabelNo1Icon": "PaperSprite\u0027/Game/UI/UIAtlas/Common/BakedSprite/Common_EquipClass_Icon_0001.Common_EquipClass_Icon_0001\u0027",
+        "RowDescription": "None"
+      },
+      "14": {
+        "LabelNo1": 40011,
+        "LabelNo1Name": null,
+        "LabelNo1Icon": "PaperSprite\u0027/Game/UI/UIAtlas/System/Shop/BakedSprite/Shop_Icon_08.Shop_Icon_08\u0027",
+        "RowDescription": "None"
+      },
+      "15": {
+        "LabelNo1": 40012,
+        "LabelNo1Name": null,
+        "LabelNo1Icon": "PaperSprite\u0027/Game/UI/UIAtlas/System/Shop/BakedSprite/Shop_Icon_08.Shop_Icon_08\u0027",
+        "RowDescription": "None"
+      },
+      "16": {
+        "LabelNo1": 40201,
+        "LabelNo1Name": null,
+        "LabelNo1Icon": "PaperSprite\u0027/Game/UI/UIAtlas/CommonHall/BakedSprite/CommonHall_Merchant_Icon_0109.CommonHall_Merchant_Icon_0109\u0027",
+        "RowDescription": "None"
+      },
+      "17": {
+        "LabelNo1": 40301,
+        "LabelNo1Name": null,
+        "LabelNo1Icon": "PaperSprite\u0027/Game/UI/UIAtlas/System/Warehouse/BakedSprite/warehouse_Icon_0603.Warehouse_Icon_0603\u0027",
+        "RowDescription": "None"
+      },
+      "18": {
+        "LabelNo1": 40401,
+        "LabelNo1Name": null,
+        "LabelNo1Icon": "PaperSprite\u0027/Game/UI/UIAtlas/System/Warehouse/BakedSprite/warehouse_Icon_0001.Warehouse_Icon_0001\u0027",
+        "RowDescription": "None"
+      },
+      "19": {
+        "LabelNo1": 50011,
+        "LabelNo1Name": null,
+        "LabelNo1Icon": "PaperSprite\u0027/Game/UI/UIAtlas/CommonHall/BakedSprite/CommonHall_Merchant_Icon_0106.CommonHall_Merchant_Icon_0106\u0027",
+        "RowDescription": "None"
+      },
+      "21": {
+        "LabelNo1": 50021,
+        "LabelNo1Name": null,
+        "LabelNo1Icon": "PaperSprite\u0027/Game/UI/UIAtlas/System/Activity/BakedSprite/Activity_Icon_05.Activity_Icon_05\u0027",
+        "RowDescription": "None"
+      },
+      "29": {
+        "LabelNo1": 50031,
+        "LabelNo1Name": null,
+        "LabelNo1Icon": "PaperSprite\u0027/Game/UI/UIAtlas/System/Activity/BakedSprite/Activity_Icon_05.Activity_Icon_05\u0027",
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 20
+  }
+]

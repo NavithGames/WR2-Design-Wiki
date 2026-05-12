@@ -1,0 +1,10 @@
+﻿RowName,ID,OutStandingContributionType,IntValue1,IntValue2,ContributorName,RowDescription
+NewRow,1,EOutStandingContributionType::ECommander,0,0,,None
+NewRow_0,2,EOutStandingContributionType::EKill,30,2,,None
+NewRow_1,3,EOutStandingContributionType::EPilot,20,1,,None
+NewRow_2,4,EOutStandingContributionType::EArmor,20,1,,None
+NewRow_3,5,EOutStandingContributionType::EVehicleKiller,1,1,,None
+NewRow_4,6,EOutStandingContributionType::EDoctor,0,1,,None
+NewRow_5,7,EOutStandingContributionType::ECapture,10,2,,None
+NewRow_6,8,EOutStandingContributionType::ETactical,0,1,,None
+NewRow_7,100,EOutStandingContributionType::ENone,0,0,,None

@@ -1,0 +1,251 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "VehicleModificationTab",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/Vehicle/VehicleModificationTab",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "VehicleModificationTabDataConfig",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "1": {
+        "ID": 1,
+        "TabID": 1,
+        "SlotID": 0,
+        "bHide": false,
+        "SortID": 1,
+        "Name": null,
+        "ImgPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHall/BakedSprite/CommonHall_Vehicles_Icon_0003.CommonHall_Vehicles_Icon_0003"
+        },
+        "RowDescription": "None"
+      },
+      "2": {
+        "ID": 2,
+        "TabID": 2,
+        "SlotID": 0,
+        "bHide": false,
+        "SortID": 2,
+        "Name": null,
+        "ImgPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHall/BakedSprite/CommonHall_Vehicles_Icon_0004.CommonHall_Vehicles_Icon_0004"
+        },
+        "RowDescription": "None"
+      },
+      "3": {
+        "ID": 3,
+        "TabID": 3,
+        "SlotID": 0,
+        "bHide": false,
+        "SortID": 3,
+        "Name": null,
+        "ImgPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "RowDescription": "None"
+      },
+      "4": {
+        "ID": 4,
+        "TabID": 4,
+        "SlotID": 0,
+        "bHide": false,
+        "SortID": 4,
+        "Name": null,
+        "ImgPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHall/BakedSprite/CommonHall_Vehicles_Icon_0005.CommonHall_Vehicles_Icon_0005"
+        },
+        "RowDescription": "None"
+      },
+      "5": {
+        "ID": 5,
+        "TabID": 5,
+        "SlotID": 0,
+        "bHide": false,
+        "SortID": 5,
+        "Name": null,
+        "ImgPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHall/BakedSprite/CommonHall_Vehicles_Icon_0006.CommonHall_Vehicles_Icon_0006"
+        },
+        "RowDescription": "None"
+      },
+      "6": {
+        "ID": 6,
+        "TabID": 1,
+        "SlotID": 1,
+        "bHide": false,
+        "SortID": 1,
+        "Name": null,
+        "ImgPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "RowDescription": "None"
+      },
+      "7": {
+        "ID": 7,
+        "TabID": 1,
+        "SlotID": 2,
+        "bHide": false,
+        "SortID": 2,
+        "Name": null,
+        "ImgPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "RowDescription": "None"
+      },
+      "8": {
+        "ID": 8,
+        "TabID": 1,
+        "SlotID": 3,
+        "bHide": false,
+        "SortID": 3,
+        "Name": null,
+        "ImgPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "RowDescription": "None"
+      },
+      "9": {
+        "ID": 9,
+        "TabID": 1,
+        "SlotID": 4,
+        "bHide": false,
+        "SortID": 4,
+        "Name": null,
+        "ImgPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "RowDescription": "None"
+      },
+      "10": {
+        "ID": 10,
+        "TabID": 1,
+        "SlotID": 8,
+        "bHide": false,
+        "SortID": 5,
+        "Name": null,
+        "ImgPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "RowDescription": "None"
+      },
+      "11": {
+        "ID": 11,
+        "TabID": 2,
+        "SlotID": 5,
+        "bHide": false,
+        "SortID": 1,
+        "Name": null,
+        "ImgPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "RowDescription": "None"
+      },
+      "12": {
+        "ID": 12,
+        "TabID": 2,
+        "SlotID": 12,
+        "bHide": false,
+        "SortID": 2,
+        "Name": null,
+        "ImgPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "RowDescription": "None"
+      },
+      "13": {
+        "ID": 13,
+        "TabID": 6,
+        "SlotID": 9,
+        "bHide": false,
+        "SortID": 1,
+        "Name": null,
+        "ImgPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "RowDescription": "None"
+      },
+      "14": {
+        "ID": 14,
+        "TabID": 6,
+        "SlotID": 10,
+        "bHide": false,
+        "SortID": 2,
+        "Name": null,
+        "ImgPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "RowDescription": "None"
+      },
+      "15": {
+        "ID": 15,
+        "TabID": 4,
+        "SlotID": 6,
+        "bHide": false,
+        "SortID": 1,
+        "Name": null,
+        "ImgPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "RowDescription": "None"
+      },
+      "16": {
+        "ID": 16,
+        "TabID": 5,
+        "SlotID": 7,
+        "bHide": false,
+        "SortID": 1,
+        "Name": null,
+        "ImgPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "RowDescription": "None"
+      },
+      "17": {
+        "ID": 17,
+        "TabID": 5,
+        "SlotID": 11,
+        "bHide": false,
+        "SortID": 2,
+        "Name": null,
+        "ImgPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "RowDescription": "None"
+      },
+      "18": {
+        "ID": 18,
+        "TabID": 6,
+        "SlotID": 0,
+        "bHide": false,
+        "SortID": 6,
+        "Name": null,
+        "ImgPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 18
+  }
+]

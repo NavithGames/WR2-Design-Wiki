@@ -1,0 +1,23 @@
+﻿RowName,BuffId,BuffEntityClass,RowDescription
+C103蝴蝶-40血护盾,300115,"(AssetPath=/Game/BluePrints/Ability/MedicalSoldier/103/BP_BuffEntity_C103Shield.BP_BuffEntity_C103Shield_C, SubPath=)",None
+C103：被动剪影透视,103001,"(AssetPath=/Game/BluePrints/Ability/MedicalSoldier/103/BP_BuffEntity_C103PassiveSkill.BP_BuffEntity_C103PassiveSkill_C, SubPath=)",None
+C103：蝴蝶救援中的标记,103002,"(AssetPath=/Script/DFMGameplay.DFMCharBuffEntityC103ButterRescuing, SubPath=)",None
+C103：蝴蝶救援后的标记,103003,"(AssetPath=/Game/BluePrints/Ability/MedicalSoldier/103/BP_BuffEntity_C103BeButterRescued.BP_BuffEntity_C103BeButterRescued_C, SubPath=)",None
+C103大招buff,103004,"(AssetPath=/Game/BluePrints/Ability/MedicalSoldier/103/BP_BuffEntity_C103ButterFly.BP_BuffEntity_C103ButterFly_C, SubPath=)",None
+C103：苟延残喘,103005,"(AssetPath=/Game/BluePrints/Ability/MedicalSoldier/103/BP_BuffEntity_C103EasyRescue.BP_BuffEntity_C103EasyRescue_C, SubPath=)",None
+C103：自我治疗,103006,"(AssetPath=/Game/BluePrints/Ability/MedicalSoldier/103/BP_BuffEntity_C103SelfCure.BP_BuffEntity_C103SelfCure_C, SubPath=)",None
+C103蝴蝶_粉尘领域,103007,"(AssetPath=/Game/BluePrints/Ability/MedicalSoldier/103/BP_BuffEntity_C103MedicalDroneHealing.BP_BuffEntity_C103MedicalDroneHealing_C, SubPath=)",None
+C103蝴蝶_粉尘轨迹,103008,"(AssetPath=/Game/BluePrints/Ability/MedicalSoldier/103/BP_BuffEntity_C103MedicalDronePathHealing.BP_BuffEntity_C103MedicalDronePathHealing_C, SubPath=)",None
+C103蝴蝶_粉尘领域_MP,103012,"(AssetPath=/Game/BluePrints/Ability/MedicalSoldier/103/BP_BuffEntity_C103MedicalDroneHealing.BP_BuffEntity_C103MedicalDroneHealing_C, SubPath=)",None
+C103蝴蝶_粉尘轨迹_MP,103013,"(AssetPath=/Game/BluePrints/Ability/MedicalSoldier/103/BP_BuffEntity_C103MedicalDronePathHealing.BP_BuffEntity_C103MedicalDronePathHealing_C, SubPath=)",None
+C204:PassiveMP,204005,"(AssetPath=/Game/BluePrints/Ability/Scout/C204/BP_BuffEntity_C204PassiveMP.BP_BuffEntity_C204PassiveMP_C, SubPath=)",None
+C204:PassiveSOL,204004,"(AssetPath=/Game/BluePrints/Ability/Scout/C204/BP_BuffEntity_C204PassiveSOL.BP_BuffEntity_C204PassiveSOL_C, SubPath=)",None
+204007,204007,"(AssetPath=/Script/DFMGameplay.DFMCharBuffEntityC202BeFlash, SubPath=)",None
+204008,204008,"(AssetPath=/Script/DFMGameplay.DFMCharBuffEntityC202BeFlash, SubPath=)",None
+204009,204009,"(AssetPath=None, SubPath=)",None
+204010,204010,"(AssetPath=None, SubPath=)",None
+204015,204015,"(AssetPath=/Game/BluePrints/Ability/Scout/C204/BP_BuffEntity_C204PassiveSOLNew.BP_BuffEntity_C204PassiveSOLNew_C, SubPath=)",None
+405001,405001,"(AssetPath=/Game/BluePrints/Ability/C405/BP_FreezeValue.BP_FreezeValue_C, SubPath=)",None
+405006,405006,"(AssetPath=/Game/BluePrints/Ability/C405/BP_FrozenBuffEntity.BP_FrozenBuffEntity_C, SubPath=)",None
+405007,405007,"(AssetPath=/Game/BluePrints/Ability/C405/BP_FrozenStruggleBuffEntity.BP_FrozenStruggleBuffEntity_C, SubPath=)",None
+405010,405010,"(AssetPath=/Game/BluePrints/Ability/C405/BP_C405StunGrenadeBuffEntity.BP_C405StunGrenadeBuffEntity_C, SubPath=)",None

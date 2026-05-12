@@ -1,0 +1,389 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "WeaponAttributeTable_CombinationTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Ability/OperatorFormTool/CombinationTables/WeaponAttributeTable_CombinationTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "WeaponDataAttribute",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "18060000034": {
+        "RecId": 18060000034,
+        "SuppportFireModes": [
+          "EGPWeaponFiringMode::Single"
+        ],
+        "DefaultFireMode": "EGPWeaponFiringMode::Single",
+        "FireRateMode": "EGPWeaponFiringRateMode::Auto",
+        "FireSocketMode": "EGPWeaponFireSocketMode::Single",
+        "FireInterval": 0.11,
+        "FireCD": 0.11,
+        "FireDelayTime": 0,
+        "BurstFireCD": 0.05,
+        "BurstInterval": 0.11,
+        "BurstFireInterval": 0.11,
+        "BurstFireBulletCount": 2,
+        "PostFireTime": 0,
+        "ChamberTime": 0,
+        "AutoFireSingleInterval": 0.11,
+        "AutoFireBurstInterval": 0.11,
+        "bEnableSprintAutoDelayFireOnce": false,
+        "SingleFireTolerant": 0.2,
+        "bSupportFireStartRotFromView": true,
+        "FireFromViewConfig": {
+          "_StructType": "FStructFallback",
+          "bOverrideConfig": false,
+          "TolerantAngle": 1,
+          "UseLogicAsBasic": true
+        },
+        "bCanFireUnderWater": true,
+        "bEnableIgnoreTeammateBlock_SOLMode": true,
+        "bEnableIgnoreTeammateBlock_MPMode": true,
+        "CanAddAmmo": false,
+        "WeaponAmmoCost": 1,
+        "ProjectileNumPerShot": 1,
+        "MaxValidBulletNumPerShot": 1,
+        "WeaponClipAmmoCount": 3,
+        "MaxCarriedAmmoCount": 3,
+        "AmmoType": 7,
+        "UseItemAmmoLogic": false,
+        "AmmoDamageRule_MP": {
+          "_StructType": "FStructFallback",
+          "AmmoDamageType": "EWeaponAmmoDamageType::PassHand",
+          "AmmoArmorLevelDiff": 0,
+          "PenetrateAttenuationRatio": 0,
+          "PenetrateAttenuationType": "EPenetrateAttenuationType::Never",
+          "PenetrateAmmoLevelDecrease": 0
+        },
+        "EnableAmmoTip": false,
+        "LowAmmoPresent": 0.2,
+        "bEnableAutoModifyAmmo": false,
+        "AutoModifyAmmoInterval": 1,
+        "DeltaAmmoOnce": 1,
+        "ChangeClipMode": "EGPWeaponChangeClipMode::Replace",
+        "ChangeClipMaxReloadedOnce": 1,
+        "ChangeClipTime": 0,
+        "ChangeClipTimeWhenEmpty": 0,
+        "ChangeClipTimeBackground": 1,
+        "bEnableAimOnReloading": false,
+        "bAutoReloadWhenEmpty": true,
+        "AutoReloadOption": "EWeaponAutoReloadOption::OncePerState",
+        "HeatIncreasePerFire": 1,
+        "HeatDecreasePerSecond": 5,
+        "OverHeatCDSeconds": 10,
+        "EffectOverHeatMin": 30,
+        "EquipTime": 0.3,
+        "UnEquipTime": 0.3,
+        "FastEquipTime": 0.3,
+        "FastUnEquipTime": 0.3,
+        "FirstEquipTime": 0.3,
+        "HadFirstEquipAnim": true,
+        "CharacterStateId": 1,
+        "IK3PLeftShoulerPitch": 0,
+        "IK3PLeftArmYaw": 0,
+        "WaistShootCrossHairId": 1515,
+        "WaistShootSpreadId": 15015,
+        "WaistShootRecoilId": 15015,
+        "AimAssistorId": 1001,
+        "AimAssistorIdForMPMode": 0,
+        "AimingId": 1515,
+        "SideAimingId": 0,
+        "bCanSideAiming": true,
+        "bCanRangeScope": true,
+        "AntiVehicleAssistAimConfigID": 0,
+        "AntiVehiclePosPredictConfigID": 0,
+        "WeaponHitPosPredictConfigID": 0,
+        "bEnableFastSwitchWeaponFireMode": false,
+        "CameraRecover": {
+          "_StructType": "FStructFallback",
+          "PitchUndampedFrequency": 6,
+          "YawUndampedFrequency": 6,
+          "PitchDampingRatio": 0.8,
+          "YawDampingRatio": 0.8,
+          "PitchFixN": 0.125,
+          "YawFixN": 0.125,
+          "PitchMaxVelocity": 1000,
+          "YawMaxVelocity": 1000,
+          "PitchRecoverRate": 1,
+          "YawRecoverRate": 1.000054,
+          "RecoverPauseWhiteList": []
+        },
+        "BulletFlyingId": 2012,
+        "BulletFlyingId_Breakthrough": 0,
+        "AttackerValueId": 150029,
+        "bHitRequestCheckOnClient": false,
+        "HitRequestCheckRadius": 0,
+        "HitRequestCheckRadiusForVehicle": 0,
+        "ExtraAttackerValueId": [],
+        "SprintToFireSpeed": 0,
+        "SuperSprintToFireSpeed": 0,
+        "ReturnSprintInterval": 0.1,
+        "MovementSpeedID": 1515,
+        "BattlefieldMovementSpeedID": 2515,
+        "ChangeSpeedScaleWhenHit": 0.4,
+        "CameraSwayHitScale": 1,
+        "GunSwayHitScale": 1,
+        "CameraSwayBeHitScale": 1,
+        "GunSwayBeHitScale": 1,
+        "GunSwayBeHitScale_Mobile": 0.6,
+        "AimingIdleScale": 1,
+        "AimingIdleScale_Mobile": 0.7,
+        "MiniShakeScale": 1,
+        "BeHitCameraMoveId": 1,
+        "BeHitCameraMoveScale": 1,
+        "BeHitWeaponShakeScale": 1,
+        "SingleSuppressValue": 1,
+        "ToggleSuppressValueMax": 50,
+        "CanEquipPerk": true,
+        "PerkCost": 10,
+        "ViewId": 1515,
+        "DisplayAttrValues": [
+          {
+            "Key": 2,
+            "Value": 50
+          },
+          {
+            "Key": 3,
+            "Value": 55
+          },
+          {
+            "Key": 5,
+            "Value": 50
+          },
+          {
+            "Key": 6,
+            "Value": 0
+          },
+          {
+            "Key": 4,
+            "Value": 50
+          }
+        ],
+        "bIndependentMainAttributeCurve": false,
+        "BaseMainAttributeValues": [
+          {
+            "Key": 2,
+            "Value": 50
+          },
+          {
+            "Key": 3,
+            "Value": 55
+          },
+          {
+            "Key": 5,
+            "Value": 50
+          },
+          {
+            "Key": 6,
+            "Value": 0
+          },
+          {
+            "Key": 4,
+            "Value": 50
+          }
+        ],
+        "ShotDistance": 0,
+        "CheckVehicleLeanState": false,
+        "FireInVehicleShouldLeanout": true,
+        "FireInVehicleLeanoutCheckType": false,
+        "DeltaTime2TriggerChanceScale": 1,
+        "CdTime": 5,
+        "RandomFailAddChance": 20,
+        "RescueTimeIncrements": [],
+        "RescueDeathTimeIncrements": [],
+        "CBowId": 0,
+        "RowDescription": "None"
+      },
+      "18080000031": {
+        "RecId": 18080000031,
+        "SuppportFireModes": [
+          "EGPWeaponFiringMode::Single"
+        ],
+        "DefaultFireMode": "EGPWeaponFiringMode::Single",
+        "FireRateMode": "EGPWeaponFiringRateMode::Auto",
+        "FireSocketMode": "EGPWeaponFireSocketMode::Single",
+        "FireInterval": 0.5,
+        "FireCD": 0.5,
+        "FireDelayTime": 0.1,
+        "BurstFireCD": 0.05,
+        "BurstInterval": 0.11,
+        "BurstFireInterval": 0.11,
+        "BurstFireBulletCount": 3,
+        "PostFireTime": 0,
+        "ChamberTime": 0,
+        "AutoFireSingleInterval": 0.3,
+        "AutoFireBurstInterval": 0.3,
+        "bEnableSprintAutoDelayFireOnce": false,
+        "SingleFireTolerant": 0.2,
+        "bSupportFireStartRotFromView": true,
+        "FireFromViewConfig": {
+          "_StructType": "FStructFallback",
+          "bOverrideConfig": false,
+          "TolerantAngle": 1,
+          "UseLogicAsBasic": true
+        },
+        "bCanFireUnderWater": true,
+        "bEnableIgnoreTeammateBlock_SOLMode": true,
+        "bEnableIgnoreTeammateBlock_MPMode": true,
+        "CanAddAmmo": false,
+        "WeaponAmmoCost": 1,
+        "ProjectileNumPerShot": 1,
+        "MaxValidBulletNumPerShot": 1,
+        "WeaponClipAmmoCount": 1,
+        "MaxCarriedAmmoCount": 4,
+        "AmmoType": 1,
+        "UseItemAmmoLogic": false,
+        "AmmoDamageRule_MP": {
+          "_StructType": "FStructFallback",
+          "AmmoDamageType": "EWeaponAmmoDamageType::PassHand",
+          "AmmoArmorLevelDiff": 0,
+          "PenetrateAttenuationRatio": 0,
+          "PenetrateAttenuationType": "EPenetrateAttenuationType::Never",
+          "PenetrateAmmoLevelDecrease": 0
+        },
+        "EnableAmmoTip": false,
+        "LowAmmoPresent": 0.2,
+        "bEnableAutoModifyAmmo": false,
+        "AutoModifyAmmoInterval": 1,
+        "DeltaAmmoOnce": 1,
+        "ChangeClipMode": "EGPWeaponChangeClipMode::Replace",
+        "ChangeClipMaxReloadedOnce": 1,
+        "ChangeClipTime": 2,
+        "ChangeClipTimeWhenEmpty": 2,
+        "ChangeClipTimeBackground": 1,
+        "bEnableAimOnReloading": false,
+        "bAutoReloadWhenEmpty": true,
+        "AutoReloadOption": "EWeaponAutoReloadOption::OncePerState",
+        "HeatIncreasePerFire": 1,
+        "HeatDecreasePerSecond": 5,
+        "OverHeatCDSeconds": 10,
+        "EffectOverHeatMin": 30,
+        "EquipTime": 1.5,
+        "UnEquipTime": 0.4,
+        "FastEquipTime": 0.45,
+        "FastUnEquipTime": 0.3,
+        "FirstEquipTime": 1.5,
+        "HadFirstEquipAnim": true,
+        "CharacterStateId": 1,
+        "IK3PLeftShoulerPitch": 0,
+        "IK3PLeftArmYaw": 0,
+        "WaistShootCrossHairId": 1815,
+        "WaistShootSpreadId": 11,
+        "WaistShootRecoilId": 11,
+        "AimAssistorId": 0,
+        "AimAssistorIdForMPMode": 0,
+        "AimingId": 1901,
+        "SideAimingId": 0,
+        "bCanSideAiming": true,
+        "bCanRangeScope": true,
+        "AntiVehicleAssistAimConfigID": 0,
+        "AntiVehiclePosPredictConfigID": 0,
+        "WeaponHitPosPredictConfigID": 0,
+        "bEnableFastSwitchWeaponFireMode": false,
+        "CameraRecover": {
+          "_StructType": "FStructFallback",
+          "PitchUndampedFrequency": 6,
+          "YawUndampedFrequency": 6,
+          "PitchDampingRatio": 0.8,
+          "YawDampingRatio": 0.8,
+          "PitchFixN": 0.125,
+          "YawFixN": 0.125,
+          "PitchMaxVelocity": 1000,
+          "YawMaxVelocity": 1000,
+          "PitchRecoverRate": 1,
+          "YawRecoverRate": 1.000101,
+          "RecoverPauseWhiteList": []
+        },
+        "BulletFlyingId": 2007,
+        "BulletFlyingId_Breakthrough": 0,
+        "AttackerValueId": 1982017,
+        "bHitRequestCheckOnClient": false,
+        "HitRequestCheckRadius": 0,
+        "HitRequestCheckRadiusForVehicle": 0,
+        "ExtraAttackerValueId": [],
+        "SprintToFireSpeed": 0.0001,
+        "SuperSprintToFireSpeed": 0.0001,
+        "ReturnSprintInterval": 0.05,
+        "MovementSpeedID": 1515,
+        "BattlefieldMovementSpeedID": 0,
+        "ChangeSpeedScaleWhenHit": 0.4,
+        "CameraSwayHitScale": 1,
+        "GunSwayHitScale": 1,
+        "CameraSwayBeHitScale": 1,
+        "GunSwayBeHitScale": 1,
+        "GunSwayBeHitScale_Mobile": 0.6,
+        "AimingIdleScale": 1,
+        "AimingIdleScale_Mobile": 0.7,
+        "MiniShakeScale": 1,
+        "BeHitCameraMoveId": 1,
+        "BeHitCameraMoveScale": 1,
+        "BeHitWeaponShakeScale": 1,
+        "SingleSuppressValue": 0,
+        "ToggleSuppressValueMax": 0,
+        "CanEquipPerk": false,
+        "PerkCost": 0,
+        "ViewId": 1819,
+        "DisplayAttrValues": [
+          {
+            "Key": 2,
+            "Value": 50
+          },
+          {
+            "Key": 3,
+            "Value": 55
+          },
+          {
+            "Key": 5,
+            "Value": 50
+          },
+          {
+            "Key": 6,
+            "Value": 0
+          },
+          {
+            "Key": 4,
+            "Value": 50
+          }
+        ],
+        "bIndependentMainAttributeCurve": false,
+        "BaseMainAttributeValues": [
+          {
+            "Key": 2,
+            "Value": 50
+          },
+          {
+            "Key": 3,
+            "Value": 55
+          },
+          {
+            "Key": 5,
+            "Value": 50
+          },
+          {
+            "Key": 6,
+            "Value": 0
+          },
+          {
+            "Key": 4,
+            "Value": 50
+          }
+        ],
+        "ShotDistance": 0,
+        "CheckVehicleLeanState": true,
+        "FireInVehicleShouldLeanout": true,
+        "FireInVehicleLeanoutCheckType": false,
+        "DeltaTime2TriggerChanceScale": 1,
+        "CdTime": 5,
+        "RandomFailAddChance": 20,
+        "RescueTimeIncrements": [],
+        "RescueDeathTimeIncrements": [],
+        "CBowId": 0,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 2
+  }
+]

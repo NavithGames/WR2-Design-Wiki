@@ -1,0 +1,16 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "ScoWeaponPairParameterTable_CombinationTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Ability/OperatorFormTool/CombinationTables/ScoWeaponPairParameterTable_CombinationTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "ScoWeaponPairParameterRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {},
+    "_RowCount": 0
+  }
+]

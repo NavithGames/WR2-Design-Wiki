@@ -1,0 +1,53 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "RecrtuitTaskData",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/Hero/RecrtuitTaskData",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "HeroRecruitmentTask",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "1": {
+        "Sequence": 1,
+        "HeroID": 88000000025,
+        "RecruitSeletcedNum": 2,
+        "RecruitTotalGoalNum": 3,
+        "OpMetaGoals": [
+          10213499101,
+          10200599102,
+          10200599103
+        ],
+        "RowDescription": "None"
+      },
+      "2": {
+        "Sequence": 2,
+        "HeroID": 88000000026,
+        "RecruitSeletcedNum": 2,
+        "RecruitTotalGoalNum": 3,
+        "OpMetaGoals": [
+          10213499104,
+          10200599105,
+          10200599106
+        ],
+        "RowDescription": "None"
+      },
+      "3": {
+        "Sequence": 3,
+        "HeroID": 88000000035,
+        "RecruitSeletcedNum": 2,
+        "RecruitTotalGoalNum": 3,
+        "OpMetaGoals": [
+          10213499107,
+          10200599108,
+          10200599109
+        ],
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 3
+  }
+]

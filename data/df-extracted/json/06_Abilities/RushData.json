@@ -1,0 +1,669 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "RushData",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Ability/SkillData/RushData",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "RushData",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "SkillRushData": {
+        "Key": "SkillRushData",
+        "bUseCurveMove": false,
+        "bForceForward": false,
+        "bInheritVelocity": false,
+        "InheritForwardWeight": 1,
+        "InheritCrossWeight": 1,
+        "InheritTime": 0.1,
+        "bUseGravity": false,
+        "bKeepVelocityInAir": false,
+        "VelocityZLimit": 150,
+        "VelocityXYScale": 0.9,
+        "RushHeightCurve": {
+          "_Type": "CurveFloat",
+          "_Name": "RushHeight",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/AbilityAdvanced/RushHeight",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              3,
+              2,
+              1
+            ]
+          }
+        },
+        "RushHeightCurveR": {
+          "_Type": "CurveFloat",
+          "_Name": "RushHeightLeftRight",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/AbilityAdvanced/RushHeightLeftRight",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              5,
+              6,
+              2,
+              4,
+              3,
+              1
+            ]
+          }
+        },
+        "RushHeightCurveL": {
+          "_Type": "CurveFloat",
+          "_Name": "RushHeightLeft",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/AbilityAdvanced/RushHeightLeft",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              2,
+              1
+            ]
+          }
+        },
+        "RushHeightCurveB": {
+          "_Type": "CurveFloat",
+          "_Name": "RushHeightBack",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/AbilityAdvanced/RushHeightBack",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              3,
+              2,
+              1
+            ]
+          }
+        },
+        "RushHeightCurve_falling": {
+          "_Type": "CurveFloat",
+          "_Name": "RushHeightFalling",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/AbilityAdvanced/RushHeightFalling",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              1
+            ]
+          }
+        },
+        "RushHeightCurveR_falling": {
+          "_Type": "CurveFloat",
+          "_Name": "RushHeightFalling",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/AbilityAdvanced/RushHeightFalling",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              1
+            ]
+          }
+        },
+        "RushHeightCurveL_falling": {
+          "_Type": "CurveFloat",
+          "_Name": "RushHeightFalling",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/AbilityAdvanced/RushHeightFalling",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              1
+            ]
+          }
+        },
+        "RushHeightCurveB_falling": {
+          "_Type": "CurveFloat",
+          "_Name": "RushHeightFalling",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/AbilityAdvanced/RushHeightFalling",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              1
+            ]
+          }
+        },
+        "RushAction_F_AnimKey": "RushActionF",
+        "RushAction_L_AnimKey": "RushActionL",
+        "RushAction_R_AnimKey": "RushActionR",
+        "RushAction_B_AnimKey": "RushActionB",
+        "RushAction_FL_AnimKey": "RushActionFL",
+        "RushAction_FR_AnimKey": "RushActionFR",
+        "RushAction_BL_AnimKey": "RushActionBL",
+        "RushAction_BR_AnimKey": "RushActionBR",
+        "AnimPlate": 1,
+        "RushTime": 1,
+        "MaxMoveDist": 1000,
+        "LastEndTime": 0.2,
+        "RushMovePath": {
+          "_Type": "CurveFloat",
+          "_Name": "RushPath",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/AbilityAdvanced/RushPath",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              4,
+              3,
+              2,
+              1
+            ]
+          }
+        },
+        "RushMovePathB": {
+          "_Type": "CurveFloat",
+          "_Name": "RushPathB",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/AbilityAdvanced/RushPathB",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              3,
+              2,
+              1
+            ]
+          }
+        },
+        "RushMovePathR": {
+          "_Type": "CurveFloat",
+          "_Name": "RushPathLR",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/AbilityAdvanced/RushPathLR",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              2,
+              1,
+              3
+            ]
+          }
+        },
+        "RushMovePathL": {
+          "_Type": "CurveFloat",
+          "_Name": "RushPathL",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/AbilityAdvanced/RushPathL",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              2,
+              1
+            ]
+          }
+        },
+        "BreakCurve": {
+          "_Type": "CurveFloat",
+          "_Name": "BreakCurve",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/AbilityAdvanced/BreakCurve",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              3,
+              2,
+              1
+            ]
+          }
+        },
+        "BreakBlendOutTime": 0.2,
+        "AddBuffs": [],
+        "ForwadAddBuffs": [
+          303022
+        ],
+        "BackAddBuffs": [
+          303023
+        ],
+        "LeftAddBuffs": [
+          303020
+        ],
+        "RightAddBuffs": [
+          303021
+        ],
+        "AddEndBuffs": [
+          303046
+        ],
+        "EndTimeOffset": 0.8,
+        "DebugDraw": false,
+        "AnimationPlayTypeFPP": "EAnimationPlayType::AnimPlayType_FullBody",
+        "AnimationPlayTypeTPP": "EAnimationPlayType::AnimPlayType_LocomotionFullBodyRushWithIK",
+        "CameraRotationCalcType": "EFPPCameraRotationCalcType::EFPPCameraBone",
+        "AllowVaultControlTime": 1,
+        "ContinueTime": 0.65,
+        "ContinueTimeB": 0.5,
+        "ContinueTimeR": 0.5,
+        "ContinueTimeL": 0.5,
+        "GroundContinueTime": -1,
+        "GroundContinueTimeB": -1,
+        "GroundContinueTimeR": -1,
+        "GroundContinueTimeL": -1,
+        "MaxZFallingSpeed": 70,
+        "F_Distance_Scale": 1,
+        "B_Distance_Scale": 1,
+        "L_Distance_Scale": 1,
+        "R_Distance_Scale": 1,
+        "FL_Distance_Scale": 1,
+        "FR_Distance_Scale": 1,
+        "BL_Distance_Scale": 1,
+        "BR_Distance_Scale": 1,
+        "F_Time_Scale": 1,
+        "B_Time_Scale": 1,
+        "L_Time_Scale": 1,
+        "R_Time_Scale": 1,
+        "FL_Time_Scale": 1,
+        "FR_Time_Scale": 1,
+        "BL_Time_Scale": 1,
+        "BR_Time_Scale": 1,
+        "bTurn45_135Shift": true,
+        "PCRushADOffsetAngle_Normal": 45,
+        "PCRushADOffsetAngle_Sprint": 20,
+        "GroundContinueScale": 1,
+        "GPAudioOnAdd": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/WwiseAudio/GPEvents/Classes/Classes_Ability/Classes_Ability_C302/Classes_C302_Skill/C302_Skill_JetSystem_Char_Boost.C302_Skill_JetSystem_Char_Boost"
+        },
+        "GPAudioOnAddMap": null,
+        "MoveStopDistance": 100,
+        "MoveStopTime": 0.5,
+        "MoveStopSkill": true,
+        "DebugMoveStop": false,
+        "MoveStopDistanceIncludeZ": false,
+        "RushSkillID": 1009001,
+        "LimitAngle": 30,
+        "bTryLogic": true,
+        "TryTime": 10,
+        "StartCheckTime": 0.5,
+        "RowDescription": "None"
+      },
+      "HeavyAttackRushData": {
+        "Key": "HeavyAttackRushData",
+        "bUseCurveMove": true,
+        "bForceForward": true,
+        "bInheritVelocity": true,
+        "InheritForwardWeight": 0.7,
+        "InheritCrossWeight": 0.5,
+        "InheritTime": 0.5,
+        "bUseGravity": true,
+        "bKeepVelocityInAir": true,
+        "VelocityZLimit": 150,
+        "VelocityXYScale": 0.9,
+        "RushHeightCurve": {
+          "_Type": "CurveFloat",
+          "_Name": "C_BlastShiled_HeavyAttackRushHeight",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/Engineers/C403/C_BlastShiled_HeavyAttackRushHeight",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        "RushHeightCurveR": null,
+        "RushHeightCurveL": null,
+        "RushHeightCurveB": null,
+        "RushHeightCurve_falling": null,
+        "RushHeightCurveR_falling": null,
+        "RushHeightCurveL_falling": null,
+        "RushHeightCurveB_falling": null,
+        "RushAction_F_AnimKey": "None",
+        "RushAction_L_AnimKey": "None",
+        "RushAction_R_AnimKey": "None",
+        "RushAction_B_AnimKey": "None",
+        "RushAction_FL_AnimKey": "None",
+        "RushAction_FR_AnimKey": "None",
+        "RushAction_BL_AnimKey": "None",
+        "RushAction_BR_AnimKey": "None",
+        "AnimPlate": 1,
+        "RushTime": 0.8,
+        "MaxMoveDist": 1000,
+        "LastEndTime": 0.1,
+        "RushMovePath": {
+          "_Type": "CurveFloat",
+          "_Name": "C_BlastShiled_HeavyAttackRushMove",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/Engineers/C403/C_BlastShiled_HeavyAttackRushMove",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              2,
+              3,
+              4,
+              1
+            ]
+          }
+        },
+        "RushMovePathB": null,
+        "RushMovePathR": null,
+        "RushMovePathL": null,
+        "BreakCurve": null,
+        "BreakBlendOutTime": 0.2,
+        "AddBuffs": [],
+        "ForwadAddBuffs": [],
+        "BackAddBuffs": [],
+        "LeftAddBuffs": [],
+        "RightAddBuffs": [],
+        "AddEndBuffs": [],
+        "EndTimeOffset": 0.75,
+        "DebugDraw": false,
+        "AnimationPlayTypeFPP": "EAnimationPlayType::AnimPlayType_FullBody",
+        "AnimationPlayTypeTPP": "EAnimationPlayType::AnimPlayType_FullBody",
+        "CameraRotationCalcType": "EFPPCameraRotationCalcType::EFPPCameraBone",
+        "AllowVaultControlTime": 1,
+        "ContinueTime": 0.5,
+        "ContinueTimeB": 0.5,
+        "ContinueTimeR": 0.5,
+        "ContinueTimeL": 0.5,
+        "GroundContinueTime": -1,
+        "GroundContinueTimeB": -1,
+        "GroundContinueTimeR": -1,
+        "GroundContinueTimeL": -1,
+        "MaxZFallingSpeed": 200,
+        "F_Distance_Scale": 1,
+        "B_Distance_Scale": 1,
+        "L_Distance_Scale": 1,
+        "R_Distance_Scale": 1,
+        "FL_Distance_Scale": 1,
+        "FR_Distance_Scale": 1,
+        "BL_Distance_Scale": 1,
+        "BR_Distance_Scale": 1,
+        "F_Time_Scale": 1,
+        "B_Time_Scale": 1,
+        "L_Time_Scale": 1,
+        "R_Time_Scale": 1,
+        "FL_Time_Scale": 1,
+        "FR_Time_Scale": 1,
+        "BL_Time_Scale": 1,
+        "BR_Time_Scale": 1,
+        "bTurn45_135Shift": false,
+        "PCRushADOffsetAngle_Normal": 45,
+        "PCRushADOffsetAngle_Sprint": 20,
+        "GroundContinueScale": 1,
+        "GPAudioOnAdd": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "GPAudioOnAddMap": [],
+        "MoveStopDistance": 100,
+        "MoveStopTime": 0.5,
+        "MoveStopSkill": true,
+        "DebugMoveStop": false,
+        "MoveStopDistanceIncludeZ": false,
+        "RushSkillID": -1,
+        "LimitAngle": 40,
+        "bTryLogic": true,
+        "TryTime": 10,
+        "StartCheckTime": 0.5,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 2
+  }
+]

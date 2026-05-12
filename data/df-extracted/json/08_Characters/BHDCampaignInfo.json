@@ -1,0 +1,185 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "BHDCampaignInfo",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/BHD/BHDCampaignInfo",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "BHDCampaignInfo",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "10001": {
+        "CampaignId": 10001,
+        "CampaignCode": null,
+        "CampaignDate": null,
+        "CampaignSerial": null,
+        "CampaignTitle": null,
+        "CampaignTime": null,
+        "CampaignLoc": null,
+        "CampaignDesc": null,
+        "CampaignGoal": null,
+        "CampaignImageUrl": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI_HD/UIAtlas/System/BHD/Sp/Section/BHD_Section_Big_01.BHD_Section_Big_01"
+        },
+        "CampaignIconUrl": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI_HD/UIAtlas/System/BHD/Sp/Section/BHD_Section_Normal_01.BHD_Section_Normal_01"
+        },
+        "CampaignEntryUrl": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI_HD/UIAtlas/System/BHD/Sp/SectionEntry/BHD_SectionEntry_01.BHD_SectionEntry_01"
+        },
+        "RowDescription": "None"
+      },
+      "10002": {
+        "CampaignId": 10002,
+        "CampaignCode": null,
+        "CampaignDate": null,
+        "CampaignSerial": null,
+        "CampaignTitle": null,
+        "CampaignTime": null,
+        "CampaignLoc": null,
+        "CampaignDesc": null,
+        "CampaignGoal": null,
+        "CampaignImageUrl": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI_HD/UIAtlas/System/BHD/Sp/Section/BHD_Section_Big_02.BHD_Section_Big_02"
+        },
+        "CampaignIconUrl": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI_HD/UIAtlas/System/BHD/Sp/Section/BHD_Section_Normal_02.BHD_Section_Normal_02"
+        },
+        "CampaignEntryUrl": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI_HD/UIAtlas/System/BHD/Sp/SectionEntry/BHD_SectionEntry_02.BHD_SectionEntry_02"
+        },
+        "RowDescription": "None"
+      },
+      "10003": {
+        "CampaignId": 10003,
+        "CampaignCode": null,
+        "CampaignDate": null,
+        "CampaignSerial": null,
+        "CampaignTitle": null,
+        "CampaignTime": null,
+        "CampaignLoc": null,
+        "CampaignDesc": null,
+        "CampaignGoal": null,
+        "CampaignImageUrl": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI_HD/UIAtlas/System/BHD/Sp/Section/BHD_Section_Big_03.BHD_Section_Big_03"
+        },
+        "CampaignIconUrl": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI_HD/UIAtlas/System/BHD/Sp/Section/BHD_Section_Normal_03.BHD_Section_Normal_03"
+        },
+        "CampaignEntryUrl": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI_HD/UIAtlas/System/BHD/Sp/SectionEntry/BHD_SectionEntry_03.BHD_SectionEntry_03"
+        },
+        "RowDescription": "None"
+      },
+      "10004": {
+        "CampaignId": 10004,
+        "CampaignCode": null,
+        "CampaignDate": null,
+        "CampaignSerial": null,
+        "CampaignTitle": null,
+        "CampaignTime": null,
+        "CampaignLoc": null,
+        "CampaignDesc": null,
+        "CampaignGoal": null,
+        "CampaignImageUrl": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI_HD/UIAtlas/System/BHD/Sp/Section/BHD_Section_Big_04.BHD_Section_Big_04"
+        },
+        "CampaignIconUrl": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI_HD/UIAtlas/System/BHD/Sp/Section/BHD_Section_Normal_04.BHD_Section_Normal_04"
+        },
+        "CampaignEntryUrl": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI_HD/UIAtlas/System/BHD/Sp/SectionEntry/BHD_SectionEntry_04.BHD_SectionEntry_04"
+        },
+        "RowDescription": "None"
+      },
+      "10005": {
+        "CampaignId": 10005,
+        "CampaignCode": null,
+        "CampaignDate": null,
+        "CampaignSerial": null,
+        "CampaignTitle": null,
+        "CampaignTime": null,
+        "CampaignLoc": null,
+        "CampaignDesc": null,
+        "CampaignGoal": null,
+        "CampaignImageUrl": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI_HD/UIAtlas/System/BHD/Sp/Section/BHD_Section_Big_05.BHD_Section_Big_05"
+        },
+        "CampaignIconUrl": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI_HD/UIAtlas/System/BHD/Sp/Section/BHD_Section_Normal_05.BHD_Section_Normal_05"
+        },
+        "CampaignEntryUrl": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI_HD/UIAtlas/System/BHD/Sp/SectionEntry/BHD_SectionEntry_05.BHD_SectionEntry_05"
+        },
+        "RowDescription": "None"
+      },
+      "10006": {
+        "CampaignId": 10006,
+        "CampaignCode": null,
+        "CampaignDate": null,
+        "CampaignSerial": null,
+        "CampaignTitle": null,
+        "CampaignTime": null,
+        "CampaignLoc": null,
+        "CampaignDesc": null,
+        "CampaignGoal": null,
+        "CampaignImageUrl": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI_HD/UIAtlas/System/BHD/Sp/Section/BHD_Section_Big_06.BHD_Section_Big_06"
+        },
+        "CampaignIconUrl": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI_HD/UIAtlas/System/BHD/Sp/Section/BHD_Section_Normal_06.BHD_Section_Normal_06"
+        },
+        "CampaignEntryUrl": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI_HD/UIAtlas/System/BHD/Sp/SectionEntry/BHD_SectionEntry_06.BHD_SectionEntry_06"
+        },
+        "RowDescription": "None"
+      },
+      "10007": {
+        "CampaignId": 10007,
+        "CampaignCode": null,
+        "CampaignDate": null,
+        "CampaignSerial": null,
+        "CampaignTitle": null,
+        "CampaignTime": null,
+        "CampaignLoc": null,
+        "CampaignDesc": null,
+        "CampaignGoal": null,
+        "CampaignImageUrl": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI_HD/UIAtlas/System/BHD/Sp/Section/BHD_Section_Big_07.BHD_Section_Big_07"
+        },
+        "CampaignIconUrl": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI_HD/UIAtlas/System/BHD/Sp/Section/BHD_Section_Normal_07.BHD_Section_Normal_07"
+        },
+        "CampaignEntryUrl": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI_HD/UIAtlas/System/BHD/Sp/SectionEntry/BHD_SectionEntry_07.BHD_SectionEntry_07"
+        },
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 7
+  }
+]

@@ -1,0 +1,66 @@
+﻿RowName,SocketId,SocketName,SocketDisplayName,SocketPartIcon,SocketPartType,bDefaultHide,bIsCommon,bHideForPlayer,CamPoint,ExtraInfos,RowDescription
+1,1,PisG_point,后握把,(),EAdapterItemType::PistolGrip,False,False,False,EAssemblerCamPoint::POINT_GRIP,,None
+2,2,Bar_point,枪管,(),EAdapterItemType::GunBarral,False,False,False,EAssemblerCamPoint::POINT_BARREL,,None
+3,3,Sto_point,枪托,(),EAdapterItemType::Stock,False,False,False,EAssemblerCamPoint::POINT_STOCK,,None
+4,4,Han_point,护木,(),EAdapterItemType::Handguard,False,False,False,EAssemblerCamPoint::POINT_HANDGUARD,,None
+5,5,Mag_point,弹匣,(),EAdapterItemType::Magazine,False,False,False,EAssemblerCamPoint::POINT_MAGAZINE,,None
+6,6,Muzzle_point,枪口,(),EAdapterItemType::Muzzle,False,False,False,EAssemblerCamPoint::POINT_MUZZLE,,None
+7,7,FSig_point,准星,(),EAdapterItemType::ForSight,False,False,True,EAssemblerCamPoint::POINT_SIGHT,,None
+8,8,For_point,前握把,(),EAdapterItemType::Foregrip,False,False,False,EAssemblerCamPoint::POINT_HANDGUARD,,None
+9,9,Rea_point,照门,(),EAdapterItemType::Sight,False,False,True,EAssemblerCamPoint::POINT_SIGHT,,None
+10,10,Bip_point,导轨脚架,(),EAdapterItemType::Bipod,False,False,False,EAssemblerCamPoint::POINT_BIPOD,,None
+11,11,Sco_point,瞄准镜,(),EAdapterItemType::Sight,False,False,False,EAssemblerCamPoint::POINT_SIGHT,,None
+12,12,Mag1_point,弹匣,(),EAdapterItemType::Magazine,False,False,False,EAssemblerCamPoint::POINT_MAGAZINE,,None
+13,13,ScoB_point,后瞄准镜,(),EAdapterItemType::Sight,False,False,False,EAssemblerCamPoint::POINT_SIGHT,,None
+14,14,Common_point,战术设备,(),EAdapterItemType::TacticalDevices,False,True,False,EAssemblerCamPoint::POINT_COMMON_POINT,"(ParentPartType=EAdapterItemType::Handguard, SocketDisplayName=战术设备, SocketPartIcon=(), CamPoint=EAssemblerCamPoint::POINT_HANDGUARD); (ParentPartType=EAdapterItemType::Sight, SocketDisplayName=副镜1, SocketPartIcon=(), CamPoint=EAssemblerCamPoint::POINT_SIGHT); (ParentPartType=EAdapterItemType::Sight, SocketDisplayName=副镜2, SocketPartIcon=(), CamPoint=EAssemblerCamPoint::POINT_SIGHT); (ParentPartType=EAdapterItemType::Receiver, SocketDisplayName=燃烧罐, SocketPartIcon=(), CamPoint=EAssemblerCamPoint::POINT_MAGAZINE)",None
+15,15,CommonF_point,前导轨test,(),EAdapterItemType::TacticalDevices,False,True,False,EAssemblerCamPoint::POINT_UP_RAIL,"(ParentPartType=EAdapterItemType::Handguard, SocketDisplayName=战术设备, SocketPartIcon=(), CamPoint=EAssemblerCamPoint::POINT_HANDGUARD); (ParentPartType=EAdapterItemType::Sight, SocketDisplayName=副镜, SocketPartIcon=(), CamPoint=EAssemblerCamPoint::POINT_SIGHT); (ParentPartType=EAdapterItemType::SightBase, SocketDisplayName=副镜test, SocketPartIcon=(), CamPoint=EAssemblerCamPoint::POINT_SIGHT)",None
+16,16,CommonB_point,后导轨,(),EAdapterItemType::TacticalDevices,False,True,False,EAssemblerCamPoint::POINT_UP_RAIL,"(ParentPartType=EAdapterItemType::Handguard, SocketDisplayName=战术设备, SocketPartIcon=(), CamPoint=EAssemblerCamPoint::POINT_HANDGUARD); (ParentPartType=EAdapterItemType::Sight, SocketDisplayName=副镜, SocketPartIcon=(), CamPoint=EAssemblerCamPoint::POINT_SIGHT)",None
+17,17,CommonU_point,上导轨,(),EAdapterItemType::TacticalDevices,False,True,False,EAssemblerCamPoint::POINT_UP_RAIL,"(ParentPartType=EAdapterItemType::Handguard, SocketDisplayName=战术设备, SocketPartIcon=(), CamPoint=EAssemblerCamPoint::POINT_UP_RAIL); (ParentPartType=EAdapterItemType::Sight, SocketDisplayName=副镜, SocketPartIcon=(), CamPoint=EAssemblerCamPoint::POINT_SIGHT)",None
+18,18,CommonD_point,下导轨,(),EAdapterItemType::TacticalDevices,False,True,False,EAssemblerCamPoint::POINT_DOWN_RAIL,"(ParentPartType=EAdapterItemType::Handguard, SocketDisplayName=战术设备, SocketPartIcon=(), CamPoint=EAssemblerCamPoint::POINT_DOWN_RAIL); (ParentPartType=EAdapterItemType::Sight, SocketDisplayName=副镜, SocketPartIcon=(), CamPoint=EAssemblerCamPoint::POINT_SIGHT)",None
+19,19,CommonL_point,左导轨,(),EAdapterItemType::TacticalDevices,False,True,False,EAssemblerCamPoint::POINT_LEFT_RAIL,"(ParentPartType=EAdapterItemType::Handguard, SocketDisplayName=战术设备, SocketPartIcon=(), CamPoint=EAssemblerCamPoint::POINT_LEFT_RAIL); (ParentPartType=EAdapterItemType::Sight, SocketDisplayName=副镜, SocketPartIcon=(), CamPoint=EAssemblerCamPoint::POINT_SIGHT)",None
+20,20,CommonR_point,右导轨,(),EAdapterItemType::TacticalDevices,False,True,False,EAssemblerCamPoint::POINT_RIGHT_RAIL,"(ParentPartType=EAdapterItemType::Handguard, SocketDisplayName=战术设备, SocketPartIcon=(), CamPoint=EAssemblerCamPoint::POINT_RIGHT_RAIL); (ParentPartType=EAdapterItemType::Sight, SocketDisplayName=副镜, SocketPartIcon=(), CamPoint=EAssemblerCamPoint::POINT_SIGHT); (ParentPartType=EAdapterItemType::Sight, SocketDisplayName=副镜, SocketPartIcon=(), CamPoint=EAssemblerCamPoint::POINT_SIGHT)",None
+21,21,Mou_point,镜座,(),EAdapterItemType::SightBase,True,False,True,EAssemblerCamPoint::POINT_SIGHT,,None
+22,22,Spe_point,独特,(),EAdapterItemType::None,False,False,False,EAssemblerCamPoint::POINT_SPECIAL,,None
+12_0,26,ScoS1_point,副镜,(),EAdapterItemType::Sight,False,False,False,EAssemblerCamPoint::POINT_SIGHT,,None
+12_1,24,ScoS2_point,副镜,(),EAdapterItemType::Sight,False,False,False,EAssemblerCamPoint::POINT_SIGHT,,None
+12_2,25,ScoS3_point,副镜,(),EAdapterItemType::Sight,False,False,False,EAssemblerCamPoint::POINT_SIGHT,,None
+12_3,23,Upgrade_point,强化套件,(),EAdapterItemType::Attacker,False,False,False,EAssemblerCamPoint::POINT_GUN_DISPLAY,,None
+12_4,100,Conflict_point,冲突点,(),EAdapterItemType::Special,True,False,True,EAssemblerCamPoint::POINT_DEFAULT,,None
+4_0,27,Han_point_alt,护木,(),EAdapterItemType::Handguard,False,False,False,EAssemblerCamPoint::POINT_HANDGUARD,,None
+3_0,28,StockP_point,枪托垫,(),EAdapterItemType::Stock,False,False,False,EAssemblerCamPoint::POINT_CONNECTOR,,None
+3_1,29,StockC_point,托腮板,(),EAdapterItemType::Stock,False,False,False,EAssemblerCamPoint::POINT_CHEEKPAD,,None
+NewRow,30,GripTape_Point,后握贴片,(),EAdapterItemType::None,False,False,False,EAssemblerCamPoint::POINT_PISTOLGRIP_PATCH,,None
+NewRow_0,31,sco_secondary_point,侧瞄具,(),EAdapterItemType::Sight,False,False,False,EAssemblerCamPoint::POINT_SCO_SECONDARY,,None
+NewRow_1,32,RailCU_point,上贴片,(),EAdapterItemType::TacticalDevices,False,False,False,EAssemblerCamPoint::POINT_HANU_POINT,,None
+NewRow_2,33,RailCD_point,下贴片,(),EAdapterItemType::TacticalDevices,False,False,False,EAssemblerCamPoint::POINT_HAND_POINT,,None
+NewRow_3,34,RailCL_point,左贴片,(),EAdapterItemType::TacticalDevices,False,False,False,EAssemblerCamPoint::POINT_HANL_POINT,,None
+NewRow_4,35,RailCR_point,右贴片,(),EAdapterItemType::TacticalDevices,False,False,False,EAssemblerCamPoint::POINT_HANR_POINT,,None
+NewRow_5,36,BarBip_point,枪管脚架,(),EAdapterItemType::Bipod,False,False,False,EAssemblerCamPoint::POINT_BARBIP_POINT,,None
+NewRow_6,37,HanKit_point,护木套件,(),EAdapterItemType::Handguard,False,False,False,EAssemblerCamPoint::POINT_HANKIT_POINT,,None
+NewRow_7,38,StoKit_point,枪托套件,(),EAdapterItemType::Stock,False,False,False,EAssemblerCamPoint::POINT_STOKIT_POINT,,None
+NewRow_8,39,BarKit_point,枪管套件,(),EAdapterItemType::GunBarral,False,False,False,EAssemblerCamPoint::POINT_BARKIT_POINT,,None
+NewRow_9,40,ScoU_point,上副瞄具,(),EAdapterItemType::Sight,False,False,False,EAssemblerCamPoint::POINT_SCOU_POINT,,None
+NewRow_10,41,Riser_point,增高座瞄具,(),EAdapterItemType::Sight,False,False,False,EAssemblerCamPoint::POINT_RISER_POINT,,None
+NewRow_11,150,Drop_point,挂饰,(),EAdapterItemType::Special,False,False,False,EAssemblerCamPoint::POINT_PENDANT_POINT,,None
+NewRow_12,43,GripBass_point,握把座,(),EAdapterItemType::GripBass,False,False,False,EAssemblerCamPoint::POINT_GRIPBASS_POINT,,None
+NewRow_13,44,MagBass_point,弹匣座,(),EAdapterItemType::MagBass,False,False,False,EAssemblerCamPoint::POINT_MAGBASS_POINT,,None
+NewRow_14,50,Sco_point,增高座瞄具,(),EAdapterItemType::Sight,False,False,False,EAssemblerCamPoint::POINT_HYDRASCO_POINT,,None
+NewRow_15,45,Flashkill_point,遮光罩,(),EAdapterItemType::Sight,False,False,False,EAssemblerCamPoint::POINT_FLASHKILL_POINT,,None
+NewRow_16,46,HanU_point,上护木,(),EAdapterItemType::HanU,False,False,False,EAssemblerCamPoint::POINT_HANDGUARDU_POINT,,None
+NewRow_17,47,Gas_point,导气,(),EAdapterItemType::GasT,False,False,False,EAssemblerCamPoint::POINT_GAS_POINT,,None
+NewRow_18,48,Hammer_point,击锤,(),EAdapterItemType::Hammer,False,False,False,EAssemblerCamPoint::POINT_HAMMER_POINT,,None
+NewRow_19,49,Trigger_point,扳机,(),EAdapterItemType::Trigger,False,False,False,EAssemblerCamPoint::POINT_TRIGGER_POINT,,None
+NewRow_20,51,Shield_point,隔热网,(),EAdapterItemType::Shield,False,False,False,EAssemblerCamPoint::POINT_SHIELD_POINT,,None
+NewRow_21,52,Bolt_point,枪机,(),EAdapterItemType::Bolt,False,False,False,EAssemblerCamPoint::POINT_BOLT_POINT,,None
+1_0,53,PisG_point,后握把,(),EAdapterItemType::PistolGrip,False,False,False,EAssemblerCamPoint::POINT_GISG2_POINT,,None
+NewRow_22,54,Handle_point,拉机柄,(),EAdapterItemType::Handle2,False,False,False,EAssemblerCamPoint::POINT_HANDLE_POINT,,None
+NewRow_23,55,BowString_point,弓弦,(),EAdapterItemType::BowString,False,False,False,EAssemblerCamPoint::POINT_BOWSTRING_POINT,,None
+NewRow_24,56,BowGrip_point,握把片,(),EAdapterItemType::BowGrip,False,False,False,EAssemblerCamPoint::POINT_BOWGRIP_POINT,,None
+NewRow_25,57,BowLimb_point,弓臂,(),EAdapterItemType::BowLimb,False,False,False,EAssemblerCamPoint::POINT_BOWLIMB_POINT,,None
+NewRow_26,58,BowScope_point,弓瞄具,(),EAdapterItemType::None,False,False,False,EAssemblerCamPoint::POINT_BOWSCOPE_POINT,,None
+NewRow_27,59,ArrowRest_point,箭台,(),EAdapterItemType::ArrowRest,False,False,False,EAssemblerCamPoint::POINT_ARROWREST_POINT,,None
+NewRow_28,60,Stabilizer_point,稳定杆,(),EAdapterItemType::BowScope,False,False,False,EAssemblerCamPoint::POINT_STABILIZER_POINT,,None
+NewRow_29,61,BowRelease_point,撒放器,(),EAdapterItemType::BowRelease,False,False,False,EAssemblerCamPoint::POINT_BOWRELEASE_POINT,,None
+NewRow_30,62,Lever_point,杠杆,(),EAdapterItemType::Lever,False,False,False,EAssemblerCamPoint::POINT_LEVER_POINT,,None
+NewRow_31,63,Bulletholder_point,,(),EAdapterItemType::Lever,False,False,False,EAssemblerCamPoint::POINT_SHWLLHOLDER_POINT,,None
+NewRow_32,64,UnderBar_point,,(),EAdapterItemType::Lever,False,False,False,EAssemblerCamPoint::POINT_SHWLLHOLDER_POINT,,None

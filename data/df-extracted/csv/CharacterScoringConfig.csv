@@ -1,0 +1,14 @@
+﻿RowName,KillEnemyScore,PickupItemScore,MakeDamageScore,RecoverHealthScore,GetDamageScore,TickingScore,ScoreBound,TickingDelay,RowDescription
+0,"(Lower=50, Upper=60)","(Lower=5, Upper=10)","(Lower=10, Upper=15)","(Lower=1, Upper=1.5)","(Lower=-2, Upper=-2.5)","(Lower=-3, Upper=-6)","(Lower=1, Upper=299)",10,None
+30,"(Lower=50, Upper=60)","(Lower=5, Upper=10)","(Lower=10, Upper=15)","(Lower=1, Upper=1.5)","(Lower=-2, Upper=-2.5)","(Lower=-3, Upper=-6)","(Lower=1, Upper=299)",10,None
+20,"(Lower=50, Upper=60)","(Lower=5, Upper=10)","(Lower=10, Upper=15)","(Lower=1, Upper=1.5)","(Lower=-2, Upper=-2.5)","(Lower=-3, Upper=-6)","(Lower=1, Upper=299)",10,None
+10,"(Lower=50, Upper=60)","(Lower=5, Upper=10)","(Lower=10, Upper=15)","(Lower=1, Upper=1.5)","(Lower=-2, Upper=-2.5)","(Lower=-3, Upper=-6)","(Lower=1, Upper=299)",10,None
+121,"(Lower=50, Upper=60)","(Lower=5, Upper=10)","(Lower=10, Upper=15)","(Lower=1, Upper=1.5)","(Lower=-2, Upper=-2.5)","(Lower=-3, Upper=-6)","(Lower=1, Upper=299)",10,None
+122,"(Lower=50, Upper=60)","(Lower=5, Upper=10)","(Lower=10, Upper=15)","(Lower=1, Upper=1.5)","(Lower=-2, Upper=-2.5)","(Lower=-3, Upper=-6)","(Lower=1, Upper=299)",10,None
+120,"(Lower=50, Upper=60)","(Lower=5, Upper=10)","(Lower=10, Upper=15)","(Lower=1, Upper=1.5)","(Lower=-2, Upper=-2.5)","(Lower=-3, Upper=-6)","(Lower=1, Upper=299)",10,None
+10030,"(Lower=50, Upper=60)","(Lower=5, Upper=10)","(Lower=10, Upper=15)","(Lower=1, Upper=1.5)","(Lower=-2, Upper=-2.5)","(Lower=-3, Upper=-6)","(Lower=1, Upper=299)",10,None
+10020,"(Lower=50, Upper=60)","(Lower=5, Upper=10)","(Lower=10, Upper=15)","(Lower=1, Upper=1.5)","(Lower=-2, Upper=-2.5)","(Lower=-3, Upper=-6)","(Lower=1, Upper=299)",10,None
+10010,"(Lower=50, Upper=60)","(Lower=5, Upper=10)","(Lower=10, Upper=15)","(Lower=1, Upper=1.5)","(Lower=-2, Upper=-2.5)","(Lower=-3, Upper=-6)","(Lower=1, Upper=299)",10,None
+100121,"(Lower=50, Upper=60)","(Lower=5, Upper=10)","(Lower=10, Upper=15)","(Lower=1, Upper=1.5)","(Lower=-2, Upper=-2.5)","(Lower=-3, Upper=-6)","(Lower=1, Upper=299)",10,None
+100122,"(Lower=50, Upper=60)","(Lower=5, Upper=10)","(Lower=10, Upper=15)","(Lower=1, Upper=1.5)","(Lower=-2, Upper=-2.5)","(Lower=-3, Upper=-6)","(Lower=1, Upper=299)",10,None
+100120,"(Lower=50, Upper=60)","(Lower=5, Upper=10)","(Lower=10, Upper=15)","(Lower=1, Upper=1.5)","(Lower=-2, Upper=-2.5)","(Lower=-3, Upper=-6)","(Lower=1, Upper=299)",10,None

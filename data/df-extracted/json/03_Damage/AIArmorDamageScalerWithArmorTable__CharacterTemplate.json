@@ -1,0 +1,365 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "AIArmorDamageScalerWithArmorTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/CharacterTemplate/AIArmorDamageScalerWithArmorTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "AIArmorDamageScalerWithArmorTable",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "Default": {
+        "D_Values": [
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_0.ArmorDamageScaler_0",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_1.ArmorDamageScaler_1",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_2.ArmorDamageScaler_2",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_3.ArmorDamageScaler_3",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_4.ArmorDamageScaler_4",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_5.ArmorDamageScaler_5",
+            "_Class": "CurveFloat"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "SMG": {
+        "D_Values": [
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Soldier_0.ArmorDamageScaler_Soldier_0",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Soldier_1.ArmorDamageScaler_Soldier_1",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Soldier_2.ArmorDamageScaler_Soldier_2",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Soldier_3.ArmorDamageScaler_Soldier_3",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Soldier_4.ArmorDamageScaler_Soldier_4",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Soldier_5.ArmorDamageScaler_Soldier_5",
+            "_Class": "CurveFloat"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "AR": {
+        "D_Values": [
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Soldier_0.ArmorDamageScaler_Soldier_0",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Soldier_1.ArmorDamageScaler_Soldier_1",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Soldier_2.ArmorDamageScaler_Soldier_2",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Soldier_3.ArmorDamageScaler_Soldier_3",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Soldier_4.ArmorDamageScaler_Soldier_4",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Soldier_5.ArmorDamageScaler_Soldier_5",
+            "_Class": "CurveFloat"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Shotgun": {
+        "D_Values": [
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Soldier_0.ArmorDamageScaler_Soldier_0",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Soldier_1.ArmorDamageScaler_Soldier_1",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Soldier_2.ArmorDamageScaler_Soldier_2",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Soldier_3.ArmorDamageScaler_Soldier_3",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Soldier_4.ArmorDamageScaler_Soldier_4",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Soldier_5.ArmorDamageScaler_Soldier_5",
+            "_Class": "CurveFloat"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Elite": {
+        "D_Values": [
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Elite_0.ArmorDamageScaler_Elite_0",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Elite_1.ArmorDamageScaler_Elite_1",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Elite_2.ArmorDamageScaler_Elite_2",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Elite_3.ArmorDamageScaler_Elite_3",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Elite_4.ArmorDamageScaler_Elite_4",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Elite_5.ArmorDamageScaler_Elite_5",
+            "_Class": "CurveFloat"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Boss": {
+        "D_Values": [
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Boss_0.ArmorDamageScaler_Boss_0",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Boss_1.ArmorDamageScaler_Boss_1",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Boss_2.ArmorDamageScaler_Boss_2",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Boss_3.ArmorDamageScaler_Boss_3",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Boss_4.ArmorDamageScaler_Boss_4",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Boss_5.ArmorDamageScaler_Boss_5",
+            "_Class": "CurveFloat"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Temp": {
+        "D_Values": [
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Soldier_0.ArmorDamageScaler_Soldier_0",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Soldier_1.ArmorDamageScaler_Soldier_1",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Soldier_2.ArmorDamageScaler_Soldier_2",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Soldier_3.ArmorDamageScaler_Soldier_3",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Soldier_4.ArmorDamageScaler_Soldier_4",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Soldier_5.ArmorDamageScaler_Soldier_5",
+            "_Class": "CurveFloat"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Elite_10030": {
+        "D_Values": [
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_30_0.ArmorDamageScaler_30_0",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_30_1.ArmorDamageScaler_30_1",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_30_2.ArmorDamageScaler_30_2",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_30_3.ArmorDamageScaler_30_3",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_30_4.ArmorDamageScaler_30_4",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_30_5.ArmorDamageScaler_30_5",
+            "_Class": "CurveFloat"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Boss_Anais": {
+        "D_Values": [
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Boss_0.ArmorDamageScaler_Boss_0",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Anais_1.ArmorDamageScaler_Anais_1",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Anais_1.ArmorDamageScaler_Anais_1",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Anais_1.ArmorDamageScaler_Anais_1",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Anais_1.ArmorDamageScaler_Anais_1",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Anais_1.ArmorDamageScaler_Anais_1",
+            "_Class": "CurveFloat"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Boss_Heli_Rocket": {
+        "D_Values": [
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Heli_0.ArmorDamageScaler_Heli_0",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Heli_0.ArmorDamageScaler_Heli_0",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Heli_0.ArmorDamageScaler_Heli_0",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Heli_0.ArmorDamageScaler_Heli_0",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Heli_0.ArmorDamageScaler_Heli_0",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Heli_0.ArmorDamageScaler_Heli_0",
+            "_Class": "CurveFloat"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Boss_Henc": {
+        "D_Values": [
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Henc_0.ArmorDamageScaler_Henc_0",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Henc_1.ArmorDamageScaler_Henc_1",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Henc_2.ArmorDamageScaler_Henc_2",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Henc_3.ArmorDamageScaler_Henc_3",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Boss_4.ArmorDamageScaler_Boss_4",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Boss_5.ArmorDamageScaler_Boss_5",
+            "_Class": "CurveFloat"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Boss_Warder": {
+        "D_Values": [
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Boss_Warder.ArmorDamageScaler_Boss_Warder",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Boss_Warder.ArmorDamageScaler_Boss_Warder",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Boss_Warder.ArmorDamageScaler_Boss_Warder",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Boss_Warder.ArmorDamageScaler_Boss_Warder",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Boss_Warder.ArmorDamageScaler_Boss_Warder",
+            "_Class": "CurveFloat"
+          },
+          {
+            "_Ref": "/Game/DataTables/CharacterTemplate/Difficulty_101/ArmorDamageScaler_Boss_Warder.ArmorDamageScaler_Boss_Warder",
+            "_Class": "CurveFloat"
+          }
+        ],
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 12
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "BattlefieldGlobalBuffConfigTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/BattleField/BattlefieldGlobalBuffConfigTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "BattlefieldGlobalBuffConfig",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "NewRow": {
+        "MapGlobalBuffsSettingTag": "\u4E0EBattlefieldTagTable\u4E2D\u4E00\u81F4\uFF08\u548C\u5C40\u5916MapID\u4E00\u81F4\uFF09",
+        "GlobalBuffs": [
+          {
+            "_StructType": "FStructFallback",
+            "BuffID": 140064,
+            "DeployBuffDelay": 5,
+            "ReviveBuffDelay": 0.1,
+            "PendingDeathBuffRemoval": true,
+            "DeathBuffRemoval": true
+          }
+        ]
+      }
+    },
+    "_RowCount": 1
+  }
+]

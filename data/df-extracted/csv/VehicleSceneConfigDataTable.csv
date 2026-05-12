@@ -1,0 +1,3 @@
+﻿RowName,VechileSceneType,SubLevelNameGroup,LightGroupName,HeightFogName,SequencePath,LoopCount,RowDescription
+Default,Default,(); (),VehicleDisplay_Main,VehicleDisplay_Main,(),0,None
+Water,Water,(); (),WaterVehicleDisplay_Main,VehicleDisplay_Main,(),-1,None

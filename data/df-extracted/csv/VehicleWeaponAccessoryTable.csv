@@ -1,0 +1,2 @@
+﻿RowName,AccessoryId,bEnableThremalImaging,ThermalImagingMaterial,RowDescription
+NewRow,40120000009,True,"(AssetPath=/Game/MaterialLib/Materials/Weapon/Sight/ThermalImaging/ThermalMobile/MI_ThermalImagingEffectPassVehicle.MI_ThermalImagingEffectPassVehicle, SubPath=)",None

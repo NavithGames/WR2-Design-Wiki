@@ -1,0 +1,855 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "BattleSectorConcentratedFireTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/PC/DataTables/BattleField/BattleSectorConcentratedFireTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "BattleSectorConcentratedFireRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "NewRow_15": {
+        "MapID": -1,
+        "BattleSectorConcentratedFireData": [],
+        "RowDescription": "None"
+      },
+      "90010": {
+        "MapID": 681,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 90010,
+            "Value": "Gym_Breakthrough_S1"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "10010": {
+        "MapID": 54,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 10010,
+            "Value": "\u6500\u5347PC\u653B\u9632S1"
+          },
+          {
+            "Key": 10011,
+            "Value": "\u6500\u5347PC\u653B\u9632S2"
+          },
+          {
+            "Key": 10012,
+            "Value": "\u6500\u5347PC\u653B\u9632S3"
+          },
+          {
+            "Key": 10013,
+            "Value": "\u6500\u5347PC\u653B\u9632S4"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "10020": {
+        "MapID": 33,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 10020,
+            "Value": "\u70EC\u533APC\u653B\u9632S1"
+          },
+          {
+            "Key": 10021,
+            "Value": "\u70EC\u533APC\u653B\u9632S2"
+          },
+          {
+            "Key": 10022,
+            "Value": "\u70EC\u533APC\u653B\u9632S3"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "10030": {
+        "MapID": 75,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 10030,
+            "Value": "\u4E34\u754C\u70B9PC\u653B\u9632S1"
+          },
+          {
+            "Key": 10031,
+            "Value": "\u4E34\u754C\u70B9PC\u653B\u9632S2"
+          },
+          {
+            "Key": 10032,
+            "Value": "\u4E34\u754C\u70B9PC\u653B\u9632S3"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "10041": {
+        "MapID": 113,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 10041,
+            "Value": "\u8D2F\u7A7FPC\u653B\u9632S1"
+          },
+          {
+            "Key": 10042,
+            "Value": "\u8D2F\u7A7FPC\u653B\u9632S2"
+          },
+          {
+            "Key": 10043,
+            "Value": "\u8D2F\u7A7FPC\u653B\u9632S3"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "10050": {
+        "MapID": 107,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 10050,
+            "Value": "\u5811\u58D5\u6218PC\u653B\u9632S1"
+          },
+          {
+            "Key": 10051,
+            "Value": "\u5811\u58D5\u6218PC\u653B\u9632S2"
+          },
+          {
+            "Key": 10052,
+            "Value": "\u5811\u58D5\u6218PC\u653B\u9632S3"
+          },
+          {
+            "Key": 10053,
+            "Value": "\u5811\u58D5\u6218PC\u653B\u9632S4"
+          },
+          {
+            "Key": 10054,
+            "Value": "\u5811\u58D5\u6218PC\u653B\u9632S5"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_7": {
+        "MapID": 801,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 10050,
+            "Value": "\u591C\u6218\u5811\u58D5\u6218PC\u653B\u9632S1"
+          },
+          {
+            "Key": 10051,
+            "Value": "\u591C\u6218\u5811\u58D5\u6218PC\u653B\u9632S2"
+          },
+          {
+            "Key": 10052,
+            "Value": "\u591C\u6218\u5811\u58D5\u6218PC\u653B\u9632S3"
+          },
+          {
+            "Key": 10053,
+            "Value": "\u591C\u6218\u5811\u58D5\u6218PC\u653B\u9632S4"
+          },
+          {
+            "Key": 10054,
+            "Value": "\u591C\u6218\u5811\u58D5\u6218PC\u653B\u9632S5"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "10060": {
+        "MapID": 111,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 10060,
+            "Value": "\u65AD\u8F68PC\u653B\u9632S1"
+          },
+          {
+            "Key": 10061,
+            "Value": "\u65AD\u8F68PC\u653B\u9632S2"
+          },
+          {
+            "Key": 10062,
+            "Value": "\u65AD\u8F68PC\u653B\u9632S3"
+          },
+          {
+            "Key": 10063,
+            "Value": "\u65AD\u8F68PC\u653B\u9632S4"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "10071": {
+        "MapID": 121,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 10071,
+            "Value": "\u5200\u950BPC\u653B\u9632S1"
+          },
+          {
+            "Key": 10072,
+            "Value": "\u5200\u950BPC\u653B\u9632S2"
+          },
+          {
+            "Key": 10073,
+            "Value": "\u5200\u950BPC\u653B\u9632S3"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_18": {
+        "MapID": 302,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 10080,
+            "Value": "\u98CE\u66B4\u773CPC\u653B\u9632S1"
+          },
+          {
+            "Key": 10081,
+            "Value": "\u98CE\u66B4\u773CPC\u653B\u9632S2"
+          },
+          {
+            "Key": 10082,
+            "Value": "\u98CE\u66B4\u773CPC\u653B\u9632S3"
+          },
+          {
+            "Key": 10083,
+            "Value": "\u98CE\u66B4\u773CPC\u653B\u9632S4"
+          },
+          {
+            "Key": 10084,
+            "Value": "\u98CE\u66B4\u773CPC\u653B\u9632S5"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_20": {
+        "MapID": 151,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 10091,
+            "Value": "3S1"
+          },
+          {
+            "Key": 10092,
+            "Value": "3S2"
+          },
+          {
+            "Key": 10093,
+            "Value": "3S3"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_21": {
+        "MapID": 138,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 10110,
+            "Value": "4S1"
+          },
+          {
+            "Key": 10111,
+            "Value": "4S2"
+          },
+          {
+            "Key": 10112,
+            "Value": "4S3"
+          },
+          {
+            "Key": 10113,
+            "Value": "4S4"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_24": {
+        "MapID": 145,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 10085,
+            "Value": "4S1"
+          },
+          {
+            "Key": 10086,
+            "Value": "4S2"
+          },
+          {
+            "Key": 10087,
+            "Value": "4S3"
+          },
+          {
+            "Key": 10088,
+            "Value": "4S4"
+          },
+          {
+            "Key": 10089,
+            "Value": "4S3"
+          },
+          {
+            "Key": 10090,
+            "Value": "4S3"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_26": {
+        "MapID": 311,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 10140,
+            "Value": "4S1"
+          },
+          {
+            "Key": 10141,
+            "Value": "4S2"
+          },
+          {
+            "Key": 10142,
+            "Value": "4S3"
+          },
+          {
+            "Key": 10143,
+            "Value": "4S4"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_28": {
+        "MapID": 1107,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 10051,
+            "Value": "3S1"
+          },
+          {
+            "Key": 10052,
+            "Value": "3S2"
+          },
+          {
+            "Key": 10053,
+            "Value": "3S3"
+          },
+          {
+            "Key": 10054,
+            "Value": "3S3"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_29": {
+        "MapID": 1302,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 10081,
+            "Value": "3S1"
+          },
+          {
+            "Key": 10082,
+            "Value": "3S2"
+          },
+          {
+            "Key": 10083,
+            "Value": "3S3"
+          },
+          {
+            "Key": 10084,
+            "Value": "3S3"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_30": {
+        "MapID": -1,
+        "BattleSectorConcentratedFireData": [],
+        "RowDescription": "None"
+      },
+      "40010": {
+        "MapID": 116,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 40010,
+            "Value": "\u6500\u5347PC\u56F4\u653B"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "40020": {
+        "MapID": 118,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 40020,
+            "Value": "\u70EC\u533APC\u56F4\u653B"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "40030": {
+        "MapID": 126,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 40030,
+            "Value": "\u4E34\u754C\u70B9PC\u56F4\u653B"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "40050": {
+        "MapID": 128,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 40050,
+            "Value": "\u5811\u58D5\u6218PC\u56F4\u653B"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow": {
+        "MapID": -1,
+        "BattleSectorConcentratedFireData": [],
+        "RowDescription": "None"
+      },
+      "NewRow_0": {
+        "MapID": 601,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 10010,
+            "Value": "\u6307\u6325\u5B98\u6500\u5347PC\u653B\u9632S1"
+          },
+          {
+            "Key": 10011,
+            "Value": "\u6307\u6325\u5B98\u6500\u5347PC\u653B\u9632S2"
+          },
+          {
+            "Key": 10012,
+            "Value": "\u6307\u6325\u5B98\u6500\u5347PC\u653B\u9632S3"
+          },
+          {
+            "Key": 10013,
+            "Value": "\u6307\u6325\u5B98\u6500\u5347PC\u653B\u9632S4"
+          },
+          {
+            "Key": 10014,
+            "Value": "\u6307\u6325\u5B98\u6500\u5347PC\u653B\u9632S5"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_1": {
+        "MapID": 602,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 10020,
+            "Value": "\u6307\u6325\u5B98\u70EC\u533APC\u653B\u9632S1"
+          },
+          {
+            "Key": 10021,
+            "Value": "\u6307\u6325\u5B98\u70EC\u533APC\u653B\u9632S2"
+          },
+          {
+            "Key": 10022,
+            "Value": "\u6307\u6325\u5B98\u70EC\u533APC\u653B\u9632S3"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_2": {
+        "MapID": 603,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 10030,
+            "Value": "\u6307\u6325\u5B98\u4E34\u754C\u70B9PC\u653B\u9632S1"
+          },
+          {
+            "Key": 10031,
+            "Value": "\u6307\u6325\u5B98\u4E34\u754C\u70B9PC\u653B\u9632S2"
+          },
+          {
+            "Key": 10032,
+            "Value": "\u6307\u6325\u5B98\u4E34\u754C\u70B9PC\u653B\u9632S3"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_3": {
+        "MapID": 604,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 10041,
+            "Value": "\u6307\u6325\u5B98\u8D2F\u7A7FPC\u653B\u9632S1"
+          },
+          {
+            "Key": 10042,
+            "Value": "\u6307\u6325\u5B98\u8D2F\u7A7FPC\u653B\u9632S2"
+          },
+          {
+            "Key": 10043,
+            "Value": "\u6307\u6325\u5B98\u8D2F\u7A7FPC\u653B\u9632S3"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_4": {
+        "MapID": 605,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 10050,
+            "Value": "\u6307\u6325\u5B98\u5811\u58D5\u6218PC\u653B\u9632S1"
+          },
+          {
+            "Key": 10051,
+            "Value": "\u6307\u6325\u5B98\u5811\u58D5\u6218PC\u653B\u9632S2"
+          },
+          {
+            "Key": 10052,
+            "Value": "\u6307\u6325\u5B98\u5811\u58D5\u6218PC\u653B\u9632S3"
+          },
+          {
+            "Key": 10053,
+            "Value": "\u6307\u6325\u5B98\u5811\u58D5\u6218PC\u653B\u9632S4"
+          },
+          {
+            "Key": 10054,
+            "Value": "\u6307\u6325\u5B98\u5811\u58D5\u6218PC\u653B\u9632S5"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_5": {
+        "MapID": 606,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 10060,
+            "Value": "\u6307\u6325\u5B98\u65AD\u8F68PC\u653B\u9632S1"
+          },
+          {
+            "Key": 10061,
+            "Value": "\u6307\u6325\u5B98\u65AD\u8F68PC\u653B\u9632S2"
+          },
+          {
+            "Key": 10062,
+            "Value": "\u6307\u6325\u5B98\u65AD\u8F68PC\u653B\u9632S3"
+          },
+          {
+            "Key": 10063,
+            "Value": "\u6307\u6325\u5B98\u65AD\u8F68PC\u653B\u9632S4"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_6": {
+        "MapID": 607,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 10071,
+            "Value": "\u6307\u6325\u5B98\u5200\u950BPC\u653B\u9632S1"
+          },
+          {
+            "Key": 10072,
+            "Value": "\u6307\u6325\u5B98\u5200\u950BPC\u653B\u9632S2"
+          },
+          {
+            "Key": 10073,
+            "Value": "\u6307\u6325\u5B98\u5200\u950BPC\u653B\u9632S3"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_19": {
+        "MapID": 608,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 10080,
+            "Value": "\u6307\u6325\u5B98\u98CE\u66B4\u773CPC\u653B\u9632S1"
+          },
+          {
+            "Key": 10081,
+            "Value": "\u6307\u6325\u5B98\u98CE\u66B4\u773CPC\u653B\u9632"
+          },
+          {
+            "Key": 10082,
+            "Value": "\u6307\u6325\u5B98\u98CE\u66B4\u773CPC\u653B\u9632"
+          },
+          {
+            "Key": 10083,
+            "Value": "\u6307\u6325\u5B98\u98CE\u66B4\u773CPC\u653B\u9632"
+          },
+          {
+            "Key": 10084,
+            "Value": "\u6307\u6325\u5B98\u98CE\u66B4\u773CPC\u653B\u9632"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_22": {
+        "MapID": 611,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 10091,
+            "Value": "CS1"
+          },
+          {
+            "Key": 10092,
+            "Value": "CSALL"
+          },
+          {
+            "Key": 10093,
+            "Value": "CSALL"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_23": {
+        "MapID": 609,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 10110,
+            "Value": "CS1"
+          },
+          {
+            "Key": 10111,
+            "Value": "CSALL"
+          },
+          {
+            "Key": 10112,
+            "Value": "CSALL"
+          },
+          {
+            "Key": 10113,
+            "Value": "CSALL"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_25": {
+        "MapID": 610,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 10085,
+            "Value": "CS1"
+          },
+          {
+            "Key": 10086,
+            "Value": "CSALL"
+          },
+          {
+            "Key": 10087,
+            "Value": "CSALL"
+          },
+          {
+            "Key": 10088,
+            "Value": "CSALL"
+          },
+          {
+            "Key": 10089,
+            "Value": "CSALL"
+          },
+          {
+            "Key": 10090,
+            "Value": "CSALL"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_27": {
+        "MapID": 612,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 10140,
+            "Value": "CS1"
+          },
+          {
+            "Key": 10141,
+            "Value": "CSALL"
+          },
+          {
+            "Key": 10142,
+            "Value": "CSALL"
+          },
+          {
+            "Key": 10143,
+            "Value": "CSALL"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_8": {
+        "MapID": -1,
+        "BattleSectorConcentratedFireData": [],
+        "RowDescription": "None"
+      },
+      "NewRow_10": {
+        "MapID": 621,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 20010,
+            "Value": "\u6307\u6325\u5B98\u5360\u9886\u57FA\u7840\u636E\u70B9"
+          },
+          {
+            "Key": 20011,
+            "Value": "\u6307\u6325\u5B98\u5360\u9886\u57FA\u7840\u636E\u70B9"
+          },
+          {
+            "Key": 20012,
+            "Value": "\u6307\u6325\u5B98\u5360\u9886\u57FA\u7840\u636E\u70B9"
+          },
+          {
+            "Key": 20013,
+            "Value": "\u6307\u6325\u5B98\u5360\u9886\u57FA\u7840\u636E\u70B9"
+          },
+          {
+            "Key": 20014,
+            "Value": "\u6307\u6325\u5B98\u5360\u9886\u57FA\u7840\u636E\u70B9"
+          },
+          {
+            "Key": 20015,
+            "Value": "\u6307\u6325\u5B98\u5360\u9886\u57FA\u7840\u636E\u70B9"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_11": {
+        "MapID": 622,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 20020,
+            "Value": "\u6307\u6325\u5B98\u5360\u9886\u57FA\u7840\u636E\u70B9"
+          },
+          {
+            "Key": 20021,
+            "Value": "\u6307\u6325\u5B98\u5360\u9886\u57FA\u7840\u636E\u70B9"
+          },
+          {
+            "Key": 20022,
+            "Value": "\u6307\u6325\u5B98\u5360\u9886\u57FA\u7840\u636E\u70B9"
+          },
+          {
+            "Key": 20023,
+            "Value": "\u6307\u6325\u5B98\u5360\u9886\u57FA\u7840\u636E\u70B9"
+          },
+          {
+            "Key": 20024,
+            "Value": "\u6307\u6325\u5B98\u5360\u9886\u57FA\u7840\u636E\u70B9"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_12": {
+        "MapID": 623,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 20030,
+            "Value": "\u6307\u6325\u5B98\u5360\u9886\u57FA\u7840\u636E\u70B9"
+          },
+          {
+            "Key": 20031,
+            "Value": "\u6307\u6325\u5B98\u5360\u9886\u57FA\u7840\u636E\u70B9"
+          },
+          {
+            "Key": 20032,
+            "Value": "\u6307\u6325\u5B98\u5360\u9886\u57FA\u7840\u636E\u70B9"
+          },
+          {
+            "Key": 20033,
+            "Value": "\u6307\u6325\u5B98\u5360\u9886\u57FA\u7840\u636E\u70B9"
+          },
+          {
+            "Key": 20034,
+            "Value": "\u6307\u6325\u5B98\u5360\u9886\u57FA\u7840\u636E\u70B9"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_13": {
+        "MapID": 624,
+        "BattleSectorConcentratedFireData": [],
+        "RowDescription": "None"
+      },
+      "NewRow_14": {
+        "MapID": 625,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 20050,
+            "Value": "\u6307\u6325\u5B98\u5360\u9886\u57FA\u7840\u636E\u70B9"
+          },
+          {
+            "Key": 20051,
+            "Value": "\u6307\u6325\u5B98\u5360\u9886\u57FA\u7840\u636E\u70B9"
+          },
+          {
+            "Key": 20052,
+            "Value": "\u6307\u6325\u5B98\u5360\u9886\u57FA\u7840\u636E\u70B9"
+          },
+          {
+            "Key": 20053,
+            "Value": "\u6307\u6325\u5B98\u5360\u9886\u57FA\u7840\u636E\u70B9"
+          },
+          {
+            "Key": 20054,
+            "Value": "\u6307\u6325\u5B98\u5360\u9886\u57FA\u7840\u636E\u70B9"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_9": {
+        "MapID": 626,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 20060,
+            "Value": "\u6307\u6325\u5B98\u5360\u9886\u57FA\u7840\u636E\u70B9"
+          },
+          {
+            "Key": 20061,
+            "Value": "\u6307\u6325\u5B98\u5360\u9886\u57FA\u7840\u636E\u70B9"
+          },
+          {
+            "Key": 20062,
+            "Value": "\u6307\u6325\u5B98\u5360\u9886\u57FA\u7840\u636E\u70B9"
+          },
+          {
+            "Key": 20063,
+            "Value": "\u6307\u6325\u5B98\u5360\u9886\u57FA\u7840\u636E\u70B9"
+          },
+          {
+            "Key": 20064,
+            "Value": "\u6307\u6325\u5B98\u5360\u9886\u57FA\u7840\u636E\u70B9"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_16": {
+        "MapID": 627,
+        "BattleSectorConcentratedFireData": [],
+        "RowDescription": "None"
+      },
+      "NewRow_17": {
+        "MapID": 629,
+        "BattleSectorConcentratedFireData": [
+          {
+            "Key": 20110,
+            "Value": "\u6307\u6325\u5B98\u5360\u9886\u57FA\u7840\u636E\u70B9"
+          },
+          {
+            "Key": 20111,
+            "Value": "\u6307\u6325\u5B98\u5360\u9886\u57FA\u7840\u636E\u70B9"
+          },
+          {
+            "Key": 20112,
+            "Value": "\u6307\u6325\u5B98\u5360\u9886\u57FA\u7840\u636E\u70B9"
+          },
+          {
+            "Key": 20113,
+            "Value": "\u6307\u6325\u5B98\u5360\u9886\u57FA\u7840\u636E\u70B9"
+          },
+          {
+            "Key": 20114,
+            "Value": "\u6307\u6325\u5B98\u5360\u9886\u57FA\u7840\u636E\u70B9"
+          },
+          {
+            "Key": 20115,
+            "Value": "\u6307\u6325\u5B98\u5360\u9886\u57FA\u7840\u636E\u70B9"
+          }
+        ],
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 44
+  }
+]

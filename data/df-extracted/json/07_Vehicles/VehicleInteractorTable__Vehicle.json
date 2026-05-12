@@ -1,0 +1,77 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "VehicleInteractorTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Vehicle/VehicleInteractorTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "DFMVehicleInteractorDataTableRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "NewRow_0": {
+        "VehicleId": 1101001,
+        "bKickAllPassengersAfterEnteringWater": true,
+        "bDisableInteractorAfterEnteringWater": true,
+        "RowDescription": "None"
+      },
+      "FSV\u8F6E\u5F0F\u7A81\u51FB\u70AE": {
+        "VehicleId": 1101004,
+        "bKickAllPassengersAfterEnteringWater": true,
+        "bDisableInteractorAfterEnteringWater": true,
+        "RowDescription": "None"
+      },
+      "NewRow_3": {
+        "VehicleId": 1103012,
+        "bKickAllPassengersAfterEnteringWater": true,
+        "bDisableInteractorAfterEnteringWater": true,
+        "RowDescription": "None"
+      },
+      "NewRow_4": {
+        "VehicleId": 1103007,
+        "bKickAllPassengersAfterEnteringWater": true,
+        "bDisableInteractorAfterEnteringWater": true,
+        "RowDescription": "None"
+      },
+      "NewRow_5": {
+        "VehicleId": 1102001,
+        "bKickAllPassengersAfterEnteringWater": true,
+        "bDisableInteractorAfterEnteringWater": true,
+        "RowDescription": "None"
+      },
+      "NewRow_6": {
+        "VehicleId": 1301002,
+        "bKickAllPassengersAfterEnteringWater": true,
+        "bDisableInteractorAfterEnteringWater": true,
+        "RowDescription": "None"
+      },
+      "NewRow_7": {
+        "VehicleId": 1301005,
+        "bKickAllPassengersAfterEnteringWater": true,
+        "bDisableInteractorAfterEnteringWater": true,
+        "RowDescription": "None"
+      },
+      "GTQ35\u8F7B\u578B\u5766\u514Bs": {
+        "VehicleId": 1101005,
+        "bKickAllPassengersAfterEnteringWater": true,
+        "bDisableInteractorAfterEnteringWater": true,
+        "RowDescription": "None"
+      },
+      "F35": {
+        "VehicleId": 1301007,
+        "bKickAllPassengersAfterEnteringWater": true,
+        "bDisableInteractorAfterEnteringWater": true,
+        "RowDescription": "None"
+      },
+      "\u9C7C\u9E70": {
+        "VehicleId": 1301008,
+        "bKickAllPassengersAfterEnteringWater": true,
+        "bDisableInteractorAfterEnteringWater": true,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 10
+  }
+]

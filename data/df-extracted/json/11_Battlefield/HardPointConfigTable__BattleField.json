@@ -1,0 +1,267 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "HardPointConfigTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/PC/DataTables/BattleField/HardPointConfigTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "HardPointConfigRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "214396": {
+        "MapID": 214396,
+        "FirstUnlockIndex": 0,
+        "FirstUnlockActiveCountdownTime": 20,
+        "TeamOccupyIntervalScore": 1,
+        "TeamOccupyInterval": 1,
+        "HardPointConfigArr": [
+          {
+            "_StructType": "FStructFallback",
+            "NameInIcon": "A",
+            "ActiveCountdownTime": 15,
+            "ActiveDuration": 30
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NameInIcon": "B",
+            "ActiveCountdownTime": 15,
+            "ActiveDuration": 30
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NameInIcon": "C",
+            "ActiveCountdownTime": 15,
+            "ActiveDuration": 30
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "210501": {
+        "MapID": 210501,
+        "FirstUnlockIndex": 0,
+        "FirstUnlockActiveCountdownTime": 20,
+        "TeamOccupyIntervalScore": 1,
+        "TeamOccupyInterval": 1,
+        "HardPointConfigArr": [
+          {
+            "_StructType": "FStructFallback",
+            "NameInIcon": "A",
+            "ActiveCountdownTime": 15,
+            "ActiveDuration": 60
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NameInIcon": "B",
+            "ActiveCountdownTime": 15,
+            "ActiveDuration": 60
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NameInIcon": "C",
+            "ActiveCountdownTime": 15,
+            "ActiveDuration": 60
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NameInIcon": "D",
+            "ActiveCountdownTime": 15,
+            "ActiveDuration": 60
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NameInIcon": "E",
+            "ActiveCountdownTime": 15,
+            "ActiveDuration": 60
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "210502": {
+        "MapID": 210502,
+        "FirstUnlockIndex": 0,
+        "FirstUnlockActiveCountdownTime": 20,
+        "TeamOccupyIntervalScore": 1,
+        "TeamOccupyInterval": 1,
+        "HardPointConfigArr": [
+          {
+            "_StructType": "FStructFallback",
+            "NameInIcon": "A",
+            "ActiveCountdownTime": 15,
+            "ActiveDuration": 60
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NameInIcon": "B",
+            "ActiveCountdownTime": 15,
+            "ActiveDuration": 60
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NameInIcon": "C",
+            "ActiveCountdownTime": 15,
+            "ActiveDuration": 60
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NameInIcon": "D",
+            "ActiveCountdownTime": 15,
+            "ActiveDuration": 60
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NameInIcon": "E",
+            "ActiveCountdownTime": 15,
+            "ActiveDuration": 60
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "210503": {
+        "MapID": 210503,
+        "FirstUnlockIndex": 0,
+        "FirstUnlockActiveCountdownTime": 20,
+        "TeamOccupyIntervalScore": 1,
+        "TeamOccupyInterval": 1,
+        "HardPointConfigArr": [
+          {
+            "_StructType": "FStructFallback",
+            "NameInIcon": "A",
+            "ActiveCountdownTime": 15,
+            "ActiveDuration": 60
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NameInIcon": "B",
+            "ActiveCountdownTime": 15,
+            "ActiveDuration": 60
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NameInIcon": "C",
+            "ActiveCountdownTime": 15,
+            "ActiveDuration": 60
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NameInIcon": "D",
+            "ActiveCountdownTime": 15,
+            "ActiveDuration": 60
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "210504": {
+        "MapID": 210504,
+        "FirstUnlockIndex": 0,
+        "FirstUnlockActiveCountdownTime": 20,
+        "TeamOccupyIntervalScore": 1,
+        "TeamOccupyInterval": 1,
+        "HardPointConfigArr": [
+          {
+            "_StructType": "FStructFallback",
+            "NameInIcon": "A",
+            "ActiveCountdownTime": 15,
+            "ActiveDuration": 60
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NameInIcon": "B",
+            "ActiveCountdownTime": 15,
+            "ActiveDuration": 60
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NameInIcon": "C",
+            "ActiveCountdownTime": 15,
+            "ActiveDuration": 60
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NameInIcon": "D",
+            "ActiveCountdownTime": 15,
+            "ActiveDuration": 60
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "210505": {
+        "MapID": 210505,
+        "FirstUnlockIndex": 0,
+        "FirstUnlockActiveCountdownTime": 20,
+        "TeamOccupyIntervalScore": 1,
+        "TeamOccupyInterval": 1,
+        "HardPointConfigArr": [
+          {
+            "_StructType": "FStructFallback",
+            "NameInIcon": "A",
+            "ActiveCountdownTime": 15,
+            "ActiveDuration": 60
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NameInIcon": "B",
+            "ActiveCountdownTime": 15,
+            "ActiveDuration": 60
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NameInIcon": "C",
+            "ActiveCountdownTime": 15,
+            "ActiveDuration": 60
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NameInIcon": "D",
+            "ActiveCountdownTime": 15,
+            "ActiveDuration": 60
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NameInIcon": "E",
+            "ActiveCountdownTime": 10,
+            "ActiveDuration": 60
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "210506": {
+        "MapID": 210506,
+        "FirstUnlockIndex": 0,
+        "FirstUnlockActiveCountdownTime": 20,
+        "TeamOccupyIntervalScore": 1,
+        "TeamOccupyInterval": 1,
+        "HardPointConfigArr": [
+          {
+            "_StructType": "FStructFallback",
+            "NameInIcon": "A",
+            "ActiveCountdownTime": 15,
+            "ActiveDuration": 60
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NameInIcon": "B",
+            "ActiveCountdownTime": 15,
+            "ActiveDuration": 60
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NameInIcon": "C",
+            "ActiveCountdownTime": 15,
+            "ActiveDuration": 60
+          },
+          {
+            "_StructType": "FStructFallback",
+            "NameInIcon": "D",
+            "ActiveCountdownTime": 15,
+            "ActiveDuration": 60
+          }
+        ],
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 7
+  }
+]

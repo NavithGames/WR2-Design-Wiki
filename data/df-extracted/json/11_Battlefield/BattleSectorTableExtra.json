@@ -1,0 +1,710 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "BattleSectorTableExtra",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/PC/DataTables/BattleField/BattleSectorTableExtra",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "BattleSectorExtraRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "NewRow": {
+        "MapID": -1,
+        "BattleSectorExtraDataMap": [
+          {
+            "Key": 0,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": -1,
+              "AddVoteNum": -1,
+              "ForbidHalfJoinVoteNum": -1,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": -1,
+              "CommanderSectorTransTime": 20
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Iceland_Breakthrough_2000Ticket_S1": {
+        "MapID": 130,
+        "BattleSectorExtraDataMap": [
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": -1,
+              "AddVoteNum": 1000,
+              "ForbidHalfJoinVoteNum": -1,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": -1,
+              "CommanderSectorTransTime": 20
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_0": {
+        "MapID": -1,
+        "BattleSectorExtraDataMap": [],
+        "RowDescription": "None"
+      },
+      "NewRow_1": {
+        "MapID": 601,
+        "BattleSectorExtraDataMap": [
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 1,
+              "AddVoteNum": 55,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          },
+          {
+            "Key": 10011,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 2,
+              "AddVoteNum": 55,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          },
+          {
+            "Key": 10012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 3,
+              "AddVoteNum": 35,
+              "ForbidHalfJoinVoteNum": 50,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          },
+          {
+            "Key": 10013,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 4,
+              "AddVoteNum": 35,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          },
+          {
+            "Key": 10014,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 5,
+              "AddVoteNum": 35,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_2": {
+        "MapID": 602,
+        "BattleSectorExtraDataMap": [
+          {
+            "Key": 10020,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 1,
+              "AddVoteNum": 60,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          },
+          {
+            "Key": 10021,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 2,
+              "AddVoteNum": 50,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          },
+          {
+            "Key": 10022,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 3,
+              "AddVoteNum": 50,
+              "ForbidHalfJoinVoteNum": 50,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_3": {
+        "MapID": 603,
+        "BattleSectorExtraDataMap": [
+          {
+            "Key": 10030,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 1,
+              "AddVoteNum": 60,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          },
+          {
+            "Key": 10031,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 2,
+              "AddVoteNum": 50,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          },
+          {
+            "Key": 10032,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 3,
+              "AddVoteNum": 50,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_4": {
+        "MapID": 605,
+        "BattleSectorExtraDataMap": [
+          {
+            "Key": 10050,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 1,
+              "AddVoteNum": 65,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          },
+          {
+            "Key": 10051,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 2,
+              "AddVoteNum": 65,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          },
+          {
+            "Key": 10052,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 3,
+              "AddVoteNum": 45,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          },
+          {
+            "Key": 10053,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 4,
+              "AddVoteNum": 45,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          },
+          {
+            "Key": 10054,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 5,
+              "AddVoteNum": 45,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_5": {
+        "MapID": 606,
+        "BattleSectorExtraDataMap": [
+          {
+            "Key": 10060,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 1,
+              "AddVoteNum": 55,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          },
+          {
+            "Key": 10061,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 2,
+              "AddVoteNum": 55,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          },
+          {
+            "Key": 10062,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 3,
+              "AddVoteNum": 55,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          },
+          {
+            "Key": 10063,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 4,
+              "AddVoteNum": 55,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_6": {
+        "MapID": 608,
+        "BattleSectorExtraDataMap": [
+          {
+            "Key": 10080,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 1,
+              "AddVoteNum": 65,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          },
+          {
+            "Key": 10081,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 2,
+              "AddVoteNum": 65,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          },
+          {
+            "Key": 10082,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 3,
+              "AddVoteNum": 45,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          },
+          {
+            "Key": 10083,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 4,
+              "AddVoteNum": 45,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          },
+          {
+            "Key": 10084,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 5,
+              "AddVoteNum": 45,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_7": {
+        "MapID": 611,
+        "BattleSectorExtraDataMap": [
+          {
+            "Key": 10091,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 1,
+              "AddVoteNum": 60,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          },
+          {
+            "Key": 10092,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 2,
+              "AddVoteNum": 50,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          },
+          {
+            "Key": 10093,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 3,
+              "AddVoteNum": 50,
+              "ForbidHalfJoinVoteNum": 50,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_8": {
+        "MapID": 609,
+        "BattleSectorExtraDataMap": [
+          {
+            "Key": 10110,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 1,
+              "AddVoteNum": 55,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          },
+          {
+            "Key": 10111,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 2,
+              "AddVoteNum": 55,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          },
+          {
+            "Key": 10112,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 3,
+              "AddVoteNum": 55,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          },
+          {
+            "Key": 10113,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 4,
+              "AddVoteNum": 55,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_9": {
+        "MapID": 610,
+        "BattleSectorExtraDataMap": [
+          {
+            "Key": 10085,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 1,
+              "AddVoteNum": 60,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          },
+          {
+            "Key": 10086,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 2,
+              "AddVoteNum": 55,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          },
+          {
+            "Key": 10087,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 3,
+              "AddVoteNum": 55,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          },
+          {
+            "Key": 10088,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 4,
+              "AddVoteNum": 55,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          },
+          {
+            "Key": 10089,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 5,
+              "AddVoteNum": 55,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          },
+          {
+            "Key": 10090,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 6,
+              "AddVoteNum": 55,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NewRow_10": {
+        "MapID": 612,
+        "BattleSectorExtraDataMap": [
+          {
+            "Key": 10140,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 1,
+              "AddVoteNum": 60,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          },
+          {
+            "Key": 10141,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 2,
+              "AddVoteNum": 55,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          },
+          {
+            "Key": 10142,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 3,
+              "AddVoteNum": 55,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          },
+          {
+            "Key": 10143,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SerialNumber": 4,
+              "AddVoteNum": 55,
+              "ForbidHalfJoinVoteNum": 35,
+              "EnableHalfJoin": 2,
+              "ForbidHalfJoinKillNum": -1,
+              "MatchDuration": -1,
+              "SectorTransTime": 30,
+              "CommanderSectorTransTime": 15
+            }
+          }
+        ],
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 13
+  }
+]

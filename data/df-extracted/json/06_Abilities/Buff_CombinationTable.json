@@ -1,0 +1,4052 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "Buff_CombinationTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Ability/OperatorFormTool/CombinationTables/Buff_CombinationTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "DFMBuffEffectRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "300115": {
+        "BuffID": 300115,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Unknow",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EDeath",
+          "EBuffDisableTag::EImpendingDeath"
+        ],
+        "IsDisplay": true,
+        "DisplayName": null,
+        "Description": null,
+        "IsInstant": false,
+        "Duration": 25,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          300115
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "None",
+        "StackType": "EStackType::Unable",
+        "bOnlyRefreshTime": false,
+        "StackPart": [
+          "ECharacterPart::None"
+        ],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0180.Buffer_Icon_0180",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "103007": {
+        "BuffID": 103007,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Buff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EImpendingDeath",
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": true,
+        "DisplayName": null,
+        "Description": null,
+        "IsInstant": false,
+        "Duration": 2,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          103007
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "None",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": true,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": -1,
+        "RestrainBuffTypeArray": [
+          "smoke",
+          "AbilitySupport",
+          "300013",
+          "300014",
+          "300017",
+          "300018",
+          "Bleeding",
+          "300036",
+          "103008"
+        ],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0124.Buffer_Icon_0124",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 2,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "103008": {
+        "BuffID": 103008,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Buff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EImpendingDeath",
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": true,
+        "DisplayName": null,
+        "Description": null,
+        "IsInstant": false,
+        "Duration": 10,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          103008
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "None",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": true,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": -1,
+        "RestrainBuffTypeArray": [
+          "smoke",
+          "AbilitySupport",
+          "300013",
+          "300014",
+          "300017",
+          "300018",
+          "Bleeding",
+          "300036"
+        ],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0124.Buffer_Icon_0124",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 2,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "103001": {
+        "BuffID": 103001,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Buff",
+        "BuffDisableTagArray": [],
+        "IsDisplay": false,
+        "DisplayName": "",
+        "Description": "",
+        "IsInstant": false,
+        "Duration": -1,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "C103Talent",
+        "StackType": "EStackType::Unable",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0105.Buffer_Icon_0105",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "103002": {
+        "BuffID": 103002,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Buff",
+        "BuffDisableTagArray": [],
+        "IsDisplay": false,
+        "DisplayName": "",
+        "Description": "",
+        "IsInstant": false,
+        "Duration": -1,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "C103ButterRescuing",
+        "StackType": "EStackType::Unable",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [
+          "3001",
+          "3004",
+          "3005",
+          "1101",
+          "1301",
+          "4001",
+          "4002",
+          "4003",
+          "4004",
+          "8016"
+        ],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0104.Buffer_Icon_0104",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "103003": {
+        "BuffID": 103003,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Buff",
+        "BuffDisableTagArray": [],
+        "IsDisplay": false,
+        "DisplayName": "",
+        "Description": "",
+        "IsInstant": false,
+        "Duration": 20,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "C103BeButterRescued",
+        "StackType": "EStackType::Unable",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0104.Buffer_Icon_0104",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "103004": {
+        "BuffID": 103004,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Buff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EImpendingDeath",
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": true,
+        "DisplayName": null,
+        "Description": null,
+        "IsInstant": false,
+        "Duration": 25,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "C103ButterFly",
+        "StackType": "EStackType::Unable",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [
+          "Bleeding",
+          "Sonitus",
+          "1301",
+          "1210",
+          "4001",
+          "4002",
+          "4003",
+          "4004",
+          "4005",
+          "90102",
+          "90301",
+          "90302",
+          "90501"
+        ],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0184.Buffer_Icon_0184",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "103005": {
+        "BuffID": 103005,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Buff",
+        "BuffDisableTagArray": [],
+        "IsDisplay": false,
+        "DisplayName": "",
+        "Description": "",
+        "IsInstant": false,
+        "Duration": -1,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "C103Talent",
+        "StackType": "EStackType::Unable",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0172.Buffer_Icon_0172",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "103006": {
+        "BuffID": 103006,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Buff",
+        "BuffDisableTagArray": [],
+        "IsDisplay": false,
+        "DisplayName": "",
+        "Description": "",
+        "IsInstant": false,
+        "Duration": 1,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "C103SelfCure",
+        "StackType": "EStackType::Unable",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [
+          "smoke",
+          "AbilitySupport",
+          "300013",
+          "300014",
+          "300017",
+          "300018",
+          "Bleeding",
+          "300036"
+        ],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0124.Buffer_Icon_0124",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "103009": {
+        "BuffID": 103009,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Buff",
+        "BuffDisableTagArray": [],
+        "IsDisplay": false,
+        "DisplayName": "",
+        "Description": "",
+        "IsInstant": false,
+        "Duration": 3,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          103009
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "None",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [
+          "102017"
+        ],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0108.Buffer_Icon_0108",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "103010": {
+        "BuffID": 103010,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Unknow",
+        "BuffDisableTagArray": [],
+        "IsDisplay": false,
+        "DisplayName": "",
+        "Description": "",
+        "IsInstant": false,
+        "Duration": -1,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "Electricrescue",
+        "StackType": "EStackType::Unable",
+        "bOnlyRefreshTime": false,
+        "StackPart": [
+          "ECharacterPart::None"
+        ],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "103011": {
+        "BuffID": 103011,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Buff",
+        "BuffDisableTagArray": [],
+        "IsDisplay": true,
+        "DisplayName": null,
+        "Description": "",
+        "IsInstant": false,
+        "Duration": 20,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "None",
+        "StackType": "EStackType::Unable",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [
+          "Bleeding",
+          "Sonitus",
+          "1301",
+          "1210",
+          "4001",
+          "4002",
+          "4003",
+          "4004",
+          "4005",
+          "90102",
+          "90301",
+          "90302",
+          "90501"
+        ],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0108.Buffer_Icon_0108",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "103012": {
+        "BuffID": 103012,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Buff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EImpendingDeath",
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": true,
+        "DisplayName": null,
+        "Description": null,
+        "IsInstant": false,
+        "Duration": 2,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          103012
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "None",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": true,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": -1,
+        "RestrainBuffTypeArray": [
+          "smoke",
+          "AbilitySupport",
+          "300013",
+          "300014",
+          "300017",
+          "300018",
+          "Bleeding",
+          "300036",
+          "103008"
+        ],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0124.Buffer_Icon_0124",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 2,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "103013": {
+        "BuffID": 103013,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Buff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EImpendingDeath",
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": true,
+        "DisplayName": null,
+        "Description": null,
+        "IsInstant": false,
+        "Duration": 10,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          103013
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "None",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": true,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": -1,
+        "RestrainBuffTypeArray": [
+          "smoke",
+          "AbilitySupport",
+          "300013",
+          "300014",
+          "300017",
+          "300018",
+          "Bleeding",
+          "300036"
+        ],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0124.Buffer_Icon_0124",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 2,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "103014": {
+        "BuffID": 103014,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Buff",
+        "BuffDisableTagArray": [],
+        "IsDisplay": false,
+        "DisplayName": "",
+        "Description": "",
+        "IsInstant": false,
+        "Duration": 3,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          300020
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "None",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [
+          "102017"
+        ],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0108.Buffer_Icon_0108",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "10410001": {
+        "BuffID": 10410001,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Debuff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EImpendingDeath",
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": false,
+        "DisplayName": "",
+        "Description": "",
+        "IsInstant": false,
+        "Duration": -1,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          1041000101
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "ToxicSmoke",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0154.Buffer_Icon_0154",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "10420002": {
+        "BuffID": 10410002,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Debuff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EImpendingDeath",
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": false,
+        "DisplayName": "",
+        "Description": "",
+        "IsInstant": false,
+        "Duration": -1,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          1042000201
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "ToxicSmoke",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0154.Buffer_Icon_0154",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "204001": {
+        "BuffID": 204001,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Debuff",
+        "BuffDisableTagArray": [],
+        "IsDisplay": false,
+        "DisplayName": "",
+        "Description": "",
+        "IsInstant": false,
+        "Duration": -1,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "C204Talent",
+        "StackType": "EStackType::Unable",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "204002": {
+        "BuffID": 204002,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Debuff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EImpendingDeath",
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": true,
+        "DisplayName": null,
+        "Description": null,
+        "IsInstant": false,
+        "Duration": 10,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "InterferenceNoise",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0186.Buffer_Icon_0186",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "204006": {
+        "BuffID": 204006,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Debuff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EImpendingDeath",
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": true,
+        "DisplayName": null,
+        "Description": null,
+        "IsInstant": false,
+        "Duration": 10,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "InterferenceHear",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0187.Buffer_Icon_0187",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "204031": {
+        "BuffID": 204031,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Debuff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EImpendingDeath",
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": true,
+        "DisplayName": null,
+        "Description": null,
+        "IsInstant": false,
+        "Duration": 5,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "InterferenceNoise",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0186.Buffer_Icon_0186",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "204030": {
+        "BuffID": 204030,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Debuff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EImpendingDeath",
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": true,
+        "DisplayName": null,
+        "Description": null,
+        "IsInstant": false,
+        "Duration": 5,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "InterferenceHear",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0187.Buffer_Icon_0187",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "204003": {
+        "BuffID": 204003,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Debuff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EImpendingDeath",
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": true,
+        "DisplayName": null,
+        "Description": null,
+        "IsInstant": false,
+        "Duration": 10,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "InterferenceNoise",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0187.Buffer_Icon_0187",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "204004": {
+        "BuffID": 204004,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Buff",
+        "BuffDisableTagArray": [],
+        "IsDisplay": true,
+        "DisplayName": null,
+        "Description": null,
+        "IsInstant": false,
+        "Duration": -1,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "InterferenceNoise",
+        "StackType": "EStackType::Unable",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0188.Buffer_Icon_0188",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "204005": {
+        "BuffID": 204005,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Buff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EImpendingDeath",
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": false,
+        "DisplayName": null,
+        "Description": null,
+        "IsInstant": false,
+        "Duration": -1,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "InterferenceNoise",
+        "StackType": "EStackType::Unable",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [
+          {
+            "_StructType": "FStructFallback",
+            "TriggerType": "EBuffActionTriggerType::OnRemove",
+            "BuffAction": "EBuffAction::AddCoolDownBuff",
+            "Param01": 204025,
+            "Param02": 0
+          }
+        ],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0189.Buffer_Icon_0189",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "204007": {
+        "BuffID": 204007,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Debuff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EDeath",
+          "EBuffDisableTag::EImpendingDeath"
+        ],
+        "IsDisplay": false,
+        "DisplayName": null,
+        "Description": null,
+        "IsInstant": false,
+        "Duration": 4,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          302105
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "C204SceenFlash",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [
+          "100028"
+        ],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [
+          "C204SceenFlashconflict"
+        ],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::Replace",
+        "TriggerCounter": 4,
+        "ContinueTime": 20,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 300060,
+        "ReplaceBuffId": 100028,
+        "RowDescription": "None"
+      },
+      "204008": {
+        "BuffID": 204008,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Debuff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EDeath",
+          "EBuffDisableTag::EImpendingDeath"
+        ],
+        "IsDisplay": false,
+        "DisplayName": null,
+        "Description": null,
+        "IsInstant": false,
+        "Duration": 2.8,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          302105
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "C204SceenFlash",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [
+          "100028"
+        ],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [
+          "C204SceenFlashconflict"
+        ],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::Replace",
+        "TriggerCounter": 4,
+        "ContinueTime": 20,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 300060,
+        "ReplaceBuffId": 100028,
+        "RowDescription": "None"
+      },
+      "204009": {
+        "BuffID": 204009,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Debuff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EDeath",
+          "EBuffDisableTag::EImpendingDeath"
+        ],
+        "IsDisplay": false,
+        "DisplayName": null,
+        "Description": null,
+        "IsInstant": false,
+        "Duration": 0.5,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "C204SceenFlash",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [
+          "C204SceenFlashconflict"
+        ],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "204010": {
+        "BuffID": 204010,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Debuff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EDeath",
+          "EBuffDisableTag::EImpendingDeath"
+        ],
+        "IsDisplay": false,
+        "DisplayName": null,
+        "Description": null,
+        "IsInstant": false,
+        "Duration": 1,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          302105
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "C204SceenFlash",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [
+          "C204SceenFlashconflict"
+        ],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "204011": {
+        "BuffID": 204011,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Debuff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EImpendingDeath",
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": false,
+        "DisplayName": null,
+        "Description": null,
+        "IsInstant": false,
+        "Duration": 2,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          204011
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "InterferenceHit",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::Replace",
+        "TriggerCounter": 4,
+        "ContinueTime": 20,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 204035,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "204016": {
+        "BuffID": 204016,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Debuff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EImpendingDeath",
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": false,
+        "DisplayName": null,
+        "Description": null,
+        "IsInstant": false,
+        "Duration": 1,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          204016
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "InterferenceHit",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::Replace",
+        "TriggerCounter": 4,
+        "ContinueTime": 20,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 204035,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "204015": {
+        "BuffID": 204015,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Buff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EImpendingDeath",
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": false,
+        "DisplayName": "",
+        "Description": "",
+        "IsInstant": false,
+        "Duration": -1,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "None",
+        "StackType": "EStackType::Unable",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [
+          {
+            "_StructType": "FStructFallback",
+            "TriggerType": "EBuffActionTriggerType::OnRemove",
+            "BuffAction": "EBuffAction::AddCoolDownBuff",
+            "Param01": 204024,
+            "Param02": 0
+          }
+        ],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0189.Buffer_Icon_0189",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "204014": {
+        "BuffID": 204014,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Buff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EImpendingDeath",
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": false,
+        "DisplayName": "",
+        "Description": "",
+        "IsInstant": false,
+        "Duration": -1,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "CatTracing",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "204025": {
+        "BuffID": 204025,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Buff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EImpendingDeath",
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": true,
+        "DisplayName": null,
+        "Description": null,
+        "IsInstant": false,
+        "Duration": 60,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "InterferenceNoise",
+        "StackType": "EStackType::Unable",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [
+          "204005"
+        ],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [
+          {
+            "_StructType": "FStructFallback",
+            "TriggerType": "EBuffActionTriggerType::OnRemove",
+            "BuffAction": "EBuffAction::AddBuff",
+            "Param01": 204005,
+            "Param02": 0
+          }
+        ],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0190.Buffer_Icon_0190",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "204024": {
+        "BuffID": 204024,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Buff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EImpendingDeath",
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": true,
+        "DisplayName": null,
+        "Description": null,
+        "IsInstant": false,
+        "Duration": 60,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "InterferenceNoise",
+        "StackType": "EStackType::Unable",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [
+          {
+            "_StructType": "FStructFallback",
+            "TriggerType": "EBuffActionTriggerType::OnRemove",
+            "BuffAction": "EBuffAction::AddBuff",
+            "Param01": 204015,
+            "Param02": 0
+          }
+        ],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0190.Buffer_Icon_0190",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "405001": {
+        "BuffID": 405001,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Debuff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EImpendingDeath",
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": true,
+        "DisplayName": "",
+        "Description": "",
+        "IsInstant": false,
+        "Duration": -1,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          405001
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "freeze",
+        "StackType": "EStackType::Unable",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/AchievementSOL/BakedSprite/Achievement_56.Achievement_56",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "405002": {
+        "BuffID": 405002,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Debuff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EDeath",
+          "EBuffDisableTag::EImpendingDeath"
+        ],
+        "IsDisplay": true,
+        "DisplayName": "",
+        "Description": null,
+        "IsInstant": false,
+        "Duration": -1,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          301106
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "freeze",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": true,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0176.Buffer_Icon_0176",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "405003": {
+        "BuffID": 405003,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Debuff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": false,
+        "DisplayName": "",
+        "Description": null,
+        "IsInstant": false,
+        "Duration": 30,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          300070
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "freeze",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 9,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": 1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Arms/Engineer/BakedSprite/Engineer_Skill_Icon_19.Engineer_Skill_Icon_19",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "405004": {
+        "BuffID": 405004,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Debuff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": false,
+        "DisplayName": "",
+        "Description": null,
+        "IsInstant": false,
+        "Duration": -1,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          300051
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "freeze",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [
+          "1301",
+          "1210"
+        ],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0101.Buffer_Icon_0101",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "405005": {
+        "BuffID": 405005,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Debuff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EImpendingDeath",
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": true,
+        "DisplayName": "",
+        "Description": "",
+        "IsInstant": false,
+        "Duration": 99,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          405005
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "freeze",
+        "StackType": "EStackType::Unable",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/AchievementMp/BakedSprite/AchievementMP_Icon_1071.AchievementMP_Icon_1071",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "405006": {
+        "BuffID": 405006,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Debuff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EImpendingDeath",
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": true,
+        "DisplayName": "",
+        "Description": "",
+        "IsInstant": false,
+        "Duration": 10,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          405006
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "freeze",
+        "StackType": "EStackType::Unable",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/AchievementMp/BakedSprite/AchievementMP_Icon_1071.AchievementMP_Icon_1071",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "405007": {
+        "BuffID": 405007,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Unknow",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EImpendingDeath",
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": true,
+        "DisplayName": "",
+        "Description": "",
+        "IsInstant": false,
+        "Duration": -1,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          405007
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "freeze",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/AchievementSOL/BakedSprite/Achievement_55.Achievement_55",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "405008": {
+        "BuffID": 405008,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Unknow",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EImpendingDeath",
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": true,
+        "DisplayName": "",
+        "Description": "",
+        "IsInstant": false,
+        "Duration": 20,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          405007
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "None",
+        "StackType": "EStackType::Unable",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/AchievementMp/BakedSprite/AchievementMP_Icon_1046.AchievementMP_Icon_1046",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "405009": {
+        "BuffID": 405009,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Debuff",
+        "BuffDisableTagArray": [],
+        "IsDisplay": false,
+        "DisplayName": "",
+        "Description": "",
+        "IsInstant": false,
+        "Duration": 2,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          204016
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "C204Talent",
+        "StackType": "EStackType::Unable",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0172.Buffer_Icon_0172",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "405010": {
+        "BuffID": 405010,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Debuff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EDeath",
+          "EBuffDisableTag::EImpendingDeath"
+        ],
+        "IsDisplay": false,
+        "DisplayName": "",
+        "Description": "",
+        "IsInstant": false,
+        "Duration": 2.8,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          303068
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "C303SceenFlash",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/HUD/BakedSprite/HUD_Buffer_Icon_0105.HUD_Buffer_Icon_0105",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [
+          "C202SceenFlashconflict"
+        ],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::Replace",
+        "TriggerCounter": 4,
+        "ContinueTime": 20,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 300060,
+        "ReplaceBuffId": 100028,
+        "RowDescription": "None"
+      },
+      "405011": {
+        "BuffID": 405011,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Debuff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": false,
+        "DisplayName": "",
+        "Description": "",
+        "IsInstant": false,
+        "Duration": 8,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "tinnitus",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0132.Buffer_Icon_0132",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "501001": {
+        "BuffID": 501001,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Unknow",
+        "BuffDisableTagArray": [],
+        "IsDisplay": true,
+        "DisplayName": null,
+        "Description": null,
+        "IsInstant": false,
+        "Duration": -1,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          501001
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "C501Medic",
+        "StackType": "EStackType::Unable",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [
+          "ReloadSpeed15%",
+          "ReloadSpeed20%",
+          "ReloadSpeed25%",
+          "ReloadSpeed30%"
+        ],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0185.Buffer_Icon_0185",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [
+          "C501MedicConflict"
+        ],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "501002": {
+        "BuffID": 501002,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Unknow",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": false,
+        "DisplayName": "",
+        "Description": "",
+        "IsInstant": false,
+        "Duration": 1.1,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          501002
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "RopeBuff_C501",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": false,
+        "StackPart": [
+          "ECharacterPart::None"
+        ],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "501003": {
+        "BuffID": 501003,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Unknow",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": false,
+        "DisplayName": "",
+        "Description": "",
+        "IsInstant": false,
+        "Duration": 1.1,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          501003
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "RopeBuff_C501",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": false,
+        "StackPart": [
+          "ECharacterPart::None"
+        ],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "501004": {
+        "BuffID": 501004,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Unknow",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": false,
+        "DisplayName": "",
+        "Description": "",
+        "IsInstant": false,
+        "Duration": 1.1,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          501004
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "RopeBuff_C501",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": false,
+        "StackPart": [
+          "ECharacterPart::None"
+        ],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "501005": {
+        "BuffID": 501005,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Unknow",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": false,
+        "DisplayName": "",
+        "Description": "",
+        "IsInstant": false,
+        "Duration": 1.1,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          501005
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "RopeBuff_C501",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": false,
+        "StackPart": [
+          "ECharacterPart::None"
+        ],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "501006": {
+        "BuffID": 501006,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Unknow",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": false,
+        "DisplayName": "",
+        "Description": "",
+        "IsInstant": false,
+        "Duration": 1.1,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          501006
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "RopeBuff_C501",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": false,
+        "StackPart": [
+          "ECharacterPart::None"
+        ],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "501007": {
+        "BuffID": 501007,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Unknow",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": false,
+        "DisplayName": "",
+        "Description": "",
+        "IsInstant": false,
+        "Duration": 1.1,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          501007
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "RopeBuff_C501",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": false,
+        "StackPart": [
+          "ECharacterPart::None"
+        ],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "501008": {
+        "BuffID": 501008,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Unknow",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": false,
+        "DisplayName": "",
+        "Description": "",
+        "IsInstant": false,
+        "Duration": 1.1,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          501008
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "RopeBuff_C501",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": false,
+        "StackPart": [
+          "ECharacterPart::None"
+        ],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "501009": {
+        "BuffID": 501009,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Unknow",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": false,
+        "DisplayName": "",
+        "Description": "",
+        "IsInstant": false,
+        "Duration": 1.1,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          501009
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "RopeBuff_C501",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": false,
+        "StackPart": [
+          "ECharacterPart::None"
+        ],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "501010": {
+        "BuffID": 501010,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Unknow",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": false,
+        "DisplayName": "",
+        "Description": "",
+        "IsInstant": false,
+        "Duration": 1.1,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          501010
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "RopeBuff_C501",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": false,
+        "StackPart": [
+          "ECharacterPart::None"
+        ],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "501011": {
+        "BuffID": 501011,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Buff",
+        "BuffDisableTagArray": [],
+        "IsDisplay": false,
+        "DisplayName": "",
+        "Description": null,
+        "IsInstant": false,
+        "Duration": -1,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "AbilityAssultCD",
+        "StackType": "EStackType::Unable",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 1,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "1000027": {
+        "BuffID": 1000027,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Debuff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EDeath",
+          "EBuffDisableTag::EInWater"
+        ],
+        "IsDisplay": false,
+        "DisplayName": null,
+        "Description": null,
+        "IsInstant": false,
+        "Duration": 0.03,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          1000027
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "FiringBleeding",
+        "StackType": "EStackType::Unable",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 9,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": 1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0137.Buffer_Icon_0137",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "1000028": {
+        "BuffID": 1000028,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Debuff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EDeath",
+          "EBuffDisableTag::EInWater"
+        ],
+        "IsDisplay": true,
+        "DisplayName": null,
+        "Description": null,
+        "IsInstant": false,
+        "Duration": 2,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          1000028
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "FiringBleeding",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0137.Buffer_Icon_0137",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "1000029": {
+        "BuffID": 1000029,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Debuff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EDeath",
+          "EBuffDisableTag::EInWater"
+        ],
+        "IsDisplay": true,
+        "DisplayName": null,
+        "Description": null,
+        "IsInstant": false,
+        "Duration": 2,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          1000029
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "FiringBleeding",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0137.Buffer_Icon_0137",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "501012": {
+        "BuffID": 501012,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Unknow",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EDeath",
+          "EBuffDisableTag::EImpendingDeath"
+        ],
+        "IsDisplay": true,
+        "DisplayName": null,
+        "Description": null,
+        "IsInstant": false,
+        "Duration": -1,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          501012
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "C501Passive",
+        "StackType": "EStackType::Unable",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 1,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [
+          "LegInjured",
+          "102017"
+        ],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0184.Buffer_Icon_0184",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "501013": {
+        "BuffID": 501013,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Debuff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": false,
+        "DisplayName": null,
+        "Description": null,
+        "IsInstant": false,
+        "Duration": 10,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          501013
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "FiringBleeding",
+        "StackType": "EStackType::Unable",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 9,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": 1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0137.Buffer_Icon_0137",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "501014": {
+        "BuffID": 501014,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Debuff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EImpendingDeath",
+          "EBuffDisableTag::EDeath",
+          "EBuffDisableTag::EInWater"
+        ],
+        "IsDisplay": true,
+        "DisplayName": null,
+        "Description": null,
+        "IsInstant": false,
+        "Duration": 10,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          501014
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "FiringBleeding",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0137.Buffer_Icon_0137",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "501015": {
+        "BuffID": 501015,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Debuff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EDeath",
+          "EBuffDisableTag::EInWater"
+        ],
+        "IsDisplay": false,
+        "DisplayName": null,
+        "Description": null,
+        "IsInstant": false,
+        "Duration": 10,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          501015
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "FiringBleeding",
+        "StackType": "EStackType::Unable",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 9,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": 1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0137.Buffer_Icon_0137",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "501016": {
+        "BuffID": 501016,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Unknow",
+        "BuffDisableTagArray": [],
+        "IsDisplay": true,
+        "DisplayName": null,
+        "Description": null,
+        "IsInstant": false,
+        "Duration": -1,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [
+          501016
+        ],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "C501Medic",
+        "StackType": "EStackType::Unable",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [
+          "ReloadSpeed15%",
+          "ReloadSpeed20%",
+          "ReloadSpeed25%",
+          "ReloadSpeed30%"
+        ],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/System/Buffer/BakedSprite/Buffer_Icon_0185.Buffer_Icon_0185",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [
+          "C501MedicConflict"
+        ],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      },
+      "600101": {
+        "BuffID": 600101,
+        "BuffDebuffType": "ECharacterBuffDebuffType::Debuff",
+        "BuffDisableTagArray": [
+          "EBuffDisableTag::EImpendingDeath",
+          "EBuffDisableTag::EDeath"
+        ],
+        "IsDisplay": true,
+        "DisplayName": "",
+        "Description": "",
+        "IsInstant": false,
+        "Duration": 5,
+        "DurationMultAttr": {
+          "_StructType": "FStructFallback",
+          "AttributeName": "",
+          "Attribute": "",
+          "AttributeOwner": null
+        },
+        "BuffApplyAttributeType": "EBuffApplyAttributeType::Always",
+        "BasicBuffIDArray": [],
+        "TagContainer": {
+          "_StructType": "FGameplayTagContainer",
+          "_Value": ""
+        },
+        "BuffType": "RemoteVehicleMarkSelf",
+        "StackType": "EStackType::Refresh",
+        "bOnlyRefreshTime": false,
+        "StackPart": [],
+        "MaxStackCount": 0,
+        "RemoveBuffTypeArray": [],
+        "RemoveBuffNum": 0,
+        "RestrainBuffTypeArray": [],
+        "MaxValidNum": -1,
+        "CancelBuffTypeArray": [],
+        "ActionConfigs": [],
+        "AddBuffsOnRemove": [],
+        "BuffIconPath": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "HasTriggerCD": false,
+        "TriggerCDTime": 0,
+        "AddTips": "",
+        "RemoveTips": "",
+        "Priority": 0,
+        "BuffConflictTag": [],
+        "HurtRemove": false,
+        "HurtPauseTime": 0,
+        "NeedRemoveSucess": false,
+        "OnlyTipsButNoShowInBuffList": false,
+        "ImmunityType": "EBuffImmunityType::None",
+        "TriggerCounter": 0,
+        "ContinueTime": 0,
+        "bDifferTeam": false,
+        "ImmunityBuffId": 0,
+        "ReplaceBuffId": 0,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 66
+  }
+]

@@ -1,0 +1,11 @@
+﻿RowName,VehicleId,bKickAllPassengersAfterEnteringWater,bDisableInteractorAfterEnteringWater,RowDescription
+NewRow_0,1101001,True,True,None
+FSV轮式突击炮,1101004,True,True,None
+NewRow_3,1103012,True,True,None
+NewRow_4,1103007,True,True,None
+NewRow_5,1102001,True,True,None
+NewRow_6,1301002,True,True,None
+NewRow_7,1301005,True,True,None
+GTQ35轻型坦克s,1101005,True,True,None
+F35,1301007,True,True,None
+鱼鹰,1301008,True,True,None

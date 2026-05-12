@@ -1,0 +1,220 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "HeroVideoData",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/Hero/HeroVideoData",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "HeroVideoData",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "DefaultVideo": {
+        "SceneVideoId": "DefaultVideoIn",
+        "DefaultSceneVideoId": "DefaultVideoLoop",
+        "MatchSceneVideoInId": "DefaultVideoIn",
+        "MatchSceneVideoLoopId": "DefaultVideoLoop",
+        "RowDescription": "None"
+      },
+      "88000000028": {
+        "SceneVideoId": "Luna_in",
+        "DefaultSceneVideoId": "Luna_loop",
+        "MatchSceneVideoInId": "DefaultVideoIn",
+        "MatchSceneVideoLoopId": "DefaultVideoLoop",
+        "RowDescription": "None"
+      },
+      "88000000025": {
+        "SceneVideoId": "Wang_in",
+        "DefaultSceneVideoId": "Wang_loop",
+        "MatchSceneVideoInId": "DefaultVideoIn",
+        "MatchSceneVideoLoopId": "DefaultVideoLoop",
+        "RowDescription": "None"
+      },
+      "88000000026": {
+        "SceneVideoId": "Mai_in",
+        "DefaultSceneVideoId": "Mai_loop",
+        "MatchSceneVideoInId": "DefaultVideoIn",
+        "MatchSceneVideoLoopId": "DefaultVideoLoop",
+        "RowDescription": "None"
+      },
+      "88000000027": {
+        "SceneVideoId": "Roy_in",
+        "DefaultSceneVideoId": "Roy_loop",
+        "MatchSceneVideoInId": "DefaultVideoIn",
+        "MatchSceneVideoLoopId": "DefaultVideoLoop",
+        "RowDescription": "None"
+      },
+      "88000000029": {
+        "SceneVideoId": "Terry_in",
+        "DefaultSceneVideoId": "Terry_loop",
+        "MatchSceneVideoInId": "DefaultVideoIn",
+        "MatchSceneVideoLoopId": "DefaultVideoLoop",
+        "RowDescription": "None"
+      },
+      "88000000030": {
+        "SceneVideoId": "Kai_in",
+        "DefaultSceneVideoId": "Kai_loop",
+        "MatchSceneVideoInId": "DefaultVideoIn",
+        "MatchSceneVideoLoopId": "DefaultVideoLoop",
+        "RowDescription": "None"
+      },
+      "88000000035": {
+        "SceneVideoId": "David_in",
+        "DefaultSceneVideoId": "David_loop",
+        "MatchSceneVideoInId": "DefaultVideoIn",
+        "MatchSceneVideoLoopId": "DefaultVideoLoop",
+        "RowDescription": "None"
+      },
+      "88000000036": {
+        "SceneVideoId": "Zoya_in",
+        "DefaultSceneVideoId": "Zoya_loop",
+        "MatchSceneVideoInId": "DefaultVideoIn",
+        "MatchSceneVideoLoopId": "DefaultVideoLoop",
+        "RowDescription": "None"
+      },
+      "88000000037": {
+        "SceneVideoId": "Sineva_in",
+        "DefaultSceneVideoId": "Sineva_loop",
+        "MatchSceneVideoInId": "DefaultVideoIn",
+        "MatchSceneVideoLoopId": "DefaultVideoLoop",
+        "RowDescription": "None"
+      },
+      "88000000038": {
+        "SceneVideoId": "Nox_in",
+        "DefaultSceneVideoId": "Nox_loop",
+        "MatchSceneVideoInId": "DefaultVideoIn",
+        "MatchSceneVideoLoopId": "DefaultVideoLoop",
+        "RowDescription": "None"
+      },
+      "88000000039": {
+        "SceneVideoId": "Claire_in",
+        "DefaultSceneVideoId": "Claire_loop",
+        "MatchSceneVideoInId": "DefaultVideoIn",
+        "MatchSceneVideoLoopId": "DefaultVideoLoop",
+        "RowDescription": "None"
+      },
+      "88000000040": {
+        "SceneVideoId": "Raptor_in",
+        "DefaultSceneVideoId": "Raptor_loop",
+        "MatchSceneVideoInId": "DefaultVideoIn",
+        "MatchSceneVideoLoopId": "DefaultVideoLoop",
+        "RowDescription": "None"
+      },
+      "88000000041": {
+        "SceneVideoId": "Rashid_in",
+        "DefaultSceneVideoId": "Rashid_loop",
+        "MatchSceneVideoInId": "DefaultVideoIn",
+        "MatchSceneVideoLoopId": "DefaultVideoLoop",
+        "RowDescription": "None"
+      },
+      "88000000045": {
+        "SceneVideoId": "Vlinder_in",
+        "DefaultSceneVideoId": "Vlinder_loop",
+        "MatchSceneVideoInId": "DefaultVideoIn",
+        "MatchSceneVideoLoopId": "DefaultVideoLoop",
+        "RowDescription": "None"
+      },
+      "30000060001": {
+        "SceneVideoId": "Kai-Subrosa-in",
+        "DefaultSceneVideoId": "Kai-Subrosa-loop",
+        "MatchSceneVideoInId": "Kai-Subrosa-in",
+        "MatchSceneVideoLoopId": "Kai-Subrosa-loop",
+        "RowDescription": "None"
+      },
+      "30000060002": {
+        "SceneVideoId": "Hack_ink_in",
+        "DefaultSceneVideoId": "Hack_ink_loop",
+        "MatchSceneVideoInId": "Hack_ink_in",
+        "MatchSceneVideoLoopId": "Hack_ink_loop",
+        "RowDescription": "None"
+      },
+      "30000060003": {
+        "SceneVideoId": "Roy_Deep_in",
+        "DefaultSceneVideoId": "Roy_Deep_loop",
+        "MatchSceneVideoInId": "Roy_Deep_in",
+        "MatchSceneVideoLoopId": "Roy_Deep_loop",
+        "RowDescription": "None"
+      },
+      "30000060004": {
+        "SceneVideoId": "Luna_AN_in",
+        "DefaultSceneVideoId": "Luna_AN_loop",
+        "MatchSceneVideoInId": "Luna_AN_in",
+        "MatchSceneVideoLoopId": "Luna_AN_loop",
+        "RowDescription": "None"
+      },
+      "30000060005": {
+        "SceneVideoId": "Zoya_AN_in",
+        "DefaultSceneVideoId": "Zoya_AN_loop",
+        "MatchSceneVideoInId": "Zoya_AN_in",
+        "MatchSceneVideoLoopId": "Zoya_AN_loop",
+        "RowDescription": "None"
+      },
+      "30000060006": {
+        "SceneVideoId": "Hack_AN_in",
+        "DefaultSceneVideoId": "Hack_AN_loop",
+        "MatchSceneVideoInId": "Hack_AN_in",
+        "MatchSceneVideoLoopId": "Hack_AN_loop",
+        "RowDescription": "None"
+      },
+      "30000060007": {
+        "SceneVideoId": "Wang_in",
+        "DefaultSceneVideoId": "Wang_loop",
+        "MatchSceneVideoInId": "Wang_in",
+        "MatchSceneVideoLoopId": "Wang_loop",
+        "RowDescription": "None"
+      },
+      "30000020015": {
+        "SceneVideoId": "FieryOwl_loop",
+        "DefaultSceneVideoId": "FieryOwl_loop",
+        "MatchSceneVideoInId": "FieryOwl_loop",
+        "MatchSceneVideoLoopId": "FieryOwl_loop",
+        "RowDescription": "None"
+      },
+      "30000020016": {
+        "SceneVideoId": "FieryOwl_loop",
+        "DefaultSceneVideoId": "FieryOwl_loop",
+        "MatchSceneVideoInId": "FieryOwl_loop",
+        "MatchSceneVideoLoopId": "FieryOwl_loop",
+        "RowDescription": "None"
+      },
+      "30000020017": {
+        "SceneVideoId": "FieryOwl_loop",
+        "DefaultSceneVideoId": "FieryOwl_loop",
+        "MatchSceneVideoInId": "FieryOwl_loop",
+        "MatchSceneVideoLoopId": "FieryOwl_loop",
+        "RowDescription": "None"
+      },
+      "88000000042": {
+        "SceneVideoId": "FieryOwl_loop",
+        "DefaultSceneVideoId": "FieryOwl_loop",
+        "MatchSceneVideoInId": "FieryOwl_loop",
+        "MatchSceneVideoLoopId": "FieryOwl_loop",
+        "RowDescription": "None"
+      },
+      "88000000043": {
+        "SceneVideoId": "FieryOwl_loop",
+        "DefaultSceneVideoId": "FieryOwl_loop",
+        "MatchSceneVideoInId": "FieryOwl_loop",
+        "MatchSceneVideoLoopId": "FieryOwl_loop",
+        "RowDescription": "None"
+      },
+      "88000000044": {
+        "SceneVideoId": "FieryOwl_loop",
+        "DefaultSceneVideoId": "FieryOwl_loop",
+        "MatchSceneVideoInId": "FieryOwl_loop",
+        "MatchSceneVideoLoopId": "FieryOwl_loop",
+        "RowDescription": "None"
+      },
+      "88000000046": {
+        "SceneVideoId": "Morse_in",
+        "DefaultSceneVideoId": "Morse_loop",
+        "MatchSceneVideoInId": "DefaultVideoIn",
+        "MatchSceneVideoLoopId": "DefaultVideoLoop",
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 29
+  }
+]

@@ -1,0 +1,21 @@
+﻿RowName,AttributeOperateID,AttributeIDArray,GameplayModOp,bCustomValue,OperateValue,Description,RowDescription
+30011501,30011501,148,AttributeAdditionType::Add,False,40,,None
+30011502,30011502,149,AttributeAdditionType::Add_Base,False,40,,None
+30011503,30011503,146,AttributeAdditionType::Add,False,40,,None
+30011504,30011504,147,AttributeAdditionType::Add_Base,False,40,,None
+100030002,100030002,64,AttributeAdditionType::Add_Base,False,0.2,,None
+100030001,100030001,64,AttributeAdditionType::Add_Base,False,0.5,,None
+300019,300019,5,AttributeAdditionType::Mult_A,False,0.1,,None
+100030003,100030003,64,AttributeAdditionType::Add_Base,False,1,,None
+100030004,100030004,64,AttributeAdditionType::Add_Base,False,1.2,,None
+300020,300020,5,AttributeAdditionType::Mult_A,False,0.1,,None
+100020401,100020401,104,AttributeAdditionType::Add,False,80,,None
+100020402,100020402,2; 3; 4; 5; 7; 8; 121; 122; 109,AttributeAdditionType::Mult_A,False,-0.3,,None
+100020403,100020403,78; 23,AttributeAdditionType::Mult_A,False,-0.5,,None
+100020404,100020404,78,AttributeAdditionType::Mult_A,False,0.1,,None
+100040503,100040503,2; 3; 4; 5; 7; 8; 109; 121; 122,AttributeAdditionType::Mult_A,False,-0.25,,None
+100040502,100040502,89,AttributeAdditionType::Mult_A,False,0.1,,None
+100010108,100010108,109,AttributeAdditionType::Mult_A,False,0.1,,None
+100010109,100010109,5,AttributeAdditionType::Mult_A,False,0.2,,None
+100010110,100010110,12; 13,AttributeAdditionType::Add,False,0.2,,None
+100010111,100010111,12; 13,AttributeAdditionType::Add,False,0.3,,None

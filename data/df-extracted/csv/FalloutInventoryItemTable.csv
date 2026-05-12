@@ -1,0 +1,4 @@
+﻿RowName,UniqueId,ItemID,ItemName,FalloutValue,FalloutBuff
+NewRow,1,18010000001,tmp,20,305003
+NewRow_0,2,37100100001,,0,0
+NewRow_1,3,14020000006,医疗箱,40,300503

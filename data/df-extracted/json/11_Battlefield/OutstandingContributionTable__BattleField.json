@@ -1,0 +1,89 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "OutstandingContributionTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/BattleField/OutstandingContributionTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "OutStandingContributionData",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "NewRow": {
+        "ID": 1,
+        "OutStandingContributionType": "EOutStandingContributionType::ECommander",
+        "IntValue1": 0,
+        "IntValue2": 0,
+        "ContributorName": null,
+        "RowDescription": "None"
+      },
+      "NewRow_0": {
+        "ID": 2,
+        "OutStandingContributionType": "EOutStandingContributionType::EKill",
+        "IntValue1": 30,
+        "IntValue2": 2,
+        "ContributorName": null,
+        "RowDescription": "None"
+      },
+      "NewRow_1": {
+        "ID": 3,
+        "OutStandingContributionType": "EOutStandingContributionType::EPilot",
+        "IntValue1": 20,
+        "IntValue2": 1,
+        "ContributorName": null,
+        "RowDescription": "None"
+      },
+      "NewRow_2": {
+        "ID": 4,
+        "OutStandingContributionType": "EOutStandingContributionType::EArmor",
+        "IntValue1": 20,
+        "IntValue2": 1,
+        "ContributorName": null,
+        "RowDescription": "None"
+      },
+      "NewRow_3": {
+        "ID": 5,
+        "OutStandingContributionType": "EOutStandingContributionType::EVehicleKiller",
+        "IntValue1": 1,
+        "IntValue2": 1,
+        "ContributorName": null,
+        "RowDescription": "None"
+      },
+      "NewRow_4": {
+        "ID": 6,
+        "OutStandingContributionType": "EOutStandingContributionType::EDoctor",
+        "IntValue1": 0,
+        "IntValue2": 1,
+        "ContributorName": null,
+        "RowDescription": "None"
+      },
+      "NewRow_5": {
+        "ID": 7,
+        "OutStandingContributionType": "EOutStandingContributionType::ECapture",
+        "IntValue1": 10,
+        "IntValue2": 2,
+        "ContributorName": null,
+        "RowDescription": "None"
+      },
+      "NewRow_6": {
+        "ID": 8,
+        "OutStandingContributionType": "EOutStandingContributionType::ETactical",
+        "IntValue1": 0,
+        "IntValue2": 1,
+        "ContributorName": null,
+        "RowDescription": "None"
+      },
+      "NewRow_7": {
+        "ID": 100,
+        "OutStandingContributionType": "EOutStandingContributionType::ENone",
+        "IntValue1": 0,
+        "IntValue2": 0,
+        "ContributorName": null,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 9
+  }
+]

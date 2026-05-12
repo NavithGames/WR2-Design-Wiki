@@ -1,0 +1,87 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "BHDReward",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/BHD/BHDReward",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "BHDReward",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "1": {
+        "ItemID": 42020030068,
+        "ItemGetDesc": null,
+        "ActivityTaskGoal": 0,
+        "bIsTeamReward": false,
+        "RowDescription": "None"
+      },
+      "2": {
+        "ItemID": 42020040025,
+        "ItemGetDesc": null,
+        "ActivityTaskGoal": 0,
+        "bIsTeamReward": false,
+        "RowDescription": "None"
+      },
+      "3": {
+        "ItemID": 42010030502,
+        "ItemGetDesc": null,
+        "ActivityTaskGoal": 0,
+        "bIsTeamReward": false,
+        "RowDescription": "None"
+      },
+      "4": {
+        "ItemID": 42020030502,
+        "ItemGetDesc": null,
+        "ActivityTaskGoal": 0,
+        "bIsTeamReward": false,
+        "RowDescription": "None"
+      },
+      "5": {
+        "ItemID": 38080512065,
+        "ItemGetDesc": null,
+        "ActivityTaskGoal": 10314920651,
+        "bIsTeamReward": false,
+        "RowDescription": "None"
+      },
+      "6": {
+        "ItemID": 38080512049,
+        "ItemGetDesc": null,
+        "ActivityTaskGoal": 10314100031,
+        "bIsTeamReward": false,
+        "RowDescription": "None"
+      },
+      "7": {
+        "ItemID": 38080512050,
+        "ItemGetDesc": null,
+        "ActivityTaskGoal": 10314200051,
+        "bIsTeamReward": true,
+        "RowDescription": "None"
+      },
+      "8": {
+        "ItemID": 38080512051,
+        "ItemGetDesc": null,
+        "ActivityTaskGoal": 10314300041,
+        "bIsTeamReward": false,
+        "RowDescription": "None"
+      },
+      "9": {
+        "ItemID": 38080512064,
+        "ItemGetDesc": null,
+        "ActivityTaskGoal": 10314820641,
+        "bIsTeamReward": false,
+        "RowDescription": "None"
+      },
+      "10": {
+        "ItemID": 38010040040,
+        "ItemGetDesc": null,
+        "ActivityTaskGoal": 0,
+        "bIsTeamReward": false,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 10
+  }
+]

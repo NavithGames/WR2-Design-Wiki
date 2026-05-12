@@ -1,0 +1,26 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "VehicleWeaponAccessoryTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Vehicle/VehicleWeaponAccessoryTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "VehicleWeaponAccessoryDataTableRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "NewRow": {
+        "AccessoryId": 40120000009,
+        "bEnableThremalImaging": true,
+        "ThermalImagingMaterial": {
+          "AssetPath": "/Game/MaterialLib/Materials/Weapon/Sight/ThermalImaging/ThermalMobile/MI_ThermalImagingEffectPassVehicle.MI_ThermalImagingEffectPassVehicle",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 1
+  }
+]

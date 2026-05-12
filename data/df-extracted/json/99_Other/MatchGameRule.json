@@ -1,0 +1,164 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "MatchGameRule",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/MatchName/MatchGameRule",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "MatchGameRule",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "1": {
+        "GameRule": 1,
+        "GameRuleName": null,
+        "GameRuleFullName": null,
+        "GameRuleDesc": "",
+        "RowDescription": "None"
+      },
+      "2": {
+        "GameRule": 2,
+        "GameRuleName": null,
+        "GameRuleFullName": null,
+        "GameRuleDesc": "",
+        "RowDescription": "None"
+      },
+      "3": {
+        "GameRule": 3,
+        "GameRuleName": "",
+        "GameRuleFullName": "",
+        "GameRuleDesc": "",
+        "RowDescription": "None"
+      },
+      "4": {
+        "GameRule": 4,
+        "GameRuleName": null,
+        "GameRuleFullName": null,
+        "GameRuleDesc": null,
+        "RowDescription": "None"
+      },
+      "5": {
+        "GameRule": 5,
+        "GameRuleName": null,
+        "GameRuleFullName": null,
+        "GameRuleDesc": null,
+        "RowDescription": "None"
+      },
+      "6": {
+        "GameRule": 6,
+        "GameRuleName": "",
+        "GameRuleFullName": "",
+        "GameRuleDesc": "",
+        "RowDescription": "None"
+      },
+      "7": {
+        "GameRule": 7,
+        "GameRuleName": null,
+        "GameRuleFullName": null,
+        "GameRuleDesc": "",
+        "RowDescription": "None"
+      },
+      "8": {
+        "GameRule": 8,
+        "GameRuleName": null,
+        "GameRuleFullName": null,
+        "GameRuleDesc": "",
+        "RowDescription": "None"
+      },
+      "9": {
+        "GameRule": 9,
+        "GameRuleName": null,
+        "GameRuleFullName": null,
+        "GameRuleDesc": "",
+        "RowDescription": "None"
+      },
+      "10": {
+        "GameRule": 10,
+        "GameRuleName": "",
+        "GameRuleFullName": "",
+        "GameRuleDesc": null,
+        "RowDescription": "None"
+      },
+      "11": {
+        "GameRule": 11,
+        "GameRuleName": null,
+        "GameRuleFullName": null,
+        "GameRuleDesc": "",
+        "RowDescription": "None"
+      },
+      "12": {
+        "GameRule": 12,
+        "GameRuleName": null,
+        "GameRuleFullName": null,
+        "GameRuleDesc": "",
+        "RowDescription": "None"
+      },
+      "13": {
+        "GameRule": 13,
+        "GameRuleName": null,
+        "GameRuleFullName": null,
+        "GameRuleDesc": "",
+        "RowDescription": "None"
+      },
+      "14": {
+        "GameRule": 14,
+        "GameRuleName": null,
+        "GameRuleFullName": null,
+        "GameRuleDesc": "",
+        "RowDescription": "None"
+      },
+      "91": {
+        "GameRule": 91,
+        "GameRuleName": null,
+        "GameRuleFullName": null,
+        "GameRuleDesc": "",
+        "RowDescription": "None"
+      },
+      "92": {
+        "GameRule": 92,
+        "GameRuleName": null,
+        "GameRuleFullName": null,
+        "GameRuleDesc": "",
+        "RowDescription": "None"
+      },
+      "93": {
+        "GameRule": 93,
+        "GameRuleName": null,
+        "GameRuleFullName": null,
+        "GameRuleDesc": "",
+        "RowDescription": "None"
+      },
+      "94": {
+        "GameRule": 94,
+        "GameRuleName": null,
+        "GameRuleFullName": null,
+        "GameRuleDesc": "",
+        "RowDescription": "None"
+      },
+      "95": {
+        "GameRule": 95,
+        "GameRuleName": null,
+        "GameRuleFullName": null,
+        "GameRuleDesc": "",
+        "RowDescription": "None"
+      },
+      "96": {
+        "GameRule": 96,
+        "GameRuleName": null,
+        "GameRuleFullName": null,
+        "GameRuleDesc": "",
+        "RowDescription": "None"
+      },
+      "97": {
+        "GameRule": 97,
+        "GameRuleName": null,
+        "GameRuleFullName": null,
+        "GameRuleDesc": "",
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 21
+  }
+]

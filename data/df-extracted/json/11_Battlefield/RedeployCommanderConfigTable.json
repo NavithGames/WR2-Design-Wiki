@@ -1,0 +1,52 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "RedeployCommanderConfigTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/BattleField/RedeployCommanderConfigTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "RedeployCommanderConfigRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "SSS_NearPlane": {
+        "TagName": "SSS_NearPlane",
+        "RedeployCommanders": [
+          {
+            "Key": "ERedeployStateFuture::Rising",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "Commanders": []
+            }
+          },
+          {
+            "Key": "ERedeployStateFuture::Landing",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "Commanders": [
+                "r.ScreenSpaceShadow.CullDistance 8000",
+                "r.ScreenSpaceShadow.Length -1",
+                "Camera.Fpp.OverrideNearPlaneOnHighView 0"
+              ]
+            }
+          },
+          {
+            "Key": "ERedeployStateFuture::HighView",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "Commanders": [
+                "r.ScreenSpaceShadow.CullDistance 99999999",
+                "r.ScreenSpaceShadow.Length 0.001",
+                "Camera.Fpp.OverrideNearPlaneOnHighView 6"
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 1
+  }
+]

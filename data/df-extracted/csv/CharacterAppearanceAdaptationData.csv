@@ -1,0 +1,7 @@
+﻿RowName,ItemId,PriorityWearPosition_Head,PriorityWearPosition_Face,PriorityWearPosition_Eyes,PriorityWearPosition_Ears,PriorityWearPosition_Neck,PriorityWearPosition_Shoulders,PriorityWearPosition_UpperInner,PriorityWearPosition_UpperOuter,PriorityWearPosition_Lower,PriorityWearPosition_Bag,PriorityAvatar_Hair,PriorityAvatar_Head,PriorityAvatar_Upper,PriorityAvatar_Lower,RowDescription
+30010000001,30010000001,1,0,0,0,0,0,0,0,0,0,1,0,0,0,None
+30010000002,30010000002,1,0,0,0,0,0,0,0,0,0,1,0,0,0,None
+30070000001,30070000001,0,0,0,0,0,0,0,1,0,0,0,0,0,0,None
+30070000002,30070000002,0,0,0,0,0,0,0,1,0,0,0,0,1,0,None
+30010000003,30010000003,1,0,0,0,0,0,0,0,0,0,0,0,0,0,None
+30080000003,30080000003,0,0,0,0,0,0,0,0,1,0,0,0,0,0,None

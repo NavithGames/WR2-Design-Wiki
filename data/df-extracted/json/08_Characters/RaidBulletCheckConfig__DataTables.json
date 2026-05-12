@@ -1,0 +1,164 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "RaidBulletCheckConfig",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/RaidBulletCheckConfig",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "RaidBulletCheckConfig",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "1": {
+        "ID": 1,
+        "MatchModeID": 151801213,
+        "WeaponPrefixID": 1801,
+        "BulletNum": 800,
+        "RowDescription": "None"
+      },
+      "2": {
+        "ID": 2,
+        "MatchModeID": 151801213,
+        "WeaponPrefixID": 1802,
+        "BulletNum": 1500,
+        "RowDescription": "None"
+      },
+      "3": {
+        "ID": 3,
+        "MatchModeID": 151801213,
+        "WeaponPrefixID": 1803,
+        "BulletNum": 200,
+        "RowDescription": "None"
+      },
+      "4": {
+        "ID": 4,
+        "MatchModeID": 151801213,
+        "WeaponPrefixID": 1804,
+        "BulletNum": 1500,
+        "RowDescription": "None"
+      },
+      "5": {
+        "ID": 5,
+        "MatchModeID": 151801213,
+        "WeaponPrefixID": 1805,
+        "BulletNum": 500,
+        "RowDescription": "None"
+      },
+      "6": {
+        "ID": 6,
+        "MatchModeID": 151801213,
+        "WeaponPrefixID": 1806,
+        "BulletNum": 100,
+        "RowDescription": "None"
+      },
+      "7": {
+        "ID": 7,
+        "MatchModeID": 151801213,
+        "WeaponPrefixID": 1807,
+        "BulletNum": 1000,
+        "RowDescription": "None"
+      },
+      "8": {
+        "ID": 8,
+        "MatchModeID": 151802223,
+        "WeaponPrefixID": 1801,
+        "BulletNum": 800,
+        "RowDescription": "None"
+      },
+      "9": {
+        "ID": 9,
+        "MatchModeID": 151802223,
+        "WeaponPrefixID": 1802,
+        "BulletNum": 1500,
+        "RowDescription": "None"
+      },
+      "10": {
+        "ID": 10,
+        "MatchModeID": 151802223,
+        "WeaponPrefixID": 1803,
+        "BulletNum": 200,
+        "RowDescription": "None"
+      },
+      "11": {
+        "ID": 11,
+        "MatchModeID": 151802223,
+        "WeaponPrefixID": 1804,
+        "BulletNum": 1500,
+        "RowDescription": "None"
+      },
+      "12": {
+        "ID": 12,
+        "MatchModeID": 151802223,
+        "WeaponPrefixID": 1805,
+        "BulletNum": 500,
+        "RowDescription": "None"
+      },
+      "13": {
+        "ID": 13,
+        "MatchModeID": 151802223,
+        "WeaponPrefixID": 1806,
+        "BulletNum": 100,
+        "RowDescription": "None"
+      },
+      "14": {
+        "ID": 14,
+        "MatchModeID": 151802223,
+        "WeaponPrefixID": 1807,
+        "BulletNum": 1000,
+        "RowDescription": "None"
+      },
+      "15": {
+        "ID": 15,
+        "MatchModeID": 151803233,
+        "WeaponPrefixID": 1801,
+        "BulletNum": 800,
+        "RowDescription": "None"
+      },
+      "16": {
+        "ID": 16,
+        "MatchModeID": 151803233,
+        "WeaponPrefixID": 1802,
+        "BulletNum": 1500,
+        "RowDescription": "None"
+      },
+      "17": {
+        "ID": 17,
+        "MatchModeID": 151803233,
+        "WeaponPrefixID": 1803,
+        "BulletNum": 200,
+        "RowDescription": "None"
+      },
+      "18": {
+        "ID": 18,
+        "MatchModeID": 151803233,
+        "WeaponPrefixID": 1804,
+        "BulletNum": 1500,
+        "RowDescription": "None"
+      },
+      "19": {
+        "ID": 19,
+        "MatchModeID": 151803233,
+        "WeaponPrefixID": 1805,
+        "BulletNum": 500,
+        "RowDescription": "None"
+      },
+      "20": {
+        "ID": 20,
+        "MatchModeID": 151803233,
+        "WeaponPrefixID": 1806,
+        "BulletNum": 100,
+        "RowDescription": "None"
+      },
+      "21": {
+        "ID": 21,
+        "MatchModeID": 151803233,
+        "WeaponPrefixID": 1807,
+        "BulletNum": 1000,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 21
+  }
+]

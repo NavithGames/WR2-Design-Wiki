@@ -1,0 +1,38 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "CapacitorRoomExpectationTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/Interact/CapacitorRoomExpectationTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "CapacitorRoomExpectationTableRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "0": {
+        "UniqueID": 0,
+        "MapIDs": [
+          8901,
+          8902,
+          89
+        ],
+        "RoomId": "123",
+        "RoomRank": 1,
+        "BoxIDs": [
+          937,
+          900,
+          943,
+          950
+        ],
+        "SpawnExpectation": 0,
+        "FloatingCoefficient": {
+          "_StructType": "FVector2D",
+          "_Value": "X=-0.000 Y=0.000"
+        }
+      }
+    },
+    "_RowCount": 1
+  }
+]

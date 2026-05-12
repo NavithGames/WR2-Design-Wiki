@@ -1,0 +1,52 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "MatchGameMode",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/MatchName/MatchGameMode",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "MatchGameMode",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "1": {
+        "GameMode": 1,
+        "GameModeName": null,
+        "GameModeFullName": null,
+        "GameModeDesc": null,
+        "RowDescription": "None"
+      },
+      "2": {
+        "GameMode": 2,
+        "GameModeName": null,
+        "GameModeFullName": null,
+        "GameModeDesc": null,
+        "RowDescription": "None"
+      },
+      "3": {
+        "GameMode": 3,
+        "GameModeName": null,
+        "GameModeFullName": null,
+        "GameModeDesc": "",
+        "RowDescription": "None"
+      },
+      "5": {
+        "GameMode": 5,
+        "GameModeName": null,
+        "GameModeFullName": null,
+        "GameModeDesc": "",
+        "RowDescription": "None"
+      },
+      "6": {
+        "GameMode": 6,
+        "GameModeName": "",
+        "GameModeFullName": "",
+        "GameModeDesc": "",
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 5
+  }
+]

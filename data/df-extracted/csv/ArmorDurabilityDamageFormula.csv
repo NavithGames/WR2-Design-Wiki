@@ -1,0 +1,3 @@
+﻿RowName,FormualID,DamageFator,ArmorDefendFator,RandomValue,PenetrateFatorA,ArmorFatorB,ArmorMinusNumber60,SumDivideNumberN,RowDescription
+1,1,0,0,0,1,1,250,15,None
+2,2,0.1,0.2,5,0,0,5,1,None

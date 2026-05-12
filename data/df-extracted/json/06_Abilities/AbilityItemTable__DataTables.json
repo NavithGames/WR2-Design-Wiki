@@ -1,0 +1,118 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "AbilityItemTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/AbilityItemTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "AbilityItemRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "24010000001": {
+        "ItemId": 24010000001,
+        "SwitchWhenAmmoEmpty": false,
+        "RowDescription": "None"
+      },
+      "24000000001": {
+        "ItemId": 24000000001,
+        "SwitchWhenAmmoEmpty": false,
+        "RowDescription": "None"
+      },
+      "24000000002": {
+        "ItemId": 24000000002,
+        "SwitchWhenAmmoEmpty": false,
+        "RowDescription": "None"
+      },
+      "21010000001": {
+        "ItemId": 21010000001,
+        "SwitchWhenAmmoEmpty": false,
+        "RowDescription": "None"
+      },
+      "21010000002": {
+        "ItemId": 21010000002,
+        "SwitchWhenAmmoEmpty": false,
+        "RowDescription": "None"
+      },
+      "21020100001": {
+        "ItemId": 21020100001,
+        "SwitchWhenAmmoEmpty": false,
+        "RowDescription": "None"
+      },
+      "25010000001": {
+        "ItemId": 25010000001,
+        "SwitchWhenAmmoEmpty": false,
+        "RowDescription": "None"
+      },
+      "18080000001": {
+        "ItemId": 18080000001,
+        "SwitchWhenAmmoEmpty": false,
+        "RowDescription": "None"
+      },
+      "18080000004": {
+        "ItemId": 18080000004,
+        "SwitchWhenAmmoEmpty": false,
+        "RowDescription": "None"
+      },
+      "21020300001": {
+        "ItemId": 21020300001,
+        "SwitchWhenAmmoEmpty": false,
+        "RowDescription": "None"
+      },
+      "18070000030": {
+        "ItemId": 18070000030,
+        "SwitchWhenAmmoEmpty": false,
+        "RowDescription": "None"
+      },
+      "18080000005": {
+        "ItemId": 18080000005,
+        "SwitchWhenAmmoEmpty": false,
+        "RowDescription": "None"
+      },
+      "18060000030": {
+        "ItemId": 18060000030,
+        "SwitchWhenAmmoEmpty": false,
+        "RowDescription": "None"
+      },
+      "21020300005": {
+        "ItemId": 21020300005,
+        "SwitchWhenAmmoEmpty": false,
+        "RowDescription": "None"
+      },
+      "21020300004": {
+        "ItemId": 21020300004,
+        "SwitchWhenAmmoEmpty": false,
+        "RowDescription": "None"
+      },
+      "21020300003": {
+        "ItemId": 21020300003,
+        "SwitchWhenAmmoEmpty": false,
+        "RowDescription": "None"
+      },
+      "21020300006": {
+        "ItemId": 21020300006,
+        "SwitchWhenAmmoEmpty": false,
+        "RowDescription": "None"
+      },
+      "18080000010": {
+        "ItemId": 18080000010,
+        "SwitchWhenAmmoEmpty": false,
+        "RowDescription": "None"
+      },
+      "18130000001": {
+        "ItemId": 18130000001,
+        "SwitchWhenAmmoEmpty": false,
+        "RowDescription": "None"
+      },
+      "18130000002": {
+        "ItemId": 18130000002,
+        "SwitchWhenAmmoEmpty": false,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 20
+  }
+]

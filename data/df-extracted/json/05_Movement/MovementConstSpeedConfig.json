@@ -1,0 +1,38 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "MovementConstSpeedConfig",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Character/MovementConstSpeedConfig",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "CharacterMovementConstSpeedConfig",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "ConstValue": {
+        "SpeedID": 0,
+        "StandSilentWalkSpeed": 170,
+        "StandRunSpeed": 370,
+        "StandSprintSpeed": 605,
+        "CrouchRunSpeed": 235,
+        "CrouchSilentWalkSpeed": 125,
+        "ProneMoveSpeed": 85,
+        "SuperSprintSpeed": 0,
+        "StandPeekSpeedFactor": -0.5,
+        "CrouchPeekSpeedFactor": -0.5,
+        "StandFireSpeedFactor": 0,
+        "CrouchFireSpeedFactor": 0,
+        "ProneFireSpeedFactor": 0,
+        "StandAimSpeedFactor": -0.2,
+        "CrouchAimSpeedFactor": -0.2,
+        "ProneAimSpeedFactor": -0.2,
+        "PeekAimSpeedFactor": 1,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 1
+  }
+]

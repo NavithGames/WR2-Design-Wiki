@@ -1,0 +1,50 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "BreakthroughSpawnAreaAlterScoreListTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/BattleField/BreakthroughSpawnAreaAlterScoreListTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "BreakthroughSpawnAreaAlterScoreListConfigRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "\u65AD\u5C42\u6307\u6325\u5B98": {
+        "MapID": 611,
+        "SubGameMode": "EDFMGamePlaySubMode::GamePlaySubMode_Commander",
+        "SpawnAreaAlterScoreList": [
+          0.7,
+          0.4,
+          0.3
+        ],
+        "BigEventSpecialSectorIdList": [],
+        "RowDescription": "None"
+      },
+      "\u8FD0\u6CB3\u653B\u9632S2": {
+        "MapID": 311,
+        "SubGameMode": "EDFMGamePlaySubMode::None",
+        "SpawnAreaAlterScoreList": [
+          0.5
+        ],
+        "BigEventSpecialSectorIdList": [
+          10143
+        ],
+        "RowDescription": "None"
+      },
+      "\u8FD0\u6CB3\u6307\u6325\u5B98S2": {
+        "MapID": 612,
+        "SubGameMode": "EDFMGamePlaySubMode::GamePlaySubMode_Commander",
+        "SpawnAreaAlterScoreList": [
+          0.5
+        ],
+        "BigEventSpecialSectorIdList": [
+          10143
+        ],
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 3
+  }
+]

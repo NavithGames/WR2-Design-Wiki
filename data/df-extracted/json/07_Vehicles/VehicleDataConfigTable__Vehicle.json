@@ -1,0 +1,3595 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "VehicleDataConfigTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Vehicle/VehicleDataConfigTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "DFMVehicleDataConfigDataTableRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "\u5973\u6B66\u795E": {
+        "VehicleId": 1103001,
+        "MaxHP": 99999,
+        "ArmorType": "EGPVehicleArmorType::Raid",
+        "MaxLevelToIgnoreCollisionOfDestructible": 2,
+        "ExplodeAttackerValueId": 1982002,
+        "PointDamageTakenRate": 0,
+        "ExplosionDamageTakenRate": 1,
+        "VehicleArmorDamageId": 0,
+        "HitAttackerValueId": 1981002,
+        "HitCharacterDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 200,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bHitAiBotDamageOverride": false,
+        "HitAiBotDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "AngleVehicleUpWithUp": 120,
+        "BacksideCollisionAngle": 140,
+        "BacksideCollisionDamageScalar": 1,
+        "HitWallDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 50,
+              "DamageValue": 20
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 50,
+              "MaxVelocitySize": 200,
+              "DamageValue": 40
+            }
+          ]
+        },
+        "HitWallDamageVelocityScaleCurve": {
+          "_StructType": "FStructFallback",
+          "EditorCurveData": {
+            "_StructType": "FStructFallback",
+            "Keys": [],
+            "Orders": [],
+            "DefaultValue": 3.4028235E+38,
+            "PreInfinityExtrap": "RCCE_Constant",
+            "PostInfinityExtrap": "RCCE_Constant"
+          },
+          "ExternalCurve": null
+        },
+        "ForceExecuteHitWallDamageThreshold": 500,
+        "HitVehicleDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 50,
+              "DamageValue": 20
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 50,
+              "MaxVelocitySize": 200,
+              "DamageValue": 40
+            }
+          ]
+        },
+        "bUseVelocityOffset": false,
+        "bVelocityOffsetDelay": false,
+        "SeatSkillsArray": [
+          {
+            "_StructType": "FStructFallback",
+            "SeatName": "None",
+            "AbilityTypeArray": [
+              "EVehicleAbilityType::EVAT_DefaultTrue",
+              "EVehicleAbilityType::EVAT_DefaultTrue"
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "SeatName": "None",
+            "AbilityTypeArray": []
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u519B\u4E8B\u5409\u666E": {
+        "VehicleId": 1103002,
+        "MaxHP": 1000,
+        "ArmorType": "EGPVehicleArmorType::LightMiddle",
+        "MaxLevelToIgnoreCollisionOfDestructible": 2,
+        "ExplodeAttackerValueId": 1982002,
+        "PointDamageTakenRate": 1,
+        "ExplosionDamageTakenRate": 1,
+        "VehicleArmorDamageId": 1812044,
+        "HitAttackerValueId": 1981004,
+        "HitCharacterDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 5,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 5,
+              "MaxVelocitySize": 200,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bHitAiBotDamageOverride": false,
+        "HitAiBotDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "AngleVehicleUpWithUp": 120,
+        "BacksideCollisionAngle": 140,
+        "BacksideCollisionDamageScalar": 1,
+        "HitWallDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 30,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 30,
+              "MaxVelocitySize": 50,
+              "DamageValue": 100
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 50,
+              "MaxVelocitySize": 200,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "HitWallDamageVelocityScaleCurve": {
+          "_StructType": "FStructFallback",
+          "EditorCurveData": {
+            "_StructType": "FStructFallback",
+            "Keys": [],
+            "Orders": [],
+            "DefaultValue": 3.4028235E+38,
+            "PreInfinityExtrap": "RCCE_Constant",
+            "PostInfinityExtrap": "RCCE_Constant"
+          },
+          "ExternalCurve": null
+        },
+        "ForceExecuteHitWallDamageThreshold": 500,
+        "HitVehicleDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 50,
+              "DamageValue": 10
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 50,
+              "MaxVelocitySize": 200,
+              "DamageValue": 10
+            }
+          ]
+        },
+        "bUseVelocityOffset": false,
+        "bVelocityOffsetDelay": false,
+        "SeatSkillsArray": [],
+        "RowDescription": "None"
+      },
+      "\u5766\u514B": {
+        "VehicleId": 1101001,
+        "MaxHP": 1000,
+        "ArmorType": "EGPVehicleArmorType::Heavy",
+        "MaxLevelToIgnoreCollisionOfDestructible": 2,
+        "ExplodeAttackerValueId": 1812105,
+        "PointDamageTakenRate": 1,
+        "ExplosionDamageTakenRate": 1,
+        "VehicleArmorDamageId": 1812046,
+        "HitAttackerValueId": 1981004,
+        "HitCharacterDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 5,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 5,
+              "MaxVelocitySize": 200,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bHitAiBotDamageOverride": false,
+        "HitAiBotDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "AngleVehicleUpWithUp": 120,
+        "BacksideCollisionAngle": 140,
+        "BacksideCollisionDamageScalar": 1,
+        "HitWallDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10000,
+              "DamageValue": 0
+            }
+          ]
+        },
+        "HitWallDamageVelocityScaleCurve": {
+          "_StructType": "FStructFallback",
+          "EditorCurveData": {
+            "_StructType": "FStructFallback",
+            "Keys": [],
+            "Orders": [],
+            "DefaultValue": 3.4028235E+38,
+            "PreInfinityExtrap": "RCCE_Constant",
+            "PostInfinityExtrap": "RCCE_Constant"
+          },
+          "ExternalCurve": null
+        },
+        "ForceExecuteHitWallDamageThreshold": 500,
+        "HitVehicleDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 5,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 5,
+              "MaxVelocitySize": 100,
+              "DamageValue": 50
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 100,
+              "MaxVelocitySize": 200,
+              "DamageValue": 100
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 200,
+              "MaxVelocitySize": 500,
+              "DamageValue": 500
+            }
+          ]
+        },
+        "bUseVelocityOffset": false,
+        "bVelocityOffsetDelay": false,
+        "SeatSkillsArray": [],
+        "RowDescription": "None"
+      },
+      "\u51B2\u950B\u8247": {
+        "VehicleId": 1201003,
+        "MaxHP": 1000,
+        "ArmorType": "EGPVehicleArmorType::Middle",
+        "MaxLevelToIgnoreCollisionOfDestructible": 2,
+        "ExplodeAttackerValueId": 1812105,
+        "PointDamageTakenRate": 1,
+        "ExplosionDamageTakenRate": 1,
+        "VehicleArmorDamageId": 1812045,
+        "HitAttackerValueId": 1981002,
+        "HitCharacterDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 200,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bHitAiBotDamageOverride": false,
+        "HitAiBotDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "AngleVehicleUpWithUp": 120,
+        "BacksideCollisionAngle": 140,
+        "BacksideCollisionDamageScalar": 1,
+        "HitWallDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 50,
+              "DamageValue": 20
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 50,
+              "MaxVelocitySize": 200,
+              "DamageValue": 40
+            }
+          ]
+        },
+        "HitWallDamageVelocityScaleCurve": {
+          "_StructType": "FStructFallback",
+          "EditorCurveData": {
+            "_StructType": "FStructFallback",
+            "Keys": [],
+            "Orders": [],
+            "DefaultValue": 3.4028235E+38,
+            "PreInfinityExtrap": "RCCE_Constant",
+            "PostInfinityExtrap": "RCCE_Constant"
+          },
+          "ExternalCurve": null
+        },
+        "ForceExecuteHitWallDamageThreshold": 500,
+        "HitVehicleDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 100,
+              "DamageValue": 20
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 100,
+              "MaxVelocitySize": 200,
+              "DamageValue": 100
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 200,
+              "MaxVelocitySize": 500,
+              "DamageValue": 350
+            }
+          ]
+        },
+        "bUseVelocityOffset": false,
+        "bVelocityOffsetDelay": false,
+        "SeatSkillsArray": [
+          {
+            "_StructType": "FStructFallback",
+            "SeatName": "Point_Seat_03",
+            "AbilityTypeArray": [
+              "EVehicleAbilityType::EVAT_USESkillCommon",
+              "EVehicleAbilityType::ESVT_ExtraFireNotLeanout",
+              "EVehicleAbilityType::ESVT_NumMax"
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "SeatName": "Point_Seat_04",
+            "AbilityTypeArray": [
+              "EVehicleAbilityType::EVAT_USESkillCommon",
+              "EVehicleAbilityType::ESVT_ExtraFireNotLeanout",
+              "EVehicleAbilityType::ESVT_NumMax"
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u9632\u7A7A\u8F66": {
+        "VehicleId": 1101002,
+        "MaxHP": 1000,
+        "ArmorType": "EGPVehicleArmorType::Middle",
+        "MaxLevelToIgnoreCollisionOfDestructible": 2,
+        "ExplodeAttackerValueId": 1812105,
+        "PointDamageTakenRate": 1,
+        "ExplosionDamageTakenRate": 1,
+        "VehicleArmorDamageId": 1812045,
+        "HitAttackerValueId": 1981004,
+        "HitCharacterDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 5,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 5,
+              "MaxVelocitySize": 200,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bHitAiBotDamageOverride": false,
+        "HitAiBotDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "AngleVehicleUpWithUp": 120,
+        "BacksideCollisionAngle": 140,
+        "BacksideCollisionDamageScalar": 1,
+        "HitWallDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 60,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 60,
+              "MaxVelocitySize": 65,
+              "DamageValue": 5
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 65,
+              "MaxVelocitySize": 67.5,
+              "DamageValue": 7.5
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 67.5,
+              "MaxVelocitySize": 100,
+              "DamageValue": 10
+            }
+          ]
+        },
+        "HitWallDamageVelocityScaleCurve": {
+          "_StructType": "FStructFallback",
+          "EditorCurveData": {
+            "_StructType": "FStructFallback",
+            "Keys": [],
+            "Orders": [],
+            "DefaultValue": 3.4028235E+38,
+            "PreInfinityExtrap": "RCCE_Constant",
+            "PostInfinityExtrap": "RCCE_Constant"
+          },
+          "ExternalCurve": null
+        },
+        "ForceExecuteHitWallDamageThreshold": 500,
+        "HitVehicleDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 100,
+              "DamageValue": 20
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 100,
+              "MaxVelocitySize": 200,
+              "DamageValue": 100
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 200,
+              "MaxVelocitySize": 500,
+              "DamageValue": 350
+            }
+          ]
+        },
+        "bUseVelocityOffset": false,
+        "bVelocityOffsetDelay": false,
+        "SeatSkillsArray": [],
+        "RowDescription": "None"
+      },
+      "\u6B65\u5175\u8F66": {
+        "VehicleId": 1101003,
+        "MaxHP": 1000,
+        "ArmorType": "EGPVehicleArmorType::Middle",
+        "MaxLevelToIgnoreCollisionOfDestructible": 2,
+        "ExplodeAttackerValueId": 1812105,
+        "PointDamageTakenRate": 1,
+        "ExplosionDamageTakenRate": 1,
+        "VehicleArmorDamageId": 1812045,
+        "HitAttackerValueId": 1981004,
+        "HitCharacterDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 5,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 5,
+              "MaxVelocitySize": 200,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bHitAiBotDamageOverride": false,
+        "HitAiBotDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "AngleVehicleUpWithUp": 120,
+        "BacksideCollisionAngle": 140,
+        "BacksideCollisionDamageScalar": 1,
+        "HitWallDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 60,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 60,
+              "MaxVelocitySize": 65,
+              "DamageValue": 5
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 65,
+              "MaxVelocitySize": 67.5,
+              "DamageValue": 7.5
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 67.5,
+              "MaxVelocitySize": 100,
+              "DamageValue": 10
+            }
+          ]
+        },
+        "HitWallDamageVelocityScaleCurve": {
+          "_StructType": "FStructFallback",
+          "EditorCurveData": {
+            "_StructType": "FStructFallback",
+            "Keys": [],
+            "Orders": [],
+            "DefaultValue": 3.4028235E+38,
+            "PreInfinityExtrap": "RCCE_Constant",
+            "PostInfinityExtrap": "RCCE_Constant"
+          },
+          "ExternalCurve": null
+        },
+        "ForceExecuteHitWallDamageThreshold": 500,
+        "HitVehicleDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 100,
+              "DamageValue": 20
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 100,
+              "MaxVelocitySize": 200,
+              "DamageValue": 100
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 200,
+              "MaxVelocitySize": 500,
+              "DamageValue": 350
+            }
+          ]
+        },
+        "bUseVelocityOffset": false,
+        "bVelocityOffsetDelay": false,
+        "SeatSkillsArray": [],
+        "RowDescription": "None"
+      },
+      "\u6B66\u76F4": {
+        "VehicleId": 1301001,
+        "MaxHP": 1000,
+        "ArmorType": "EGPVehicleArmorType::Light",
+        "MaxLevelToIgnoreCollisionOfDestructible": 2,
+        "ExplodeAttackerValueId": 1812105,
+        "PointDamageTakenRate": 1,
+        "ExplosionDamageTakenRate": 1,
+        "VehicleArmorDamageId": 1812044,
+        "HitAttackerValueId": 1981004,
+        "HitCharacterDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 200,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bHitAiBotDamageOverride": false,
+        "HitAiBotDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "AngleVehicleUpWithUp": 120,
+        "BacksideCollisionAngle": 140,
+        "BacksideCollisionDamageScalar": 1,
+        "HitWallDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 30,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 30,
+              "MaxVelocitySize": 70,
+              "DamageValue": 100
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 70,
+              "MaxVelocitySize": 100,
+              "DamageValue": 1000
+            }
+          ]
+        },
+        "HitWallDamageVelocityScaleCurve": {
+          "_StructType": "FStructFallback",
+          "EditorCurveData": {
+            "_StructType": "FStructFallback",
+            "Keys": [],
+            "Orders": [],
+            "DefaultValue": 3.4028235E+38,
+            "PreInfinityExtrap": "RCCE_Constant",
+            "PostInfinityExtrap": "RCCE_Constant"
+          },
+          "ExternalCurve": null
+        },
+        "ForceExecuteHitWallDamageThreshold": 500,
+        "HitVehicleDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 50,
+              "DamageValue": 10
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 50,
+              "MaxVelocitySize": 100,
+              "DamageValue": 20
+            }
+          ]
+        },
+        "bUseVelocityOffset": false,
+        "bVelocityOffsetDelay": false,
+        "SeatSkillsArray": [],
+        "RowDescription": "None"
+      },
+      "s2\u76AE\u5361": {
+        "VehicleId": 1103004,
+        "MaxHP": 1000,
+        "ArmorType": "EGPVehicleArmorType::Raid",
+        "MaxLevelToIgnoreCollisionOfDestructible": 2,
+        "ExplodeAttackerValueId": 1982002,
+        "PointDamageTakenRate": 1,
+        "ExplosionDamageTakenRate": 1,
+        "VehicleArmorDamageId": 0,
+        "HitAttackerValueId": 1981002,
+        "HitCharacterDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 1000,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 1000,
+              "MaxVelocitySize": 20000,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bHitAiBotDamageOverride": false,
+        "HitAiBotDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "AngleVehicleUpWithUp": 120,
+        "BacksideCollisionAngle": 140,
+        "BacksideCollisionDamageScalar": 1,
+        "HitWallDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 1000,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 1000,
+              "MaxVelocitySize": 5000,
+              "DamageValue": 20
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 5000,
+              "MaxVelocitySize": 20000,
+              "DamageValue": 40
+            }
+          ]
+        },
+        "HitWallDamageVelocityScaleCurve": {
+          "_StructType": "FStructFallback",
+          "EditorCurveData": {
+            "_StructType": "FStructFallback",
+            "Keys": [],
+            "Orders": [],
+            "DefaultValue": 3.4028235E+38,
+            "PreInfinityExtrap": "RCCE_Constant",
+            "PostInfinityExtrap": "RCCE_Constant"
+          },
+          "ExternalCurve": null
+        },
+        "ForceExecuteHitWallDamageThreshold": 500,
+        "HitVehicleDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 1000,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 1000,
+              "MaxVelocitySize": 5000,
+              "DamageValue": 20
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 5000,
+              "MaxVelocitySize": 20000,
+              "DamageValue": 40
+            }
+          ]
+        },
+        "bUseVelocityOffset": false,
+        "bVelocityOffsetDelay": false,
+        "SeatSkillsArray": [],
+        "RowDescription": "None"
+      },
+      "raid\u8F7B\u578B\u5409\u666E": {
+        "VehicleId": 1103003,
+        "MaxHP": 1000,
+        "ArmorType": "EGPVehicleArmorType::Raid",
+        "MaxLevelToIgnoreCollisionOfDestructible": 2,
+        "ExplodeAttackerValueId": 1982002,
+        "PointDamageTakenRate": 1,
+        "ExplosionDamageTakenRate": 1,
+        "VehicleArmorDamageId": 0,
+        "HitAttackerValueId": 1981002,
+        "HitCharacterDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 1000,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 1000,
+              "MaxVelocitySize": 20000,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bHitAiBotDamageOverride": false,
+        "HitAiBotDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "AngleVehicleUpWithUp": 120,
+        "BacksideCollisionAngle": 140,
+        "BacksideCollisionDamageScalar": 1,
+        "HitWallDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 1000,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 1000,
+              "MaxVelocitySize": 5000,
+              "DamageValue": 20
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 5000,
+              "MaxVelocitySize": 20000,
+              "DamageValue": 40
+            }
+          ]
+        },
+        "HitWallDamageVelocityScaleCurve": {
+          "_StructType": "FStructFallback",
+          "EditorCurveData": {
+            "_StructType": "FStructFallback",
+            "Keys": [],
+            "Orders": [],
+            "DefaultValue": 3.4028235E+38,
+            "PreInfinityExtrap": "RCCE_Constant",
+            "PostInfinityExtrap": "RCCE_Constant"
+          },
+          "ExternalCurve": null
+        },
+        "ForceExecuteHitWallDamageThreshold": 500,
+        "HitVehicleDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 1000,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 1000,
+              "MaxVelocitySize": 5000,
+              "DamageValue": 20
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 5000,
+              "MaxVelocitySize": 20000,
+              "DamageValue": 40
+            }
+          ]
+        },
+        "bUseVelocityOffset": false,
+        "bVelocityOffsetDelay": false,
+        "SeatSkillsArray": [],
+        "RowDescription": "None"
+      },
+      "Raid2_S2\u76EE\u6807\u8F66": {
+        "VehicleId": 1103005,
+        "MaxHP": 99999,
+        "ArmorType": "EGPVehicleArmorType::Raid",
+        "MaxLevelToIgnoreCollisionOfDestructible": 2,
+        "ExplodeAttackerValueId": 1982002,
+        "PointDamageTakenRate": 1,
+        "ExplosionDamageTakenRate": 1,
+        "VehicleArmorDamageId": 0,
+        "HitAttackerValueId": 1981002,
+        "HitCharacterDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 1000,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 1000,
+              "MaxVelocitySize": 20000,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bHitAiBotDamageOverride": false,
+        "HitAiBotDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "AngleVehicleUpWithUp": 120,
+        "BacksideCollisionAngle": 140,
+        "BacksideCollisionDamageScalar": 1,
+        "HitWallDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 1000,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 1000,
+              "MaxVelocitySize": 5000,
+              "DamageValue": 20
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 5000,
+              "MaxVelocitySize": 20000,
+              "DamageValue": 40
+            }
+          ]
+        },
+        "HitWallDamageVelocityScaleCurve": {
+          "_StructType": "FStructFallback",
+          "EditorCurveData": {
+            "_StructType": "FStructFallback",
+            "Keys": [],
+            "Orders": [],
+            "DefaultValue": 3.4028235E+38,
+            "PreInfinityExtrap": "RCCE_Constant",
+            "PostInfinityExtrap": "RCCE_Constant"
+          },
+          "ExternalCurve": null
+        },
+        "ForceExecuteHitWallDamageThreshold": 500,
+        "HitVehicleDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 1000,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 1000,
+              "MaxVelocitySize": 5000,
+              "DamageValue": 20
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 5000,
+              "MaxVelocitySize": 20000,
+              "DamageValue": 40
+            }
+          ]
+        },
+        "bUseVelocityOffset": false,
+        "bVelocityOffsetDelay": false,
+        "SeatSkillsArray": [],
+        "RowDescription": "None"
+      },
+      "Raid2_S3\u88C5\u7532\u8F66": {
+        "VehicleId": 1103100,
+        "MaxHP": 4000,
+        "ArmorType": "EGPVehicleArmorType::Middle",
+        "MaxLevelToIgnoreCollisionOfDestructible": 2,
+        "ExplodeAttackerValueId": 1982002,
+        "PointDamageTakenRate": 1,
+        "ExplosionDamageTakenRate": 1,
+        "VehicleArmorDamageId": 0,
+        "HitAttackerValueId": 1981002,
+        "HitCharacterDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 1000,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 1000,
+              "MaxVelocitySize": 20000,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bHitAiBotDamageOverride": false,
+        "HitAiBotDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "AngleVehicleUpWithUp": 120,
+        "BacksideCollisionAngle": 140,
+        "BacksideCollisionDamageScalar": 1,
+        "HitWallDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 1000,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 1000,
+              "MaxVelocitySize": 5000,
+              "DamageValue": 20
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 5000,
+              "MaxVelocitySize": 20000,
+              "DamageValue": 40
+            }
+          ]
+        },
+        "HitWallDamageVelocityScaleCurve": {
+          "_StructType": "FStructFallback",
+          "EditorCurveData": {
+            "_StructType": "FStructFallback",
+            "Keys": [],
+            "Orders": [],
+            "DefaultValue": 3.4028235E+38,
+            "PreInfinityExtrap": "RCCE_Constant",
+            "PostInfinityExtrap": "RCCE_Constant"
+          },
+          "ExternalCurve": null
+        },
+        "ForceExecuteHitWallDamageThreshold": 500,
+        "HitVehicleDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 1000,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 1000,
+              "MaxVelocitySize": 5000,
+              "DamageValue": 20
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 5000,
+              "MaxVelocitySize": 20000,
+              "DamageValue": 40
+            }
+          ]
+        },
+        "bUseVelocityOffset": false,
+        "bVelocityOffsetDelay": false,
+        "SeatSkillsArray": [],
+        "RowDescription": "None"
+      },
+      "raid\u8FD0\u5175\u5361\u8F66": {
+        "VehicleId": 1103010,
+        "MaxHP": 1000,
+        "ArmorType": "EGPVehicleArmorType::Raid",
+        "MaxLevelToIgnoreCollisionOfDestructible": 2,
+        "ExplodeAttackerValueId": 1982002,
+        "PointDamageTakenRate": 1,
+        "ExplosionDamageTakenRate": 1,
+        "VehicleArmorDamageId": 0,
+        "HitAttackerValueId": 1981002,
+        "HitCharacterDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 1000,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 1000,
+              "MaxVelocitySize": 20000,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bHitAiBotDamageOverride": false,
+        "HitAiBotDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "AngleVehicleUpWithUp": 120,
+        "BacksideCollisionAngle": 140,
+        "BacksideCollisionDamageScalar": 1,
+        "HitWallDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 1000,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 1000,
+              "MaxVelocitySize": 5000,
+              "DamageValue": 20
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 5000,
+              "MaxVelocitySize": 20000,
+              "DamageValue": 40
+            }
+          ]
+        },
+        "HitWallDamageVelocityScaleCurve": {
+          "_StructType": "FStructFallback",
+          "EditorCurveData": {
+            "_StructType": "FStructFallback",
+            "Keys": [],
+            "Orders": [],
+            "DefaultValue": 3.4028235E+38,
+            "PreInfinityExtrap": "RCCE_Constant",
+            "PostInfinityExtrap": "RCCE_Constant"
+          },
+          "ExternalCurve": null
+        },
+        "ForceExecuteHitWallDamageThreshold": 500,
+        "HitVehicleDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 1000,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 1000,
+              "MaxVelocitySize": 5000,
+              "DamageValue": 20
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 5000,
+              "MaxVelocitySize": 20000,
+              "DamageValue": 40
+            }
+          ]
+        },
+        "bUseVelocityOffset": false,
+        "bVelocityOffsetDelay": false,
+        "SeatSkillsArray": [],
+        "RowDescription": "None"
+      },
+      "ATV": {
+        "VehicleId": 1103007,
+        "MaxHP": 1000,
+        "ArmorType": "EGPVehicleArmorType::Default",
+        "MaxLevelToIgnoreCollisionOfDestructible": 1,
+        "ExplodeAttackerValueId": 1812107,
+        "PointDamageTakenRate": 1,
+        "ExplosionDamageTakenRate": 1,
+        "VehicleArmorDamageId": 1812044,
+        "HitAttackerValueId": 1981002,
+        "HitCharacterDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 200,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bHitAiBotDamageOverride": false,
+        "HitAiBotDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "AngleVehicleUpWithUp": 120,
+        "BacksideCollisionAngle": 140,
+        "BacksideCollisionDamageScalar": 1,
+        "HitWallDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 40,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 40,
+              "MaxVelocitySize": 50,
+              "DamageValue": 60
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 50,
+              "MaxVelocitySize": 65,
+              "DamageValue": 90
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 65,
+              "MaxVelocitySize": 200,
+              "DamageValue": 120
+            }
+          ]
+        },
+        "HitWallDamageVelocityScaleCurve": {
+          "_StructType": "FStructFallback",
+          "EditorCurveData": {
+            "_StructType": "FStructFallback",
+            "Keys": [],
+            "Orders": [],
+            "DefaultValue": 3.4028235E+38,
+            "PreInfinityExtrap": "RCCE_Constant",
+            "PostInfinityExtrap": "RCCE_Constant"
+          },
+          "ExternalCurve": null
+        },
+        "ForceExecuteHitWallDamageThreshold": 500,
+        "HitVehicleDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 50,
+              "DamageValue": 10
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 50,
+              "MaxVelocitySize": 200,
+              "DamageValue": 10
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 200,
+              "MaxVelocitySize": 500,
+              "DamageValue": 50
+            }
+          ]
+        },
+        "bUseVelocityOffset": false,
+        "bVelocityOffsetDelay": false,
+        "SeatSkillsArray": [
+          {
+            "_StructType": "FStructFallback",
+            "SeatName": "Point_Seat_02",
+            "AbilityTypeArray": [
+              "EVehicleAbilityType::EVAT_USESkillCommon",
+              "EVehicleAbilityType::ESVT_NumMax"
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "s2\u76AE\u5361\u7EA2": {
+        "VehicleId": 1103008,
+        "MaxHP": 600,
+        "ArmorType": "EGPVehicleArmorType::Raid",
+        "MaxLevelToIgnoreCollisionOfDestructible": 2,
+        "ExplodeAttackerValueId": 1982002,
+        "PointDamageTakenRate": 1,
+        "ExplosionDamageTakenRate": 1,
+        "VehicleArmorDamageId": 0,
+        "HitAttackerValueId": 1981002,
+        "HitCharacterDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 1000,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 1000,
+              "MaxVelocitySize": 20000,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bHitAiBotDamageOverride": false,
+        "HitAiBotDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "AngleVehicleUpWithUp": 120,
+        "BacksideCollisionAngle": 140,
+        "BacksideCollisionDamageScalar": 1,
+        "HitWallDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 1000,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 1000,
+              "MaxVelocitySize": 5000,
+              "DamageValue": 20
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 5000,
+              "MaxVelocitySize": 20000,
+              "DamageValue": 40
+            }
+          ]
+        },
+        "HitWallDamageVelocityScaleCurve": {
+          "_StructType": "FStructFallback",
+          "EditorCurveData": {
+            "_StructType": "FStructFallback",
+            "Keys": [],
+            "Orders": [],
+            "DefaultValue": 3.4028235E+38,
+            "PreInfinityExtrap": "RCCE_Constant",
+            "PostInfinityExtrap": "RCCE_Constant"
+          },
+          "ExternalCurve": null
+        },
+        "ForceExecuteHitWallDamageThreshold": 500,
+        "HitVehicleDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 1000,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 1000,
+              "MaxVelocitySize": 5000,
+              "DamageValue": 20
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 5000,
+              "MaxVelocitySize": 20000,
+              "DamageValue": 40
+            }
+          ]
+        },
+        "bUseVelocityOffset": false,
+        "bVelocityOffsetDelay": false,
+        "SeatSkillsArray": [],
+        "RowDescription": "None"
+      },
+      "Raid2_S4\u5766\u514B": {
+        "VehicleId": 1103101,
+        "MaxHP": 99999,
+        "ArmorType": "EGPVehicleArmorType::RaidTankBoss",
+        "MaxLevelToIgnoreCollisionOfDestructible": 2,
+        "ExplodeAttackerValueId": 1982002,
+        "PointDamageTakenRate": 1,
+        "ExplosionDamageTakenRate": 1,
+        "VehicleArmorDamageId": 0,
+        "HitAttackerValueId": 1981002,
+        "HitCharacterDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 100,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bHitAiBotDamageOverride": false,
+        "HitAiBotDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "AngleVehicleUpWithUp": 120,
+        "BacksideCollisionAngle": 140,
+        "BacksideCollisionDamageScalar": 1,
+        "HitWallDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "HitWallDamageVelocityScaleCurve": {
+          "_StructType": "FStructFallback",
+          "EditorCurveData": {
+            "_StructType": "FStructFallback",
+            "Keys": [],
+            "Orders": [],
+            "DefaultValue": 3.4028235E+38,
+            "PreInfinityExtrap": "RCCE_Constant",
+            "PostInfinityExtrap": "RCCE_Constant"
+          },
+          "ExternalCurve": null
+        },
+        "ForceExecuteHitWallDamageThreshold": 500,
+        "HitVehicleDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "bUseVelocityOffset": false,
+        "bVelocityOffsetDelay": false,
+        "SeatSkillsArray": [],
+        "RowDescription": "None"
+      },
+      "ORV": {
+        "VehicleId": 1102001,
+        "MaxHP": 1000,
+        "ArmorType": "EGPVehicleArmorType::LightMiddle",
+        "MaxLevelToIgnoreCollisionOfDestructible": 2,
+        "ExplodeAttackerValueId": 1812106,
+        "PointDamageTakenRate": 1,
+        "ExplosionDamageTakenRate": 1,
+        "VehicleArmorDamageId": 1812044,
+        "HitAttackerValueId": 1981004,
+        "HitCharacterDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 5,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 5,
+              "MaxVelocitySize": 200,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bHitAiBotDamageOverride": false,
+        "HitAiBotDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "AngleVehicleUpWithUp": 120,
+        "BacksideCollisionAngle": 140,
+        "BacksideCollisionDamageScalar": 1,
+        "HitWallDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 40,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 40,
+              "MaxVelocitySize": 50,
+              "DamageValue": 60
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 50,
+              "MaxVelocitySize": 60,
+              "DamageValue": 90
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 60,
+              "MaxVelocitySize": 200,
+              "DamageValue": 120
+            }
+          ]
+        },
+        "HitWallDamageVelocityScaleCurve": {
+          "_StructType": "FStructFallback",
+          "EditorCurveData": {
+            "_StructType": "FStructFallback",
+            "Keys": [],
+            "Orders": [],
+            "DefaultValue": 3.4028235E+38,
+            "PreInfinityExtrap": "RCCE_Constant",
+            "PostInfinityExtrap": "RCCE_Constant"
+          },
+          "ExternalCurve": null
+        },
+        "ForceExecuteHitWallDamageThreshold": 500,
+        "HitVehicleDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 50,
+              "DamageValue": 10
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 50,
+              "MaxVelocitySize": 100,
+              "DamageValue": 10
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 100,
+              "MaxVelocitySize": 200,
+              "DamageValue": 50
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 200,
+              "MaxVelocitySize": 500,
+              "DamageValue": 350
+            }
+          ]
+        },
+        "bUseVelocityOffset": false,
+        "bVelocityOffsetDelay": false,
+        "SeatSkillsArray": [],
+        "RowDescription": "None"
+      },
+      "Humvee": {
+        "VehicleId": 1103011,
+        "MaxHP": 1000,
+        "ArmorType": "EGPVehicleArmorType::Default",
+        "MaxLevelToIgnoreCollisionOfDestructible": 1,
+        "ExplodeAttackerValueId": 1812106,
+        "PointDamageTakenRate": 1,
+        "ExplosionDamageTakenRate": 1,
+        "VehicleArmorDamageId": 1812044,
+        "HitAttackerValueId": 1981002,
+        "HitCharacterDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 200,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bHitAiBotDamageOverride": false,
+        "HitAiBotDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "AngleVehicleUpWithUp": 120,
+        "BacksideCollisionAngle": 140,
+        "BacksideCollisionDamageScalar": 1,
+        "HitWallDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 50,
+              "DamageValue": 20
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 50,
+              "MaxVelocitySize": 200,
+              "DamageValue": 40
+            }
+          ]
+        },
+        "HitWallDamageVelocityScaleCurve": {
+          "_StructType": "FStructFallback",
+          "EditorCurveData": {
+            "_StructType": "FStructFallback",
+            "Keys": [],
+            "Orders": [],
+            "DefaultValue": 3.4028235E+38,
+            "PreInfinityExtrap": "RCCE_Constant",
+            "PostInfinityExtrap": "RCCE_Constant"
+          },
+          "ExternalCurve": null
+        },
+        "ForceExecuteHitWallDamageThreshold": 500,
+        "HitVehicleDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 50,
+              "DamageValue": 10
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 50,
+              "MaxVelocitySize": 200,
+              "DamageValue": 10
+            }
+          ]
+        },
+        "bUseVelocityOffset": false,
+        "bVelocityOffsetDelay": false,
+        "SeatSkillsArray": [],
+        "RowDescription": "None"
+      },
+      "\u963F\u5E15\u5947": {
+        "VehicleId": 1301002,
+        "MaxHP": 1000,
+        "ArmorType": "EGPVehicleArmorType::Light",
+        "MaxLevelToIgnoreCollisionOfDestructible": 2,
+        "ExplodeAttackerValueId": 1812105,
+        "PointDamageTakenRate": 1,
+        "ExplosionDamageTakenRate": 1,
+        "VehicleArmorDamageId": 1812044,
+        "HitAttackerValueId": 1981004,
+        "HitCharacterDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 200,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bHitAiBotDamageOverride": false,
+        "HitAiBotDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "AngleVehicleUpWithUp": 120,
+        "BacksideCollisionAngle": 140,
+        "BacksideCollisionDamageScalar": 1,
+        "HitWallDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 50,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 50,
+              "MaxVelocitySize": 150,
+              "DamageValue": 300
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 150,
+              "MaxVelocitySize": 500,
+              "DamageValue": 1000
+            }
+          ]
+        },
+        "HitWallDamageVelocityScaleCurve": {
+          "_StructType": "FStructFallback",
+          "EditorCurveData": {
+            "_StructType": "FStructFallback",
+            "Keys": [],
+            "Orders": [],
+            "DefaultValue": 3.4028235E+38,
+            "PreInfinityExtrap": "RCCE_Constant",
+            "PostInfinityExtrap": "RCCE_Constant"
+          },
+          "ExternalCurve": null
+        },
+        "ForceExecuteHitWallDamageThreshold": 500,
+        "HitVehicleDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 50,
+              "DamageValue": 10
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 50,
+              "MaxVelocitySize": 100,
+              "DamageValue": 20
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 100,
+              "MaxVelocitySize": 300,
+              "DamageValue": 100
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 300,
+              "MaxVelocitySize": 500,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bUseVelocityOffset": false,
+        "bVelocityOffsetDelay": false,
+        "SeatSkillsArray": [],
+        "RowDescription": "None"
+      },
+      "SOL\u8FD0\u5175\u76F4\u5347\u673A": {
+        "VehicleId": 1301003,
+        "MaxHP": 3000,
+        "ArmorType": "EGPVehicleArmorType::Raid",
+        "MaxLevelToIgnoreCollisionOfDestructible": 2,
+        "ExplodeAttackerValueId": 1982002,
+        "PointDamageTakenRate": 1,
+        "ExplosionDamageTakenRate": 1,
+        "VehicleArmorDamageId": 1812044,
+        "HitAttackerValueId": 1981004,
+        "HitCharacterDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 200,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bHitAiBotDamageOverride": false,
+        "HitAiBotDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "AngleVehicleUpWithUp": 120,
+        "BacksideCollisionAngle": 140,
+        "BacksideCollisionDamageScalar": 1,
+        "HitWallDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 30,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 30,
+              "MaxVelocitySize": 70,
+              "DamageValue": 200
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 70,
+              "MaxVelocitySize": 100,
+              "DamageValue": 1000
+            }
+          ]
+        },
+        "HitWallDamageVelocityScaleCurve": {
+          "_StructType": "FStructFallback",
+          "EditorCurveData": {
+            "_StructType": "FStructFallback",
+            "Keys": [],
+            "Orders": [],
+            "DefaultValue": 3.4028235E+38,
+            "PreInfinityExtrap": "RCCE_Constant",
+            "PostInfinityExtrap": "RCCE_Constant"
+          },
+          "ExternalCurve": null
+        },
+        "ForceExecuteHitWallDamageThreshold": 500,
+        "HitVehicleDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 50,
+              "DamageValue": 10
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 50,
+              "MaxVelocitySize": 100,
+              "DamageValue": 20
+            }
+          ]
+        },
+        "bUseVelocityOffset": false,
+        "bVelocityOffsetDelay": false,
+        "SeatSkillsArray": [],
+        "RowDescription": "None"
+      },
+      "SOLBOSS\u76F4\u5347\u673A": {
+        "VehicleId": 1301004,
+        "MaxHP": 400,
+        "ArmorType": "EGPVehicleArmorType::SOLHelicopter",
+        "MaxLevelToIgnoreCollisionOfDestructible": 2,
+        "ExplodeAttackerValueId": 1982002,
+        "PointDamageTakenRate": 1,
+        "ExplosionDamageTakenRate": 1,
+        "VehicleArmorDamageId": 1812044,
+        "HitAttackerValueId": 1981004,
+        "HitCharacterDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 200,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bHitAiBotDamageOverride": false,
+        "HitAiBotDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "AngleVehicleUpWithUp": 120,
+        "BacksideCollisionAngle": 140,
+        "BacksideCollisionDamageScalar": 1,
+        "HitWallDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 30,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 30,
+              "MaxVelocitySize": 70,
+              "DamageValue": 200
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 70,
+              "MaxVelocitySize": 100,
+              "DamageValue": 1000
+            }
+          ]
+        },
+        "HitWallDamageVelocityScaleCurve": {
+          "_StructType": "FStructFallback",
+          "EditorCurveData": {
+            "_StructType": "FStructFallback",
+            "Keys": [],
+            "Orders": [],
+            "DefaultValue": 3.4028235E+38,
+            "PreInfinityExtrap": "RCCE_Constant",
+            "PostInfinityExtrap": "RCCE_Constant"
+          },
+          "ExternalCurve": null
+        },
+        "ForceExecuteHitWallDamageThreshold": 500,
+        "HitVehicleDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 50,
+              "DamageValue": 10
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 50,
+              "MaxVelocitySize": 100,
+              "DamageValue": 20
+            }
+          ]
+        },
+        "bUseVelocityOffset": false,
+        "bVelocityOffsetDelay": false,
+        "SeatSkillsArray": [],
+        "RowDescription": "None"
+      },
+      "LSOV": {
+        "VehicleId": 1103012,
+        "MaxHP": 1000,
+        "ArmorType": "EGPVehicleArmorType::Default",
+        "MaxLevelToIgnoreCollisionOfDestructible": 2,
+        "ExplodeAttackerValueId": 1812106,
+        "PointDamageTakenRate": 1,
+        "ExplosionDamageTakenRate": 1,
+        "VehicleArmorDamageId": 1812044,
+        "HitAttackerValueId": 1981004,
+        "HitCharacterDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 5,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 5,
+              "MaxVelocitySize": 200,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bHitAiBotDamageOverride": false,
+        "HitAiBotDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "AngleVehicleUpWithUp": 120,
+        "BacksideCollisionAngle": 140,
+        "BacksideCollisionDamageScalar": 1,
+        "HitWallDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 40,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 40,
+              "MaxVelocitySize": 50,
+              "DamageValue": 60
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 50,
+              "MaxVelocitySize": 60,
+              "DamageValue": 90
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 60,
+              "MaxVelocitySize": 200,
+              "DamageValue": 120
+            }
+          ]
+        },
+        "HitWallDamageVelocityScaleCurve": {
+          "_StructType": "FStructFallback",
+          "EditorCurveData": {
+            "_StructType": "FStructFallback",
+            "Keys": [],
+            "Orders": [],
+            "DefaultValue": 3.4028235E+38,
+            "PreInfinityExtrap": "RCCE_Constant",
+            "PostInfinityExtrap": "RCCE_Constant"
+          },
+          "ExternalCurve": null
+        },
+        "ForceExecuteHitWallDamageThreshold": 500,
+        "HitVehicleDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 50,
+              "DamageValue": 10
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 50,
+              "MaxVelocitySize": 200,
+              "DamageValue": 10
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 200,
+              "MaxVelocitySize": 500,
+              "DamageValue": 50
+            }
+          ]
+        },
+        "bUseVelocityOffset": false,
+        "bVelocityOffsetDelay": false,
+        "SeatSkillsArray": [],
+        "RowDescription": "None"
+      },
+      "\u8F6E\u5F0F\u7A81\u51FB\u70AE": {
+        "VehicleId": 1101004,
+        "MaxHP": 1000,
+        "ArmorType": "EGPVehicleArmorType::FSV",
+        "MaxLevelToIgnoreCollisionOfDestructible": 2,
+        "ExplodeAttackerValueId": 1812106,
+        "PointDamageTakenRate": 1,
+        "ExplosionDamageTakenRate": 1,
+        "VehicleArmorDamageId": 1812045,
+        "HitAttackerValueId": 1981004,
+        "HitCharacterDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 5,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 5,
+              "MaxVelocitySize": 200,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bHitAiBotDamageOverride": false,
+        "HitAiBotDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "AngleVehicleUpWithUp": 120,
+        "BacksideCollisionAngle": 140,
+        "BacksideCollisionDamageScalar": 1,
+        "HitWallDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 45,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 45,
+              "MaxVelocitySize": 55,
+              "DamageValue": 5
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 55,
+              "MaxVelocitySize": 100,
+              "DamageValue": 10
+            }
+          ]
+        },
+        "HitWallDamageVelocityScaleCurve": {
+          "_StructType": "FStructFallback",
+          "EditorCurveData": {
+            "_StructType": "FStructFallback",
+            "Keys": [],
+            "Orders": [],
+            "DefaultValue": 3.4028235E+38,
+            "PreInfinityExtrap": "RCCE_Constant",
+            "PostInfinityExtrap": "RCCE_Constant"
+          },
+          "ExternalCurve": null
+        },
+        "ForceExecuteHitWallDamageThreshold": 500,
+        "HitVehicleDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 100,
+              "DamageValue": 20
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 100,
+              "MaxVelocitySize": 200,
+              "DamageValue": 100
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 200,
+              "MaxVelocitySize": 500,
+              "DamageValue": 350
+            }
+          ]
+        },
+        "bUseVelocityOffset": false,
+        "bVelocityOffsetDelay": false,
+        "SeatSkillsArray": [],
+        "RowDescription": "None"
+      },
+      "MH-33D\u4FA6\u5BDF\u76F4\u5347\u673A": {
+        "VehicleId": 1301005,
+        "MaxHP": 1000,
+        "ArmorType": "EGPVehicleArmorType::LittleBird",
+        "MaxLevelToIgnoreCollisionOfDestructible": 2,
+        "ExplodeAttackerValueId": 1812106,
+        "PointDamageTakenRate": 1,
+        "ExplosionDamageTakenRate": 1,
+        "VehicleArmorDamageId": 1812044,
+        "HitAttackerValueId": 1981004,
+        "HitCharacterDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 200,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bHitAiBotDamageOverride": false,
+        "HitAiBotDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "AngleVehicleUpWithUp": 120,
+        "BacksideCollisionAngle": 140,
+        "BacksideCollisionDamageScalar": 1,
+        "HitWallDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 50,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 50,
+              "MaxVelocitySize": 150,
+              "DamageValue": 300
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 150,
+              "MaxVelocitySize": 500,
+              "DamageValue": 1000
+            }
+          ]
+        },
+        "HitWallDamageVelocityScaleCurve": {
+          "_StructType": "FStructFallback",
+          "EditorCurveData": {
+            "_StructType": "FStructFallback",
+            "Keys": [],
+            "Orders": [],
+            "DefaultValue": 3.4028235E+38,
+            "PreInfinityExtrap": "RCCE_Constant",
+            "PostInfinityExtrap": "RCCE_Constant"
+          },
+          "ExternalCurve": null
+        },
+        "ForceExecuteHitWallDamageThreshold": 500,
+        "HitVehicleDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 50,
+              "DamageValue": 10
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 50,
+              "MaxVelocitySize": 100,
+              "DamageValue": 20
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 100,
+              "MaxVelocitySize": 300,
+              "DamageValue": 100
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 300,
+              "MaxVelocitySize": 500,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bUseVelocityOffset": false,
+        "bVelocityOffsetDelay": false,
+        "SeatSkillsArray": [
+          {
+            "_StructType": "FStructFallback",
+            "SeatName": "Point_Seat_03",
+            "AbilityTypeArray": [
+              "EVehicleAbilityType::EVAT_USESkillCommon"
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "SeatName": "Point_Seat_04",
+            "AbilityTypeArray": [
+              "EVehicleAbilityType::EVAT_USESkillCommon"
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "UH60": {
+        "VehicleId": 1301006,
+        "MaxHP": 1000,
+        "ArmorType": "EGPVehicleArmorType::Light",
+        "MaxLevelToIgnoreCollisionOfDestructible": 2,
+        "ExplodeAttackerValueId": 1812105,
+        "PointDamageTakenRate": 1,
+        "ExplosionDamageTakenRate": 1,
+        "VehicleArmorDamageId": 1812044,
+        "HitAttackerValueId": 1981004,
+        "HitCharacterDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 200,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bHitAiBotDamageOverride": false,
+        "HitAiBotDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "AngleVehicleUpWithUp": 120,
+        "BacksideCollisionAngle": 140,
+        "BacksideCollisionDamageScalar": 1,
+        "HitWallDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 50,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 50,
+              "MaxVelocitySize": 150,
+              "DamageValue": 300
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 150,
+              "MaxVelocitySize": 500,
+              "DamageValue": 1000
+            }
+          ]
+        },
+        "HitWallDamageVelocityScaleCurve": {
+          "_StructType": "FStructFallback",
+          "EditorCurveData": {
+            "_StructType": "FStructFallback",
+            "Keys": [],
+            "Orders": [],
+            "DefaultValue": 3.4028235E+38,
+            "PreInfinityExtrap": "RCCE_Constant",
+            "PostInfinityExtrap": "RCCE_Constant"
+          },
+          "ExternalCurve": null
+        },
+        "ForceExecuteHitWallDamageThreshold": 500,
+        "HitVehicleDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 50,
+              "DamageValue": 10
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 50,
+              "MaxVelocitySize": 100,
+              "DamageValue": 20
+            }
+          ]
+        },
+        "bUseVelocityOffset": false,
+        "bVelocityOffsetDelay": false,
+        "SeatSkillsArray": [],
+        "RowDescription": "None"
+      },
+      "F35": {
+        "VehicleId": 1301007,
+        "MaxHP": 1000,
+        "ArmorType": "EGPVehicleArmorType::LittleBird",
+        "MaxLevelToIgnoreCollisionOfDestructible": 2,
+        "ExplodeAttackerValueId": 1812105,
+        "PointDamageTakenRate": 1,
+        "ExplosionDamageTakenRate": 1,
+        "VehicleArmorDamageId": 1812142,
+        "HitAttackerValueId": 1981004,
+        "HitCharacterDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 200,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bHitAiBotDamageOverride": false,
+        "HitAiBotDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "AngleVehicleUpWithUp": 120,
+        "BacksideCollisionAngle": 140,
+        "BacksideCollisionDamageScalar": 10,
+        "HitWallDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 30,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 30,
+              "MaxVelocitySize": 70,
+              "DamageValue": 250
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 70,
+              "MaxVelocitySize": 150,
+              "DamageValue": 350
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 150,
+              "MaxVelocitySize": 200,
+              "DamageValue": 700
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 200,
+              "MaxVelocitySize": 20000,
+              "DamageValue": 1000
+            }
+          ]
+        },
+        "HitWallDamageVelocityScaleCurve": {
+          "_StructType": "FStructFallback",
+          "EditorCurveData": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              8,
+              1,
+              2,
+              4,
+              6,
+              3,
+              5,
+              7
+            ],
+            "DefaultValue": 3.4028235E+38,
+            "PreInfinityExtrap": "RCCE_Constant",
+            "PostInfinityExtrap": "RCCE_Constant"
+          },
+          "ExternalCurve": null
+        },
+        "ForceExecuteHitWallDamageThreshold": 500,
+        "HitVehicleDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 50,
+              "DamageValue": 50
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 50,
+              "MaxVelocitySize": 100,
+              "DamageValue": 100
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 100,
+              "MaxVelocitySize": 200,
+              "DamageValue": 200
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 200,
+              "MaxVelocitySize": 300,
+              "DamageValue": 500
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 300,
+              "MaxVelocitySize": 500,
+              "DamageValue": 1000
+            }
+          ]
+        },
+        "bUseVelocityOffset": true,
+        "bVelocityOffsetDelay": false,
+        "SeatSkillsArray": [],
+        "RowDescription": "None"
+      },
+      "GTQ35\u8F7B\u578B\u5766\u514B": {
+        "VehicleId": 1101005,
+        "MaxHP": 1000,
+        "ArmorType": "EGPVehicleArmorType::GTQ35",
+        "MaxLevelToIgnoreCollisionOfDestructible": 2,
+        "ExplodeAttackerValueId": 1812105,
+        "PointDamageTakenRate": 1,
+        "ExplosionDamageTakenRate": 1,
+        "VehicleArmorDamageId": 1812046,
+        "HitAttackerValueId": 1981004,
+        "HitCharacterDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 5,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 5,
+              "MaxVelocitySize": 200,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bHitAiBotDamageOverride": false,
+        "HitAiBotDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "AngleVehicleUpWithUp": 120,
+        "BacksideCollisionAngle": 140,
+        "BacksideCollisionDamageScalar": 1,
+        "HitWallDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10000,
+              "DamageValue": 0
+            }
+          ]
+        },
+        "HitWallDamageVelocityScaleCurve": {
+          "_StructType": "FStructFallback",
+          "EditorCurveData": {
+            "_StructType": "FStructFallback",
+            "Keys": [],
+            "Orders": [],
+            "DefaultValue": 3.4028235E+38,
+            "PreInfinityExtrap": "RCCE_Constant",
+            "PostInfinityExtrap": "RCCE_Constant"
+          },
+          "ExternalCurve": null
+        },
+        "ForceExecuteHitWallDamageThreshold": 500,
+        "HitVehicleDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 5,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 5,
+              "MaxVelocitySize": 100,
+              "DamageValue": 30
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 100,
+              "MaxVelocitySize": 200,
+              "DamageValue": 100
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 200,
+              "MaxVelocitySize": 500,
+              "DamageValue": 500
+            }
+          ]
+        },
+        "bUseVelocityOffset": false,
+        "bVelocityOffsetDelay": false,
+        "SeatSkillsArray": [],
+        "RowDescription": "None"
+      },
+      "\u6469\u6258\u8247": {
+        "VehicleId": 1201002,
+        "MaxHP": 1000,
+        "ArmorType": "EGPVehicleArmorType::Default",
+        "MaxLevelToIgnoreCollisionOfDestructible": 1,
+        "ExplodeAttackerValueId": 1812107,
+        "PointDamageTakenRate": 1,
+        "ExplosionDamageTakenRate": 1,
+        "VehicleArmorDamageId": 1812044,
+        "HitAttackerValueId": 1981002,
+        "HitCharacterDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 200,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bHitAiBotDamageOverride": false,
+        "HitAiBotDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "AngleVehicleUpWithUp": 120,
+        "BacksideCollisionAngle": 140,
+        "BacksideCollisionDamageScalar": 1,
+        "HitWallDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 40,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 40,
+              "MaxVelocitySize": 50,
+              "DamageValue": 60
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 50,
+              "MaxVelocitySize": 65,
+              "DamageValue": 90
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 65,
+              "MaxVelocitySize": 200,
+              "DamageValue": 120
+            }
+          ]
+        },
+        "HitWallDamageVelocityScaleCurve": {
+          "_StructType": "FStructFallback",
+          "EditorCurveData": {
+            "_StructType": "FStructFallback",
+            "Keys": [],
+            "Orders": [],
+            "DefaultValue": 3.4028235E+38,
+            "PreInfinityExtrap": "RCCE_Constant",
+            "PostInfinityExtrap": "RCCE_Constant"
+          },
+          "ExternalCurve": null
+        },
+        "ForceExecuteHitWallDamageThreshold": 500,
+        "HitVehicleDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 50,
+              "DamageValue": 10
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 50,
+              "MaxVelocitySize": 200,
+              "DamageValue": 10
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 200,
+              "MaxVelocitySize": 300,
+              "DamageValue": 50
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 300,
+              "MaxVelocitySize": 500,
+              "DamageValue": 50
+            }
+          ]
+        },
+        "bUseVelocityOffset": false,
+        "bVelocityOffsetDelay": false,
+        "SeatSkillsArray": [
+          {
+            "_StructType": "FStructFallback",
+            "SeatName": "Point_Seat_02",
+            "AbilityTypeArray": [
+              "EVehicleAbilityType::EVAT_USESkillCommon",
+              "EVehicleAbilityType::ESVT_NumMax"
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u51B2\u950B\u8247-\u51B0\u5C9B": {
+        "VehicleId": 1201001,
+        "MaxHP": 1000,
+        "ArmorType": "EGPVehicleArmorType::Middle",
+        "MaxLevelToIgnoreCollisionOfDestructible": 2,
+        "ExplodeAttackerValueId": 1812105,
+        "PointDamageTakenRate": 1,
+        "ExplosionDamageTakenRate": 1,
+        "VehicleArmorDamageId": 1812045,
+        "HitAttackerValueId": 1981002,
+        "HitCharacterDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 200,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bHitAiBotDamageOverride": false,
+        "HitAiBotDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "AngleVehicleUpWithUp": 120,
+        "BacksideCollisionAngle": 140,
+        "BacksideCollisionDamageScalar": 1,
+        "HitWallDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 50,
+              "DamageValue": 20
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 50,
+              "MaxVelocitySize": 200,
+              "DamageValue": 40
+            }
+          ]
+        },
+        "HitWallDamageVelocityScaleCurve": {
+          "_StructType": "FStructFallback",
+          "EditorCurveData": {
+            "_StructType": "FStructFallback",
+            "Keys": [],
+            "Orders": [],
+            "DefaultValue": 3.4028235E+38,
+            "PreInfinityExtrap": "RCCE_Constant",
+            "PostInfinityExtrap": "RCCE_Constant"
+          },
+          "ExternalCurve": null
+        },
+        "ForceExecuteHitWallDamageThreshold": 500,
+        "HitVehicleDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 100,
+              "DamageValue": 20
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 100,
+              "MaxVelocitySize": 200,
+              "DamageValue": 100
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 200,
+              "MaxVelocitySize": 500,
+              "DamageValue": 350
+            }
+          ]
+        },
+        "bUseVelocityOffset": false,
+        "bVelocityOffsetDelay": false,
+        "SeatSkillsArray": [
+          {
+            "_StructType": "FStructFallback",
+            "SeatName": "Point_Seat_03",
+            "AbilityTypeArray": [
+              "EVehicleAbilityType::EVAT_USESkillCommon"
+            ]
+          },
+          {
+            "_StructType": "FStructFallback",
+            "SeatName": "Point_Seat_04",
+            "AbilityTypeArray": [
+              "EVehicleAbilityType::EVAT_USESkillCommon"
+            ]
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "AAV\u4E24\u6816\u88C5\u7532\u8FD0\u8F93\u8F66": {
+        "VehicleId": 1101006,
+        "MaxHP": 1000,
+        "ArmorType": "EGPVehicleArmorType::AAV7",
+        "MaxLevelToIgnoreCollisionOfDestructible": 2,
+        "ExplodeAttackerValueId": 1812105,
+        "PointDamageTakenRate": 1,
+        "ExplosionDamageTakenRate": 1,
+        "VehicleArmorDamageId": 1812046,
+        "HitAttackerValueId": 1981004,
+        "HitCharacterDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 5,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 5,
+              "MaxVelocitySize": 200,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bHitAiBotDamageOverride": false,
+        "HitAiBotDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "AngleVehicleUpWithUp": 120,
+        "BacksideCollisionAngle": 140,
+        "BacksideCollisionDamageScalar": 1,
+        "HitWallDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10000,
+              "DamageValue": 0
+            }
+          ]
+        },
+        "HitWallDamageVelocityScaleCurve": {
+          "_StructType": "FStructFallback",
+          "EditorCurveData": {
+            "_StructType": "FStructFallback",
+            "Keys": [],
+            "Orders": [],
+            "DefaultValue": 3.4028235E+38,
+            "PreInfinityExtrap": "RCCE_Constant",
+            "PostInfinityExtrap": "RCCE_Constant"
+          },
+          "ExternalCurve": null
+        },
+        "ForceExecuteHitWallDamageThreshold": 500,
+        "HitVehicleDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 5,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 5,
+              "MaxVelocitySize": 100,
+              "DamageValue": 30
+            }
+          ]
+        },
+        "bUseVelocityOffset": false,
+        "bVelocityOffsetDelay": false,
+        "SeatSkillsArray": [],
+        "RowDescription": "None"
+      },
+      "\u54C8\u592B\u514B\u540A\u8D27\u76F4\u5347\u673A": {
+        "VehicleId": 1301008,
+        "MaxHP": 1500,
+        "ArmorType": "EGPVehicleArmorType::SOLHelicopter",
+        "MaxLevelToIgnoreCollisionOfDestructible": 2,
+        "ExplodeAttackerValueId": 1982002,
+        "PointDamageTakenRate": 1,
+        "ExplosionDamageTakenRate": 1,
+        "VehicleArmorDamageId": 1812044,
+        "HitAttackerValueId": 1981004,
+        "HitCharacterDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 200,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bHitAiBotDamageOverride": false,
+        "HitAiBotDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "AngleVehicleUpWithUp": 120,
+        "BacksideCollisionAngle": 140,
+        "BacksideCollisionDamageScalar": 1,
+        "HitWallDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 30,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 30,
+              "MaxVelocitySize": 70,
+              "DamageValue": 200
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 70,
+              "MaxVelocitySize": 100,
+              "DamageValue": 1000
+            }
+          ]
+        },
+        "HitWallDamageVelocityScaleCurve": {
+          "_StructType": "FStructFallback",
+          "EditorCurveData": {
+            "_StructType": "FStructFallback",
+            "Keys": [],
+            "Orders": [],
+            "DefaultValue": 3.4028235E+38,
+            "PreInfinityExtrap": "RCCE_Constant",
+            "PostInfinityExtrap": "RCCE_Constant"
+          },
+          "ExternalCurve": null
+        },
+        "ForceExecuteHitWallDamageThreshold": 500,
+        "HitVehicleDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 50,
+              "DamageValue": 10
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 50,
+              "MaxVelocitySize": 100,
+              "DamageValue": 20
+            }
+          ]
+        },
+        "bUseVelocityOffset": false,
+        "bVelocityOffsetDelay": false,
+        "SeatSkillsArray": [],
+        "RowDescription": "None"
+      },
+      "RCV": {
+        "VehicleId": 1101007,
+        "MaxHP": 1000,
+        "ArmorType": "EGPVehicleArmorType::Default",
+        "MaxLevelToIgnoreCollisionOfDestructible": 1,
+        "ExplodeAttackerValueId": 1812107,
+        "PointDamageTakenRate": 1,
+        "ExplosionDamageTakenRate": 1,
+        "VehicleArmorDamageId": 1812044,
+        "HitAttackerValueId": 1981002,
+        "HitCharacterDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 200,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bHitAiBotDamageOverride": false,
+        "HitAiBotDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "AngleVehicleUpWithUp": 120,
+        "BacksideCollisionAngle": 140,
+        "BacksideCollisionDamageScalar": 1,
+        "HitWallDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 40,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 40,
+              "MaxVelocitySize": 50,
+              "DamageValue": 60
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 50,
+              "MaxVelocitySize": 65,
+              "DamageValue": 90
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 65,
+              "MaxVelocitySize": 200,
+              "DamageValue": 120
+            }
+          ]
+        },
+        "HitWallDamageVelocityScaleCurve": {
+          "_StructType": "FStructFallback",
+          "EditorCurveData": {
+            "_StructType": "FStructFallback",
+            "Keys": [],
+            "Orders": [],
+            "DefaultValue": 3.4028235E+38,
+            "PreInfinityExtrap": "RCCE_Constant",
+            "PostInfinityExtrap": "RCCE_Constant"
+          },
+          "ExternalCurve": null
+        },
+        "ForceExecuteHitWallDamageThreshold": 500,
+        "HitVehicleDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 50,
+              "DamageValue": 10
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 50,
+              "MaxVelocitySize": 200,
+              "DamageValue": 10
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 200,
+              "MaxVelocitySize": 500,
+              "DamageValue": 50
+            }
+          ]
+        },
+        "bUseVelocityOffset": false,
+        "bVelocityOffsetDelay": false,
+        "SeatSkillsArray": [],
+        "RowDescription": "None"
+      },
+      "\u9C7C\u9E70": {
+        "VehicleId": 1301008,
+        "MaxHP": 1000,
+        "ArmorType": "EGPVehicleArmorType::Heavy",
+        "MaxLevelToIgnoreCollisionOfDestructible": 2,
+        "ExplodeAttackerValueId": 1812105,
+        "PointDamageTakenRate": 1,
+        "ExplosionDamageTakenRate": 1,
+        "VehicleArmorDamageId": 1812142,
+        "HitAttackerValueId": 1981004,
+        "HitCharacterDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 200,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bHitAiBotDamageOverride": false,
+        "HitAiBotDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "AngleVehicleUpWithUp": 120,
+        "BacksideCollisionAngle": 140,
+        "BacksideCollisionDamageScalar": 10,
+        "HitWallDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 30,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 30,
+              "MaxVelocitySize": 70,
+              "DamageValue": 250
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 70,
+              "MaxVelocitySize": 150,
+              "DamageValue": 350
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 150,
+              "MaxVelocitySize": 200,
+              "DamageValue": 700
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 200,
+              "MaxVelocitySize": 20000,
+              "DamageValue": 1000
+            }
+          ]
+        },
+        "HitWallDamageVelocityScaleCurve": {
+          "_StructType": "FStructFallback",
+          "EditorCurveData": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              8,
+              1,
+              2,
+              4,
+              6,
+              3,
+              5,
+              7
+            ],
+            "DefaultValue": 3.4028235E+38,
+            "PreInfinityExtrap": "RCCE_Constant",
+            "PostInfinityExtrap": "RCCE_Constant"
+          },
+          "ExternalCurve": null
+        },
+        "ForceExecuteHitWallDamageThreshold": 500,
+        "HitVehicleDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 50,
+              "DamageValue": 50
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 50,
+              "MaxVelocitySize": 100,
+              "DamageValue": 100
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 100,
+              "MaxVelocitySize": 200,
+              "DamageValue": 200
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 200,
+              "MaxVelocitySize": 300,
+              "DamageValue": 500
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 300,
+              "MaxVelocitySize": 500,
+              "DamageValue": 1000
+            }
+          ]
+        },
+        "bUseVelocityOffset": true,
+        "bVelocityOffsetDelay": false,
+        "SeatSkillsArray": [],
+        "RowDescription": "None"
+      },
+      "RCV_2": {
+        "VehicleId": 1101008,
+        "MaxHP": 1000,
+        "ArmorType": "EGPVehicleArmorType::Default",
+        "MaxLevelToIgnoreCollisionOfDestructible": 1,
+        "ExplodeAttackerValueId": 1812107,
+        "PointDamageTakenRate": 1,
+        "ExplosionDamageTakenRate": 1,
+        "VehicleArmorDamageId": 1812044,
+        "HitAttackerValueId": 1981002,
+        "HitCharacterDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 200,
+              "DamageValue": 200
+            }
+          ]
+        },
+        "bHitAiBotDamageOverride": false,
+        "HitAiBotDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": []
+        },
+        "AngleVehicleUpWithUp": 120,
+        "BacksideCollisionAngle": 140,
+        "BacksideCollisionDamageScalar": 1,
+        "HitWallDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 40,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 40,
+              "MaxVelocitySize": 50,
+              "DamageValue": 60
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 50,
+              "MaxVelocitySize": 65,
+              "DamageValue": 90
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 65,
+              "MaxVelocitySize": 200,
+              "DamageValue": 120
+            }
+          ]
+        },
+        "HitWallDamageVelocityScaleCurve": {
+          "_StructType": "FStructFallback",
+          "EditorCurveData": {
+            "_StructType": "FStructFallback",
+            "Keys": [],
+            "Orders": [],
+            "DefaultValue": 3.4028235E+38,
+            "PreInfinityExtrap": "RCCE_Constant",
+            "PostInfinityExtrap": "RCCE_Constant"
+          },
+          "ExternalCurve": null
+        },
+        "ForceExecuteHitWallDamageThreshold": 500,
+        "HitVehicleDamageConfig": {
+          "_StructType": "FStructFallback",
+          "Infos": [
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 0,
+              "MaxVelocitySize": 10,
+              "DamageValue": 0
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 10,
+              "MaxVelocitySize": 50,
+              "DamageValue": 10
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 50,
+              "MaxVelocitySize": 200,
+              "DamageValue": 10
+            },
+            {
+              "_StructType": "FStructFallback",
+              "MinVelocitySize": 200,
+              "MaxVelocitySize": 500,
+              "DamageValue": 50
+            }
+          ]
+        },
+        "bUseVelocityOffset": false,
+        "bVelocityOffsetDelay": false,
+        "SeatSkillsArray": [],
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 33
+  }
+]

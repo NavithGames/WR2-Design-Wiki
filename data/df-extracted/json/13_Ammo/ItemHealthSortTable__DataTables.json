@@ -1,0 +1,72 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "ItemHealthSortTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/ItemHealthSortTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "ItemHealthSortTable",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "14020000001": {
+        "ItemId": 14020000001,
+        "SortIndex": 3,
+        "SortWeight": 100,
+        "RowDescription": "None"
+      },
+      "14020000002": {
+        "ItemId": 14020000002,
+        "SortIndex": 4,
+        "SortWeight": 100,
+        "RowDescription": "None"
+      },
+      "14020000003": {
+        "ItemId": 14020000003,
+        "SortIndex": 5,
+        "SortWeight": 100,
+        "RowDescription": "None"
+      },
+      "14020000004": {
+        "ItemId": 14020000004,
+        "SortIndex": 6,
+        "SortWeight": 100,
+        "RowDescription": "None"
+      },
+      "14030000001": {
+        "ItemId": 14030000001,
+        "SortIndex": 8,
+        "SortWeight": 100,
+        "RowDescription": "None"
+      },
+      "14050000001": {
+        "ItemId": 14050000001,
+        "SortIndex": 11,
+        "SortWeight": 100,
+        "RowDescription": "None"
+      },
+      "14050000002": {
+        "ItemId": 14050000002,
+        "SortIndex": 10,
+        "SortWeight": 100,
+        "RowDescription": "None"
+      },
+      "14060000001": {
+        "ItemId": 14060000001,
+        "SortIndex": 1,
+        "SortWeight": 100,
+        "RowDescription": "None"
+      },
+      "14060000002": {
+        "ItemId": 14060000002,
+        "SortIndex": 2,
+        "SortWeight": 100,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 9
+  }
+]

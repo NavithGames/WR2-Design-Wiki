@@ -1,0 +1,520 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "HeroProfile",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/Hero/HeroProfile",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "HeroProfile",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "88000000030": {
+        "ID": 88000000030,
+        "Name": null,
+        "Title": null,
+        "TeamIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_04.Hero_Sp_04"
+        },
+        "Birthday": null,
+        "Height": null,
+        "Weight": null,
+        "Organization": null,
+        "OrganizationIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Logo/HeroLine_Logo_NA.HeroLine_Logo_NA"
+        },
+        "Evaluation": null,
+        "HeroBGPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Kai/Kai_Portraits_01.Kai_Portraits_01"
+        },
+        "ArchiveIds": [
+          1001,
+          1002,
+          2001,
+          3001
+        ],
+        "ArmIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0002.Common_Arms_Icon_0002"
+        },
+        "RowDescription": "None"
+      },
+      "88000000028": {
+        "ID": 88000000028,
+        "Name": null,
+        "Title": null,
+        "TeamIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_03.Hero_Sp_03"
+        },
+        "Birthday": null,
+        "Height": null,
+        "Weight": null,
+        "Organization": null,
+        "OrganizationIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Logo/HeroLine_Logo_NA.HeroLine_Logo_NA"
+        },
+        "Evaluation": null,
+        "HeroBGPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Luna/Luna_Portraits_01.Luna_Portraits_01"
+        },
+        "ArchiveIds": [
+          1003,
+          2002,
+          3002
+        ],
+        "ArmIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0001.Common_Arms_Icon_0001"
+        },
+        "RowDescription": "None"
+      },
+      "88000000029": {
+        "ID": 88000000029,
+        "Name": null,
+        "Title": null,
+        "TeamIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_05.Hero_Sp_05"
+        },
+        "Birthday": null,
+        "Height": null,
+        "Weight": null,
+        "Organization": null,
+        "OrganizationIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Logo/HeroLine_Logo_NA.HeroLine_Logo_NA"
+        },
+        "Evaluation": null,
+        "HeroBGPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Terry/Terry_Portraits_01.Terry_Portraits_01"
+        },
+        "ArchiveIds": [
+          1004,
+          1016,
+          2003,
+          3003
+        ],
+        "ArmIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0004.Common_Arms_Icon_0004"
+        },
+        "RowDescription": "None"
+      },
+      "88000000027": {
+        "ID": 88000000027,
+        "Name": null,
+        "Title": null,
+        "TeamIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_06.Hero_Sp_06"
+        },
+        "Birthday": null,
+        "Height": null,
+        "Weight": null,
+        "Organization": null,
+        "OrganizationIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Logo/HeroLine_Logo_EU.HeroLine_Logo_EU"
+        },
+        "Evaluation": null,
+        "HeroBGPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Roy/Roy_Portraits_01.Roy_Portraits_01"
+        },
+        "ArchiveIds": [
+          1005,
+          1006,
+          1007,
+          2004,
+          3004
+        ],
+        "ArmIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0003.Common_Arms_Icon_0003"
+        },
+        "RowDescription": "None"
+      },
+      "88000000025": {
+        "ID": 88000000025,
+        "Name": null,
+        "Title": null,
+        "TeamIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_08.Hero_Sp_08"
+        },
+        "Birthday": null,
+        "Height": null,
+        "Weight": null,
+        "Organization": null,
+        "OrganizationIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Logo/HeroLine_Logo_AS.HeroLine_Logo_AS"
+        },
+        "Evaluation": null,
+        "HeroBGPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Vyron/Vyron_Portraits_01.Vyron_Portraits_01"
+        },
+        "ArchiveIds": [
+          1008,
+          1009,
+          1010,
+          2005,
+          3005
+        ],
+        "ArmIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0002.Common_Arms_Icon_0002"
+        },
+        "RowDescription": "None"
+      },
+      "88000000026": {
+        "ID": 88000000026,
+        "Name": null,
+        "Title": null,
+        "TeamIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_09.Hero_Sp_09"
+        },
+        "Birthday": null,
+        "Height": null,
+        "Weight": null,
+        "Organization": null,
+        "OrganizationIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Logo/HeroLine_Logo_AS.HeroLine_Logo_AS"
+        },
+        "Evaluation": null,
+        "HeroBGPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Hack/Hack_Portraits_01.Hack_Portraits_01"
+        },
+        "ArchiveIds": [
+          1011,
+          1012,
+          1013,
+          2006,
+          3006
+        ],
+        "ArmIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0001.Common_Arms_Icon_0001"
+        },
+        "RowDescription": "None"
+      },
+      "88000000035": {
+        "ID": 88000000035,
+        "Name": null,
+        "Title": null,
+        "TeamIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_Icon_10.Hero_Sp_Icon_10"
+        },
+        "Birthday": null,
+        "Height": null,
+        "Weight": null,
+        "Organization": null,
+        "OrganizationIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Logo/HeroLine_Logo_OA.HeroLine_Logo_OA"
+        },
+        "Evaluation": null,
+        "HeroBGPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/David/David_Portraits_01.David_Portraits_01"
+        },
+        "ArchiveIds": [
+          1014,
+          1015,
+          2007,
+          3007
+        ],
+        "ArmIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0004.Common_Arms_Icon_0004"
+        },
+        "RowDescription": "None"
+      },
+      "88000000036": {
+        "ID": 88000000036,
+        "Name": null,
+        "Title": null,
+        "TeamIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_Icon_11.Hero_Sp_Icon_11"
+        },
+        "Birthday": null,
+        "Height": null,
+        "Weight": null,
+        "Organization": null,
+        "OrganizationIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Logo/HeroLine_Logo_EU.HeroLine_Logo_EU"
+        },
+        "Evaluation": null,
+        "HeroBGPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Zoya/Zoya_Portraits_01.Zoya_Portraits_01"
+        },
+        "ArchiveIds": [
+          1019,
+          1017,
+          1018,
+          2008,
+          3008
+        ],
+        "ArmIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0003.Common_Arms_Icon_0003"
+        },
+        "RowDescription": "None"
+      },
+      "88000000037": {
+        "ID": 88000000037,
+        "Name": null,
+        "Title": null,
+        "TeamIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_Icon_12.Hero_Sp_Icon_12"
+        },
+        "Birthday": null,
+        "Height": null,
+        "Weight": null,
+        "Organization": null,
+        "OrganizationIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Logo/HeroLine_Logo_EU.HeroLine_Logo_EU"
+        },
+        "Evaluation": null,
+        "HeroBGPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Alex/Alex_Portraits_01.Alex_Portraits_01"
+        },
+        "ArchiveIds": [
+          1020,
+          1021,
+          1022,
+          2009,
+          3009
+        ],
+        "ArmIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0004.Common_Arms_Icon_0004"
+        },
+        "RowDescription": "None"
+      },
+      "88000000038": {
+        "ID": 88000000038,
+        "Name": null,
+        "Title": null,
+        "TeamIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_Icon_13.Hero_Sp_Icon_13"
+        },
+        "Birthday": null,
+        "Height": null,
+        "Weight": null,
+        "Organization": null,
+        "OrganizationIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Logo/HeroLine_Logo_DE.HeroLine_Logo_DE"
+        },
+        "Evaluation": null,
+        "HeroBGPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Nox/Elio__Portraits_01.Elio__Portraits_01"
+        },
+        "ArchiveIds": [
+          1023,
+          1024,
+          1025,
+          2010,
+          3010
+        ],
+        "ArmIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0002.Common_Arms_Icon_0002"
+        },
+        "RowDescription": "None"
+      },
+      "88000000039": {
+        "ID": 88000000039,
+        "Name": null,
+        "Title": null,
+        "TeamIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_Icon_14.Hero_Sp_Icon_14"
+        },
+        "Birthday": null,
+        "Height": null,
+        "Weight": null,
+        "Organization": null,
+        "OrganizationIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Logo/HeroLine_Logo_Haavk.HeroLine_Logo_Haavk"
+        },
+        "Evaluation": null,
+        "HeroBGPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Claier/Claire_Portraits_01.Claire_Portraits_01"
+        },
+        "ArchiveIds": [
+          1026,
+          1027,
+          2011,
+          3011
+        ],
+        "ArmIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0002.Common_Arms_Icon_0002"
+        },
+        "RowDescription": "None"
+      },
+      "88000000040": {
+        "ID": 88000000040,
+        "Name": null,
+        "Title": null,
+        "TeamIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_Icon_15.Hero_Sp_Icon_15"
+        },
+        "Birthday": null,
+        "Height": null,
+        "Weight": null,
+        "Organization": null,
+        "OrganizationIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Logo/HeroLine_Logo_NA.HeroLine_Logo_NA"
+        },
+        "Evaluation": null,
+        "HeroBGPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Landon/Landon_Portraits_01.Landon_Portraits_01"
+        },
+        "ArchiveIds": [
+          1026,
+          1027,
+          2011,
+          3011
+        ],
+        "ArmIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0001.Common_Arms_Icon_0001"
+        },
+        "RowDescription": "None"
+      },
+      "88000000041": {
+        "ID": 88000000041,
+        "Name": null,
+        "Title": null,
+        "TeamIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_Icon_16.Hero_Sp_Icon_16"
+        },
+        "Birthday": null,
+        "Height": null,
+        "Weight": null,
+        "Organization": null,
+        "OrganizationIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Logo/HeroLine_Logo_AF.HeroLine_Logo_AF"
+        },
+        "Evaluation": null,
+        "HeroBGPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/GIZMO/Rashid_Portraits_01.Rashid_Portraits_01"
+        },
+        "ArchiveIds": [
+          1031,
+          1032,
+          1033,
+          2013,
+          3013
+        ],
+        "ArmIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0004.Common_Arms_Icon_0004"
+        },
+        "RowDescription": "None"
+      },
+      "88000000045": {
+        "ID": 88000000045,
+        "Name": null,
+        "Title": null,
+        "TeamIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_Icon_18.Hero_Sp_Icon_18"
+        },
+        "Birthday": null,
+        "Height": null,
+        "Weight": null,
+        "Organization": null,
+        "OrganizationIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Logo/HeroLine_Logo_EU.HeroLine_Logo_EU"
+        },
+        "Evaluation": null,
+        "HeroBGPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Vlinder/Vlinder_Portraits_01.Vlinder_Portraits_01"
+        },
+        "ArchiveIds": [
+          1034,
+          1035,
+          1036,
+          2014,
+          3014
+        ],
+        "ArmIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0003.Common_Arms_Icon_0003"
+        },
+        "RowDescription": "None"
+      },
+      "88000000046": {
+        "ID": 88000000046,
+        "Name": null,
+        "Title": null,
+        "TeamIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_Icon_19.Hero_Sp_Icon_19"
+        },
+        "Birthday": null,
+        "Height": null,
+        "Weight": null,
+        "Organization": null,
+        "OrganizationIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Logo/HeroLine_Logo_EU.HeroLine_Logo_EU"
+        },
+        "Evaluation": null,
+        "HeroBGPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/HeroLine/Morse/Morse_Portraits_01.Morse_Portraits_01"
+        },
+        "ArchiveIds": [
+          1037,
+          1038,
+          1039,
+          2015,
+          3015
+        ],
+        "ArmIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0001.Common_Arms_Icon_0001"
+        },
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 15
+  }
+]

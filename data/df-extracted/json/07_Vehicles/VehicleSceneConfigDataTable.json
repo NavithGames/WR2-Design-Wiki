@@ -1,0 +1,59 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "VehicleSceneConfigDataTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/Vehicle/VehicleSceneConfigDataTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "VehicleSceneConfigData",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "Default": {
+        "VechileSceneType": "Default",
+        "SubLevelNameGroup": [
+          {
+            "_StructType": "FSoftObjectPath",
+            "_Value": "/Game/Maps/Iris_Entry/DynamicRequest/MiniWorldLevels/SublLevel/Vehicle/Displayctrl_Vehicle_Scene_02.Displayctrl_Vehicle_Scene_02"
+          },
+          {
+            "_StructType": "FSoftObjectPath",
+            "_Value": "/Game/Maps/Iris_Entry/DynamicRequest/MiniWorldLevels/SublLevel/Vehicle/Displayctrl_Vehicle_Light_HD.Displayctrl_Vehicle_Light_HD"
+          }
+        ],
+        "LightGroupName": "VehicleDisplay_Main",
+        "HeightFogName": "VehicleDisplay_Main",
+        "SequencePath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "LoopCount": 0,
+        "RowDescription": "None"
+      },
+      "Water": {
+        "VechileSceneType": "Water",
+        "SubLevelNameGroup": [
+          {
+            "_StructType": "FSoftObjectPath",
+            "_Value": "/Game/Maps/Iris_Entry/DynamicRequest/MiniWorldLevels/SublLevel/Vehicle/Displayctrl_Vehicle_Scene_WaterVehicle.Displayctrl_Vehicle_Scene_WaterVehicle"
+          },
+          {
+            "_StructType": "FSoftObjectPath",
+            "_Value": "/Game/Maps/Iris_Entry/DynamicRequest/MiniWorldLevels/SublLevel/Vehicle/Displayctrl_Vehicle_WaterVehicle_Light_HD.Displayctrl_Vehicle_WaterVehicle_Light_HD"
+          }
+        ],
+        "LightGroupName": "WaterVehicleDisplay_Main",
+        "HeightFogName": "VehicleDisplay_Main",
+        "SequencePath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Maps/Iris_Entry/CutScene/CarrierShot/CarrierShot_ship.CarrierShot_ship"
+        },
+        "LoopCount": -1,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 2
+  }
+]

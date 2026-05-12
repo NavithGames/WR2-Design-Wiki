@@ -1,0 +1,458 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "VehicleSkillConfigTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Vehicle/VehicleSkillConfigTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "VehicleSkillConfigDataTableRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "LAV25": {
+        "VehicleId": 1101003,
+        "SeatSkillConfigs": [
+          {
+            "Key": "Point_Seat_01",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillConfigs": [
+                {
+                  "Key": 1,
+                  "Value": 10002
+                },
+                {
+                  "Key": 2,
+                  "Value": 10001
+                }
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Tank": {
+        "VehicleId": 1101001,
+        "SeatSkillConfigs": [
+          {
+            "Key": "Point_FL",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillConfigs": [
+                {
+                  "Key": 1,
+                  "Value": 10002
+                },
+                {
+                  "Key": 2,
+                  "Value": 10001
+                }
+              ]
+            }
+          },
+          {
+            "Key": "Point_BR",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillConfigs": [
+                {
+                  "Key": 4,
+                  "Value": 10006
+                },
+                {
+                  "Key": 1,
+                  "Value": 10012
+                }
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "LAVAD": {
+        "VehicleId": 1101002,
+        "SeatSkillConfigs": [
+          {
+            "Key": "Point_Seat_01",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillConfigs": [
+                {
+                  "Key": 1,
+                  "Value": 10002
+                },
+                {
+                  "Key": 2,
+                  "Value": 10001
+                }
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u6B66\u76F4": {
+        "VehicleId": 1301001,
+        "SeatSkillConfigs": [
+          {
+            "Key": "Point_FL",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillConfigs": [
+                {
+                  "Key": 1,
+                  "Value": 10001
+                },
+                {
+                  "Key": 2,
+                  "Value": 10003
+                }
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "ORV": {
+        "VehicleId": 1102001,
+        "SeatSkillConfigs": [
+          {
+            "Key": "Point_Seat_01",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillConfigs": [
+                {
+                  "Key": 1,
+                  "Value": 10002
+                },
+                {
+                  "Key": 2,
+                  "Value": 10001
+                },
+                {
+                  "Key": 3,
+                  "Value": 10007
+                }
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u963F\u5E15\u5947": {
+        "VehicleId": 1301002,
+        "SeatSkillConfigs": [
+          {
+            "Key": "Point_Seat_01",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillConfigs": [
+                {
+                  "Key": 1,
+                  "Value": 10003
+                },
+                {
+                  "Key": 2,
+                  "Value": 10001
+                }
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u8F6E\u5F0F\u7A81\u51FB\u70AE": {
+        "VehicleId": 1101004,
+        "SeatSkillConfigs": [
+          {
+            "Key": "Point_Seat_01",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillConfigs": [
+                {
+                  "Key": 1,
+                  "Value": 10002
+                },
+                {
+                  "Key": 2,
+                  "Value": 10001
+                }
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u5C0F\u9E1F": {
+        "VehicleId": 1301005,
+        "SeatSkillConfigs": [
+          {
+            "Key": "Point_Seat_01",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillConfigs": [
+                {
+                  "Key": 1,
+                  "Value": 10003
+                },
+                {
+                  "Key": 2,
+                  "Value": 10001
+                }
+              ]
+            }
+          },
+          {
+            "Key": "Point_Seat_02",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillConfigs": [
+                {
+                  "Key": 4,
+                  "Value": 10006
+                },
+                {
+                  "Key": 1,
+                  "Value": 10005
+                }
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "UH60": {
+        "VehicleId": 1301006,
+        "SeatSkillConfigs": [
+          {
+            "Key": "Point_FL",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillConfigs": [
+                {
+                  "Key": 1,
+                  "Value": 10001
+                },
+                {
+                  "Key": 2,
+                  "Value": 10003
+                }
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "GTQ-35\u8F7B\u578B\u5766\u514B": {
+        "VehicleId": 1101005,
+        "SeatSkillConfigs": [
+          {
+            "Key": "Point_FL",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillConfigs": [
+                {
+                  "Key": 1,
+                  "Value": 10002
+                },
+                {
+                  "Key": 2,
+                  "Value": 10001
+                }
+              ]
+            }
+          },
+          {
+            "Key": "Point_BR",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillConfigs": [
+                {
+                  "Key": 4,
+                  "Value": 10006
+                },
+                {
+                  "Key": 2,
+                  "Value": 10013
+                }
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "F35": {
+        "VehicleId": 1301007,
+        "SeatSkillConfigs": [
+          {
+            "Key": "Point_FL",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillConfigs": [
+                {
+                  "Key": 1,
+                  "Value": 10003
+                },
+                {
+                  "Key": 2,
+                  "Value": 10001
+                }
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u51B2\u950B\u8247": {
+        "VehicleId": 1201003,
+        "SeatSkillConfigs": [
+          {
+            "Key": "Point_Seat_01",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillConfigs": [
+                {
+                  "Key": 1,
+                  "Value": 10002
+                },
+                {
+                  "Key": 2,
+                  "Value": 10001
+                }
+              ]
+            }
+          },
+          {
+            "Key": "Point_Seat_02",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillConfigs": [
+                {
+                  "Key": 4,
+                  "Value": 10006
+                },
+                {
+                  "Key": 1,
+                  "Value": 10005
+                }
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "AAV\u4E24\u6816\u88C5\u7532\u8FD0\u8F93\u8F66": {
+        "VehicleId": 1101006,
+        "SeatSkillConfigs": [
+          {
+            "Key": "Point_FL",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillConfigs": [
+                {
+                  "Key": 1,
+                  "Value": 10002
+                },
+                {
+                  "Key": 2,
+                  "Value": 10018
+                },
+                {
+                  "Key": 3,
+                  "Value": 10020
+                }
+              ]
+            }
+          },
+          {
+            "Key": "Point_BR",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillConfigs": [
+                {
+                  "Key": 4,
+                  "Value": 10006
+                },
+                {
+                  "Key": 1,
+                  "Value": 10012
+                }
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "RCV": {
+        "VehicleId": 1101007,
+        "SeatSkillConfigs": [
+          {
+            "Key": "Point_Seat_01",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillConfigs": [
+                {
+                  "Key": 1,
+                  "Value": 10019
+                },
+                {
+                  "Key": 2,
+                  "Value": 10001
+                }
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u9C7C\u9E70": {
+        "VehicleId": 1301008,
+        "SeatSkillConfigs": [
+          {
+            "Key": "Point_FL",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillConfigs": [
+                {
+                  "Key": 1,
+                  "Value": 10003
+                },
+                {
+                  "Key": 2,
+                  "Value": 10001
+                }
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u8001\u592A\u6218\u8F66": {
+        "VehicleId": 1101008,
+        "SeatSkillConfigs": [
+          {
+            "Key": "Point_FL",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "SkillConfigs": [
+                {
+                  "Key": 1,
+                  "Value": 10019
+                },
+                {
+                  "Key": 2,
+                  "Value": 10001
+                }
+              ]
+            }
+          }
+        ],
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 16
+  }
+]

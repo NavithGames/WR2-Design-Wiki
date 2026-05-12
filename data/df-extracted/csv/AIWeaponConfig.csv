@@ -1,0 +1,8 @@
+﻿RowName,RecId,PresetID,LeftHandIKOffset,AIWeaponAdditivePose,RowDescription
+18030000004,18030000004,0,"(X=-8, Y=3, Z=-2)",SG_M_3P_M870_idleadditive,None
+18050000008,18050000008,0,"(X=0, Y=0, Z=0)",AR_M_3P_G3_IdleAdditive,None
+18020000004,18020000004,0,"(X=0, Y=0, Z=0)",SMG_M_UZI_3P_Idle_pose,None
+18010000010,18010000010,0,"(X=-10, Y=4, Z=-2)",AR_M_AK74U_3P_Additive,None
+18050000002,18050000002,0,"(X=0, Y=2, Z=-2)",DMR_M_3P_Mini14_idle_pose1,None
+10050001320,0,10050001320,"(X=0, Y=0, Z=0)",DMR_M_3P_Mini14_idle_pose1,None
+10060001542,0,10060001542,"(X=-10, Y=5, Z=-3)",SR_M_3P_M40_IdleAdditive,None

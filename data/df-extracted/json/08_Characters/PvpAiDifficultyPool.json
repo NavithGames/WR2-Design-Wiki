@@ -1,0 +1,213 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "PvpAIDifficultyPool",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/CharacterTemplate/PvPAI/PvpAiDifficultyPool",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "PvpAiDifficultyPool",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "Default": {
+        "Items": [
+          {
+            "_StructType": "FStructFallback",
+            "DifficultyName": "MMR1000",
+            "Probability": 0.1
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DifficultyName": "MMR1200",
+            "Probability": 0.2
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DifficultyName": "MMR1500",
+            "Probability": 0.4
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DifficultyName": "MMR1700",
+            "Probability": 0.2
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DifficultyName": "MMR2000",
+            "Probability": 0.1
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "TestDifficulty": {
+        "Items": [
+          {
+            "_StructType": "FStructFallback",
+            "DifficultyName": "MMR2000",
+            "Probability": 1
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Iron": {
+        "Items": [
+          {
+            "_StructType": "FStructFallback",
+            "DifficultyName": "MMR1000",
+            "Probability": 0.8
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DifficultyName": "MMR1200",
+            "Probability": 0.2
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Silver": {
+        "Items": [
+          {
+            "_StructType": "FStructFallback",
+            "DifficultyName": "MMR1000",
+            "Probability": 0.2
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DifficultyName": "MMR1200",
+            "Probability": 0.6
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DifficultyName": "MMR1500",
+            "Probability": 0.2
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Gold": {
+        "Items": [
+          {
+            "_StructType": "FStructFallback",
+            "DifficultyName": "MMR1200",
+            "Probability": 0.2
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DifficultyName": "MMR1500",
+            "Probability": 0.6
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DifficultyName": "MMR1700",
+            "Probability": 0.2
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Platinium": {
+        "Items": [
+          {
+            "_StructType": "FStructFallback",
+            "DifficultyName": "MMR1500",
+            "Probability": 0.2
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DifficultyName": "MMR1700",
+            "Probability": 0.6
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DifficultyName": "MMR2000",
+            "Probability": 0.2
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "Diamond": {
+        "Items": [
+          {
+            "_StructType": "FStructFallback",
+            "DifficultyName": "MMR1700",
+            "Probability": 0.2
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DifficultyName": "MMR2000",
+            "Probability": 0.8
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "DeathTest": {
+        "Items": [
+          {
+            "_StructType": "FStructFallback",
+            "DifficultyName": "MMR3000",
+            "Probability": 1
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "NotHurtAI": {
+        "Items": [
+          {
+            "_StructType": "FStructFallback",
+            "DifficultyName": "NotHurtAI",
+            "Probability": 1
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "noob": {
+        "Items": [
+          {
+            "_StructType": "FStructFallback",
+            "DifficultyName": "cai",
+            "Probability": 1
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "pro": {
+        "Items": [
+          {
+            "_StructType": "FStructFallback",
+            "DifficultyName": "niu",
+            "Probability": 1
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "noob5s": {
+        "Items": [
+          {
+            "_StructType": "FStructFallback",
+            "DifficultyName": "cai5s",
+            "Probability": 1
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "DyBot1": {
+        "Items": [
+          {
+            "_StructType": "FStructFallback",
+            "DifficultyName": "MMR1700",
+            "Probability": 0.2
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DifficultyName": "MMR2000",
+            "Probability": 0.8
+          }
+        ],
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 13
+  }
+]

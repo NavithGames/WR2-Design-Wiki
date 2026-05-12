@@ -1,0 +1,59 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "RandomHighValueRoomTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/Interact/RandomHighValueRoomTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "RandomHighValueRoomTableRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "NewRow": {
+        "MapIDs": [
+          8901,
+          8902,
+          89
+        ],
+        "GroupName": "GroupA",
+        "HighValueNumProbability": [
+          {
+            "Key": 2,
+            "Value": 1
+          }
+        ]
+      },
+      "NewRow_0": {
+        "MapIDs": [
+          8901,
+          8902,
+          89
+        ],
+        "GroupName": "GroupB",
+        "HighValueNumProbability": [
+          {
+            "Key": 2,
+            "Value": 1
+          }
+        ]
+      },
+      "NewRow_1": {
+        "MapIDs": [
+          8901,
+          8902,
+          89
+        ],
+        "GroupName": "GroupC",
+        "HighValueNumProbability": [
+          {
+            "Key": 2,
+            "Value": 1
+          }
+        ]
+      }
+    },
+    "_RowCount": 3
+  }
+]

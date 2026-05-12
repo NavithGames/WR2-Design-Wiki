@@ -1,0 +1,4 @@
+﻿RowName,ScreenplayID,MinDistanceToPlayer,MaxDistanceToPlayer,DestoryDistance,DelayTime,MoniterInterval,FightInterval,HurtPercentage,Radius,MaxPlayerNum,SimulateAIDistributionOfConfig,ImportantItems,RowDescription
+1,1,5000,10000,7500,30,240,120,30,20000,2,Coach_Warm; Coach_Low; Coach_Mid; Coach_High; Coach_Warm; Coach_Top; Coach_Warm,,None
+2,2,5000,10000,7500,30,240,120,50,20000,2,Coach_Warm; Coach_Warm; Coach_Warm; Coach_Warm; Coach_Warm; Coach_Warm; Coach_Warm,,None
+3,3,5000,10000,7500,30,240,120,70,20000,2,Coach_Top; Coach_Top; Coach_Top; Coach_Top; Coach_Top; Coach_Top; Coach_Top,,None

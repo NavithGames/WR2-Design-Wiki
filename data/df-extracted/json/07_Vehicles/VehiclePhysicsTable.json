@@ -1,0 +1,61 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "VehiclePhysicsTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Vehicle/VehiclePhysicsTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "VehiclePhysicsDataTableRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "AH-1035D\u7A81\u51FB\u76F4\u5347\u673A": {
+        "VehicleId": 1301002,
+        "bEnableModifyCollisionContact": true,
+        "MinContactModificationVelocity": 5,
+        "MaxContactModificationVelocityScale": 5000,
+        "MinContactModificationVelocityScale": 1000,
+        "ContactNormalModifyScale": 0.5,
+        "ContactModificationCoolingTime": 0.5,
+        "bEnableAutoBalance": false,
+        "BalanceStrengthRoll": 1,
+        "BalanceStrengthPitch": 1,
+        "BalanceAngluarDamping": 5,
+        "bEnableAutoBalanceWhenFalling": false,
+        "MinFallingLinearVelocity": 1000,
+        "bEnableAutoBalanceWhenStationary": false,
+        "MaxStationaryLinearVelocity": 10,
+        "MaxStationaryAngularVelocity": 10,
+        "bEnableStickToGround": false,
+        "StickToGroundRiseStrength": 10,
+        "StickToGroundFallStrength": 1,
+        "RowDescription": "None"
+      },
+      "MH-33D\u4FA6\u5BDF\u76F4\u5347\u673A": {
+        "VehicleId": 1301005,
+        "bEnableModifyCollisionContact": true,
+        "MinContactModificationVelocity": 5,
+        "MaxContactModificationVelocityScale": 5000,
+        "MinContactModificationVelocityScale": 1000,
+        "ContactNormalModifyScale": 0.5,
+        "ContactModificationCoolingTime": 0.5,
+        "bEnableAutoBalance": false,
+        "BalanceStrengthRoll": 1,
+        "BalanceStrengthPitch": 1,
+        "BalanceAngluarDamping": 5,
+        "bEnableAutoBalanceWhenFalling": false,
+        "MinFallingLinearVelocity": 1000,
+        "bEnableAutoBalanceWhenStationary": false,
+        "MaxStationaryLinearVelocity": 10,
+        "MaxStationaryAngularVelocity": 10,
+        "bEnableStickToGround": false,
+        "StickToGroundRiseStrength": 10,
+        "StickToGroundFallStrength": 1,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 2
+  }
+]

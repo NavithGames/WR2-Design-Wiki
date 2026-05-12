@@ -1,0 +1,9 @@
+﻿RowName,ID,DefaultMode,GroupID,MatchModeID,GroupMapSelectType,Priority,ModeName,ModeDesc,ModeThumbnail,MapName,MapDesc,MapThumbnail,ModeRuleDesc,AddMemberType,Available,Open,OpenTime,CloseTime,WeeklyTime,DayTime,ModePlayerLevel,IsTournement,GroupType,ModeLabel,MapLabel,ModeNameLabel,CategoryName,IfRemind
+26033414,0,0,0,26033414,0,0,,,(),,,(),,False,False,True,,,,,0,False,0,,,,,False
+26034414,0,0,0,26034414,0,0,,,(),,,(),,False,False,True,,,,,0,False,0,,,,,False
+26046414,0,0,0,26046414,0,0,,,(),,,(),,False,False,True,,,,,0,False,0,,,,,False
+26031414,0,0,0,26031414,0,0,,,(),,,(),,False,False,True,,,,,0,False,0,,,,,False
+26028414,0,0,0,26028414,0,0,,,(),,,(),,False,False,True,,,,,0,False,0,,,,,False
+26015414,0,0,0,26015414,0,0,,,(),,,(),,False,False,True,,,,,0,False,0,,,,,False
+27041514,0,0,0,27041514,0,0,,,(),,,(),,False,False,True,,,,,0,False,0,,,,,False
+27045514,0,0,0,27045514,0,0,,,(),,,(),,False,False,True,,,,,0,False,0,,,,,False

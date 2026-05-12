@@ -1,0 +1,5 @@
+﻿RowName,MapID,FirstRefreshActiveCountdownTime,SubsequentRefreshTime,RefreshAreaNum,RefreshRedPacketNumArea,RefreshRedPacketLeadTime,ScoreRefreshRedPacket,ScoreRefreshTime,ScoreRefreshAreaNum,ScoreRefreshRedPacketNumArea,RowDescription
+965,965,5,30,8,5,0.5,70,15,12,5,None
+966,966,5,30,8,5,0.5,70,15,12,5,None
+967,967,5,30,8,5,0.5,70,15,12,5,None
+968,968,5,30,8,5,0.5,70,15,12,5,None

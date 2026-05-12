@@ -1,0 +1,62 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "RaidEvaluation",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/RaidSettlement/RaidEvaluation",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "RaidEvaluation",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "1": {
+        "ID": 1,
+        "EvaluateName": null,
+        "ParamID": 1,
+        "MinValue": 1000,
+        "EvaluateWeight": 100,
+        "EvaluateType": 1,
+        "RowDescription": "None"
+      },
+      "2": {
+        "ID": 2,
+        "EvaluateName": null,
+        "ParamID": 2,
+        "MinValue": 0,
+        "EvaluateWeight": 60,
+        "EvaluateType": 3,
+        "RowDescription": "None"
+      },
+      "3": {
+        "ID": 3,
+        "EvaluateName": null,
+        "ParamID": 3,
+        "MinValue": 1,
+        "EvaluateWeight": 70,
+        "EvaluateType": 2,
+        "RowDescription": "None"
+      },
+      "4": {
+        "ID": 4,
+        "EvaluateName": null,
+        "ParamID": 4,
+        "MinValue": 0,
+        "EvaluateWeight": 80,
+        "EvaluateType": 3,
+        "RowDescription": "None"
+      },
+      "5": {
+        "ID": 5,
+        "EvaluateName": null,
+        "ParamID": 6,
+        "MinValue": 10,
+        "EvaluateWeight": 90,
+        "EvaluateType": 1,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 5
+  }
+]

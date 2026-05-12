@@ -1,0 +1,233 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "BattleFieldCharacterDeathConfig",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/BattleField/BattleFieldCharacterDeathConfig",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "BattleFieldCharacterDeathConfig",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "Default": {
+        "Type": "EBattleFieldDeathConfigType::Default",
+        "Enemy": {
+          "_StructType": "FStructFallback",
+          "bTrackingMurder": true,
+          "bImpendingDeath": true,
+          "bNeedRisingState": true
+        },
+        "Friend": {
+          "_StructType": "FStructFallback",
+          "bTrackingMurder": false,
+          "bImpendingDeath": true,
+          "bNeedRisingState": true
+        },
+        "World": {
+          "_StructType": "FStructFallback",
+          "bTrackingMurder": false,
+          "bImpendingDeath": true,
+          "bNeedRisingState": true
+        },
+        "DamageId": 0,
+        "BuffId": 0,
+        "RowDescription": "None"
+      },
+      "NewRow": {
+        "Type": "EBattleFieldDeathConfigType::OutOfSafeArea",
+        "Enemy": {
+          "_StructType": "FStructFallback",
+          "bTrackingMurder": false,
+          "bImpendingDeath": false,
+          "bNeedRisingState": true
+        },
+        "Friend": {
+          "_StructType": "FStructFallback",
+          "bTrackingMurder": false,
+          "bImpendingDeath": false,
+          "bNeedRisingState": true
+        },
+        "World": {
+          "_StructType": "FStructFallback",
+          "bTrackingMurder": false,
+          "bImpendingDeath": false,
+          "bNeedRisingState": true
+        },
+        "DamageId": 0,
+        "BuffId": 0,
+        "RowDescription": "None"
+      },
+      "NewRow_1": {
+        "Type": "EBattleFieldDeathConfigType::InVehicle",
+        "Enemy": {
+          "_StructType": "FStructFallback",
+          "bTrackingMurder": true,
+          "bImpendingDeath": false,
+          "bNeedRisingState": true
+        },
+        "Friend": {
+          "_StructType": "FStructFallback",
+          "bTrackingMurder": false,
+          "bImpendingDeath": false,
+          "bNeedRisingState": true
+        },
+        "World": {
+          "_StructType": "FStructFallback",
+          "bTrackingMurder": true,
+          "bImpendingDeath": false,
+          "bNeedRisingState": true
+        },
+        "DamageId": 0,
+        "BuffId": 0,
+        "RowDescription": "None"
+      },
+      "NewRow_2": {
+        "Type": "EBattleFieldDeathConfigType::InGiantTower",
+        "Enemy": {
+          "_StructType": "FStructFallback",
+          "bTrackingMurder": false,
+          "bImpendingDeath": false,
+          "bNeedRisingState": true
+        },
+        "Friend": {
+          "_StructType": "FStructFallback",
+          "bTrackingMurder": false,
+          "bImpendingDeath": false,
+          "bNeedRisingState": true
+        },
+        "World": {
+          "_StructType": "FStructFallback",
+          "bTrackingMurder": false,
+          "bImpendingDeath": false,
+          "bNeedRisingState": true
+        },
+        "DamageId": 0,
+        "BuffId": 0,
+        "RowDescription": "None"
+      },
+      "NewRow_3": {
+        "Type": "EBattleFieldDeathConfigType::Damage",
+        "Enemy": {
+          "_StructType": "FStructFallback",
+          "bTrackingMurder": false,
+          "bImpendingDeath": false,
+          "bNeedRisingState": true
+        },
+        "Friend": {
+          "_StructType": "FStructFallback",
+          "bTrackingMurder": false,
+          "bImpendingDeath": true,
+          "bNeedRisingState": true
+        },
+        "World": {
+          "_StructType": "FStructFallback",
+          "bTrackingMurder": false,
+          "bImpendingDeath": false,
+          "bNeedRisingState": true
+        },
+        "DamageId": 2100010,
+        "BuffId": 0,
+        "RowDescription": "None"
+      },
+      "NewRow_4": {
+        "Type": "EBattleFieldDeathConfigType::Damage",
+        "Enemy": {
+          "_StructType": "FStructFallback",
+          "bTrackingMurder": true,
+          "bImpendingDeath": false,
+          "bNeedRisingState": true
+        },
+        "Friend": {
+          "_StructType": "FStructFallback",
+          "bTrackingMurder": false,
+          "bImpendingDeath": false,
+          "bNeedRisingState": true
+        },
+        "World": {
+          "_StructType": "FStructFallback",
+          "bTrackingMurder": true,
+          "bImpendingDeath": false,
+          "bNeedRisingState": true
+        },
+        "DamageId": 2000001,
+        "BuffId": 0,
+        "RowDescription": "None"
+      },
+      "NewRow_0": {
+        "Type": "EBattleFieldDeathConfigType::InElevator",
+        "Enemy": {
+          "_StructType": "FStructFallback",
+          "bTrackingMurder": false,
+          "bImpendingDeath": false,
+          "bNeedRisingState": true
+        },
+        "Friend": {
+          "_StructType": "FStructFallback",
+          "bTrackingMurder": false,
+          "bImpendingDeath": false,
+          "bNeedRisingState": true
+        },
+        "World": {
+          "_StructType": "FStructFallback",
+          "bTrackingMurder": false,
+          "bImpendingDeath": false,
+          "bNeedRisingState": true
+        },
+        "DamageId": 0,
+        "BuffId": 0,
+        "RowDescription": "None"
+      },
+      "\u5904\u51B3": {
+        "Type": "EBattleFieldDeathConfigType::Damage",
+        "Enemy": {
+          "_StructType": "FStructFallback",
+          "bTrackingMurder": true,
+          "bImpendingDeath": false,
+          "bNeedRisingState": true
+        },
+        "Friend": {
+          "_StructType": "FStructFallback",
+          "bTrackingMurder": true,
+          "bImpendingDeath": false,
+          "bNeedRisingState": true
+        },
+        "World": {
+          "_StructType": "FStructFallback",
+          "bTrackingMurder": true,
+          "bImpendingDeath": false,
+          "bNeedRisingState": true
+        },
+        "DamageId": 2100011,
+        "BuffId": 0,
+        "RowDescription": "None"
+      },
+      "Cracked\u5927\u4E8B\u4EF6\u4F24\u5BB3": {
+        "Type": "EBattleFieldDeathConfigType::Damage",
+        "Enemy": {
+          "_StructType": "FStructFallback",
+          "bTrackingMurder": true,
+          "bImpendingDeath": false,
+          "bNeedRisingState": true
+        },
+        "Friend": {
+          "_StructType": "FStructFallback",
+          "bTrackingMurder": true,
+          "bImpendingDeath": false,
+          "bNeedRisingState": true
+        },
+        "World": {
+          "_StructType": "FStructFallback",
+          "bTrackingMurder": true,
+          "bImpendingDeath": false,
+          "bNeedRisingState": true
+        },
+        "DamageId": 2200001,
+        "BuffId": 0,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 9
+  }
+]

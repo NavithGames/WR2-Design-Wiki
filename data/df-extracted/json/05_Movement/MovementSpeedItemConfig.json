@@ -1,0 +1,50 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "MovementSpeedItemConfig",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/Character/MovementSpeedItemConfig",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "CharacterMovementSpeedItemConfig",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "9999": {
+        "SpeedID": 9999,
+        "StandSilentWalkSpeed": 180,
+        "StandRunSpeed": 355,
+        "StandSprintSpeed": 630,
+        "CrouchRunSpeed": 255,
+        "CrouchSilentWalkSpeed": 125,
+        "ProneMoveSpeed": 90,
+        "SwimmingSurfaceSpeed": 285,
+        "SwimmingInWaterSpeed": 340,
+        "SwimmingUpSpeed": 340,
+        "SwimmingDownSpeed": 200,
+        "UsingItemSpeedFactor": -0.25,
+        "UsingItemInWaterSpeedFactor": -0.25,
+        "RowDescription": "None"
+      },
+      "1": {
+        "SpeedID": 1,
+        "StandSilentWalkSpeed": 180,
+        "StandRunSpeed": 355,
+        "StandSprintSpeed": 630,
+        "CrouchRunSpeed": 255,
+        "CrouchSilentWalkSpeed": 125,
+        "ProneMoveSpeed": 90,
+        "SwimmingSurfaceSpeed": 285,
+        "SwimmingInWaterSpeed": 340,
+        "SwimmingUpSpeed": 340,
+        "SwimmingDownSpeed": 200,
+        "UsingItemSpeedFactor": -0.25,
+        "UsingItemInWaterSpeedFactor": -0.25,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 2
+  }
+]

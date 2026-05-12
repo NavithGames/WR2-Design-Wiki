@@ -1,0 +1,126 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "ArmedForceData",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/ArmedForceData",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "ArmedForceDataInfo",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "1": {
+        "ArmedForceId": 1,
+        "Name": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0002.Common_Arms_Icon_0002"
+        },
+        "WeaponTypeList": "1801,1807",
+        "WeaponList": "",
+        "AbilityId": 1100001,
+        "RedeployHeroViewColorType": "D003",
+        "RedeployHeroViewColor": {
+          "R": 1,
+          "G": 0.035601,
+          "B": 0.082283,
+          "A": 1
+        },
+        "RedeployHeroViewArmBigIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_04.Hero_Sp_04"
+        },
+        "IconForRedeploy": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0002.Common_Arms_Icon_0002"
+        },
+        "RowDescription": "None"
+      },
+      "2": {
+        "ArmedForceId": 2,
+        "Name": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0003.Common_Arms_Icon_0003"
+        },
+        "WeaponTypeList": "1802,1807",
+        "WeaponList": "",
+        "AbilityId": 1200001,
+        "RedeployHeroViewColorType": "D002",
+        "RedeployHeroViewColor": {
+          "R": 0.004777,
+          "G": 0.938686,
+          "B": 0.327778,
+          "A": 1
+        },
+        "RedeployHeroViewArmBigIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_06.Hero_Sp_06"
+        },
+        "IconForRedeploy": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0003.Common_Arms_Icon_0003"
+        },
+        "RowDescription": "None"
+      },
+      "3": {
+        "ArmedForceId": 3,
+        "Name": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0004.Common_Arms_Icon_0004"
+        },
+        "WeaponTypeList": "1803,1804,1807,1808",
+        "WeaponList": "",
+        "AbilityId": 1300001,
+        "RedeployHeroViewColorType": "D004",
+        "RedeployHeroViewColor": {
+          "R": 1,
+          "G": 0.665387,
+          "B": 0.109462,
+          "A": 1
+        },
+        "RedeployHeroViewArmBigIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_05.Hero_Sp_05"
+        },
+        "IconForRedeploy": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0004.Common_Arms_Icon_0004"
+        },
+        "RowDescription": "None"
+      },
+      "4": {
+        "ArmedForceId": 4,
+        "Name": null,
+        "Icon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0001.Common_Arms_Icon_0001"
+        },
+        "WeaponTypeList": "1805,1806,1807",
+        "WeaponList": "",
+        "AbilityId": 1400001,
+        "RedeployHeroViewColorType": "D001",
+        "RedeployHeroViewColor": {
+          "R": 0.004777,
+          "G": 0.887923,
+          "B": 0.930111,
+          "A": 1
+        },
+        "RedeployHeroViewArmBigIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Hero/Sp/Hero_Sp_03.Hero_Sp_03"
+        },
+        "IconForRedeploy": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_Arms_Icon_0001.Common_Arms_Icon_0001"
+        },
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 4
+  }
+]

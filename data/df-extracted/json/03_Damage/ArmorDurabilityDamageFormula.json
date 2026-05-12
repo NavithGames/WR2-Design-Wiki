@@ -1,0 +1,40 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "ArmorDurabilityDamageFormula",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/ArmorDurabilityDamageFormula",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "ArmorDurabilityDamageFormula",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "1": {
+        "FormualID": 1,
+        "DamageFator": 0,
+        "ArmorDefendFator": 0,
+        "RandomValue": 0,
+        "PenetrateFatorA": 1,
+        "ArmorFatorB": 1,
+        "ArmorMinusNumber60": 250,
+        "SumDivideNumberN": 15,
+        "RowDescription": "None"
+      },
+      "2": {
+        "FormualID": 2,
+        "DamageFator": 0.1,
+        "ArmorDefendFator": 0.2,
+        "RandomValue": 5,
+        "PenetrateFatorA": 0,
+        "ArmorFatorB": 0,
+        "ArmorMinusNumber60": 5,
+        "SumDivideNumberN": 1,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 2
+  }
+]

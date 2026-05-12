@@ -1,0 +1,935 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "AK12_BasePos",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/WeaponAppearance/WeaponAnimBasePos/AK12_BasePos",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "WeaponAnimBasePosTableRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "AK12": {
+        "MoveBS": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SwimMoveBS": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "VerticalSwimBS": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "MoveBS_F": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "MoveBS_FL": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "MoveBS_FR": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "MoveBS_B": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "MoveBS_BL": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "MoveBS_BR": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "MoveBS_L": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "MoveBS_R": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SafeHouseMoveBS": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Idle": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SwimIdle": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "VerticalSwimIdle": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Standby1": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "LeisureIdle": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "ArmFractureAdditive": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "LegFractureIdleAdditive": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "LegFractureMoveAdditive": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "CrouchSprintAdditive": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "CarriedCharacterIdleAdditive": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "CarriedBoxIdleAdditive": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "LeftArmAnimAdditive": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "ImpendingDeathBreakthroughBS": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "LeanPeekAdditiveBS": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "AimOffsetBS": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "ADSLeanBS": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "JumpStart": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "JumpDown": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "JumpLand": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "FallHigh": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "FallingHigh": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SlideTackleStart": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SlideTackleLoop": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SlideTackleEnd": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "JumpStartBS": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "JumpLandBS": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "FallingDownBS": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "JumpLandAdd": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "IdleToAiming": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "AimingIdle": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "AimingIdleAdditive": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "AimingIdleStaticSeq": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "AimingChargeSeq": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "AimingToIdle": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "AimLeftHandAdditivePose": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "IdleAdditive": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Climb": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Sprint2Idle": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "IdletoSprint": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SprintStart": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SprintStop": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "RunStart": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "RunStop": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "RunPose": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SprintPose": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SprintOffsetPose": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Walk2Run": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Run2Walk": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Walk2Sprint": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Sprint2Walk": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Run2Sprint": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Sprint2SuperSprint": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SuperSprint2Sprint": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "LocomotionIdle": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SuperSprintPose": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SuperSprint2Walk": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Run2SuperSprint": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SuperSprintOffsetPose": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "RelaxIdleAdditive": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SafeHouseWalk2Run": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SafeHouseRun2Walk": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SafeHouseWalk2Sprint": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SafeHouseSprint2Walk": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SafeHouseRun2Sprint": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SafeHouseRunPose": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SafeHouseSprintPose": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SafeHouseSprintOffsetPose": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SpecialDeath": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Idle2ImpendingDeath": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Idle2ImpendingDeath_Breakthrough": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "Idle2Death": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "ImpendingDeathRequestRescueMontage": {
+          "_StructType": "FStructFallback",
+          "FPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FPPCameraShakeScale": 0,
+          "TPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TPPCameraShakeScale": 0,
+          "WeaponAnimItemMap": []
+        },
+        "TurnLeftMontage": {
+          "_StructType": "FStructFallback",
+          "FPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FPPCameraShakeScale": 0,
+          "TPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TPPCameraShakeScale": 0,
+          "WeaponAnimItemMap": []
+        },
+        "TurnRightMontage": {
+          "_StructType": "FStructFallback",
+          "FPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FPPCameraShakeScale": 0,
+          "TPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TPPCameraShakeScale": 0,
+          "WeaponAnimItemMap": []
+        },
+        "TurnRight90": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TurnLeft90": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionCrouchToProne": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionCrouchToStand": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionProneToCrouch": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionProneToStand": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionProneToStandSprint": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionProneToStandRun": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionStandToCrouch": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionStandToProne": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionStandToProneBS": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRunStartF": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRunStartR": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRunStartB": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRunStartL": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRunStartFL": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRunStartFR": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRunStartBL": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRunStartBR": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRunPivotF": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRunPivotR": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRunPivotB": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRunPivotL": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRunPivotFL": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRunPivotFR": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRunPivotBL": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRunPivotBR": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRunPivotR_R": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRunPivotL_R": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRunStopF": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRunStopR": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRunStopB": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRunStopL": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRunStopFL": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRunStopFR": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRunStopBL": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRunStopBR": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRunStopB_R": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRunStopF_R": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRunStopR_R": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRunStopL_R": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRunStopFL_R": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRunStopFR_R": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRunStopBL_R": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRunStopBR_R": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionSprintStartF": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRun2SprintF": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionRun2SprintFNew": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionSprintStopF": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionSprintStopFL": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionSprintStopFR": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionLandSprintF": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionLandRunF": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionWalkStartF": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionWalkStartR": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionWalkStartB": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionWalkStartL": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionWalkStartFL": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionWalkStartFR": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionWalkStartBL": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionWalkStartBR": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionWalkStopF": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionWalkStopR": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionWalkStopB": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionWalkStopL": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionWalkStopFL": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionWalkStopFR": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionWalkStopBL": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionWalkStopBR": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionWalkStopB_R": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionWalkStopF_R": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionWalkStopR_R": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionWalkStopL_R": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionWalkStopFL_R": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionWalkStopFR_R": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionWalkStopBL_R": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "TransitionWalkStopBR_R": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "OperationMap": {
+          "_StructType": "FStructFallback",
+          "AnimItemSeqBaseMap": []
+        },
+        "AdditivePose": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "HitBS": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "AimFireIdlePose": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "ClimbVaultType_ClimbOne": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "ClimbVaultType_VaultOne": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "ClimbVaultType_RunVaultOne": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "ClimbVaultType_RunClimbOne": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "ClimbVaultType_ClimbTwo": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "ClimbVaultType_VaultTwo": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "ClimbVaultType_RunVaultTwo": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "ClimbVaultType_RunClimbTwo": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "ClimbVaultType_ClimbThree": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "ClimbVaultType_VaultThree": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "ClimbVaultType_RunVaultThree": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "ClimbVaultType_RunClimbThree": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "ClimbVaultType_ClimbFour": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "ClimbVaultType_VaultFour": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "ClimbVaultType_RunVaultFour": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "ClimbVaultType_RunClimbFour": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "StartZipline": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "LoopZipline": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "StartDive": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "LoopDive": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "EndDive": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "DiveBasePose": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "PassiveMoveBegin": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "PassiveMoveLoop": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "PassiveMoveEnd": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SwimIn": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SwimOut": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SwimSprint": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "DiveSwimSprint": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SwimSprintAdditivePose": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SwimForbidFire": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "HitUpperBodyBS": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "HitHeadBS": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "HitLeftLegBS": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "HitRightLegBS": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "HitLeftLegSeq": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "HitRightLegSeq": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SupineMoveBS": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SupineIdle": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SupineIdleAdditive": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "IdleToSupine": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "StandToSupineBS": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SupineToIdle": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SupineToStandRun": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SupineToStandSprint": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SupineTurnRight90": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SupineTurnLeft90": {
+          "_StructType": "FStructFallback",
+          "WeaponAnimItemMap": []
+        },
+        "SupineTurnRightMontage": {
+          "_StructType": "FStructFallback",
+          "FPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FPPCameraShakeScale": 0,
+          "TPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TPPCameraShakeScale": 0,
+          "WeaponAnimItemMap": []
+        },
+        "SupineTurnLeftMontage": {
+          "_StructType": "FStructFallback",
+          "FPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FPPCameraShakeScale": 0,
+          "TPPCameraShakePath": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TPPCameraShakeScale": 0,
+          "WeaponAnimItemMap": []
+        },
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 1
+  }
+]

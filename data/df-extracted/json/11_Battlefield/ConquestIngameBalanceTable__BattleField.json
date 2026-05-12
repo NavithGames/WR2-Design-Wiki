@@ -1,0 +1,2825 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "ConquestIngameBalanceTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/PC/DataTables/BattleField/ConquestIngameBalanceTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "ConquestBalanceDataRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "RULE!!!!": {
+        "MapID": -1,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "Iceland_Conquest": {
+        "MapID": 103,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeed.Camp0OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeedBySector.Camp0OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeed.Camp1OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeedBySector.Camp1OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/ResourceDiffPercent.ResourceDiffPercent",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/SectorScoreSpeed.SectorScoreSpeed",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/LeadingCampResources.LeadingCampResources",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "Cracked_Conquest": {
+        "MapID": 34,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeed.Camp0OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeedBySector.Camp0OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeed.Camp1OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeedBySector.Camp1OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/ResourceDiffPercent.ResourceDiffPercent",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/SectorScoreSpeed.SectorScoreSpeed",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/LeadingCampResources.LeadingCampResources",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "Gibraltar_Conquest": {
+        "MapID": 210,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeed.Camp0OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeedBySector.Camp0OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeed.Camp1OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeedBySector.Camp1OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/ResourceDiffPercent.ResourceDiffPercent",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/SectorScoreSpeed.SectorScoreSpeed",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/LeadingCampResources.LeadingCampResources",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "Shafted_Conquest": {
+        "MapID": 114,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeed.Camp0OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeedBySector.Camp0OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeed.Camp1OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeedBySector.Camp1OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/ResourceDiffPercent.ResourceDiffPercent",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/SectorScoreSpeed.SectorScoreSpeed",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/LeadingCampResources.LeadingCampResources",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "Retrowar_Conquest": {
+        "MapID": 108,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeed.Camp0OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeedBySector.Camp0OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeed.Camp1OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeedBySector.Camp1OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/ResourceDiffPercent.ResourceDiffPercent",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/SectorScoreSpeed.SectorScoreSpeed",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/LeadingCampResources.LeadingCampResources",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "Retrowar_Conquest_Night": {
+        "MapID": 802,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeed.Camp0OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeedBySector.Camp0OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeed.Camp1OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeedBySector.Camp1OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/ResourceDiffPercent.ResourceDiffPercent",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/SectorScoreSpeed.SectorScoreSpeed",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/LeadingCampResources.LeadingCampResources",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "Derail_Conquest": {
+        "MapID": 112,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeed.Camp0OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeedBySector.Camp0OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeed.Camp1OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeedBySector.Camp1OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/ResourceDiffPercent.ResourceDiffPercent",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/SectorScoreSpeed.SectorScoreSpeed",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/LeadingCampResources.LeadingCampResources",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "Crest_Conquest": {
+        "MapID": 122,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeed.Camp0OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeedBySector.Camp0OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeed.Camp1OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeedBySector.Camp1OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/ResourceDiffPercent.ResourceDiffPercent",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/SectorScoreSpeed.SectorScoreSpeed",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/LeadingCampResources.LeadingCampResources",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "NewRow_9": {
+        "MapID": 303,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeed.Camp0OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeedBySector.Camp0OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeed.Camp1OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeedBySector.Camp1OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/ResourceDiffPercent.ResourceDiffPercent",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/SectorScoreSpeed.SectorScoreSpeed",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/LeadingCampResources.LeadingCampResources",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "NewRow_10": {
+        "MapID": 152,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeed.Camp0OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeedBySector.Camp0OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeed.Camp1OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeedBySector.Camp1OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/ResourceDiffPercent.ResourceDiffPercent",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/SectorScoreSpeed.SectorScoreSpeed",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/LeadingCampResources.LeadingCampResources",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "NewRow_8": {
+        "MapID": 139,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeed.Camp0OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeedBySector.Camp0OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeed.Camp1OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeedBySector.Camp1OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/ResourceDiffPercent.ResourceDiffPercent",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/SectorScoreSpeed.SectorScoreSpeed",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/LeadingCampResources.LeadingCampResources",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "IceLand_TacticalConquest": {
+        "MapID": 105,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeedBySector_Tactical.Camp0OccupySpeedBySector_Tactical",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeedBySector_Tactical.Camp1OccupySpeedBySector_Tactical",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "Cracked_TacticalConquest": {
+        "MapID": 109,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeedBySector_Tactical.Camp0OccupySpeedBySector_Tactical",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeedBySector_Tactical.Camp1OccupySpeedBySector_Tactical",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "Gibraltar_TacticalConquest": {
+        "MapID": 213,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeedBySector_Tactical.Camp0OccupySpeedBySector_Tactical",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeedBySector_Tactical.Camp1OccupySpeedBySector_Tactical",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "Shafted_TacticalConquest": {
+        "MapID": 124,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeedBySector_Tactical.Camp0OccupySpeedBySector_Tactical",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeedBySector_Tactical.Camp1OccupySpeedBySector_Tactical",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "Retrowar_TacticalConquest": {
+        "MapID": 127,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeedBySector_Tactical.Camp0OccupySpeedBySector_Tactical",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeedBySector_Tactical.Camp1OccupySpeedBySector_Tactical",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "Iceland_ArmoredWar": {
+        "MapID": 117,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeed.Camp0OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeedBySector.Camp0OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeed.Camp1OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeedBySector.Camp1OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/ResourceDiffPercent.ResourceDiffPercent",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/SectorScoreSpeed.SectorScoreSpeed",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/LeadingCampResources.LeadingCampResources",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "Cracked_ArmoredWar": {
+        "MapID": 119,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeed.Camp0OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeedBySector.Camp0OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeed.Camp1OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeedBySector.Camp1OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/ResourceDiffPercent.ResourceDiffPercent",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/SectorScoreSpeed.SectorScoreSpeed",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/LeadingCampResources.LeadingCampResources",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "Retrowar_ArmoredWar": {
+        "MapID": 227,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeed.Camp0OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeedBySector.Camp0OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeed.Camp1OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeedBySector.Camp1OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/ResourceDiffPercent.ResourceDiffPercent",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/SectorScoreSpeed.SectorScoreSpeed",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/LeadingCampResources.LeadingCampResources",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "Derail_Armorwar": {
+        "MapID": 526,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeed.Camp0OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeedBySector.Camp0OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeed.Camp1OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeedBySector.Camp1OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/ResourceDiffPercent.ResourceDiffPercent",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/SectorScoreSpeed.SectorScoreSpeed",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/LeadingCampResources.LeadingCampResources",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "Iceland_CaptureTheFlag": {
+        "MapID": 401,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0BalanceScore_CTF.Camp0BalanceScore_CTF",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1BalanceScore_CTF.Camp1BalanceScore_CTF",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/ResourceDiffPercent_CTF.ResourceDiffPercent_CTF",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/LeadingCampResources_CTF.LeadingCampResources_CTF",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "Cracked_CaptureTheFlag": {
+        "MapID": 402,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0BalanceScore_CTF.Camp0BalanceScore_CTF",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1BalanceScore_CTF.Camp1BalanceScore_CTF",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/ResourceDiffPercent_CTF.ResourceDiffPercent_CTF",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/LeadingCampResources_CTF.LeadingCampResources_CTF",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "Retrowar_CaptureTheFlag": {
+        "MapID": 403,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0BalanceScore_CTF.Camp0BalanceScore_CTF",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1BalanceScore_CTF.Camp1BalanceScore_CTF",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/ResourceDiffPercent_CTF.ResourceDiffPercent_CTF",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/LeadingCampResources_CTF.LeadingCampResources_CTF",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "NewRow_11": {
+        "MapID": 551,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeed.Camp0OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeedBySector.Camp0OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeed.Camp1OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeedBySector.Camp1OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/ResourceDiffPercent.ResourceDiffPercent",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/SectorScoreSpeed.SectorScoreSpeed",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/LeadingCampResources.LeadingCampResources",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "NewRow_12": {
+        "MapID": 550,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeed.Camp0OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeedBySector.Camp0OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeed.Camp1OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeedBySector.Camp1OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/ResourceDiffPercent.ResourceDiffPercent",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/SectorScoreSpeed.SectorScoreSpeed",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/LeadingCampResources.LeadingCampResources",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "NewRow_13": {
+        "MapID": 552,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeed.Camp0OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeedBySector.Camp0OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeed.Camp1OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeedBySector.Camp1OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/ResourceDiffPercent.ResourceDiffPercent",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/SectorScoreSpeed.SectorScoreSpeed",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/LeadingCampResources.LeadingCampResources",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "NewRow": {
+        "MapID": -1,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "NewRow_0": {
+        "MapID": 621,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeed.Camp0OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeedBySector_Iceland.Camp0OccupySpeedBySector_Iceland",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeed.Camp1OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeedBySector_Iceland.Camp1OccupySpeedBySector_Iceland",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/ResourceDiffPercent_Iceland.ResourceDiffPercent_Iceland",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/SectorScoreSpeed_Iceland.SectorScoreSpeed_Iceland",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/LeadingCampResources.LeadingCampResources",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "NewRow_1": {
+        "MapID": 622,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeed.Camp0OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeedBySector.Camp0OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeed.Camp1OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeedBySector.Camp1OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/ResourceDiffPercent.ResourceDiffPercent",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/SectorScoreSpeed.SectorScoreSpeed",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/LeadingCampResources.LeadingCampResources",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "NewRow_2": {
+        "MapID": 623,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeed.Camp0OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeedBySector.Camp0OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeed.Camp1OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeedBySector.Camp1OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/ResourceDiffPercent.ResourceDiffPercent",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/SectorScoreSpeed.SectorScoreSpeed",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/LeadingCampResources.LeadingCampResources",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "NewRow_3": {
+        "MapID": 624,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeed.Camp0OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeedBySector.Camp0OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeed.Camp1OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeedBySector.Camp1OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/ResourceDiffPercent.ResourceDiffPercent",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/SectorScoreSpeed.SectorScoreSpeed",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/LeadingCampResources.LeadingCampResources",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "NewRow_4": {
+        "MapID": 625,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeed.Camp0OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeedBySector.Camp0OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeed.Camp1OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeedBySector.Camp1OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/ResourceDiffPercent.ResourceDiffPercent",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/SectorScoreSpeed.SectorScoreSpeed",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/LeadingCampResources.LeadingCampResources",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "NewRow_5": {
+        "MapID": 626,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeed.Camp0OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeedBySector.Camp0OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeed.Camp1OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeedBySector.Camp1OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/ResourceDiffPercent.ResourceDiffPercent",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/SectorScoreSpeed.SectorScoreSpeed",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/LeadingCampResources.LeadingCampResources",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "NewRow_6": {
+        "MapID": 627,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeed.Camp0OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeedBySector.Camp0OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeed.Camp1OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeedBySector.Camp1OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/ResourceDiffPercent.ResourceDiffPercent",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/SectorScoreSpeed.SectorScoreSpeed",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/LeadingCampResources.LeadingCampResources",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "NewRow_7": {
+        "MapID": 629,
+        "Camp0BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeed.Camp0OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp0OccupySpeedBySector.Camp0OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "Camp1BattleEieldBalanceData": {
+          "_StructType": "FStructFallback",
+          "TeamRebornCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "RebornCDCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupySpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeed.Camp1OccupySpeed",
+            "SubPath": ""
+          },
+          "OcuupyNumCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "OcuupyStatusSpeedCurve": {
+            "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/Camp1OccupySpeedBySector.Camp1OccupySpeedBySector",
+            "SubPath": ""
+          },
+          "FightBackOcuupyStatusSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "EncouragementScoreEventScoreFactorCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          }
+        },
+        "ConquestCurve1": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/ResourceDiffPercent.ResourceDiffPercent",
+          "SubPath": ""
+        },
+        "ConquestCurve2": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/SectorScoreSpeed.SectorScoreSpeed",
+          "SubPath": ""
+        },
+        "ConquestCurve3": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Curve/IngameBalanceCurve/Conquest/LeadingCampResources.LeadingCampResources",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 36
+  }
+]

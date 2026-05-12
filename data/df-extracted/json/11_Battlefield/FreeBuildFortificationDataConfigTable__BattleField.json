@@ -1,0 +1,446 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "FreeBuildFortificationDataConfigTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/BattleField/FreeBuildFortificationDataConfigTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "FreeBuildFortificationDataConfigRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "NewRow": {
+        "SkillID": 1001022,
+        "SkillDisplayName": null,
+        "ShortName": null,
+        "InteractName": null,
+        "InteractSoftIcon": {
+          "AssetPath": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0203.HUD_Screen_Icon_0203",
+          "SubPath": ""
+        },
+        "Normal": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/HUD_Battle/BakedSprite/HUD_Battle_Rank_Icon_0215.HUD_Battle_Rank_Icon_0215"
+        },
+        "Disable": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/HUD_Battle/BakedSprite/HUD_Battle_Rank_Icon_0215.HUD_Battle_Rank_Icon_0215"
+        },
+        "TipsText": null,
+        "SelectPositionClass": {
+          "AssetPath": "/Game/BluePrints/Ability/BT_FieldSupport/FreeBuild/BP_RankSkillPreviewFreeBuild_1001022.BP_RankSkillPreviewFreeBuild_1001022_C",
+          "SubPath": ""
+        },
+        "ValidateSelectPositionClass": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "FortificationProxyClass": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Fortification/BP_FortificationProxyBase_FreeBuild_1001022.BP_FortificationProxyBase_FreeBuild_1001022_C",
+          "SubPath": ""
+        },
+        "FixedWeaponClass": {
+          "AssetPath": "/Game/BluePrints/Weapons/FixedWeapon/BP_SceneShoreGun_B.BP_SceneShoreGun_B_C",
+          "SubPath": ""
+        },
+        "BreakableItemSubFortificationProxyClass": [],
+        "BreakableItemSubFortificationProxyBuildDepend": [],
+        "BreakableItemSubFortificationProxyContinueBreak": [],
+        "RecycleTime": 5,
+        "bDefaultShowFortificationProxy": true,
+        "RedeployIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0203.HUD_Screen_Icon_0203",
+          "SubPath": ""
+        },
+        "FreeBuildPlaceAudioEventAsset": {
+          "AssetPath": "/Game/WwiseAudio/GPEvents/Battlefield/Fortification/BF_Fortification_BuildStart_FixedWpnGroup.BF_Fortification_BuildStart_FixedWpnGroup",
+          "SubPath": ""
+        },
+        "FreeBuildCreatedAudioEventAsset": {
+          "AssetPath": "/Game/WwiseAudio/GPEvents/Battlefield/Fortification/BF_Fortification_BuildFinish_FixedWpnGroup.BF_Fortification_BuildFinish_FixedWpnGroup",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "NewRow_0": {
+        "SkillID": 1001023,
+        "SkillDisplayName": null,
+        "ShortName": null,
+        "InteractName": null,
+        "InteractSoftIcon": {
+          "AssetPath": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0202.HUD_Screen_Icon_0202",
+          "SubPath": ""
+        },
+        "Normal": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/HUD_Battle/BakedSprite/HUD_Battle_Rank_Icon_0214.HUD_Battle_Rank_Icon_0214"
+        },
+        "Disable": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/HUD_Battle/BakedSprite/HUD_Battle_Rank_Icon_0214.HUD_Battle_Rank_Icon_0214"
+        },
+        "TipsText": null,
+        "SelectPositionClass": {
+          "AssetPath": "/Game/BluePrints/Ability/BT_FieldSupport/FreeBuild/BP_RankSkillPreviewFreeBuild_1001023.BP_RankSkillPreviewFreeBuild_1001023_C",
+          "SubPath": ""
+        },
+        "ValidateSelectPositionClass": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "FortificationProxyClass": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Fortification/BP_FortificationProxyBase_FreeBuild_1001023.BP_FortificationProxyBase_FreeBuild_1001023_C",
+          "SubPath": ""
+        },
+        "FixedWeaponClass": {
+          "AssetPath": "/Game/BluePrints/Weapons/FixedWeapon/BP_SceneAAGun_B.BP_SceneAAGun_B_C",
+          "SubPath": ""
+        },
+        "BreakableItemSubFortificationProxyClass": [
+          {
+            "Key": "Broken_1",
+            "Value": {
+              "AssetPath": "/Game/BluePrints/Breakthrough/Fortification/BP_FortificationProxyBase_Tools_SandBags_01g_FreeBuild_Sub_1001023.BP_FortificationProxyBase_Tools_SandBags_01g_FreeBuild_Sub_1001023_C",
+              "SubPath": ""
+            }
+          },
+          {
+            "Key": "Broken_2",
+            "Value": {
+              "AssetPath": "/Game/BluePrints/Breakthrough/Fortification/BP_FortificationProxyBase_Tools_SandBags_01g_FreeBuild_Sub_1001023.BP_FortificationProxyBase_Tools_SandBags_01g_FreeBuild_Sub_1001023_C",
+              "SubPath": ""
+            }
+          },
+          {
+            "Key": "Broken_3",
+            "Value": {
+              "AssetPath": "/Game/BluePrints/Breakthrough/Fortification/BP_FortificationProxyBase_Tools_SandBags_01g_FreeBuild_Sub_1001023.BP_FortificationProxyBase_Tools_SandBags_01g_FreeBuild_Sub_1001023_C",
+              "SubPath": ""
+            }
+          },
+          {
+            "Key": "Broken_4",
+            "Value": {
+              "AssetPath": "/Game/BluePrints/Breakthrough/Fortification/BP_FortificationProxyBase_Tools_SandBags_01g_FreeBuild_Sub_1001023.BP_FortificationProxyBase_Tools_SandBags_01g_FreeBuild_Sub_1001023_C",
+              "SubPath": ""
+            }
+          },
+          {
+            "Key": "Broken_5",
+            "Value": {
+              "AssetPath": "/Game/BluePrints/Breakthrough/Fortification/BP_FortificationProxyBase_Tools_SandBags_01g_FreeBuild_Sub_1001023.BP_FortificationProxyBase_Tools_SandBags_01g_FreeBuild_Sub_1001023_C",
+              "SubPath": ""
+            }
+          },
+          {
+            "Key": "Broken_6",
+            "Value": {
+              "AssetPath": "/Game/BluePrints/Breakthrough/Fortification/BP_FortificationProxyBase_Tools_SandBags_01g_FreeBuild_Sub_1001023.BP_FortificationProxyBase_Tools_SandBags_01g_FreeBuild_Sub_1001023_C",
+              "SubPath": ""
+            }
+          },
+          {
+            "Key": "Broken_7",
+            "Value": {
+              "AssetPath": "/Game/BluePrints/Breakthrough/Fortification/BP_FortificationProxyBase_Tools_SandBags_01g_FreeBuild_Sub_1001023.BP_FortificationProxyBase_Tools_SandBags_01g_FreeBuild_Sub_1001023_C",
+              "SubPath": ""
+            }
+          },
+          {
+            "Key": "Broken_8",
+            "Value": {
+              "AssetPath": "/Game/BluePrints/Breakthrough/Fortification/BP_FortificationProxyBase_Tools_SandBags_01g_FreeBuild_Sub_1001023.BP_FortificationProxyBase_Tools_SandBags_01g_FreeBuild_Sub_1001023_C",
+              "SubPath": ""
+            }
+          },
+          {
+            "Key": "Broken_9",
+            "Value": {
+              "AssetPath": "/Game/BluePrints/Breakthrough/Fortification/BP_FortificationProxyBase_Tools_SandBags_01g_FreeBuild_Sub_1001023.BP_FortificationProxyBase_Tools_SandBags_01g_FreeBuild_Sub_1001023_C",
+              "SubPath": ""
+            }
+          }
+        ],
+        "BreakableItemSubFortificationProxyBuildDepend": [
+          {
+            "Key": "Broken_1",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "DependList": [
+                "Broken_2"
+              ]
+            }
+          },
+          {
+            "Key": "Broken_2",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "DependList": [
+                "Broken_3"
+              ]
+            }
+          },
+          {
+            "Key": "Broken_4",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "DependList": [
+                "Broken_5"
+              ]
+            }
+          },
+          {
+            "Key": "Broken_5",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "DependList": [
+                "Broken_6"
+              ]
+            }
+          },
+          {
+            "Key": "Broken_7",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "DependList": [
+                "Broken_8"
+              ]
+            }
+          },
+          {
+            "Key": "Broken_8",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "DependList": [
+                "Broken_9"
+              ]
+            }
+          }
+        ],
+        "BreakableItemSubFortificationProxyContinueBreak": [
+          {
+            "Key": "Broken_1",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ContinueBreakGroupArray": [
+                {
+                  "_StructType": "FStructFallback",
+                  "DependList": [
+                    "Broken_2"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "Key": "Broken_2",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ContinueBreakGroupArray": [
+                {
+                  "_StructType": "FStructFallback",
+                  "DependList": [
+                    "Broken_3"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "Key": "Broken_4",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ContinueBreakGroupArray": [
+                {
+                  "_StructType": "FStructFallback",
+                  "DependList": [
+                    "Broken_5"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "Key": "Broken_5",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ContinueBreakGroupArray": [
+                {
+                  "_StructType": "FStructFallback",
+                  "DependList": [
+                    "Broken_6"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "Key": "Broken_7",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ContinueBreakGroupArray": [
+                {
+                  "_StructType": "FStructFallback",
+                  "DependList": [
+                    "Broken_8"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "Key": "Broken_8",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ContinueBreakGroupArray": [
+                {
+                  "_StructType": "FStructFallback",
+                  "DependList": [
+                    "Broken_9"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "RecycleTime": 5,
+        "bDefaultShowFortificationProxy": true,
+        "RedeployIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0202.HUD_Screen_Icon_0202",
+          "SubPath": ""
+        },
+        "FreeBuildPlaceAudioEventAsset": {
+          "AssetPath": "/Game/WwiseAudio/GPEvents/Battlefield/Fortification/BF_Fortification_BuildStart_FixedWpnGroup.BF_Fortification_BuildStart_FixedWpnGroup",
+          "SubPath": ""
+        },
+        "FreeBuildCreatedAudioEventAsset": {
+          "AssetPath": "/Game/WwiseAudio/GPEvents/Battlefield/Fortification/BF_Fortification_BuildFinish_FixedWpnGroup.BF_Fortification_BuildFinish_FixedWpnGroup",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "NewRow_1": {
+        "SkillID": 1001024,
+        "SkillDisplayName": null,
+        "ShortName": null,
+        "InteractName": null,
+        "InteractSoftIcon": {
+          "AssetPath": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0201.HUD_Screen_Icon_0201",
+          "SubPath": ""
+        },
+        "Normal": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/HUD_Battle/BakedSprite/HUD_Battle_Rank_Icon_0216.HUD_Battle_Rank_Icon_0216"
+        },
+        "Disable": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/HUD_Battle/BakedSprite/HUD_Battle_Rank_Icon_0216.HUD_Battle_Rank_Icon_0216"
+        },
+        "TipsText": null,
+        "SelectPositionClass": {
+          "AssetPath": "/Game/BluePrints/Ability/BT_FieldSupport/FreeBuild/BP_RankSkillPreviewFreeBuild_1001024.BP_RankSkillPreviewFreeBuild_1001024_C",
+          "SubPath": ""
+        },
+        "ValidateSelectPositionClass": {
+          "AssetPath": "/Game/BluePrints/Ability/BT_FieldSupport/FreeBuild/BP_RankSkillPreviewFreeBuild_1001024_Validate.BP_RankSkillPreviewFreeBuild_1001024_Validate_C",
+          "SubPath": ""
+        },
+        "FortificationProxyClass": {
+          "AssetPath": "/Game/BluePrints/Breakthrough/Fortification/BP_FortificationProxyBase_FreeBuild_1001024.BP_FortificationProxyBase_FreeBuild_1001024_C",
+          "SubPath": ""
+        },
+        "FixedWeaponClass": {
+          "AssetPath": "/Game/BluePrints/Weapons/BP_SceneMachineGun_B.BP_SceneMachineGun_B_C",
+          "SubPath": ""
+        },
+        "BreakableItemSubFortificationProxyClass": [
+          {
+            "Key": "Broken_0",
+            "Value": {
+              "AssetPath": "/Game/BluePrints/Breakthrough/Fortification/BP_FortificationProxyBase_Tools_Cementwall_01_FreeBuild_Sub_1001024.BP_FortificationProxyBase_Tools_Cementwall_01_FreeBuild_Sub_1001024_C",
+              "SubPath": ""
+            }
+          },
+          {
+            "Key": "Broken_1",
+            "Value": {
+              "AssetPath": "/Game/BluePrints/Breakthrough/Fortification/BP_FortificationProxyBase_Tools_Cementwall_02_FreeBuild_Sub_1001024.BP_FortificationProxyBase_Tools_Cementwall_02_FreeBuild_Sub_1001024_C",
+              "SubPath": ""
+            }
+          },
+          {
+            "Key": "Broken_2",
+            "Value": {
+              "AssetPath": "/Game/BluePrints/Breakthrough/Fortification/BP_FortificationProxyBase_Tools_Cementwall_02_FreeBuild_Sub_1001024.BP_FortificationProxyBase_Tools_Cementwall_02_FreeBuild_Sub_1001024_C",
+              "SubPath": ""
+            }
+          },
+          {
+            "Key": "Broken_3",
+            "Value": {
+              "AssetPath": "/Game/BluePrints/Breakthrough/Fortification/BP_FortificationProxyBase_Tools_Cementwall_03_FreeBuild_Sub_1001024.BP_FortificationProxyBase_Tools_Cementwall_03_FreeBuild_Sub_1001024_C",
+              "SubPath": ""
+            }
+          }
+        ],
+        "BreakableItemSubFortificationProxyBuildDepend": [
+          {
+            "Key": "Broken_3",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "DependList": [
+                "Broken_0",
+                "Broken_1",
+                "Broken_2"
+              ]
+            }
+          }
+        ],
+        "BreakableItemSubFortificationProxyContinueBreak": [
+          {
+            "Key": "Broken_3",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ContinueBreakGroupArray": [
+                {
+                  "_StructType": "FStructFallback",
+                  "DependList": [
+                    "Broken_1"
+                  ]
+                },
+                {
+                  "_StructType": "FStructFallback",
+                  "DependList": [
+                    "Broken_2"
+                  ]
+                },
+                {
+                  "_StructType": "FStructFallback",
+                  "DependList": []
+                }
+              ]
+            }
+          }
+        ],
+        "RecycleTime": 5,
+        "bDefaultShowFortificationProxy": true,
+        "RedeployIconPath": {
+          "AssetPath": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0210.HUD_Screen_Icon_0210",
+          "SubPath": ""
+        },
+        "FreeBuildPlaceAudioEventAsset": {
+          "AssetPath": "/Game/WwiseAudio/GPEvents/Battlefield/Fortification/BF_Fortification_BuildStart_FixedWpnGroup.BF_Fortification_BuildStart_FixedWpnGroup",
+          "SubPath": ""
+        },
+        "FreeBuildCreatedAudioEventAsset": {
+          "AssetPath": "/Game/WwiseAudio/GPEvents/Battlefield/Fortification/BF_Fortification_BuildFinish_FixedWpnGroup.BF_Fortification_BuildFinish_FixedWpnGroup",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 3
+  }
+]

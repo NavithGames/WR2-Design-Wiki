@@ -1,0 +1,4 @@
+﻿RowName,MapIDs,GroupName,HighValueNumProbability
+NewRow,8901; 8902; 89,GroupA,"(Key=2, Value=1)"
+NewRow_0,8901; 8902; 89,GroupB,"(Key=2, Value=1)"
+NewRow_1,8901; 8902; 89,GroupC,"(Key=2, Value=1)"

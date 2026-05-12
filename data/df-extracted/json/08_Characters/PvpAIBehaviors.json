@@ -1,0 +1,2012 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "PvpAIBehaviors",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/CharacterTemplate/PvPAI/PvpAIBehaviors",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "PVPAIBehavior",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "Aggressive": {
+        "Hero": "EHeroType::C301_Assault",
+        "Style": "EPVPAIFightStyle::Aggressive",
+        "Camp": {
+          "_Type": "DataTable",
+          "_Name": "PvpAI_Assualt_Camp_Aggressive",
+          "_Class": "UDataTable",
+          "_Outer": "DeltaForce/Content/DataTables/CharacterTemplate/PvPAI/Assault/PvpAI_Assualt_Camp_Aggressive",
+          "RowStruct": {
+            "_Type": "UScriptClass",
+            "_Name": "PvpAIFightBehavior",
+            "_Class": "UScriptClass",
+            "_Outer": null
+          },
+          "_Rows": {
+            "High_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_PeekFirst_ShootWithMove.BT_PeekFirst_ShootWithMove",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_PeekFirst_ShootWithMove.BT_PeekFirst_ShootWithMove",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_PeekFirst_ShootWithMove.BT_PeekFirst_ShootWithMove",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "High_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_HideFirst_ShootWithMove.BT_HideFirst_ShootWithMove",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_PeekFirst_TakeCover_ShootWithMove.BT_PeekFirst_TakeCover_ShootWithMove",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_PeekFirst_TakeCover_ShootWithMove.BT_PeekFirst_TakeCover_ShootWithMove",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "High_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_HideFirst_ShootWithMove.BT_HideFirst_ShootWithMove",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_AimWithMove_Hide.BT_AimWithMove_Hide",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_AimWithMove_Hide.BT_AimWithMove_Hide",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "High_Zero": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_HideFirst_ShootWithMove.BT_HideFirst_ShootWithMove",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverAim_AimWithMove.BT_TakeCoverAim_AimWithMove",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_AimWithMove.BT_AimWithMove",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeMainCoverShoot_ShootWithMove_Reposition_MoveWithShoot_Hide.BT_TakeMainCoverShoot_ShootWithMove_Reposition_MoveWithShoot_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverShoot_ShootStill_FindShootablePlace_Hide.BT_TakeCoverShoot_ShootStill_FindShootablePlace_Hide",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootStill.BT_ShootStill",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_HideFirst_ShootWithMove.BT_HideFirst_ShootWithMove",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverShoot_ShootStill_FindShootablePlace_Hide.BT_TakeCoverShoot_ShootStill_FindShootablePlace_Hide",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootStill.BT_ShootStill",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_HideFirst_ShootWithMove.BT_HideFirst_ShootWithMove",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_HideCamp.BT_HideCamp",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_HideCamp.BT_HideCamp",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_Zero": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_HideFirst_ShootWithMove.BT_HideFirst_ShootWithMove",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverAim_MoveWithAim.BT_TakeCoverAim_MoveWithAim",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Rush_CampInSector.BT_Hide_Rush_CampInSector",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeMainCoverShoot_ShootWithMove_Reposition_MoveWithShoot_Hide.BT_TakeMainCoverShoot_ShootWithMove_Reposition_MoveWithShoot_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverShoot_ShootStill_FindShootablePlace_Hide.BT_TakeCoverShoot_ShootStill_FindShootablePlace_Hide",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootStill.BT_ShootStill",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverShoot_ShootWithMove_Reposition_Hide_CampInSector.BT_TakeCoverShoot_ShootWithMove_Reposition_Hide_CampInSector",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverShoot_ShootStill_FindShootablePlace_Hide.BT_TakeCoverShoot_ShootStill_FindShootablePlace_Hide",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootStill.BT_ShootStill",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_HideFirst_ShootWithMove.BT_HideFirst_ShootWithMove",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_HideCamp.BT_HideCamp",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Rush_CampInSector.BT_Hide_Rush_CampInSector",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_Zero": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_HideFirst_ShootWithMove.BT_HideFirst_ShootWithMove",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Rush_CampInSector.BT_Hide_Rush_CampInSector",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Rush_CampInSector.BT_Hide_Rush_CampInSector",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            }
+          },
+          "_RowCount": 12
+        },
+        "Flank": {
+          "_Type": "DataTable",
+          "_Name": "PvpAI_Assualt_Flank_Aggressive",
+          "_Class": "UDataTable",
+          "_Outer": "DeltaForce/Content/DataTables/CharacterTemplate/PvPAI/Assault/PvpAI_Assualt_Flank_Aggressive",
+          "RowStruct": {
+            "_Type": "UScriptClass",
+            "_Name": "PvpAIFightBehavior",
+            "_Class": "UScriptClass",
+            "_Outer": null
+          },
+          "_Rows": {
+            "High_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_PeekFirst_ShootWithMove.BT_PeekFirst_ShootWithMove",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_PeekFirst_ShootWithMove.BT_PeekFirst_ShootWithMove",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_PeekFirst_ShootWithMove.BT_PeekFirst_ShootWithMove",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "High_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_HideFirst_ShootWithMove.BT_HideFirst_ShootWithMove",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_PeekFirst_TakeCover_ShootWithMove.BT_PeekFirst_TakeCover_ShootWithMove",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_PeekFirst_ShootWithMove.BT_PeekFirst_ShootWithMove",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "High_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_HideFirst_ShootWithMove.BT_HideFirst_ShootWithMove",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_AimWithMove_Hide.BT_AimWithMove_Hide",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_AimWithMove_Hide.BT_AimWithMove_Hide",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "High_Zero": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_HideFirst_ShootWithMove.BT_HideFirst_ShootWithMove",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverAim_AimWithMove.BT_TakeCoverAim_AimWithMove",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_AimWithMove.BT_AimWithMove",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeMainCoverShoot_ShootWithMove_Reposition_MoveWithShoot_Hide.BT_TakeMainCoverShoot_ShootWithMove_Reposition_MoveWithShoot_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeMainCoverShoot_ShootWithMove_Reposition_MoveWithShoot_Hide.BT_TakeMainCoverShoot_ShootWithMove_Reposition_MoveWithShoot_Hide",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootStill.BT_ShootStill",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverShoot_ShootWithMove_Reposition_Hide_CampInSector.BT_TakeCoverShoot_ShootWithMove_Reposition_Hide_CampInSector",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverShoot_ShootStill_FindShootablePlace_Hide.BT_TakeCoverShoot_ShootStill_FindShootablePlace_Hide",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootStill.BT_ShootStill",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_HideFirst_ShootWithMove.BT_HideFirst_ShootWithMove",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_AimStill_Hide.BT_AimStill_Hide",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_AimStill_Hide.BT_AimStill_Hide",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_Zero": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverAim_AimWithMove.BT_TakeCoverAim_AimWithMove",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_AimStill.BT_AimStill",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_AimStill.BT_AimStill",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeMainCoverShoot_ShootWithMove_Reposition_MoveWithShoot_Hide.BT_TakeMainCoverShoot_ShootWithMove_Reposition_MoveWithShoot_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverShoot_ShootStill_FindShootablePlace_Hide.BT_TakeCoverShoot_ShootStill_FindShootablePlace_Hide",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootStill.BT_ShootStill",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverShoot_ShootWithMove_Reposition_Hide_CampInSector.BT_TakeCoverShoot_ShootWithMove_Reposition_Hide_CampInSector",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeSubCoverShoot_Rush_MoveWithShoot.BT_TakeSubCoverShoot_Rush_MoveWithShoot",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveWithShoot.BT_MoveWithShoot",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_HideFirst_ShootWithMove.BT_HideFirst_ShootWithMove",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Flank/BT_FlankCrossFire_Aggressive.BT_FlankCrossFire_Aggressive",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Flank/BT_FlankCrossFire_Aggressive.BT_FlankCrossFire_Aggressive",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_Zero": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob_SprintSlide.BT_MoveToJob_SprintSlide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Flank/BT_FlankCrossFire_Aggressive.BT_FlankCrossFire_Aggressive",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Flank/BT_FlankCrossFire_Aggressive.BT_FlankCrossFire_Aggressive",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            }
+          },
+          "_RowCount": 12
+        },
+        "Move": {
+          "_Type": "DataTable",
+          "_Name": "PvpAI_Assualt_Move_Aggressive",
+          "_Class": "UDataTable",
+          "_Outer": "DeltaForce/Content/DataTables/CharacterTemplate/PvPAI/Assault/PvpAI_Assualt_Move_Aggressive",
+          "RowStruct": {
+            "_Type": "UScriptClass",
+            "_Name": "PvpAIFightBehavior",
+            "_Class": "UScriptClass",
+            "_Outer": null
+          },
+          "_Rows": {
+            "High_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_PeekFirst_ShootWithMove.BT_PeekFirst_ShootWithMove",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_PeekFirst_ShootWithMove.BT_PeekFirst_ShootWithMove",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_PeekFirst_ShootWithMove.BT_PeekFirst_ShootWithMove",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "High_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_PeekFirst_TakeCover_ShootWithMove.BT_PeekFirst_TakeCover_ShootWithMove",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_PeekFirst_ShootWithMove.BT_PeekFirst_ShootWithMove",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_PeekFirst_ShootWithMove.BT_PeekFirst_ShootWithMove",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "High_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Hide.BT_Hide_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeSubCoverShoot_Rush_MoveWithShoot.BT_TakeSubCoverShoot_Rush_MoveWithShoot",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeSubCoverShoot_Rush_MoveWithShoot.BT_TakeSubCoverShoot_Rush_MoveWithShoot",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "High_Zero": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Hide.BT_Hide_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverAim_MoveWithAim.BT_TakeCoverAim_MoveWithAim",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Push_MoveWithShoot.BT_Push_MoveWithShoot",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeMainCoverShoot_ShootWithMove_Reposition_MoveWithShoot_Hide.BT_TakeMainCoverShoot_ShootWithMove_Reposition_MoveWithShoot_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveWithShoot.BT_MoveWithShoot",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveWithShoot.BT_MoveWithShoot",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeMainCoverShoot_ShootWithMove_Reposition_MoveWithShoot_Hide.BT_TakeMainCoverShoot_ShootWithMove_Reposition_MoveWithShoot_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveWithShoot.BT_MoveWithShoot",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveWithShoot.BT_MoveWithShoot",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Hide.BT_Hide_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Push_MoveWithShoot.BT_Push_MoveWithShoot",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Push_MoveWithShoot.BT_Push_MoveWithShoot",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_Zero": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Hide.BT_Hide_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Push_MoveWithShoot.BT_Push_MoveWithShoot",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Push_MoveWithShoot.BT_Push_MoveWithShoot",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeMainCoverShoot_ShootWithMove_Reposition_MoveWithShoot_Hide.BT_TakeMainCoverShoot_ShootWithMove_Reposition_MoveWithShoot_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove.BT_ShootWithMove",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootStill.BT_ShootStill",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeSubCoverShoot_Rush_MoveWithShoot.BT_TakeSubCoverShoot_Rush_MoveWithShoot",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveWithShoot.BT_MoveWithShoot",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveWithShoot.BT_MoveWithShoot",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Hide.BT_Hide_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob.BT_MoveToJob",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob.BT_MoveToJob",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_Zero": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Hide.BT_Hide_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob.BT_MoveToJob",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob.BT_MoveToJob",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            }
+          },
+          "_RowCount": 12
+        },
+        "Retreat": {
+          "_Type": "DataTable",
+          "_Name": "PvpAI_Assualt_Retreat_Aggressive",
+          "_Class": "UDataTable",
+          "_Outer": "DeltaForce/Content/DataTables/CharacterTemplate/PvPAI/Assault/PvpAI_Assualt_Retreat_Aggressive",
+          "RowStruct": {
+            "_Type": "UScriptClass",
+            "_Name": "PvpAIFightBehavior",
+            "_Class": "UScriptClass",
+            "_Outer": null
+          },
+          "_Rows": {
+            "High_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_PeekFirst_ShootWithMove.BT_PeekFirst_ShootWithMove",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_PeekFirst_ShootWithMove.BT_PeekFirst_ShootWithMove",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_PeekFirst_ShootWithMove.BT_PeekFirst_ShootWithMove",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "High_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob_SprintSlide.BT_MoveToJob_SprintSlide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob_SprintSlide.BT_MoveToJob_SprintSlide",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob_SprintSlide.BT_MoveToJob_SprintSlide",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "High_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob_SprintSlide.BT_MoveToJob_SprintSlide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob_SprintSlide.BT_MoveToJob_SprintSlide",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob_SprintSlide.BT_MoveToJob_SprintSlide",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "High_Zero": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob_SprintSlide.BT_MoveToJob_SprintSlide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob_SprintSlide.BT_MoveToJob_SprintSlide",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob_SprintSlide.BT_MoveToJob_SprintSlide",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob_SprintSlide.BT_MoveToJob_SprintSlide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob_SprintSlide.BT_MoveToJob_SprintSlide",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob_SprintSlide.BT_MoveToJob_SprintSlide",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob_SprintSlide.BT_MoveToJob_SprintSlide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob.BT_MoveToJob",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob.BT_MoveToJob",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob_SprintSlide.BT_MoveToJob_SprintSlide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob.BT_MoveToJob",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob.BT_MoveToJob",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_Zero": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob_SprintSlide.BT_MoveToJob_SprintSlide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob.BT_MoveToJob",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob.BT_MoveToJob",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob_SprintSlide.BT_MoveToJob_SprintSlide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob.BT_MoveToJob",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob.BT_MoveToJob",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob_SprintSlide.BT_MoveToJob_SprintSlide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob.BT_MoveToJob",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob.BT_MoveToJob",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob_SprintSlide.BT_MoveToJob_SprintSlide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob.BT_MoveToJob",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob.BT_MoveToJob",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_Zero": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob_SprintSlide.BT_MoveToJob_SprintSlide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob.BT_MoveToJob",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob.BT_MoveToJob",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            }
+          },
+          "_RowCount": 12
+        },
+        "RowDescription": "None"
+      },
+      "Defensive": {
+        "Hero": "EHeroType::C301_Assault",
+        "Style": "EPVPAIFightStyle::Defensive",
+        "Camp": {
+          "_Type": "DataTable",
+          "_Name": "PvpAI_Assualt_Camp_Deffensive",
+          "_Class": "UDataTable",
+          "_Outer": "DeltaForce/Content/DataTables/CharacterTemplate/PvPAI/PvpAI_Assualt_Camp_Deffensive",
+          "RowStruct": {
+            "_Type": "UScriptClass",
+            "_Name": "PvpAIFightBehavior",
+            "_Class": "UScriptClass",
+            "_Outer": null
+          },
+          "_Rows": {
+            "High_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove_Rush_Hide_CampInSector.BT_ShootWithMove_Rush_Hide_CampInSector",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove_Rush_CampInSector.BT_ShootWithMove_Rush_CampInSector",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove_Rush_CampInSector.BT_ShootWithMove_Rush_CampInSector",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "High_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeMainCoverShoot_ShootWithMove_Reposition_CampInSector.BT_TakeMainCoverShoot_ShootWithMove_Reposition_CampInSector",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeMainCoverShoot_ShootWithMove_Reposition_CampInSector.BT_TakeMainCoverShoot_ShootWithMove_Reposition_CampInSector",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeMainCoverShoot_ShootWithMove_Reposition_CampInSector.BT_TakeMainCoverShoot_ShootWithMove_Reposition_CampInSector",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "High_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Rush_CampInSector.BT_Hide_Rush_CampInSector",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Rush_CampInSector.BT_Hide_Rush_CampInSector",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Rush_CampInSector.BT_Hide_Rush_CampInSector",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BT_TakeSubCoverShoot_Rush_Hide_CampInSector.BT_TakeSubCoverShoot_Rush_Hide_CampInSector",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BT_TakeSubCoverShoot_Rush_Hide_CampInSector.BT_TakeSubCoverShoot_Rush_Hide_CampInSector",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BT_TakeSubCoverShoot_Rush_Hide_CampInSector.BT_TakeSubCoverShoot_Rush_Hide_CampInSector",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeMainCoverShoot_ShootWithMove_Reposition_Hide_CampInSector.BT_TakeMainCoverShoot_ShootWithMove_Reposition_Hide_CampInSector",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeMainCoverShoot_ShootWithMove_Reposition_CampInSector.BT_TakeMainCoverShoot_ShootWithMove_Reposition_CampInSector",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeMainCoverShoot_ShootWithMove_Reposition_CampInSector.BT_TakeMainCoverShoot_ShootWithMove_Reposition_CampInSector",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Rush_CampInSector.BT_Hide_Rush_CampInSector",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Rush_CampInSector.BT_Hide_Rush_CampInSector",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Rush_CampInSector.BT_Hide_Rush_CampInSector",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BT_TakeSubCoverShoot_Rush_Hide_CampInSector.BT_TakeSubCoverShoot_Rush_Hide_CampInSector",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BT_TakeSubCoverShoot_Rush_Hide_CampInSector.BT_TakeSubCoverShoot_Rush_Hide_CampInSector",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BT_TakeSubCoverShoot_Rush_Hide_CampInSector.BT_TakeSubCoverShoot_Rush_Hide_CampInSector",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeSubCoverShoot_ShootWithMove_Reposition_Hide_CampInSector.BT_TakeSubCoverShoot_ShootWithMove_Reposition_Hide_CampInSector",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeSubCoverShoot_ShootWithMove_Reposition_CampInSector.BT_TakeSubCoverShoot_ShootWithMove_Reposition_CampInSector",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeSubCoverShoot_ShootWithMove_Reposition_CampInSector.BT_TakeSubCoverShoot_ShootWithMove_Reposition_CampInSector",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Rush_CampInSector.BT_Hide_Rush_CampInSector",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Rush_CampInSector.BT_Hide_Rush_CampInSector",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Rush_CampInSector.BT_Hide_Rush_CampInSector",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            }
+          },
+          "_RowCount": 9
+        },
+        "Flank": {
+          "_Type": "DataTable",
+          "_Name": "PvpAI_Assualt_Flank_Deffensive",
+          "_Class": "UDataTable",
+          "_Outer": "DeltaForce/Content/DataTables/CharacterTemplate/PvPAI/Assault/PvpAI_Assualt_Flank_Deffensive",
+          "RowStruct": {
+            "_Type": "UScriptClass",
+            "_Name": "PvpAIFightBehavior",
+            "_Class": "UScriptClass",
+            "_Outer": null
+          },
+          "_Rows": {
+            "High_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove_Rush_Hide_FlankCrossFire.BT_ShootWithMove_Rush_Hide_FlankCrossFire",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove_Rush_FlankCrossFire.BT_ShootWithMove_Rush_FlankCrossFire",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove_Rush_FlankCrossFire.BT_ShootWithMove_Rush_FlankCrossFire",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "High_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_TakeCoverShoot_ShootWithMove_FlankCrossFire.BT_Hide_TakeCoverShoot_ShootWithMove_FlankCrossFire",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_TakeCoverShoot_ShootWithMove_FlankCrossFire.BT_Hide_TakeCoverShoot_ShootWithMove_FlankCrossFire",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_TakeCoverShoot_ShootWithMove_FlankCrossFire.BT_Hide_TakeCoverShoot_ShootWithMove_FlankCrossFire",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "High_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Hide.BT_Hide_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Hide.BT_Hide_Hide",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Hide.BT_Hide_Hide",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeSubCoverShoot_Rush_FlankCrossFire_Hide.BT_TakeSubCoverShoot_Rush_FlankCrossFire_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverShoot_Rush_FlankCrossFire.BT_TakeCoverShoot_Rush_FlankCrossFire",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverShoot_Rush_FlankCrossFire.BT_TakeCoverShoot_Rush_FlankCrossFire",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverShoot_ShootWithMove_Reposition_FlankCrossFire.BT_TakeCoverShoot_ShootWithMove_Reposition_FlankCrossFire",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverShoot_ShootWithMove_Reposition_FlankCrossFire.BT_TakeCoverShoot_ShootWithMove_Reposition_FlankCrossFire",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverShoot_ShootWithMove_Reposition_FlankCrossFire.BT_TakeCoverShoot_ShootWithMove_Reposition_FlankCrossFire",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Hide.BT_Hide_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Flank/BT_FlankCrossFire.BT_FlankCrossFire",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Flank/BT_FlankCrossFire.BT_FlankCrossFire",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeSubCoverShoot_Rush_FlankCrossFire_Hide.BT_TakeSubCoverShoot_Rush_FlankCrossFire_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverShoot_Rush_FlankCrossFire.BT_TakeCoverShoot_Rush_FlankCrossFire",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverShoot_Rush_FlankCrossFire.BT_TakeCoverShoot_Rush_FlankCrossFire",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Hide.BT_Hide_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverShoot_ShootWithMove_Reposition_FlankCrossFire.BT_TakeCoverShoot_ShootWithMove_Reposition_FlankCrossFire",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverShoot_ShootWithMove_Reposition_FlankCrossFire.BT_TakeCoverShoot_ShootWithMove_Reposition_FlankCrossFire",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Hide.BT_Hide_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Flank/BT_FlankCrossFire.BT_FlankCrossFire",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Flank/BT_FlankCrossFire.BT_FlankCrossFire",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            }
+          },
+          "_RowCount": 9
+        },
+        "Move": {
+          "_Type": "DataTable",
+          "_Name": "PvpAI_Assualt_Move_Deffensive",
+          "_Class": "UDataTable",
+          "_Outer": "DeltaForce/Content/DataTables/CharacterTemplate/PvPAI/Assault/PvpAI_Assualt_Move_Deffensive",
+          "RowStruct": {
+            "_Type": "UScriptClass",
+            "_Name": "PvpAIFightBehavior",
+            "_Class": "UScriptClass",
+            "_Outer": null
+          },
+          "_Rows": {
+            "High_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove_Rush_Hide_MoveWithShoot.BT_ShootWithMove_Rush_Hide_MoveWithShoot",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove_Rush_Hide_MoveWithShoot.BT_ShootWithMove_Rush_Hide_MoveWithShoot",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove_Rush_MoveWithShoot.BT_ShootWithMove_Rush_MoveWithShoot",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "High_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_TakeMainCoverShoot_ShootWithMove_MoveWithShoot.BT_Hide_TakeMainCoverShoot_ShootWithMove_MoveWithShoot",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_TakeMainCoverShoot_ShootWithMove_MoveWithShoot.BT_Hide_TakeMainCoverShoot_ShootWithMove_MoveWithShoot",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_TakeMainCoverShoot_ShootWithMove_MoveWithShoot.BT_Hide_TakeMainCoverShoot_ShootWithMove_MoveWithShoot",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "High_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Move_Hide.BT_Move_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Move_Hide.BT_Move_Hide",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Move_Hide.BT_Move_Hide",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeSubCoverShoot_Rush_MoveWithShoot_Hide.BT_TakeSubCoverShoot_Rush_MoveWithShoot_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeSubCoverShoot_Rush_MoveWithShoot.BT_TakeSubCoverShoot_Rush_MoveWithShoot",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeSubCoverShoot_Rush_MoveWithShoot.BT_TakeSubCoverShoot_Rush_MoveWithShoot",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeMainCoverShoot_ShootWithMove_Reposition_MoveWithShoot_Hide.BT_TakeMainCoverShoot_ShootWithMove_Reposition_MoveWithShoot_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeMainCoverShoot_ShootWithMove_Reposition_MoveWithShoot.BT_TakeMainCoverShoot_ShootWithMove_Reposition_MoveWithShoot",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeMainCoverShoot_ShootWithMove_Reposition_MoveWithShoot.BT_TakeMainCoverShoot_ShootWithMove_Reposition_MoveWithShoot",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Move_Hide.BT_Move_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveWithShoot.BT_MoveWithShoot",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob.BT_MoveToJob",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeSubCoverShoot_Rush_MoveWithShoot_Hide.BT_TakeSubCoverShoot_Rush_MoveWithShoot_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeSubCoverShoot_Rush_MoveWithShoot.BT_TakeSubCoverShoot_Rush_MoveWithShoot",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeSubCoverShoot_Rush_MoveWithShoot.BT_TakeSubCoverShoot_Rush_MoveWithShoot",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeSubCoverShoot_ShootWithMove_Reposition_Hide.BT_TakeSubCoverShoot_ShootWithMove_Reposition_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeSubCoverShoot_ShootWithMove_Reposition_MoveWithShoot.BT_TakeSubCoverShoot_ShootWithMove_Reposition_MoveWithShoot",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeSubCoverShoot_ShootWithMove_Reposition_Move.BT_TakeSubCoverShoot_ShootWithMove_Reposition_Move",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Move_Hide.BT_Move_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob.BT_MoveToJob",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob.BT_MoveToJob",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            }
+          },
+          "_RowCount": 9
+        },
+        "Retreat": {
+          "_Type": "DataTable",
+          "_Name": "PvpAI_Assualt_Retreat_Deffensive",
+          "_Class": "UDataTable",
+          "_Outer": "DeltaForce/Content/DataTables/CharacterTemplate/PvPAI/Assault/PvpAI_Assualt_Retreat_Deffensive",
+          "RowStruct": {
+            "_Type": "UScriptClass",
+            "_Name": "PvpAIFightBehavior",
+            "_Class": "UScriptClass",
+            "_Outer": null
+          },
+          "_Rows": {
+            "High_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove_Rush_Hide_MoveWithShoot.BT_ShootWithMove_Rush_Hide_MoveWithShoot",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove_Rush_MoveWithShoot.BT_ShootWithMove_Rush_MoveWithShoot",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove_Rush_MoveWithShoot.BT_ShootWithMove_Rush_MoveWithShoot",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "High_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "High_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove_Rush_MoveWithShoot.BT_ShootWithMove_Rush_MoveWithShoot",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove_Rush_MoveWithShoot.BT_ShootWithMove_Rush_MoveWithShoot",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove_Rush_MoveWithShoot.BT_ShootWithMove_Rush_MoveWithShoot",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove_Rush_MoveWithShoot.BT_ShootWithMove_Rush_MoveWithShoot",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove_Rush_MoveWithShoot.BT_ShootWithMove_Rush_MoveWithShoot",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove_Rush_MoveWithShoot.BT_ShootWithMove_Rush_MoveWithShoot",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            }
+          },
+          "_RowCount": 9
+        },
+        "RowDescription": "None"
+      },
+      "Passive": {
+        "Hero": "EHeroType::C301_Assault",
+        "Style": "EPVPAIFightStyle::Passive",
+        "Camp": {
+          "_Type": "DataTable",
+          "_Name": "PvpAI_Assualt_Camp_Passive",
+          "_Class": "UDataTable",
+          "_Outer": "DeltaForce/Content/DataTables/CharacterTemplate/PvPAI/Assault/PvpAI_Assualt_Camp_Passive",
+          "RowStruct": {
+            "_Type": "UScriptClass",
+            "_Name": "PvpAIFightBehavior",
+            "_Class": "UScriptClass",
+            "_Outer": null
+          },
+          "_Rows": {
+            "High_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Peek_ShootWithMove_Reposition_Hide.BT_Peek_ShootWithMove_Reposition_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Peek_ShootWithMove_MoveToShootablePlace_BackCamp.BT_Peek_ShootWithMove_MoveToShootablePlace_BackCamp",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Peek_ShootWithMove_MoveToShootablePlace_BackCamp.BT_Peek_ShootWithMove_MoveToShootablePlace_BackCamp",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "High_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_HideFirst_ShootWithMove.BT_HideFirst_ShootWithMove",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Peek_ShootWithMove_Reposition_Hide.BT_Peek_ShootWithMove_Reposition_Hide",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove_Rush_Hide_MoveWithShoot.BT_ShootWithMove_Rush_Hide_MoveWithShoot",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "High_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_HideFirst_ShootWithMove.BT_HideFirst_ShootWithMove",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Hide.BT_Hide_Hide",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Hide.BT_Hide_Hide",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeMainCoverShoot_ShootWithMove_Reposition_MoveWithShoot_Hide.BT_TakeMainCoverShoot_ShootWithMove_Reposition_MoveWithShoot_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverShoot_ShootBackCamp_ShootStill.BT_TakeCoverShoot_ShootBackCamp_ShootStill",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootBackCamp_Peek_ShootStill.BT_ShootBackCamp_Peek_ShootStill",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_HideFirst_ShootWithMove.BT_HideFirst_ShootWithMove",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverShoot_ShootBackCamp_ShootStill.BT_TakeCoverShoot_ShootBackCamp_ShootStill",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootBackCamp_Peek_ShootStill.BT_ShootBackCamp_Peek_ShootStill",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_HideFirst_ShootWithMove.BT_HideFirst_ShootWithMove",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverShoot_ShootBackCamp_ShootStill.BT_TakeCoverShoot_ShootBackCamp_ShootStill",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootBackCamp_Peek_ShootStill.BT_ShootBackCamp_Peek_ShootStill",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeMainCoverShoot_ShootWithMove_Reposition_MoveWithShoot_Hide.BT_TakeMainCoverShoot_ShootWithMove_Reposition_MoveWithShoot_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverShoot_ShootBackCamp_ShootStill.BT_TakeCoverShoot_ShootBackCamp_ShootStill",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootBackCamp_Peek_ShootStill.BT_ShootBackCamp_Peek_ShootStill",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverShoot_ShootWithMove_Reposition_Hide_CampInSector.BT_TakeCoverShoot_ShootWithMove_Reposition_Hide_CampInSector",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverShoot_ShootBackCamp_ShootStill.BT_TakeCoverShoot_ShootBackCamp_ShootStill",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootBackCamp_Peek_ShootStill.BT_ShootBackCamp_Peek_ShootStill",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_HideFirst_ShootWithMove.BT_HideFirst_ShootWithMove",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Rush_CampInSector.BT_Hide_Rush_CampInSector",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Rush_CampInSector.BT_Hide_Rush_CampInSector",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            }
+          },
+          "_RowCount": 9
+        },
+        "Flank": {
+          "_Type": "DataTable",
+          "_Name": "PvpAI_Assualt_Flank_Passive",
+          "_Class": "UDataTable",
+          "_Outer": "DeltaForce/Content/DataTables/CharacterTemplate/PvPAI/Assault/PvpAI_Assualt_Flank_Passive",
+          "RowStruct": {
+            "_Type": "UScriptClass",
+            "_Name": "PvpAIFightBehavior",
+            "_Class": "UScriptClass",
+            "_Outer": null
+          },
+          "_Rows": {
+            "High_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Peek_ShootWithMove_Reposition_Hide.BT_Peek_ShootWithMove_Reposition_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove_Rush_Hide_MoveWithShoot.BT_ShootWithMove_Rush_Hide_MoveWithShoot",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove_Rush_Hide_MoveWithShoot.BT_ShootWithMove_Rush_Hide_MoveWithShoot",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "High_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Peek_ShootWithMove_Reposition_Hide.BT_Peek_ShootWithMove_Reposition_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove_Rush_Hide_MoveWithShoot.BT_ShootWithMove_Rush_Hide_MoveWithShoot",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove_Rush_Hide_MoveWithShoot.BT_ShootWithMove_Rush_Hide_MoveWithShoot",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "High_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Hide.BT_Hide_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Hide.BT_Hide_Hide",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Hide.BT_Hide_Hide",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeMainCoverShoot_ShootWithMove_Reposition_MoveWithShoot_Hide.BT_TakeMainCoverShoot_ShootWithMove_Reposition_MoveWithShoot_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverShoot_ShootStill_FindShootablePlace_MoveWithShoot.BT_TakeCoverShoot_ShootStill_FindShootablePlace_MoveWithShoot",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootStill.BT_ShootStill",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_TakeCoverShoot_ShootWithMove_MoveWithShoot.BT_Hide_TakeCoverShoot_ShootWithMove_MoveWithShoot",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverShoot_ShootStill_FindShootablePlace_MoveWithShoot.BT_TakeCoverShoot_ShootStill_FindShootablePlace_MoveWithShoot",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_PeekFirst_ShootStill.BT_PeekFirst_ShootStill",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Hide.BT_Hide_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverAim_AimWithMove.BT_TakeCoverAim_AimWithMove",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_AimStill.BT_AimStill",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverShoot_ShootStill_FindShootablePlace_Hide.BT_TakeCoverShoot_ShootStill_FindShootablePlace_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverShoot_ShootStill_FindShootablePlace_MoveWithShoot.BT_TakeCoverShoot_ShootStill_FindShootablePlace_MoveWithShoot",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootStill.BT_ShootStill",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverShoot_ShootStill_FindShootablePlace_Hide.BT_TakeCoverShoot_ShootStill_FindShootablePlace_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeSubCoverShoot_Rush_MoveWithShoot_Hide.BT_TakeSubCoverShoot_Rush_MoveWithShoot_Hide",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Flank/BT_FlankCrossFire.BT_FlankCrossFire",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Hide.BT_Hide_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Flank/BT_FlankCrossFire.BT_FlankCrossFire",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Flank/BT_FlankCrossFire.BT_FlankCrossFire",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            }
+          },
+          "_RowCount": 9
+        },
+        "Move": {
+          "_Type": "DataTable",
+          "_Name": "PvpAI_Assualt_Move_Passive",
+          "_Class": "UDataTable",
+          "_Outer": "DeltaForce/Content/DataTables/CharacterTemplate/PvPAI/Assault/PvpAI_Assualt_Move_Passive",
+          "RowStruct": {
+            "_Type": "UScriptClass",
+            "_Name": "PvpAIFightBehavior",
+            "_Class": "UScriptClass",
+            "_Outer": null
+          },
+          "_Rows": {
+            "High_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Peek_ShootWithMove_Reposition_Hide.BT_Peek_ShootWithMove_Reposition_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove_Rush_MoveWithShoot.BT_ShootWithMove_Rush_MoveWithShoot",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove_Rush_MoveWithShoot.BT_ShootWithMove_Rush_MoveWithShoot",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "High_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BT_ShootWithMove_Hide.BT_ShootWithMove_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BT_PushWithShoot_MoveWithShoot.BT_PushWithShoot_MoveWithShoot",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BT_PushWithShoot_MoveWithShoot.BT_PushWithShoot_MoveWithShoot",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "High_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Hide.BT_Hide_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Push_Hide.BT_Push_Hide",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Push_Hide.BT_Push_Hide",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeMainCoverShoot_ShootWithMove_Reposition_MoveWithShoot_Hide.BT_TakeMainCoverShoot_ShootWithMove_Reposition_MoveWithShoot_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeSubCoverShoot_Rush_MoveWithShoot.BT_TakeSubCoverShoot_Rush_MoveWithShoot",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveWithShoot.BT_MoveWithShoot",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverShoot_ShootWithMove_Reposition_Hide_CampInSector.BT_TakeCoverShoot_ShootWithMove_Reposition_Hide_CampInSector",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeSubCoverShoot_Rush_MoveWithShoot.BT_TakeSubCoverShoot_Rush_MoveWithShoot",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveWithShoot_Move.BT_MoveWithShoot_Move",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Hide.BT_Hide_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob.BT_MoveToJob",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob.BT_MoveToJob",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverShoot_ShootStill_FindShootablePlace_Hide.BT_TakeCoverShoot_ShootStill_FindShootablePlace_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeSubCoverShoot_Rush_MoveWithShoot.BT_TakeSubCoverShoot_Rush_MoveWithShoot",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveWithShoot.BT_MoveWithShoot",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeCoverShoot_ShootWithMove_Reposition_Hide_CampInSector.BT_TakeCoverShoot_ShootWithMove_Reposition_Hide_CampInSector",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_TakeSubCoverShoot_Rush_MoveWithShoot.BT_TakeSubCoverShoot_Rush_MoveWithShoot",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveWithShoot_Move.BT_MoveWithShoot_Move",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_Hide_Hide.BT_Hide_Hide",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob.BT_MoveToJob",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJob.BT_MoveToJob",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            }
+          },
+          "_RowCount": 9
+        },
+        "Retreat": {
+          "_Type": "DataTable",
+          "_Name": "PvpAI_Assualt_Retreat_Deffensive",
+          "_Class": "UDataTable",
+          "_Outer": "DeltaForce/Content/DataTables/CharacterTemplate/PvPAI/Assault/PvpAI_Assualt_Retreat_Deffensive",
+          "RowStruct": {
+            "_Type": "UScriptClass",
+            "_Name": "PvpAIFightBehavior",
+            "_Class": "UScriptClass",
+            "_Outer": null
+          },
+          "_Rows": {
+            "High_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove_Rush_Hide_MoveWithShoot.BT_ShootWithMove_Rush_Hide_MoveWithShoot",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove_Rush_MoveWithShoot.BT_ShootWithMove_Rush_MoveWithShoot",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove_Rush_MoveWithShoot.BT_ShootWithMove_Rush_MoveWithShoot",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "High_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "High_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove_Rush_MoveWithShoot.BT_ShootWithMove_Rush_MoveWithShoot",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove_Rush_MoveWithShoot.BT_ShootWithMove_Rush_MoveWithShoot",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove_Rush_MoveWithShoot.BT_ShootWithMove_Rush_MoveWithShoot",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Middle_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_High": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove_Rush_MoveWithShoot.BT_ShootWithMove_Rush_MoveWithShoot",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove_Rush_MoveWithShoot.BT_ShootWithMove_Rush_MoveWithShoot",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_ShootWithMove_Rush_MoveWithShoot.BT_ShootWithMove_Rush_MoveWithShoot",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_Middle": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            },
+            "Low_Low": {
+              "HighThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "MiddleThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "LowThreatBehavior": {
+                "AssetPath": "/Game/BluePrints/Characters/AI/PvP/BehaviorTree/BreakThrough/BT_MoveToJobWithSmoke.BT_MoveToJobWithSmoke",
+                "SubPath": ""
+              },
+              "RowDescription": "None"
+            }
+          },
+          "_RowCount": 9
+        },
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 3
+  }
+]

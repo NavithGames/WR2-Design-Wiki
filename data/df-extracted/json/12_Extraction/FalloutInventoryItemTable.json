@@ -1,0 +1,38 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "FalloutInventoryItemTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/Interact/FalloutInventoryItemTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "FalloutInventoryItemRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "NewRow": {
+        "UniqueId": 1,
+        "ItemID": 18010000001,
+        "ItemName": "tmp",
+        "FalloutValue": 20,
+        "FalloutBuff": 305003
+      },
+      "NewRow_0": {
+        "UniqueId": 2,
+        "ItemID": 37100100001,
+        "ItemName": "",
+        "FalloutValue": 0,
+        "FalloutBuff": 0
+      },
+      "NewRow_1": {
+        "UniqueId": 3,
+        "ItemID": 14020000006,
+        "ItemName": "\u533B\u7597\u7BB1",
+        "FalloutValue": 40,
+        "FalloutBuff": 300503
+      }
+    },
+    "_RowCount": 3
+  }
+]

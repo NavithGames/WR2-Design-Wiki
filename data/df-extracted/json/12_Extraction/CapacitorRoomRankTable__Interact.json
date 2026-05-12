@@ -1,0 +1,317 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "CapacitorRoomRankTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/Interact/CapacitorRoomRankTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "CapacitorRoomRankTableRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "NewRow_2": {
+        "MapIDs": [
+          8901,
+          89
+        ],
+        "CurrentStepIndex": 0,
+        "CurrentRank": 0,
+        "NextStepRanks": [
+          {
+            "Key": 1,
+            "Value": 0.91
+          },
+          {
+            "Key": 2,
+            "Value": 0.07
+          },
+          {
+            "Key": 3,
+            "Value": 0.02
+          }
+        ]
+      },
+      "NewRow": {
+        "MapIDs": [
+          8901,
+          89
+        ],
+        "CurrentStepIndex": 1,
+        "CurrentRank": 1,
+        "NextStepRanks": [
+          {
+            "Key": 2,
+            "Value": 0.93
+          },
+          {
+            "Key": 3,
+            "Value": 0.05
+          },
+          {
+            "Key": 4,
+            "Value": 0.02
+          }
+        ]
+      },
+      "NewRow_0": {
+        "MapIDs": [
+          8901,
+          89
+        ],
+        "CurrentStepIndex": 1,
+        "CurrentRank": 2,
+        "NextStepRanks": [
+          {
+            "Key": 3,
+            "Value": 0.9
+          },
+          {
+            "Key": 4,
+            "Value": 0.1
+          }
+        ]
+      },
+      "NewRow_1": {
+        "MapIDs": [
+          8901,
+          89
+        ],
+        "CurrentStepIndex": 1,
+        "CurrentRank": 3,
+        "NextStepRanks": [
+          {
+            "Key": 4,
+            "Value": 1
+          }
+        ]
+      },
+      "NewRow_3": {
+        "MapIDs": [
+          8901,
+          89
+        ],
+        "CurrentStepIndex": 2,
+        "CurrentRank": 2,
+        "NextStepRanks": [
+          {
+            "Key": 3,
+            "Value": 0.9
+          },
+          {
+            "Key": 4,
+            "Value": 0.1
+          }
+        ]
+      },
+      "NewRow_4": {
+        "MapIDs": [
+          8901,
+          89
+        ],
+        "CurrentStepIndex": 2,
+        "CurrentRank": 3,
+        "NextStepRanks": [
+          {
+            "Key": 4,
+            "Value": 1
+          }
+        ]
+      },
+      "NewRow_5": {
+        "MapIDs": [
+          8901,
+          89
+        ],
+        "CurrentStepIndex": 2,
+        "CurrentRank": 4,
+        "NextStepRanks": [
+          {
+            "Key": 0,
+            "Value": 1
+          }
+        ]
+      },
+      "NewRow_8": {
+        "MapIDs": [
+          8901,
+          89
+        ],
+        "CurrentStepIndex": 3,
+        "CurrentRank": 3,
+        "NextStepRanks": [
+          {
+            "Key": 4,
+            "Value": 1
+          }
+        ]
+      },
+      "NewRow_12": {
+        "MapIDs": [
+          8901,
+          89
+        ],
+        "CurrentStepIndex": 3,
+        "CurrentRank": 4,
+        "NextStepRanks": [
+          {
+            "Key": 0,
+            "Value": 1
+          }
+        ]
+      },
+      "NewRow_6": {
+        "MapIDs": [
+          8902,
+          89
+        ],
+        "CurrentStepIndex": 0,
+        "CurrentRank": 0,
+        "NextStepRanks": [
+          {
+            "Key": 1,
+            "Value": 0.91
+          },
+          {
+            "Key": 2,
+            "Value": 0.07
+          },
+          {
+            "Key": 3,
+            "Value": 0.02
+          }
+        ]
+      },
+      "NewRow_7": {
+        "MapIDs": [
+          8902,
+          89
+        ],
+        "CurrentStepIndex": 1,
+        "CurrentRank": 1,
+        "NextStepRanks": [
+          {
+            "Key": 2,
+            "Value": 0.93
+          },
+          {
+            "Key": 3,
+            "Value": 0.05
+          },
+          {
+            "Key": 4,
+            "Value": 0.02
+          }
+        ]
+      },
+      "NewRow_9": {
+        "MapIDs": [
+          8902,
+          89
+        ],
+        "CurrentStepIndex": 1,
+        "CurrentRank": 2,
+        "NextStepRanks": [
+          {
+            "Key": 3,
+            "Value": 0.9
+          },
+          {
+            "Key": 4,
+            "Value": 0.1
+          }
+        ]
+      },
+      "NewRow_10": {
+        "MapIDs": [
+          8902,
+          89
+        ],
+        "CurrentStepIndex": 1,
+        "CurrentRank": 3,
+        "NextStepRanks": [
+          {
+            "Key": 4,
+            "Value": 1
+          }
+        ]
+      },
+      "NewRow_11": {
+        "MapIDs": [
+          8902,
+          89
+        ],
+        "CurrentStepIndex": 2,
+        "CurrentRank": 2,
+        "NextStepRanks": [
+          {
+            "Key": 3,
+            "Value": 0.9
+          },
+          {
+            "Key": 4,
+            "Value": 0.1
+          }
+        ]
+      },
+      "NewRow_13": {
+        "MapIDs": [
+          8902,
+          89
+        ],
+        "CurrentStepIndex": 2,
+        "CurrentRank": 3,
+        "NextStepRanks": [
+          {
+            "Key": 4,
+            "Value": 1
+          }
+        ]
+      },
+      "NewRow_14": {
+        "MapIDs": [
+          8902,
+          89
+        ],
+        "CurrentStepIndex": 2,
+        "CurrentRank": 4,
+        "NextStepRanks": [
+          {
+            "Key": 0,
+            "Value": 1
+          }
+        ]
+      },
+      "NewRow_15": {
+        "MapIDs": [
+          8902,
+          89
+        ],
+        "CurrentStepIndex": 3,
+        "CurrentRank": 3,
+        "NextStepRanks": [
+          {
+            "Key": 4,
+            "Value": 1
+          }
+        ]
+      },
+      "NewRow_16": {
+        "MapIDs": [
+          8902,
+          89
+        ],
+        "CurrentStepIndex": 3,
+        "CurrentRank": 4,
+        "NextStepRanks": [
+          {
+            "Key": 0,
+            "Value": 1
+          }
+        ]
+      }
+    },
+    "_RowCount": 18
+  }
+]

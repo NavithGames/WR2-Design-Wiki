@@ -1,0 +1,95 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "InGameGeneratorExpertDataTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/BattleField/InGameGeneratorExpertDataTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "InGameGeneratorExpertDataConfigRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "\u7BAD\u7FBD\u4E89\u950B\u5F13\u7BAD": {
+        "InGameGeneratorTagName": "001",
+        "ReplaceExpertData": [
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10010,
+              "ArmedForceID": 1,
+              "HeroID": 88000000025,
+              "HeroFashionID": 0
+            }
+          },
+          {
+            "Key": 10012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 10012,
+              "ArmedForceID": 1,
+              "HeroID": 88000000039,
+              "HeroFashionID": 0
+            }
+          },
+          {
+            "Key": 40010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ExpertID": 40010,
+              "ArmedForceID": 4,
+              "HeroID": 88000000026,
+              "HeroFashionID": 0
+            }
+          }
+        ],
+        "ReplaceBackpackData": [
+          {
+            "Key": 10010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "MainWeaponID": 18150000001,
+              "MainWeaponPresetID": 0,
+              "SecondaryWeaponID": 0,
+              "SecondaryWeaponPresetID": 0,
+              "MeleeWeaponID": 18100000002,
+              "MeleeWeaponPresetID": 0,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 10012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "MainWeaponID": 18150000001,
+              "MainWeaponPresetID": 0,
+              "SecondaryWeaponID": 0,
+              "SecondaryWeaponPresetID": 0,
+              "MeleeWeaponID": 18100000002,
+              "MeleeWeaponPresetID": 0,
+              "ArmedForceTDMPropID": 0
+            }
+          },
+          {
+            "Key": 40010,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "MainWeaponID": 18150000001,
+              "MainWeaponPresetID": 0,
+              "SecondaryWeaponID": 0,
+              "SecondaryWeaponPresetID": 0,
+              "MeleeWeaponID": 18100000002,
+              "MeleeWeaponPresetID": 0,
+              "ArmedForceTDMPropID": 0
+            }
+          }
+        ],
+        "bDisablePreset": true,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 1
+  }
+]

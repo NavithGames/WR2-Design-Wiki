@@ -1,0 +1,29 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "AIThreatConfig",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/CharacterTemplate/AIThreatConfig",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "AIThreatConfig",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "NewRow": {
+        "BehaviorType": "EGPSpecificBehaviorType::ENormal",
+        "ThreatDecreaseDistance": 4000000,
+        "ThreatDecrease_Default": 1,
+        "ThreatDecrease_EyeSight": 1,
+        "ThreatDecrease_Hurt": 1,
+        "ThreatDecrease_HearSound": 1,
+        "ThreatDecrease_AirHit": 1,
+        "EyeSightDistCurve": null,
+        "EyeSightDirectionCurve": null,
+        "HearingDistCurve": null
+      }
+    },
+    "_RowCount": 1
+  }
+]

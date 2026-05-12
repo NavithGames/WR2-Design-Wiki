@@ -1,0 +1,3 @@
+﻿RowName,Name,ProxyClass,RowDescription
+GSAbilityComponent,GSAbilityComponent,DFMAbilityGameStateComponent,None
+FreezeZoneManager,FreezeZoneManager,FreezeZoneManagerComponent,None

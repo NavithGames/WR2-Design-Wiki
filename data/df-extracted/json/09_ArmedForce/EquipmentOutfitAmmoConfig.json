@@ -1,0 +1,74 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "EquipmentOutfitAmmoConfig",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/EquipmentOutfitAmmoConfig",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "EquipmentOutfitAmmoData",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "1": {
+        "WeaponItemType": 1,
+        "Plan1": "1:240",
+        "Plan2": "3:240",
+        "Plan3": "4:240",
+        "RowDescription": "None"
+      },
+      "2": {
+        "WeaponItemType": 2,
+        "Plan1": "1:240",
+        "Plan2": "3:240",
+        "Plan3": "3:240",
+        "RowDescription": "None"
+      },
+      "3": {
+        "WeaponItemType": 3,
+        "Plan1": "1:40",
+        "Plan2": "2:40",
+        "Plan3": "3:40",
+        "RowDescription": "None"
+      },
+      "4": {
+        "WeaponItemType": 4,
+        "Plan1": "3:240",
+        "Plan2": "3:240",
+        "Plan3": "4:240",
+        "RowDescription": "None"
+      },
+      "5": {
+        "WeaponItemType": 5,
+        "Plan1": "3:120",
+        "Plan2": "4:120",
+        "Plan3": "5:120",
+        "RowDescription": "None"
+      },
+      "6": {
+        "WeaponItemType": 6,
+        "Plan1": "3:40",
+        "Plan2": "4:40",
+        "Plan3": "5:40",
+        "RowDescription": "None"
+      },
+      "7": {
+        "WeaponItemType": 7,
+        "Plan1": "1:120",
+        "Plan2": "2:120",
+        "Plan3": "3:120",
+        "RowDescription": "None"
+      },
+      "8": {
+        "WeaponItemType": 8,
+        "Plan1": "1:5",
+        "Plan2": "3:5",
+        "Plan3": "4:5",
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 8
+  }
+]

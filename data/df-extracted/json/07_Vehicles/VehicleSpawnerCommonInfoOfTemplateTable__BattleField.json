@@ -1,0 +1,1837 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "VehicleSpawnerCommonInfoOfTemplateTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/BattleField/VehicleSpawnerCommonInfoOfTemplateTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "VehicleSpawnerCommonInfoOfTemplate",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "\u6807\u51C6\u901A\u7528": {
+        "Template": "ESpawnerCommonInfoTemplate::Template1",
+        "CommonInfoOfVehicles": [
+          {
+            "Key": 1101001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u4E3B\u6218\u5766\u514B",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 120,
+              "SelfVehicleCD": 120
+            }
+          },
+          {
+            "Key": 1101002,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "LAV-25\u9632\u7A7A\u8F66",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 90,
+              "SelfVehicleCD": 90
+            }
+          },
+          {
+            "Key": 1101003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "LAV-G1\u6B65\u6218\u8F66",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 90,
+              "SelfVehicleCD": 90
+            }
+          },
+          {
+            "Key": 1101004,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "FSV\u8F6E\u5F0F\u7A81\u51FB\u70AE",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 90,
+              "SelfVehicleCD": 90
+            }
+          },
+          {
+            "Key": 1101005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "GTQ-35\u8F7B\u578B\u5766\u514B",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 90,
+              "SelfVehicleCD": 90
+            }
+          },
+          {
+            "Key": 1102001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "ORV\u7A81\u51FB\u8F66",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 60,
+              "SelfVehicleCD": 60
+            }
+          },
+          {
+            "Key": 1103007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "ATV\u7A81\u51FB\u8F66",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 15,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1103012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "LOSV\u8D8A\u91CE\u8F66",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 40,
+              "SelfVehicleCD": 40
+            }
+          },
+          {
+            "Key": 1201001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u51B2\u950B\u8247",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 90,
+              "SelfVehicleCD": 90
+            }
+          },
+          {
+            "Key": 1301002,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "AH-1035D\u201C\u957F\u5F13\u730E\u4EBA\u201D\u7A81\u51FB\u76F4\u5347\u673A",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 100,
+              "SelfVehicleCD": 100
+            }
+          },
+          {
+            "Key": 1301005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u5C0F\u9E1F\u76F4\u5347\u673A",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 100,
+              "SelfVehicleCD": 100
+            }
+          },
+          {
+            "Key": 1301006,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "UH60",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 9999,
+              "SelfVehicleCD": 9999
+            }
+          },
+          {
+            "Key": 1301007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "F35",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 100,
+              "SelfVehicleCD": 100
+            }
+          },
+          {
+            "Key": 1201002,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u6469\u6258\u8247",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 15,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1201003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u6B66\u88C5\u51B2\u950B\u8247",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 90,
+              "SelfVehicleCD": 90
+            }
+          },
+          {
+            "Key": 1101006,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u4E24\u6816\u88C5\u7532\u8FD0\u8F93\u8F66",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 90,
+              "SelfVehicleCD": 90
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u6D3B\u52A8\u901A\u7528": {
+        "Template": "ESpawnerCommonInfoTemplate::Template2",
+        "CommonInfoOfVehicles": [
+          {
+            "Key": 1101001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u4E3B\u6218\u5766\u514B",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 30,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1101002,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "LAV-25\u9632\u7A7A\u8F66",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 30,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1101003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "LAV-G1\u6B65\u6218\u8F66",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 30,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1101004,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "FSV\u8F6E\u5F0F\u7A81\u51FB\u70AE",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 30,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1101005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "GTQ-35\u8F7B\u578B\u5766\u514B",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 30,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1102001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "ORV\u7A81\u51FB\u8F66",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 30,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1103007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "ATV\u7A81\u51FB\u8F66",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 15,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1103012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "LOSV\u8D8A\u91CE\u8F66",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 30,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1201001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u51B2\u950B\u8247",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 30,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1301002,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "AH-1035D\u201C\u957F\u5F13\u730E\u4EBA\u201D\u7A81\u51FB\u76F4\u5347\u673A",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 30,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1301005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 30,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1301006,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "UH60",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 9999,
+              "SelfVehicleCD": 9999
+            }
+          },
+          {
+            "Key": 1301007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "F35",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 30,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1201002,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u6469\u6258\u8247",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 15,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1201003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u6B66\u88C5\u51B2\u950B\u8247",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 15,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1101006,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u4E24\u6816\u88C5\u7532\u8FD0\u8F93\u8F66",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 30,
+              "SelfVehicleCD": 15
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u9635\u8425\u901A\u7528": {
+        "Template": "ESpawnerCommonInfoTemplate::Template3",
+        "CommonInfoOfVehicles": [
+          {
+            "Key": 1101001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u4E3B\u6218\u5766\u514B",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 120,
+              "SelfVehicleCD": 120
+            }
+          },
+          {
+            "Key": 1101002,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "LAV-25\u9632\u7A7A\u8F66",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 90,
+              "SelfVehicleCD": 90
+            }
+          },
+          {
+            "Key": 1101003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "LAV-G1\u6B65\u6218\u8F66",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 90,
+              "SelfVehicleCD": 90
+            }
+          },
+          {
+            "Key": 1101004,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "FSV\u8F6E\u5F0F\u7A81\u51FB\u70AE",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 40,
+              "SelfVehicleCD": 40
+            }
+          },
+          {
+            "Key": 1101005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "GTQ-35\u8F7B\u578B\u5766\u514B",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 90,
+              "SelfVehicleCD": 90
+            }
+          },
+          {
+            "Key": 1102001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "ORV\u7A81\u51FB\u8F66",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 40,
+              "SelfVehicleCD": 40
+            }
+          },
+          {
+            "Key": 1103007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "ATV\u7A81\u51FB\u8F66",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 15,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1103012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "LOSV\u8D8A\u91CE\u8F66",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 40,
+              "SelfVehicleCD": 40
+            }
+          },
+          {
+            "Key": 1201001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u51B2\u950B\u8247",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 90,
+              "SelfVehicleCD": 90
+            }
+          },
+          {
+            "Key": 1301002,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "AH-1035D\u201C\u957F\u5F13\u730E\u4EBA\u201D\u7A81\u51FB\u76F4\u5347\u673A",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 100,
+              "SelfVehicleCD": 100
+            }
+          },
+          {
+            "Key": 1301005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u5C0F\u9E1F\u76F4\u5347\u673A",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 100,
+              "SelfVehicleCD": 100
+            }
+          },
+          {
+            "Key": 1301006,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "UH60",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 9999,
+              "SelfVehicleCD": 9999
+            }
+          },
+          {
+            "Key": 1301007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "F35",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 100,
+              "SelfVehicleCD": 100
+            }
+          },
+          {
+            "Key": 1201002,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u6469\u6258\u8247",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 15,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1201003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u6B66\u88C5\u51B2\u950B\u8247",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 90,
+              "SelfVehicleCD": 90
+            }
+          },
+          {
+            "Key": 1101006,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u4E24\u6816\u88C5\u7532\u8FD0\u8F93\u8F66",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 90,
+              "SelfVehicleCD": 90
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u6307\u6325\u5B98\u9635\u8425\u4E13\u5C5E": {
+        "Template": "ESpawnerCommonInfoTemplate::Template4",
+        "CommonInfoOfVehicles": [
+          {
+            "Key": 1101001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u4E3B\u6218\u5766\u514B",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 150,
+              "SelfVehicleCD": 150
+            }
+          },
+          {
+            "Key": 1101002,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "LAV-25\u9632\u7A7A\u8F66",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 90,
+              "SelfVehicleCD": 90
+            }
+          },
+          {
+            "Key": 1101003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "LAV-G1\u6B65\u6218\u8F66",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 90,
+              "SelfVehicleCD": 90
+            }
+          },
+          {
+            "Key": 1101004,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "FSV\u8F6E\u5F0F\u7A81\u51FB\u70AE",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 120,
+              "SelfVehicleCD": 120
+            }
+          },
+          {
+            "Key": 1101005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "GTQ-35\u8F7B\u578B\u5766\u514B",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 200,
+              "SelfVehicleCD": 200
+            }
+          },
+          {
+            "Key": 1102001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "ORV\u7A81\u51FB\u8F66",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 80,
+              "SelfVehicleCD": 80
+            }
+          },
+          {
+            "Key": 1103007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "ATV\u7A81\u51FB\u8F66",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 15,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1103012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "LOSV\u8D8A\u91CE\u8F66",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 40,
+              "SelfVehicleCD": 40
+            }
+          },
+          {
+            "Key": 1201001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u51B2\u950B\u8247",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 150,
+              "SelfVehicleCD": 150
+            }
+          },
+          {
+            "Key": 1301002,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "AH-1035D\u201C\u957F\u5F13\u730E\u4EBA\u201D\u7A81\u51FB\u76F4\u5347\u673A",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 100,
+              "SelfVehicleCD": 100
+            }
+          },
+          {
+            "Key": 1301005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 100,
+              "SelfVehicleCD": 100
+            }
+          },
+          {
+            "Key": 1301006,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "UH60",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 9999,
+              "SelfVehicleCD": 9999
+            }
+          },
+          {
+            "Key": 1301007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "F35",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 100,
+              "SelfVehicleCD": 100
+            }
+          },
+          {
+            "Key": 1201002,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u6469\u6258\u8247",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 15,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1201003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u6B66\u88C5\u51B2\u950B\u8247",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 75,
+              "SelfVehicleCD": 75
+            }
+          },
+          {
+            "Key": 1101006,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u4E24\u6816\u88C5\u7532\u8FD0\u8F93\u8F66",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 90,
+              "SelfVehicleCD": 90
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u6307\u6325\u5B98\u90E8\u7F72\u901A\u7528": {
+        "Template": "ESpawnerCommonInfoTemplate::Template5",
+        "CommonInfoOfVehicles": [
+          {
+            "Key": 1101001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u4E3B\u6218\u5766\u514B",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 150,
+              "SelfVehicleCD": 150
+            }
+          },
+          {
+            "Key": 1101002,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "LAV-25\u9632\u7A7A\u8F66",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 90,
+              "SelfVehicleCD": 90
+            }
+          },
+          {
+            "Key": 1101003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "LAV-G1\u6B65\u6218\u8F66",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 150,
+              "SelfVehicleCD": 150
+            }
+          },
+          {
+            "Key": 1101004,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "FSV\u8F6E\u5F0F\u7A81\u51FB\u70AE",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 150,
+              "SelfVehicleCD": 150
+            }
+          },
+          {
+            "Key": 1101005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "GTQ-35\u8F7B\u578B\u5766\u514B",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 150,
+              "SelfVehicleCD": 150
+            }
+          },
+          {
+            "Key": 1102001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "ORV\u7A81\u51FB\u8F66",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 60,
+              "SelfVehicleCD": 60
+            }
+          },
+          {
+            "Key": 1103007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "ATV\u7A81\u51FB\u8F66",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 15,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1103012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "LOSV\u8D8A\u91CE\u8F66",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 40,
+              "SelfVehicleCD": 40
+            }
+          },
+          {
+            "Key": 1201001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u51B2\u950B\u8247",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 150,
+              "SelfVehicleCD": 150
+            }
+          },
+          {
+            "Key": 1301002,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "AH-1035D\u201C\u957F\u5F13\u730E\u4EBA\u201D\u7A81\u51FB\u76F4\u5347\u673A",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 100,
+              "SelfVehicleCD": 100
+            }
+          },
+          {
+            "Key": 1301005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 100,
+              "SelfVehicleCD": 100
+            }
+          },
+          {
+            "Key": 1301006,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "UH60",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 9999,
+              "SelfVehicleCD": 9999
+            }
+          },
+          {
+            "Key": 1301007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "F35",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 100,
+              "SelfVehicleCD": 100
+            }
+          },
+          {
+            "Key": 1201002,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u6469\u6258\u8247",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 15,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1201003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 150,
+              "SelfVehicleCD": 150
+            }
+          },
+          {
+            "Key": 1101006,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u4E24\u6816\u88C5\u7532\u8FD0\u8F93\u8F66",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 90,
+              "SelfVehicleCD": 90
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u6D77\u5916\u6781\u901F\u901A\u7528": {
+        "Template": "ESpawnerCommonInfoTemplate::Template6",
+        "CommonInfoOfVehicles": [
+          {
+            "Key": 1101001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u4E3B\u6218\u5766\u514B",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 95,
+              "SelfVehicleCD": 95
+            }
+          },
+          {
+            "Key": 1101002,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "LAV-25\u9632\u7A7A\u8F66",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 75,
+              "SelfVehicleCD": 75
+            }
+          },
+          {
+            "Key": 1101003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "LAV-G1\u6B65\u6218\u8F66",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 75,
+              "SelfVehicleCD": 75
+            }
+          },
+          {
+            "Key": 1101004,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "FSV\u8F6E\u5F0F\u7A81\u51FB\u70AE",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 75,
+              "SelfVehicleCD": 75
+            }
+          },
+          {
+            "Key": 1101005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "GTQ-35\u8F7B\u578B\u5766\u514B",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 75,
+              "SelfVehicleCD": 75
+            }
+          },
+          {
+            "Key": 1102001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "ORV\u7A81\u51FB\u8F66",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 45,
+              "SelfVehicleCD": 45
+            }
+          },
+          {
+            "Key": 1103007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "ATV\u7A81\u51FB\u8F66",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 15,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1103012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "LOSV\u8D8A\u91CE\u8F66",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 35,
+              "SelfVehicleCD": 35
+            }
+          },
+          {
+            "Key": 1201001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u51B2\u950B\u8247",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 75,
+              "SelfVehicleCD": 75
+            }
+          },
+          {
+            "Key": 1301002,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "AH-1035D\u201C\u957F\u5F13\u730E\u4EBA\u201D\u7A81\u51FB\u76F4\u5347\u673A",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 120,
+              "SelfVehicleCD": 120
+            }
+          },
+          {
+            "Key": 1301005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u5C0F\u9E1F\u76F4\u5347\u673A",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 120,
+              "SelfVehicleCD": 120
+            }
+          },
+          {
+            "Key": 1301006,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "UH60",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 9999,
+              "SelfVehicleCD": 9999
+            }
+          },
+          {
+            "Key": 1301007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "F35",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 120,
+              "SelfVehicleCD": 120
+            }
+          },
+          {
+            "Key": 1201002,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u6469\u6258\u8247",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 15,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1201003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u6B66\u88C5\u51B2\u950B\u8247",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 75,
+              "SelfVehicleCD": 75
+            }
+          },
+          {
+            "Key": 1101006,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u4E24\u6816\u88C5\u7532\u8FD0\u8F93\u8F66",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 75,
+              "SelfVehicleCD": 75
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u6D77\u5916\u6781\u901F\u9635\u8425": {
+        "Template": "ESpawnerCommonInfoTemplate::Template7",
+        "CommonInfoOfVehicles": [
+          {
+            "Key": 1101001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u4E3B\u6218\u5766\u514B",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 95,
+              "SelfVehicleCD": 95
+            }
+          },
+          {
+            "Key": 1101002,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "LAV-25\u9632\u7A7A\u8F66",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 75,
+              "SelfVehicleCD": 75
+            }
+          },
+          {
+            "Key": 1101003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "LAV-G1\u6B65\u6218\u8F66",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 75,
+              "SelfVehicleCD": 75
+            }
+          },
+          {
+            "Key": 1101004,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "FSV\u8F6E\u5F0F\u7A81\u51FB\u70AE",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 75,
+              "SelfVehicleCD": 75
+            }
+          },
+          {
+            "Key": 1101005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "GTQ-35\u8F7B\u578B\u5766\u514B",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 75,
+              "SelfVehicleCD": 75
+            }
+          },
+          {
+            "Key": 1102001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "ORV\u7A81\u51FB\u8F66",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 45,
+              "SelfVehicleCD": 45
+            }
+          },
+          {
+            "Key": 1103007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "ATV\u7A81\u51FB\u8F66",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 15,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1103012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "LOSV\u8D8A\u91CE\u8F66",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 35,
+              "SelfVehicleCD": 35
+            }
+          },
+          {
+            "Key": 1201001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u51B2\u950B\u8247",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 75,
+              "SelfVehicleCD": 75
+            }
+          },
+          {
+            "Key": 1301002,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "AH-1035D\u201C\u957F\u5F13\u730E\u4EBA\u201D\u7A81\u51FB\u76F4\u5347\u673A",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 120,
+              "SelfVehicleCD": 120
+            }
+          },
+          {
+            "Key": 1301005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u5C0F\u9E1F\u76F4\u5347\u673A",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 120,
+              "SelfVehicleCD": 120
+            }
+          },
+          {
+            "Key": 1301006,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "UH60",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 9999,
+              "SelfVehicleCD": 9999
+            }
+          },
+          {
+            "Key": 1301007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "F35",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 120,
+              "SelfVehicleCD": 120
+            }
+          },
+          {
+            "Key": 1201002,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u6469\u6258\u8247",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 15,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1201003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u6B66\u88C5\u51B2\u950B\u8247",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 75,
+              "SelfVehicleCD": 75
+            }
+          },
+          {
+            "Key": 1101006,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u4E24\u6816\u88C5\u7532\u8FD0\u8F93\u8F66",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 75,
+              "SelfVehicleCD": 75
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u6D77\u5916\u6307\u6325\u5B98\u9635\u8425\u4E13\u5C5E": {
+        "Template": "ESpawnerCommonInfoTemplate::Template8",
+        "CommonInfoOfVehicles": [
+          {
+            "Key": 1101001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u4E3B\u6218\u5766\u514B",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 75,
+              "SelfVehicleCD": 75
+            }
+          },
+          {
+            "Key": 1101002,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "LAV-25\u9632\u7A7A\u8F66",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 75,
+              "SelfVehicleCD": 75
+            }
+          },
+          {
+            "Key": 1101003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "LAV-G1\u6B65\u6218\u8F66",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 75,
+              "SelfVehicleCD": 75
+            }
+          },
+          {
+            "Key": 1101004,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "FSV\u8F6E\u5F0F\u7A81\u51FB\u70AE",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 75,
+              "SelfVehicleCD": 75
+            }
+          },
+          {
+            "Key": 1101005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "GTQ-35\u8F7B\u578B\u5766\u514B",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 75,
+              "SelfVehicleCD": 75
+            }
+          },
+          {
+            "Key": 1102001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "ORV\u7A81\u51FB\u8F66",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 60,
+              "SelfVehicleCD": 60
+            }
+          },
+          {
+            "Key": 1103007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "ATV\u7A81\u51FB\u8F66",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 15,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1103012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "LOSV\u8D8A\u91CE\u8F66",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 40,
+              "SelfVehicleCD": 40
+            }
+          },
+          {
+            "Key": 1201001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u51B2\u950B\u8247",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 75,
+              "SelfVehicleCD": 75
+            }
+          },
+          {
+            "Key": 1301002,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "AH-1035D\u201C\u957F\u5F13\u730E\u4EBA\u201D\u7A81\u51FB\u76F4\u5347\u673A",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 120,
+              "SelfVehicleCD": 120
+            }
+          },
+          {
+            "Key": 1301005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 120,
+              "SelfVehicleCD": 120
+            }
+          },
+          {
+            "Key": 1301006,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "UH60",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 9999,
+              "SelfVehicleCD": 9999
+            }
+          },
+          {
+            "Key": 1301007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "F35",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 120,
+              "SelfVehicleCD": 120
+            }
+          },
+          {
+            "Key": 1201002,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u6469\u6258\u8247",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 15,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1201003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u6B66\u88C5\u51B2\u950B\u8247",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 75,
+              "SelfVehicleCD": 75
+            }
+          },
+          {
+            "Key": 1101006,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u4E24\u6816\u88C5\u7532\u8FD0\u8F93\u8F66",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 75,
+              "SelfVehicleCD": 75
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u6D77\u5916\u6307\u6325\u5B98\u90E8\u7F72\u901A\u7528": {
+        "Template": "ESpawnerCommonInfoTemplate::Template9",
+        "CommonInfoOfVehicles": [
+          {
+            "Key": 1101001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u4E3B\u6218\u5766\u514B",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 100,
+              "SelfVehicleCD": 100
+            }
+          },
+          {
+            "Key": 1101002,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "LAV-25\u9632\u7A7A\u8F66",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 75,
+              "SelfVehicleCD": 75
+            }
+          },
+          {
+            "Key": 1101003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "LAV-G1\u6B65\u6218\u8F66",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 100,
+              "SelfVehicleCD": 100
+            }
+          },
+          {
+            "Key": 1101004,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "FSV\u8F6E\u5F0F\u7A81\u51FB\u70AE",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 100,
+              "SelfVehicleCD": 100
+            }
+          },
+          {
+            "Key": 1101005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "GTQ-35\u8F7B\u578B\u5766\u514B",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 100,
+              "SelfVehicleCD": 100
+            }
+          },
+          {
+            "Key": 1102001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "ORV\u7A81\u51FB\u8F66",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 48,
+              "SelfVehicleCD": 48
+            }
+          },
+          {
+            "Key": 1103007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "ATV\u7A81\u51FB\u8F66",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 15,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1103012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "LOSV\u8D8A\u91CE\u8F66",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 40,
+              "SelfVehicleCD": 40
+            }
+          },
+          {
+            "Key": 1201001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u51B2\u950B\u8247",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 100,
+              "SelfVehicleCD": 100
+            }
+          },
+          {
+            "Key": 1301002,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "AH-1035D\u201C\u957F\u5F13\u730E\u4EBA\u201D\u7A81\u51FB\u76F4\u5347\u673A",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 120,
+              "SelfVehicleCD": 120
+            }
+          },
+          {
+            "Key": 1301005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 120,
+              "SelfVehicleCD": 120
+            }
+          },
+          {
+            "Key": 1301006,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "UH60",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 9999,
+              "SelfVehicleCD": 9999
+            }
+          },
+          {
+            "Key": 1301007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "F35",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 120,
+              "SelfVehicleCD": 120
+            }
+          },
+          {
+            "Key": 1201002,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u6469\u6258\u8247",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 15,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1201003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 100,
+              "SelfVehicleCD": 100
+            }
+          },
+          {
+            "Key": 1101006,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u4E24\u6816\u88C5\u7532\u8FD0\u8F93\u8F66",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 75,
+              "SelfVehicleCD": 75
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u94C1\u7532\u96C4\u5E08": {
+        "Template": "ESpawnerCommonInfoTemplate::Template10",
+        "CommonInfoOfVehicles": [
+          {
+            "Key": 1101001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u4E3B\u6218\u5766\u514B",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 50,
+              "SelfVehicleCD": 30
+            }
+          },
+          {
+            "Key": 1101002,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "LAV-25\u9632\u7A7A\u8F66",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 30,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1101003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "LAV-G1\u6B65\u6218\u8F66",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 50,
+              "SelfVehicleCD": 30
+            }
+          },
+          {
+            "Key": 1101004,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "FSV\u8F6E\u5F0F\u7A81\u51FB\u70AE",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 30,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1101005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "GTQ-35\u8F7B\u578B\u5766\u514B",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 50,
+              "SelfVehicleCD": 30
+            }
+          },
+          {
+            "Key": 1102001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "ORV\u7A81\u51FB\u8F66",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 30,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1103007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "ATV\u7A81\u51FB\u8F66",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 15,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1103012,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "LOSV\u8D8A\u91CE\u8F66",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 30,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1201001,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u51B2\u950B\u8247",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 30,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1301002,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "AH-1035D\u201C\u957F\u5F13\u730E\u4EBA\u201D\u7A81\u51FB\u76F4\u5347\u673A",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 30,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1301005,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 30,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1301006,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "UH60",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 9999,
+              "SelfVehicleCD": 9999
+            }
+          },
+          {
+            "Key": 1301007,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "F35",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 30,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1201002,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u6469\u6258\u8247",
+              "bIsCampVehicle": false,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 15,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1201003,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u6B66\u88C5\u51B2\u950B\u8247",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 15,
+              "SelfVehicleCD": 15
+            }
+          },
+          {
+            "Key": 1101006,
+            "Value": {
+              "_StructType": "FStructFallback",
+              "VehicleName": "\u4E24\u6816\u88C5\u7532\u8FD0\u8F93\u8F66",
+              "bIsCampVehicle": true,
+              "bPartInGlobalVehicleNumLimit": true,
+              "VehicleCD": 30,
+              "SelfVehicleCD": 15
+            }
+          }
+        ],
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 10
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "WeaponThrowableDamageTable_CombinationTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Ability/OperatorFormTool/CombinationTables/WeaponThrowableDamageTable_CombinationTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "WeaponThrowableDataDamage",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "\u9065\u63A7\u70DF\u96FE": {
+        "GameModeType": 0,
+        "DamageId": 40,
+        "MaxLifeTime": 0,
+        "EffectType": "EWeaponThrowableEffectType::Smoke",
+        "ExplosionType": "EWeaponThrowableExplosionType::Stop",
+        "WaterExplosionType": "EWeaponThrowableUnderWaterExplosionType::OutFromWaterStartExp",
+        "ExplosionSeconds": 15,
+        "ExplosionDurationSeconds": 15,
+        "SafeMoveDistance": 0,
+        "DamageDistance": 500,
+        "FullExplodeDamageDistance": 200,
+        "TickDamageEffectInterval": 2,
+        "KeepFireExcludeExplosionTime": false,
+        "KeepFireExcludeExplosionDelayTime": 99,
+        "FadeOutTime": 2,
+        "RowDescription": "None"
+      },
+      "41": {
+        "GameModeType": 0,
+        "DamageId": 41,
+        "MaxLifeTime": 0,
+        "EffectType": "EWeaponThrowableEffectType::Smoke",
+        "ExplosionType": "EWeaponThrowableExplosionType::Stop",
+        "WaterExplosionType": "EWeaponThrowableUnderWaterExplosionType::OutFromWaterStartExp",
+        "ExplosionSeconds": 15,
+        "ExplosionDurationSeconds": 15,
+        "SafeMoveDistance": 0,
+        "DamageDistance": 500,
+        "FullExplodeDamageDistance": 200,
+        "TickDamageEffectInterval": 2,
+        "KeepFireExcludeExplosionTime": false,
+        "KeepFireExcludeExplosionDelayTime": 99,
+        "FadeOutTime": 2,
+        "RowDescription": "None"
+      },
+      "\u6295\u63B7\u578B\u5E72\u6270\u88C5\u7F6E": {
+        "GameModeType": 0,
+        "DamageId": 50,
+        "MaxLifeTime": 0,
+        "EffectType": "EWeaponThrowableEffectType::Damage",
+        "ExplosionType": "EWeaponThrowableExplosionType::Timer",
+        "WaterExplosionType": "EWeaponThrowableUnderWaterExplosionType::OutFromWaterStartExp",
+        "ExplosionSeconds": 3,
+        "ExplosionDurationSeconds": 4,
+        "SafeMoveDistance": 0,
+        "DamageDistance": 1000,
+        "FullExplodeDamageDistance": 200,
+        "TickDamageEffectInterval": 0,
+        "KeepFireExcludeExplosionTime": true,
+        "KeepFireExcludeExplosionDelayTime": 99,
+        "FadeOutTime": 0,
+        "RowDescription": "None"
+      },
+      "C405_X": {
+        "GameModeType": 0,
+        "DamageId": 42,
+        "MaxLifeTime": 0,
+        "EffectType": "EWeaponThrowableEffectType::Damage",
+        "ExplosionType": "EWeaponThrowableExplosionType::Timer",
+        "WaterExplosionType": "EWeaponThrowableUnderWaterExplosionType::None",
+        "ExplosionSeconds": 2.5,
+        "ExplosionDurationSeconds": 4,
+        "SafeMoveDistance": 0,
+        "DamageDistance": 600,
+        "FullExplodeDamageDistance": 600,
+        "TickDamageEffectInterval": 0,
+        "KeepFireExcludeExplosionTime": false,
+        "KeepFireExcludeExplosionDelayTime": 99,
+        "FadeOutTime": 3,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 4
+  }
+]

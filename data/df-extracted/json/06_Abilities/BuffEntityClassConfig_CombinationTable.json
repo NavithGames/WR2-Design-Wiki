@@ -1,0 +1,193 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "BuffEntityClassConfig_CombinationTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Ability/OperatorFormTool/CombinationTables/BuffEntityClassConfig_CombinationTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "DFMBuffBaseClassRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "C103\u8774\u8776-40\u8840\u62A4\u76FE": {
+        "BuffId": 300115,
+        "BuffEntityClass": {
+          "AssetPath": "/Game/BluePrints/Ability/MedicalSoldier/103/BP_BuffEntity_C103Shield.BP_BuffEntity_C103Shield_C",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "C103\uFF1A\u88AB\u52A8\u526A\u5F71\u900F\u89C6": {
+        "BuffId": 103001,
+        "BuffEntityClass": {
+          "AssetPath": "/Game/BluePrints/Ability/MedicalSoldier/103/BP_BuffEntity_C103PassiveSkill.BP_BuffEntity_C103PassiveSkill_C",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "C103\uFF1A\u8774\u8776\u6551\u63F4\u4E2D\u7684\u6807\u8BB0": {
+        "BuffId": 103002,
+        "BuffEntityClass": {
+          "AssetPath": "/Script/DFMGameplay.DFMCharBuffEntityC103ButterRescuing",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "C103\uFF1A\u8774\u8776\u6551\u63F4\u540E\u7684\u6807\u8BB0": {
+        "BuffId": 103003,
+        "BuffEntityClass": {
+          "AssetPath": "/Game/BluePrints/Ability/MedicalSoldier/103/BP_BuffEntity_C103BeButterRescued.BP_BuffEntity_C103BeButterRescued_C",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "C103\u5927\u62DBbuff": {
+        "BuffId": 103004,
+        "BuffEntityClass": {
+          "AssetPath": "/Game/BluePrints/Ability/MedicalSoldier/103/BP_BuffEntity_C103ButterFly.BP_BuffEntity_C103ButterFly_C",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "C103\uFF1A\u82DF\u5EF6\u6B8B\u5598": {
+        "BuffId": 103005,
+        "BuffEntityClass": {
+          "AssetPath": "/Game/BluePrints/Ability/MedicalSoldier/103/BP_BuffEntity_C103EasyRescue.BP_BuffEntity_C103EasyRescue_C",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "C103\uFF1A\u81EA\u6211\u6CBB\u7597": {
+        "BuffId": 103006,
+        "BuffEntityClass": {
+          "AssetPath": "/Game/BluePrints/Ability/MedicalSoldier/103/BP_BuffEntity_C103SelfCure.BP_BuffEntity_C103SelfCure_C",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "C103\u8774\u8776_\u7C89\u5C18\u9886\u57DF": {
+        "BuffId": 103007,
+        "BuffEntityClass": {
+          "AssetPath": "/Game/BluePrints/Ability/MedicalSoldier/103/BP_BuffEntity_C103MedicalDroneHealing.BP_BuffEntity_C103MedicalDroneHealing_C",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "C103\u8774\u8776_\u7C89\u5C18\u8F68\u8FF9": {
+        "BuffId": 103008,
+        "BuffEntityClass": {
+          "AssetPath": "/Game/BluePrints/Ability/MedicalSoldier/103/BP_BuffEntity_C103MedicalDronePathHealing.BP_BuffEntity_C103MedicalDronePathHealing_C",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "C103\u8774\u8776_\u7C89\u5C18\u9886\u57DF_MP": {
+        "BuffId": 103012,
+        "BuffEntityClass": {
+          "AssetPath": "/Game/BluePrints/Ability/MedicalSoldier/103/BP_BuffEntity_C103MedicalDroneHealing.BP_BuffEntity_C103MedicalDroneHealing_C",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "C103\u8774\u8776_\u7C89\u5C18\u8F68\u8FF9_MP": {
+        "BuffId": 103013,
+        "BuffEntityClass": {
+          "AssetPath": "/Game/BluePrints/Ability/MedicalSoldier/103/BP_BuffEntity_C103MedicalDronePathHealing.BP_BuffEntity_C103MedicalDronePathHealing_C",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "C204:PassiveMP": {
+        "BuffId": 204005,
+        "BuffEntityClass": {
+          "AssetPath": "/Game/BluePrints/Ability/Scout/C204/BP_BuffEntity_C204PassiveMP.BP_BuffEntity_C204PassiveMP_C",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "C204:PassiveSOL": {
+        "BuffId": 204004,
+        "BuffEntityClass": {
+          "AssetPath": "/Game/BluePrints/Ability/Scout/C204/BP_BuffEntity_C204PassiveSOL.BP_BuffEntity_C204PassiveSOL_C",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "204007": {
+        "BuffId": 204007,
+        "BuffEntityClass": {
+          "AssetPath": "/Script/DFMGameplay.DFMCharBuffEntityC202BeFlash",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "204008": {
+        "BuffId": 204008,
+        "BuffEntityClass": {
+          "AssetPath": "/Script/DFMGameplay.DFMCharBuffEntityC202BeFlash",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "204009": {
+        "BuffId": 204009,
+        "BuffEntityClass": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "204010": {
+        "BuffId": 204010,
+        "BuffEntityClass": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "204015": {
+        "BuffId": 204015,
+        "BuffEntityClass": {
+          "AssetPath": "/Game/BluePrints/Ability/Scout/C204/BP_BuffEntity_C204PassiveSOLNew.BP_BuffEntity_C204PassiveSOLNew_C",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "405001": {
+        "BuffId": 405001,
+        "BuffEntityClass": {
+          "AssetPath": "/Game/BluePrints/Ability/C405/BP_FreezeValue.BP_FreezeValue_C",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "405006": {
+        "BuffId": 405006,
+        "BuffEntityClass": {
+          "AssetPath": "/Game/BluePrints/Ability/C405/BP_FrozenBuffEntity.BP_FrozenBuffEntity_C",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "405007": {
+        "BuffId": 405007,
+        "BuffEntityClass": {
+          "AssetPath": "/Game/BluePrints/Ability/C405/BP_FrozenStruggleBuffEntity.BP_FrozenStruggleBuffEntity_C",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      },
+      "405010": {
+        "BuffId": 405010,
+        "BuffEntityClass": {
+          "AssetPath": "/Game/BluePrints/Ability/C405/BP_C405StunGrenadeBuffEntity.BP_C405StunGrenadeBuffEntity_C",
+          "SubPath": ""
+        },
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 22
+  }
+]

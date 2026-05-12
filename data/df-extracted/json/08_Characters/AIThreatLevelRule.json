@@ -1,0 +1,258 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "AIThreatLevelRule",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/CharacterTemplate/AIThreatLevelRule",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "AIThreatLevelRule",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "Vision_0_Danger_Stand": {
+        "VisionConeIndex": 0,
+        "VisionVisibleRateMin": 0.4,
+        "VisionVisibleRateMax": 1,
+        "Pose": "EChracterPoseType::Stand",
+        "ThreatLevel": "EAIThreatLevel::Fight",
+        "RowDescription": "None"
+      },
+      "Vision_0_Danger_Stand_Safe": {
+        "VisionConeIndex": 0,
+        "VisionVisibleRateMin": 0,
+        "VisionVisibleRateMax": 0.4,
+        "Pose": "EChracterPoseType::Stand",
+        "ThreatLevel": "EAIThreatLevel::Ignore",
+        "RowDescription": "None"
+      },
+      "Vision_0_Danger_Crouch": {
+        "VisionConeIndex": 0,
+        "VisionVisibleRateMin": 0.4,
+        "VisionVisibleRateMax": 1,
+        "Pose": "EChracterPoseType::Crouch",
+        "ThreatLevel": "EAIThreatLevel::Fight",
+        "RowDescription": "None"
+      },
+      "Vision_0_Danger_Crouch_Safe": {
+        "VisionConeIndex": 0,
+        "VisionVisibleRateMin": 0,
+        "VisionVisibleRateMax": 0.4,
+        "Pose": "EChracterPoseType::Crouch",
+        "ThreatLevel": "EAIThreatLevel::Ignore",
+        "RowDescription": "None"
+      },
+      "Vision_0_Danger_Prone": {
+        "VisionConeIndex": 0,
+        "VisionVisibleRateMin": 0.4,
+        "VisionVisibleRateMax": 1,
+        "Pose": "EChracterPoseType::Prone",
+        "ThreatLevel": "EAIThreatLevel::Fight",
+        "RowDescription": "None"
+      },
+      "Vision_0_Danger_Prone_Safe": {
+        "VisionConeIndex": 0,
+        "VisionVisibleRateMin": 0,
+        "VisionVisibleRateMax": 0.4,
+        "Pose": "EChracterPoseType::Prone",
+        "ThreatLevel": "EAIThreatLevel::Ignore",
+        "RowDescription": "None"
+      },
+      "Vision_1_Normal_Stand": {
+        "VisionConeIndex": 1,
+        "VisionVisibleRateMin": 0.4,
+        "VisionVisibleRateMax": 1,
+        "Pose": "EChracterPoseType::Stand",
+        "ThreatLevel": "EAIThreatLevel::AlertThenFight",
+        "RowDescription": "None"
+      },
+      "Vision_1_Normal_Stand_Safe": {
+        "VisionConeIndex": 1,
+        "VisionVisibleRateMin": 0,
+        "VisionVisibleRateMax": 0.4,
+        "Pose": "EChracterPoseType::Stand",
+        "ThreatLevel": "EAIThreatLevel::Ignore",
+        "RowDescription": "None"
+      },
+      "Vision_1_Normal_Crouch": {
+        "VisionConeIndex": 1,
+        "VisionVisibleRateMin": 0.4,
+        "VisionVisibleRateMax": 1,
+        "Pose": "EChracterPoseType::Crouch",
+        "ThreatLevel": "EAIThreatLevel::AlertThenFight",
+        "RowDescription": "None"
+      },
+      "Vision_1_Normal_Crouch_Safe": {
+        "VisionConeIndex": 1,
+        "VisionVisibleRateMin": 0,
+        "VisionVisibleRateMax": 0.4,
+        "Pose": "EChracterPoseType::Crouch",
+        "ThreatLevel": "EAIThreatLevel::Ignore",
+        "RowDescription": "None"
+      },
+      "Vision_1_Normal_Prone": {
+        "VisionConeIndex": 1,
+        "VisionVisibleRateMin": 0.4,
+        "VisionVisibleRateMax": 1,
+        "Pose": "EChracterPoseType::Prone",
+        "ThreatLevel": "EAIThreatLevel::AlertThenFight",
+        "RowDescription": "None"
+      },
+      "Vision_1_Normal_Prone_Safe": {
+        "VisionConeIndex": 1,
+        "VisionVisibleRateMin": 0,
+        "VisionVisibleRateMax": 0.4,
+        "Pose": "EChracterPoseType::Prone",
+        "ThreatLevel": "EAIThreatLevel::Ignore",
+        "RowDescription": "None"
+      },
+      "Vision_2_Round_Stand": {
+        "VisionConeIndex": 2,
+        "VisionVisibleRateMin": 0.4,
+        "VisionVisibleRateMax": 1,
+        "Pose": "EChracterPoseType::Stand",
+        "ThreatLevel": "EAIThreatLevel::Fight",
+        "RowDescription": "None"
+      },
+      "Vision_2_Round_Stand_Safe": {
+        "VisionConeIndex": 2,
+        "VisionVisibleRateMin": 0,
+        "VisionVisibleRateMax": 0.4,
+        "Pose": "EChracterPoseType::Stand",
+        "ThreatLevel": "EAIThreatLevel::Ignore",
+        "RowDescription": "None"
+      },
+      "Vision_2_Round_Crouch": {
+        "VisionConeIndex": 2,
+        "VisionVisibleRateMin": 0.4,
+        "VisionVisibleRateMax": 1,
+        "Pose": "EChracterPoseType::Crouch",
+        "ThreatLevel": "EAIThreatLevel::Fight",
+        "RowDescription": "None"
+      },
+      "Vision_2_Round_Crouch_Safe": {
+        "VisionConeIndex": 2,
+        "VisionVisibleRateMin": 0,
+        "VisionVisibleRateMax": 0.4,
+        "Pose": "EChracterPoseType::Crouch",
+        "ThreatLevel": "EAIThreatLevel::Ignore",
+        "RowDescription": "None"
+      },
+      "Vision_2_Round_Prone": {
+        "VisionConeIndex": 2,
+        "VisionVisibleRateMin": 0.4,
+        "VisionVisibleRateMax": 1,
+        "Pose": "EChracterPoseType::Prone",
+        "ThreatLevel": "EAIThreatLevel::Fight",
+        "RowDescription": "None"
+      },
+      "Vision_2_Round_Prone_Safe": {
+        "VisionConeIndex": 2,
+        "VisionVisibleRateMin": 0,
+        "VisionVisibleRateMax": 0.4,
+        "Pose": "EChracterPoseType::Prone",
+        "ThreatLevel": "EAIThreatLevel::Ignore",
+        "RowDescription": "None"
+      },
+      "Vision_3_Round_Stand": {
+        "VisionConeIndex": 3,
+        "VisionVisibleRateMin": 0.4,
+        "VisionVisibleRateMax": 1,
+        "Pose": "EChracterPoseType::Stand",
+        "ThreatLevel": "EAIThreatLevel::Fight",
+        "RowDescription": "None"
+      },
+      "Vision_3_Round_Stand_Safe": {
+        "VisionConeIndex": 3,
+        "VisionVisibleRateMin": 0,
+        "VisionVisibleRateMax": 0.4,
+        "Pose": "EChracterPoseType::Stand",
+        "ThreatLevel": "EAIThreatLevel::Ignore",
+        "RowDescription": "None"
+      },
+      "Vision_3_Round_Crouch": {
+        "VisionConeIndex": 3,
+        "VisionVisibleRateMin": 0.4,
+        "VisionVisibleRateMax": 1,
+        "Pose": "EChracterPoseType::Crouch",
+        "ThreatLevel": "EAIThreatLevel::Fight",
+        "RowDescription": "None"
+      },
+      "Vision_3_Round_Crouch_Safe": {
+        "VisionConeIndex": 3,
+        "VisionVisibleRateMin": 0,
+        "VisionVisibleRateMax": 0.4,
+        "Pose": "EChracterPoseType::Crouch",
+        "ThreatLevel": "EAIThreatLevel::Ignore",
+        "RowDescription": "None"
+      },
+      "Vision_3_Round_Prone": {
+        "VisionConeIndex": 3,
+        "VisionVisibleRateMin": 0.4,
+        "VisionVisibleRateMax": 1,
+        "Pose": "EChracterPoseType::Prone",
+        "ThreatLevel": "EAIThreatLevel::Fight",
+        "RowDescription": "None"
+      },
+      "Vision_3_Round_Prone_Safe": {
+        "VisionConeIndex": 3,
+        "VisionVisibleRateMin": 0,
+        "VisionVisibleRateMax": 0.4,
+        "Pose": "EChracterPoseType::Prone",
+        "ThreatLevel": "EAIThreatLevel::Ignore",
+        "RowDescription": "None"
+      },
+      "Vision_4_Round_Stand": {
+        "VisionConeIndex": 4,
+        "VisionVisibleRateMin": 0.4,
+        "VisionVisibleRateMax": 1,
+        "Pose": "EChracterPoseType::Stand",
+        "ThreatLevel": "EAIThreatLevel::Fight",
+        "RowDescription": "None"
+      },
+      "Vision_4_Round_Stand_Safe": {
+        "VisionConeIndex": 4,
+        "VisionVisibleRateMin": 0,
+        "VisionVisibleRateMax": 0.4,
+        "Pose": "EChracterPoseType::Stand",
+        "ThreatLevel": "EAIThreatLevel::Ignore",
+        "RowDescription": "None"
+      },
+      "Vision_4_Round_Crouch": {
+        "VisionConeIndex": 4,
+        "VisionVisibleRateMin": 0.4,
+        "VisionVisibleRateMax": 1,
+        "Pose": "EChracterPoseType::Crouch",
+        "ThreatLevel": "EAIThreatLevel::Fight",
+        "RowDescription": "None"
+      },
+      "Vision_4_Round_Crouch_Safe": {
+        "VisionConeIndex": 4,
+        "VisionVisibleRateMin": 0,
+        "VisionVisibleRateMax": 0.4,
+        "Pose": "EChracterPoseType::Crouch",
+        "ThreatLevel": "EAIThreatLevel::Ignore",
+        "RowDescription": "None"
+      },
+      "Vision_4_Round_Prone": {
+        "VisionConeIndex": 4,
+        "VisionVisibleRateMin": 0.4,
+        "VisionVisibleRateMax": 1,
+        "Pose": "EChracterPoseType::Prone",
+        "ThreatLevel": "EAIThreatLevel::Fight",
+        "RowDescription": "None"
+      },
+      "Vision_4_Round_Prone_Safe": {
+        "VisionConeIndex": 4,
+        "VisionVisibleRateMin": 0,
+        "VisionVisibleRateMax": 0.4,
+        "Pose": "EChracterPoseType::Prone",
+        "ThreatLevel": "EAIThreatLevel::Ignore",
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 30
+  }
+]

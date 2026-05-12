@@ -1,0 +1,728 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "SkillCombatDataConfig",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Ability/SkillCombatDataConfig",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "SkillCombatConfigItem",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "\u7EA2\u72FC\u624B\u70AE": {
+        "SkillCombatConfigName": "\u7EA2\u72FC\u624B\u70AE",
+        "ExpertID": 10007,
+        "SkillCombatDataType": "EDataFlowType::BeDamaged",
+        "SkillID": 1008001,
+        "bActivateByBuff": false,
+        "BuffID": 0,
+        "RowDescription": "None"
+      },
+      "\u7EA2\u72FC\u5927\u62DB": {
+        "SkillCombatConfigName": "\u7EA2\u72FC\u5927\u62DB",
+        "ExpertID": 10007,
+        "SkillCombatDataType": "EDataFlowType::SkillState",
+        "SkillID": 10010101,
+        "bActivateByBuff": false,
+        "BuffID": 0,
+        "RowDescription": "None"
+      },
+      "\u5A01\u9F99C4": {
+        "SkillCombatConfigName": "\u5A01\u9F99C4",
+        "ExpertID": 10010,
+        "SkillCombatDataType": "EDataFlowType::BeDamaged",
+        "SkillID": 1009005,
+        "bActivateByBuff": false,
+        "BuffID": 0,
+        "RowDescription": "None"
+      },
+      "\u5A01\u9F99C4_MP": {
+        "SkillCombatConfigName": "\u5A01\u9F99C4_MP",
+        "ExpertID": 10010,
+        "SkillCombatDataType": "EDataFlowType::BeDamaged",
+        "SkillID": 1009002,
+        "bActivateByBuff": false,
+        "BuffID": 0,
+        "RowDescription": "None"
+      },
+      "\u5A01\u9F99\u55B7\u6C14": {
+        "SkillCombatConfigName": "\u5A01\u9F99\u55B7\u6C14",
+        "ExpertID": 10010,
+        "SkillCombatDataType": "EDataFlowType::BeRemoveBuffed",
+        "SkillID": 1009001,
+        "bActivateByBuff": true,
+        "BuffID": 303019,
+        "RowDescription": "None"
+      },
+      "\u5A01\u9F99\u864E\u8E72\u51FB\u5012": {
+        "SkillCombatConfigName": "\u5A01\u9F99\u864E\u8E72\u51FB\u5012",
+        "ExpertID": 10010,
+        "SkillCombatDataType": "EDataFlowType::BeKnocked",
+        "SkillID": 1009003,
+        "bActivateByBuff": false,
+        "BuffID": 0,
+        "RowDescription": "None"
+      },
+      "\u65E0\u540D\u98DE\u76D8": {
+        "SkillCombatConfigName": "\u65E0\u540D\u98DE\u76D8",
+        "ExpertID": 10011,
+        "SkillCombatDataType": "EDataFlowType::BeDamaged",
+        "SkillID": 1010001,
+        "bActivateByBuff": false,
+        "BuffID": 0,
+        "RowDescription": "None"
+      },
+      "\u65E0\u540D\u98DE\u76D8_MP": {
+        "SkillCombatConfigName": "\u65E0\u540D\u98DE\u76D8_MP",
+        "ExpertID": 10011,
+        "SkillCombatDataType": "EDataFlowType::BeDamaged",
+        "SkillID": 1010004,
+        "bActivateByBuff": false,
+        "BuffID": 0,
+        "RowDescription": "None"
+      },
+      "\u65E0\u540D\u98DE\u76D8Debuff": {
+        "SkillCombatConfigName": "\u65E0\u540D\u98DE\u76D8Debuff",
+        "ExpertID": 10011,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 300082,
+        "RowDescription": "None"
+      },
+      "\u65E0\u540D\u98DE\u76D8Debuff_MP": {
+        "SkillCombatConfigName": "\u65E0\u540D\u98DE\u76D8Debuff_MP",
+        "ExpertID": 10011,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 300083,
+        "RowDescription": "None"
+      },
+      "\u65E0\u540D\u95EA\u5149\u5F31": {
+        "SkillCombatConfigName": "\u65E0\u540D\u95EA\u5149\u5F31",
+        "ExpertID": 10011,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 300090,
+        "RowDescription": "None"
+      },
+      "\u65E0\u540D\u95EA\u5149\u4E2D": {
+        "SkillCombatConfigName": "\u65E0\u540D\u95EA\u5149\u4E2D",
+        "ExpertID": 10011,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 300091,
+        "RowDescription": "None"
+      },
+      "\u65E0\u540D\u95EA\u5149\u5F3A": {
+        "SkillCombatConfigName": "\u65E0\u540D\u95EA\u5149\u5F3A",
+        "ExpertID": 10011,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 300092,
+        "RowDescription": "None"
+      },
+      "\u65E0\u540D\u95EA\u5149MP": {
+        "SkillCombatConfigName": "\u65E0\u540D\u95EA\u5149MP",
+        "ExpertID": 10011,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 300095,
+        "RowDescription": "None"
+      },
+      "\u65E0\u540D\u5927\u62DB": {
+        "SkillCombatConfigName": "\u65E0\u540D\u5927\u62DB",
+        "ExpertID": 10011,
+        "SkillCombatDataType": "EDataFlowType::SkillState",
+        "SkillID": 1010003,
+        "bActivateByBuff": false,
+        "BuffID": 0,
+        "RowDescription": "None"
+      },
+      "\u514B\u83B1\u5C14\u94BB\u5934": {
+        "SkillCombatConfigName": "\u514B\u83B1\u5C14\u94BB\u5934",
+        "ExpertID": 10012,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 300088,
+        "RowDescription": "None"
+      },
+      "\u514B\u83B1\u5C14\u94BB\u5934MP": {
+        "SkillCombatConfigName": "\u514B\u83B1\u5C14\u94BB\u5934MP",
+        "ExpertID": 10012,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 300089,
+        "RowDescription": "None"
+      },
+      "\u514B\u83B1\u5C14\u7FFB\u6EDA": {
+        "SkillCombatConfigName": "\u514B\u83B1\u5C14\u7FFB\u6EDA",
+        "ExpertID": 10012,
+        "SkillCombatDataType": "EDataFlowType::MoveState",
+        "SkillID": 1012001,
+        "bActivateByBuff": false,
+        "BuffID": 0,
+        "RowDescription": "None"
+      },
+      "\u514B\u83B1\u5C14\u5927\u62DB": {
+        "SkillCombatConfigName": "\u514B\u83B1\u5C14\u5927\u62DB",
+        "ExpertID": 10012,
+        "SkillCombatDataType": "EDataFlowType::SkillState",
+        "SkillID": 1012003,
+        "bActivateByBuff": false,
+        "BuffID": 0,
+        "RowDescription": "None"
+      },
+      "\u8702\u533B\u6CBB\u7597": {
+        "SkillCombatConfigName": "\u8702\u533B\u6CBB\u7597",
+        "ExpertID": 20003,
+        "SkillCombatDataType": "EDataFlowType::BeHealed",
+        "SkillID": 20010101,
+        "bActivateByBuff": false,
+        "BuffID": 0,
+        "RowDescription": "None"
+      },
+      "\u4F50\u5A05\u80BE\u4E0A\u817A\u7D201P": {
+        "SkillCombatConfigName": "\u4F50\u5A05\u80BE\u4E0A\u817A\u7D201P",
+        "ExpertID": 20004,
+        "SkillCombatDataType": "EDataFlowType::SkillState",
+        "SkillID": 2008016,
+        "bActivateByBuff": false,
+        "BuffID": 0,
+        "RowDescription": "None"
+      },
+      "\u4F50\u5A05\u80BE\u4E0A\u817A\u7D20SOL": {
+        "SkillCombatConfigName": "\u4F50\u5A05\u80BE\u4E0A\u817A\u7D20SOL",
+        "ExpertID": 20004,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 102004,
+        "RowDescription": "None"
+      },
+      "\u4F50\u5A05\u80BE\u4E0A\u817A\u7D20MP": {
+        "SkillCombatConfigName": "\u4F50\u5A05\u80BE\u4E0A\u817A\u7D20MP",
+        "ExpertID": 20004,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 102012,
+        "RowDescription": "None"
+      },
+      "\u4F50\u5A05\u80BE\u4E0A\u817A\u7D20\u5927\u62DB": {
+        "SkillCombatConfigName": "\u4F50\u5A05\u80BE\u4E0A\u817A\u7D20\u5927\u62DB",
+        "ExpertID": 20004,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 102002,
+        "RowDescription": "None"
+      },
+      "\u4F50\u5A05\u5927\u62DB\u866B\u7FA4\u5F71\u54CD": {
+        "SkillCombatConfigName": "\u4F50\u5A05\u5927\u62DB\u866B\u7FA4\u5F71\u54CD",
+        "ExpertID": 20004,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 102009,
+        "RowDescription": "None"
+      },
+      "\u4F50\u5A05\u5927\u62DB\u866B\u7FA4\u5F71\u54CDMP": {
+        "SkillCombatConfigName": "\u4F50\u5A05\u5927\u62DB\u866B\u7FA4\u5F71\u54CDMP",
+        "ExpertID": 20004,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 102013,
+        "RowDescription": "None"
+      },
+      "\u4F50\u5A05\u70DF\u96FE\u81F4\u76F2": {
+        "SkillCombatConfigName": "\u4F50\u5A05\u70DF\u96FE\u81F4\u76F2",
+        "ExpertID": 20004,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 102001,
+        "RowDescription": "None"
+      },
+      "\u4F50\u5A05\u70DF\u96FE\u81F4\u76F2MP": {
+        "SkillCombatConfigName": "\u4F50\u5A05\u70DF\u96FE\u81F4\u76F2MP",
+        "ExpertID": 20004,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 102014,
+        "RowDescription": "None"
+      },
+      "\u9732\u5A1C\u7535\u7BAD": {
+        "SkillCombatConfigName": "\u9732\u5A1C\u7535\u7BAD",
+        "ExpertID": 40001,
+        "SkillCombatDataType": "EDataFlowType::BeDamaged",
+        "SkillID": 4008002,
+        "bActivateByBuff": false,
+        "BuffID": 0,
+        "RowDescription": "None"
+      },
+      "\u9732\u5A1C\u624B\u96F7": {
+        "SkillCombatConfigName": "\u9732\u5A1C\u624B\u96F7",
+        "ExpertID": 40001,
+        "SkillCombatDataType": "EDataFlowType::BeDamaged",
+        "SkillID": 3008002,
+        "bActivateByBuff": false,
+        "BuffID": 0,
+        "RowDescription": "None"
+      },
+      "\u9732\u5A1C\u5927\u62DB\u4FA6\u5BDF": {
+        "SkillCombatConfigName": "\u9732\u5A1C\u5927\u62DB\u4FA6\u5BDF",
+        "ExpertID": 40001,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 100012,
+        "RowDescription": "None"
+      },
+      "\u9732\u5A1C\u5927\u62DB\u4FA6\u5BDFMP": {
+        "SkillCombatConfigName": "\u9732\u5A1C\u5927\u62DB\u4FA6\u5BDFMP",
+        "ExpertID": 40001,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 100024,
+        "RowDescription": "None"
+      },
+      "\u9EA6\u6653\u96EF\u5927\u62DB": {
+        "SkillCombatConfigName": "\u9EA6\u6653\u96EF\u5927\u62DB",
+        "ExpertID": 40010,
+        "SkillCombatDataType": "EDataFlowType::SkillState",
+        "SkillID": 1002016,
+        "bActivateByBuff": false,
+        "BuffID": 0,
+        "RowDescription": "None"
+      },
+      "\u9EA6\u6653\u96EF\u95EA\u5149\u5F31": {
+        "SkillCombatConfigName": "\u9EA6\u6653\u96EF\u95EA\u5149\u5F31",
+        "ExpertID": 40010,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 100021,
+        "RowDescription": "None"
+      },
+      "\u9EA6\u6653\u96EF\u95EA\u5149\u4E2D": {
+        "SkillCombatConfigName": "\u9EA6\u6653\u96EF\u95EA\u5149\u4E2D",
+        "ExpertID": 40010,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 100026,
+        "RowDescription": "None"
+      },
+      "\u9EA6\u6653\u96EF\u95EA\u5149\u5F3A": {
+        "SkillCombatConfigName": "\u9EA6\u6653\u96EF\u95EA\u5149\u5F3A",
+        "ExpertID": 40010,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 100027,
+        "RowDescription": "None"
+      },
+      "\u9EA6\u6653\u96EF\u95EA\u5149\u80CC\u95EA": {
+        "SkillCombatConfigName": "\u9EA6\u6653\u96EF\u95EA\u5149\u80CC\u95EA",
+        "ExpertID": 40010,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 100028,
+        "RowDescription": "None"
+      },
+      "\u9EA6\u6653\u96EF\u95EA\u5149\u5F31MP": {
+        "SkillCombatConfigName": "\u9EA6\u6653\u96EF\u95EA\u5149\u5F31MP",
+        "ExpertID": 40010,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 100031,
+        "RowDescription": "None"
+      },
+      "\u9EA6\u6653\u96EF\u95EA\u5149\u4E2DMP": {
+        "SkillCombatConfigName": "\u9EA6\u6653\u96EF\u95EA\u5149\u4E2DMP",
+        "ExpertID": 40010,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 100032,
+        "RowDescription": "None"
+      },
+      "\u9EA6\u6653\u96EF\u95EA\u5149\u5F3AMP": {
+        "SkillCombatConfigName": "\u9EA6\u6653\u96EF\u95EA\u5149\u5F3AMP",
+        "ExpertID": 40010,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 100033,
+        "RowDescription": "None"
+      },
+      "\u9EA6\u6653\u96EF\u95EA\u5149\u80CC\u95EAMP": {
+        "SkillCombatConfigName": "\u9EA6\u6653\u96EF\u95EA\u5149\u80CC\u95EAMP",
+        "ExpertID": 40010,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 100034,
+        "RowDescription": "None"
+      },
+      "\u5170\u767BEMP": {
+        "SkillCombatConfigName": "\u5170\u767BEMP",
+        "ExpertID": 40011,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 100034,
+        "RowDescription": "None"
+      },
+      "\u5170\u767B\u5927\u62DB\u626B\u63CF": {
+        "SkillCombatConfigName": "\u5170\u767B\u5927\u62DB\u626B\u63CF",
+        "ExpertID": 40011,
+        "SkillCombatDataType": "EDataFlowType::BeDetect",
+        "SkillID": 2003001,
+        "bActivateByBuff": false,
+        "BuffID": 0,
+        "RowDescription": "None"
+      },
+      "\u5170\u767B\u65E0\u4EBA\u9E1F\u626B\u63CF": {
+        "SkillCombatConfigName": "\u5170\u767B\u65E0\u4EBA\u9E1F\u626B\u63CF",
+        "ExpertID": 40011,
+        "SkillCombatDataType": "EDataFlowType::BeDetect",
+        "SkillID": 2003002,
+        "bActivateByBuff": false,
+        "BuffID": 0,
+        "RowDescription": "None"
+      },
+      "\u7267\u7F8A\u4EBA\u624B\u96F7": {
+        "SkillCombatConfigName": "\u7267\u7F8A\u4EBA\u624B\u96F7",
+        "ExpertID": 30008,
+        "SkillCombatDataType": "EDataFlowType::BeDamaged",
+        "SkillID": 3008008,
+        "bActivateByBuff": false,
+        "BuffID": 0,
+        "RowDescription": "None"
+      },
+      "\u7267\u7F8A\u4EBA\u9677\u9631": {
+        "SkillCombatConfigName": "\u7267\u7F8A\u4EBA\u9677\u9631",
+        "ExpertID": 30008,
+        "SkillCombatDataType": "EDataFlowType::BeDamaged",
+        "SkillID": 3008001,
+        "bActivateByBuff": false,
+        "BuffID": 0,
+        "RowDescription": "None"
+      },
+      "\u7267\u7F8A\u4EBA\u9707\u64BC": {
+        "SkillCombatConfigName": "\u7267\u7F8A\u4EBA\u9707\u64BC",
+        "ExpertID": 30008,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 300016,
+        "RowDescription": "None"
+      },
+      "\u7267\u7F8A\u4EBA\u9707\u64BC\u524D\u98DE": {
+        "SkillCombatConfigName": "\u7267\u7F8A\u4EBA\u9707\u64BC\u524D\u98DE",
+        "ExpertID": 30008,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 300041,
+        "RowDescription": "None"
+      },
+      "\u7267\u7F8A\u4EBA\u9707\u64BCMP": {
+        "SkillCombatConfigName": "\u7267\u7F8A\u4EBA\u9707\u64BCMP",
+        "ExpertID": 30008,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 300047,
+        "RowDescription": "None"
+      },
+      "\u7267\u7F8A\u4EBA\u9707\u64BC\u524D\u98DEMP": {
+        "SkillCombatConfigName": "\u7267\u7F8A\u4EBA\u9707\u64BC\u524D\u98DEMP",
+        "ExpertID": 30008,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 300048,
+        "RowDescription": "None"
+      },
+      "\u7267\u7F8A\u4EBA\u9707\u64BC\u5F31MP": {
+        "SkillCombatConfigName": "\u7267\u7F8A\u4EBA\u9707\u64BC\u5F31MP",
+        "ExpertID": 30008,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 300056,
+        "RowDescription": "None"
+      },
+      "\u7267\u7F8A\u4EBA\u9707\u64BC\u5F31\u524D\u98DEMP": {
+        "SkillCombatConfigName": "\u7267\u7F8A\u4EBA\u9707\u64BC\u5F31\u524D\u98DEMP",
+        "ExpertID": 30008,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 300057,
+        "RowDescription": "None"
+      },
+      "\u7267\u7F8A\u4EBA\u9707\u64BC\u5F31": {
+        "SkillCombatConfigName": "\u7267\u7F8A\u4EBA\u9707\u64BC\u5F31",
+        "ExpertID": 30008,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 300058,
+        "RowDescription": "None"
+      },
+      "\u7267\u7F8A\u4EBA\u9707\u64BC\u5F31\u524D\u98DE": {
+        "SkillCombatConfigName": "\u7267\u7F8A\u4EBA\u9707\u64BC\u5F31\u524D\u98DE",
+        "ExpertID": 30008,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 300059,
+        "RowDescription": "None"
+      },
+      "\u76FE\u54E5\u51FB\u5012": {
+        "SkillCombatConfigName": "\u76FE\u54E5\u51FB\u5012",
+        "ExpertID": 30010,
+        "SkillCombatDataType": "EDataFlowType::BeKnocked",
+        "SkillID": 3010001,
+        "bActivateByBuff": false,
+        "BuffID": 300059,
+        "RowDescription": "None"
+      },
+      "\u76FE\u54E5\u94A9\u722A\u547D\u4E2D": {
+        "SkillCombatConfigName": "\u76FE\u54E5\u94A9\u722A\u547D\u4E2D",
+        "ExpertID": 30010,
+        "SkillCombatDataType": "EDataFlowType::MoveState",
+        "SkillID": 3010002,
+        "bActivateByBuff": false,
+        "BuffID": 0,
+        "RowDescription": "None"
+      },
+      "\u76FE\u54E5\u94C1\u4E1D\u7F51\u7F13\u901F": {
+        "SkillCombatConfigName": "\u76FE\u54E5\u94C1\u4E1D\u7F51\u7F13\u901F",
+        "ExpertID": 30010,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 300070,
+        "RowDescription": "None"
+      },
+      "\u4E4C\u9C81\u9C81\u71C3\u70E7\u5F39\u547D\u4E2D": {
+        "SkillCombatConfigName": "\u4E4C\u9C81\u9C81\u71C3\u70E7\u5F39\u547D\u4E2D",
+        "ExpertID": 30009,
+        "SkillCombatDataType": "EDataFlowType::BeDamaged",
+        "SkillID": 3009003,
+        "bActivateByBuff": false,
+        "BuffID": 0,
+        "RowDescription": "None"
+      },
+      "\u4E4C\u9C81\u9C81TV\u5F39\u547D\u4E2D": {
+        "SkillCombatConfigName": "\u4E4C\u9C81\u9C81TV\u5F39\u547D\u4E2D",
+        "ExpertID": 30009,
+        "SkillCombatDataType": "EDataFlowType::BeDamaged",
+        "SkillID": 3009001,
+        "bActivateByBuff": false,
+        "BuffID": 0,
+        "RowDescription": "None"
+      },
+      "\u6BD4\u7279\u5C0F\u8718\u86DB\u547D\u4E2D": {
+        "SkillCombatConfigName": "\u6BD4\u7279\u5C0F\u8718\u86DB\u547D\u4E2D",
+        "ExpertID": 30011,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 301102,
+        "RowDescription": "None"
+      },
+      "\u6BD4\u7279\u5C0F\u8718\u86DB\u547D\u4E2DMP": {
+        "SkillCombatConfigName": "\u6BD4\u7279\u5C0F\u8718\u86DB\u547D\u4E2DMP",
+        "ExpertID": 30011,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 301104,
+        "RowDescription": "None"
+      },
+      "\u6BD4\u7279\u8718\u86DB\u6355\u7F51\u547D\u4E2D": {
+        "SkillCombatConfigName": "\u6BD4\u7279\u8718\u86DB\u6355\u7F51\u547D\u4E2D",
+        "ExpertID": 30011,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 301101,
+        "RowDescription": "None"
+      },
+      "\u6BD4\u7279\u8718\u86DB\u6355\u7F51\u547D\u4E2DMP": {
+        "SkillCombatConfigName": "\u6BD4\u7279\u8718\u86DB\u6355\u7F51\u547D\u4E2DMP",
+        "ExpertID": 30011,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 301105,
+        "RowDescription": "None"
+      },
+      "\u6BD4\u7279\u70DF\u96FE\u547D\u4E2D": {
+        "SkillCombatConfigName": "\u6BD4\u7279\u70DF\u96FE\u547D\u4E2D",
+        "ExpertID": 30011,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 301108,
+        "RowDescription": "None"
+      },
+      "\u6BD4\u7279\u70DF\u96FE\u547D\u4E2DMP": {
+        "SkillCombatConfigName": "\u6BD4\u7279\u70DF\u96FE\u547D\u4E2DMP",
+        "ExpertID": 30011,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 301109,
+        "RowDescription": "None"
+      },
+      "\u8774\u8776\u5927\u62DB\u62A4\u76FE": {
+        "SkillCombatConfigName": "\u8774\u8776\u5927\u62DB\u62A4\u76FE",
+        "ExpertID": 20005,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 300115,
+        "RowDescription": "None"
+      },
+      "\u8774\u8776\u533B\u7597\u7C89\u5C18": {
+        "SkillCombatConfigName": "\u8774\u8776\u533B\u7597\u7C89\u5C18",
+        "ExpertID": 20005,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 103007,
+        "RowDescription": "None"
+      },
+      "\u8774\u8776\u533B\u7597\u7C89\u5C18\u8F68\u8FF9": {
+        "SkillCombatConfigName": "\u8774\u8776\u533B\u7597\u7C89\u5C18\u8F68\u8FF9",
+        "ExpertID": 20005,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 103008,
+        "RowDescription": "None"
+      },
+      "\u58F0\u5450\u5927\u62DB\u626B\u63CF": {
+        "SkillCombatConfigName": "\u58F0\u5450\u5927\u62DB\u6807\u8BB0",
+        "ExpertID": 0,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 204014,
+        "RowDescription": "None"
+      },
+      "\u58F0\u5450\u5E72\u6270\u5668\u9707\u64BC": {
+        "SkillCombatConfigName": "\u58F0\u5450\u5E72\u6270\u5668\u9707\u64BC",
+        "ExpertID": 0,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 204011,
+        "RowDescription": "None"
+      },
+      "\u58F0\u5450\u5E72\u6270\u5668\u9707\u64BCMP": {
+        "SkillCombatConfigName": "\u58F0\u5450\u5E72\u6270\u5668\u9707\u64BCMP",
+        "ExpertID": 0,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 204016,
+        "RowDescription": "None"
+      },
+      "\u58F0\u5450\u5E72\u6270\u5668\u81F4\u804B": {
+        "SkillCombatConfigName": "\u58F0\u5450\u5E72\u6270\u5668\u81F4\u804B",
+        "ExpertID": 0,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 204006,
+        "RowDescription": "None"
+      },
+      "\u58F0\u5450\u5E72\u6270\u5668\u81F4\u804BMP": {
+        "SkillCombatConfigName": "\u58F0\u5450\u5E72\u6270\u5668\u81F4\u804BMP",
+        "ExpertID": 0,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 204030,
+        "RowDescription": "None"
+      },
+      "\u58F0\u5450\u5E72\u6270\u5668\u53D1\u58F0": {
+        "SkillCombatConfigName": "\u58F0\u5450\u5E72\u6270\u5668\u53D1\u58F0",
+        "ExpertID": 0,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 204002,
+        "RowDescription": "None"
+      },
+      "\u58F0\u5450\u5E72\u6270\u5668\u53D1\u58F0MP": {
+        "SkillCombatConfigName": "\u58F0\u5450\u5E72\u6270\u5668\u53D1\u58F0MP",
+        "ExpertID": 0,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 204031,
+        "RowDescription": "None"
+      },
+      "\u58F0\u5450\u95EA\u5149\u5F3A": {
+        "SkillCombatConfigName": "\u58F0\u5450\u95EA\u5149\u5F3A",
+        "ExpertID": 0,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 204007,
+        "RowDescription": "None"
+      },
+      "\u58F0\u5450\u95EA\u5149\u4E2D": {
+        "SkillCombatConfigName": "\u58F0\u5450\u95EA\u5149\u4E2D",
+        "ExpertID": 0,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 204008,
+        "RowDescription": "None"
+      },
+      "\u58F0\u5450\u95EA\u5149\u5F31": {
+        "SkillCombatConfigName": "\u58F0\u5450\u95EA\u5149\u5F31",
+        "ExpertID": 0,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 204010,
+        "RowDescription": "None"
+      },
+      "\u58F0\u5450\u95EA\u5149\u80CC\u95EA": {
+        "SkillCombatConfigName": "\u58F0\u5450\u95EA\u5149\u80CC\u95EA",
+        "ExpertID": 0,
+        "SkillCombatDataType": "EDataFlowType::BeBuffed",
+        "SkillID": 0,
+        "bActivateByBuff": true,
+        "BuffID": 204009,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 79
+  }
+]

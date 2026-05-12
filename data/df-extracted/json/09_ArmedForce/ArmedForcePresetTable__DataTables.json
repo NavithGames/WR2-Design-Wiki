@@ -1,0 +1,36 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "ArmedForcePresetTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/ArmedForcePresetTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "ArmedForcePresetTable",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "1": {
+        "StyleId": 1,
+        "StyleName": null,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "2": {
+        "StyleId": 2,
+        "StyleName": null,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "3": {
+        "StyleId": 3,
+        "StyleName": null,
+        "Desc": null,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 3
+  }
+]

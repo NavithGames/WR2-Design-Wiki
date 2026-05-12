@@ -1,0 +1,212 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "BattleFieldVehicleInfo_New",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/BattleFieldVehicleInfo_New",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "BattleFieldVehicleInfoRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "1_1": {
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::BaseCar",
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_01.Battle_Vehicle_Icon_01"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/CommonHud_MapMarker_Icon_0801.CommonHud_MapMarker_Icon_0801"
+        },
+        "RowDescription": "None"
+      },
+      "1_2": {
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::UNTruck",
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_01.Battle_Vehicle_Icon_01"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/CommonHud_MapMarker_Icon_0801.CommonHud_MapMarker_Icon_0801"
+        },
+        "RowDescription": "None"
+      },
+      "1_3": {
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::TutuCar",
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/CommonHud_MapMarker_Icon_0801.CommonHud_MapMarker_Icon_0801"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/CommonHud_MapMarker_Icon_0801.CommonHud_MapMarker_Icon_0801"
+        },
+        "RowDescription": "None"
+      },
+      "1_4": {
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::Jeep",
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_01.Battle_Vehicle_Icon_01"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0104.HUD_Screen_Icon_0104"
+        },
+        "RowDescription": "None"
+      },
+      "1_5": {
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::Valkyrie",
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_01.Battle_Vehicle_Icon_01"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0104.HUD_Screen_Icon_0104"
+        },
+        "RowDescription": "None"
+      },
+      "1_6": {
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::Boat",
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_03.Battle_Vehicle_Icon_03"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0102.HUD_Screen_Icon_0102"
+        },
+        "RowDescription": "None"
+      },
+      "1_7": {
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::MilitaryJeep",
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_01.Battle_Vehicle_Icon_01"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0104.HUD_Screen_Icon_0104"
+        },
+        "RowDescription": "None"
+      },
+      "1_8": {
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::Tank",
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_04.Battle_Vehicle_Icon_04"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0103.HUD_Screen_Icon_0103"
+        },
+        "RowDescription": "None"
+      },
+      "1_9": {
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::Helicopter",
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_08.Battle_Vehicle_Icon_08"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0106.HUD_Screen_Icon_0106"
+        },
+        "RowDescription": "None"
+      },
+      "1_10": {
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::Infantry",
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_07.Battle_Vehicle_Icon_07"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0107.HUD_Screen_Icon_0107"
+        },
+        "RowDescription": "None"
+      },
+      "1_11": {
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::SPAAG",
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_06.Battle_Vehicle_Icon_06"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0101.HUD_Screen_Icon_0101"
+        },
+        "RowDescription": "None"
+      },
+      "1_12": {
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::ATV",
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_02.Battle_Vehicle_Icon_02"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0105.HUD_Screen_Icon_0105"
+        },
+        "RowDescription": "None"
+      },
+      "1_13": {
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::NoVehicle",
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/CommonHud_MapMarker_Icon_0906.CommonHud_MapMarker_Icon_0906"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/CommonHud_MapMarker_Icon_0906.CommonHud_MapMarker_Icon_0906"
+        },
+        "RowDescription": "None"
+      },
+      "1_14": {
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::ORV",
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_05.Battle_Vehicle_Icon_05"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0108.HUD_Screen_Icon_0108"
+        },
+        "RowDescription": "None"
+      },
+      "1_15": {
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::Humvee",
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_07.Battle_Vehicle_Icon_07"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0107.HUD_Screen_Icon_0107"
+        },
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 15
+  }
+]

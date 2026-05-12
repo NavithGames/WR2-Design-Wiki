@@ -1,0 +1,243 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "FreezeValueData",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Ability/SkillData/FreezeValueData",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "FreezeValueData",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "C405_\u9ED8\u8BA4": {
+        "Key": "None",
+        "AreaID": 1,
+        "LiquidNitrogenAreaBuffID": 405005,
+        "FreezeValueBuffID": 405001,
+        "AreaGameMode": [],
+        "BuffPart": "ECharacterPart::None",
+        "FreezeIncreaseRate": 10,
+        "FreezeDecreaseRate": 5,
+        "FreezeUpdateInterval": 0.1,
+        "FreezeDecayDelay": 2,
+        "FreezeRangeConfigs": [
+          {
+            "_StructType": "FStructFallback",
+            "MinValue": 0,
+            "MaxValue": 100,
+            "ApplyBuffIDs": [
+              {
+                "_StructType": "FStructFallback",
+                "BuffId": 405002,
+                "Part": "ECharacterPart::None",
+                "IncludeImpendingDeath": false,
+                "BuffApplyRole": "EAreaBuffApplyRole::All",
+                "BuffGameRole": "EAreaBuffGameRole::All",
+                "bIncludeVehicle": false,
+                "ExcluedeGod": false,
+                "ExcluedeAI": false,
+                "OneForAI": false,
+                "RemoveCondition": "EAreaBuffRemoveCondition::None",
+                "FreezeRemoveThreshold": 0
+              }
+            ],
+            "ApplyBuffPart": "ECharacterPart::None",
+            "ApplyBuffDuration": -1,
+            "RemoveBuffIDs": [],
+            "RemoveBuffPart": "ECharacterPart::None"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "MinValue": 50,
+            "MaxValue": 100,
+            "ApplyBuffIDs": [
+              {
+                "_StructType": "FStructFallback",
+                "BuffId": 405003,
+                "Part": "ECharacterPart::None",
+                "IncludeImpendingDeath": false,
+                "BuffApplyRole": "EAreaBuffApplyRole::All",
+                "BuffGameRole": "EAreaBuffGameRole::All",
+                "bIncludeVehicle": false,
+                "ExcluedeGod": false,
+                "ExcluedeAI": false,
+                "OneForAI": false,
+                "RemoveCondition": "EAreaBuffRemoveCondition::None",
+                "FreezeRemoveThreshold": 0
+              }
+            ],
+            "ApplyBuffPart": "ECharacterPart::None",
+            "ApplyBuffDuration": -1,
+            "RemoveBuffIDs": [],
+            "RemoveBuffPart": "ECharacterPart::None"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "MinValue": 100,
+            "MaxValue": 200,
+            "ApplyBuffIDs": [
+              {
+                "_StructType": "FStructFallback",
+                "BuffId": 405004,
+                "Part": "ECharacterPart::None",
+                "IncludeImpendingDeath": false,
+                "BuffApplyRole": "EAreaBuffApplyRole::All",
+                "BuffGameRole": "EAreaBuffGameRole::All",
+                "bIncludeVehicle": false,
+                "ExcluedeGod": false,
+                "ExcluedeAI": false,
+                "OneForAI": false,
+                "RemoveCondition": "EAreaBuffRemoveCondition::None",
+                "FreezeRemoveThreshold": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BuffId": 405006,
+                "Part": "ECharacterPart::None",
+                "IncludeImpendingDeath": false,
+                "BuffApplyRole": "EAreaBuffApplyRole::All",
+                "BuffGameRole": "EAreaBuffGameRole::All",
+                "bIncludeVehicle": false,
+                "ExcluedeGod": false,
+                "ExcluedeAI": false,
+                "OneForAI": false,
+                "RemoveCondition": "EAreaBuffRemoveCondition::None",
+                "FreezeRemoveThreshold": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BuffId": 405007,
+                "Part": "ECharacterPart::None",
+                "IncludeImpendingDeath": false,
+                "BuffApplyRole": "EAreaBuffApplyRole::All",
+                "BuffGameRole": "EAreaBuffGameRole::All",
+                "bIncludeVehicle": false,
+                "ExcluedeGod": false,
+                "ExcluedeAI": false,
+                "OneForAI": false,
+                "RemoveCondition": "EAreaBuffRemoveCondition::None",
+                "FreezeRemoveThreshold": 0
+              }
+            ],
+            "ApplyBuffPart": "ECharacterPart::None",
+            "ApplyBuffDuration": -1,
+            "RemoveBuffIDs": [],
+            "RemoveBuffPart": "ECharacterPart::None"
+          }
+        ],
+        "bEnableDecayDelay": true,
+        "RowDescription": "None"
+      },
+      "C405_MP": {
+        "Key": "None",
+        "AreaID": 1,
+        "LiquidNitrogenAreaBuffID": 405005,
+        "FreezeValueBuffID": 405001,
+        "AreaGameMode": [
+          "EDFMGamePlayMode::GamePlayMode_Breakthrough"
+        ],
+        "BuffPart": "ECharacterPart::None",
+        "FreezeIncreaseRate": 4,
+        "FreezeDecreaseRate": 2,
+        "FreezeUpdateInterval": 0.25,
+        "FreezeDecayDelay": 2,
+        "FreezeRangeConfigs": [
+          {
+            "_StructType": "FStructFallback",
+            "MinValue": 0,
+            "MaxValue": 50,
+            "ApplyBuffIDs": [
+              {
+                "_StructType": "FStructFallback",
+                "BuffId": 405002,
+                "Part": "ECharacterPart::None",
+                "IncludeImpendingDeath": false,
+                "BuffApplyRole": "EAreaBuffApplyRole::All",
+                "BuffGameRole": "EAreaBuffGameRole::All",
+                "bIncludeVehicle": false,
+                "ExcluedeGod": false,
+                "ExcluedeAI": false,
+                "OneForAI": false,
+                "RemoveCondition": "EAreaBuffRemoveCondition::None",
+                "FreezeRemoveThreshold": 0
+              }
+            ],
+            "ApplyBuffPart": "ECharacterPart::None",
+            "ApplyBuffDuration": -1,
+            "RemoveBuffIDs": [],
+            "RemoveBuffPart": "ECharacterPart::None"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "MinValue": 50,
+            "MaxValue": 100,
+            "ApplyBuffIDs": [
+              {
+                "_StructType": "FStructFallback",
+                "BuffId": 405003,
+                "Part": "ECharacterPart::None",
+                "IncludeImpendingDeath": false,
+                "BuffApplyRole": "EAreaBuffApplyRole::All",
+                "BuffGameRole": "EAreaBuffGameRole::All",
+                "bIncludeVehicle": false,
+                "ExcluedeGod": false,
+                "ExcluedeAI": false,
+                "OneForAI": false,
+                "RemoveCondition": "EAreaBuffRemoveCondition::None",
+                "FreezeRemoveThreshold": 0
+              }
+            ],
+            "ApplyBuffPart": "ECharacterPart::None",
+            "ApplyBuffDuration": -1,
+            "RemoveBuffIDs": [],
+            "RemoveBuffPart": "ECharacterPart::None"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "MinValue": 100,
+            "MaxValue": 200,
+            "ApplyBuffIDs": [
+              {
+                "_StructType": "FStructFallback",
+                "BuffId": 405004,
+                "Part": "ECharacterPart::None",
+                "IncludeImpendingDeath": false,
+                "BuffApplyRole": "EAreaBuffApplyRole::All",
+                "BuffGameRole": "EAreaBuffGameRole::All",
+                "bIncludeVehicle": false,
+                "ExcluedeGod": false,
+                "ExcluedeAI": false,
+                "OneForAI": false,
+                "RemoveCondition": "EAreaBuffRemoveCondition::None",
+                "FreezeRemoveThreshold": 0
+              },
+              {
+                "_StructType": "FStructFallback",
+                "BuffId": 405006,
+                "Part": "ECharacterPart::None",
+                "IncludeImpendingDeath": false,
+                "BuffApplyRole": "EAreaBuffApplyRole::All",
+                "BuffGameRole": "EAreaBuffGameRole::All",
+                "bIncludeVehicle": false,
+                "ExcluedeGod": false,
+                "ExcluedeAI": false,
+                "OneForAI": false,
+                "RemoveCondition": "EAreaBuffRemoveCondition::None",
+                "FreezeRemoveThreshold": 0
+              }
+            ],
+            "ApplyBuffPart": "ECharacterPart::None",
+            "ApplyBuffDuration": -1,
+            "RemoveBuffIDs": [],
+            "RemoveBuffPart": "ECharacterPart::None"
+          }
+        ],
+        "bEnableDecayDelay": true,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 2
+  }
+]

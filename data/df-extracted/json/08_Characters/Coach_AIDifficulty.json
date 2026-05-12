@@ -1,0 +1,937 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "Coach_AIDifficulty",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/CharacterTemplate/Coach_AIDifficulty",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "AICharacterDifficulty",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "Coach_Warm": {
+        "AttackLevel": 0,
+        "BulletGroup": 0,
+        "AIDanmage": 15,
+        "AIDanmageMax": 0,
+        "AIArmorDanmage": 15,
+        "AIArmorDanmageMax": 0,
+        "AISpecialAttackDamage": "Common",
+        "WeaponDamageScale": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "DamageScalerWithSkill": 3,
+        "DamageScalerWhenImpendingDeath": 1,
+        "DamageScalerWithDist": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "DamageScalerWithHP": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "DamageScalerWithHPMember": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ArmorDamageScalerWithArmor": "Default",
+        "DamageToPlayerHpLocked": 0,
+        "DamageScalerToPlayer": 0.1,
+        "ArmorDamageScalerToPlayer": 1,
+        "HealthDamageScalerToPlayer": 1,
+        "DamageScalerToAI": 1,
+        "HeavyWeaponDamageParts": 1,
+        "Health": [
+          {
+            "_StructType": "FStructFallback",
+            "Part": "ECharacterPart::FullBody",
+            "MaxHealth": 130,
+            "Health": 130
+          }
+        ],
+        "bHasArmor": false,
+        "ArmorLevel": 0,
+        "ArmorHP": 0,
+        "ProtectDataTable": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "bHasHelmet": false,
+        "HelmetLevel": 0,
+        "HelmetArmorHP": 0,
+        "HitRate": {
+          "_StructType": "FStructFallback",
+          "BaseRate": 0.4,
+          "MinRate": 0,
+          "MaxRate": 1,
+          "MaxConsecutiveHitNum": 2,
+          "TotalFireNumInCycle": 8,
+          "MaxHitNumInCycle": 3,
+          "StandExposedScaler": 1,
+          "CrouchExposedScaler": 1,
+          "ProneExposedScaler": 1,
+          "DistanceCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "DistanceCurve_Night": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TargetSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TargetUnderWaterCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "WorldTimeCurveWhenHittingNPC": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "SelfSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "ExposedAreaCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FoliageCoverCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TimeSinceSeenCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "BehindPlayerCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "LastHitCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FlashBangCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "WeaponPriceCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "IntensityForceHitRateOverrided": 20,
+          "ToAiFinalHitRateScale": 1
+        },
+        "HitRateScalerWhenRescuing": 1,
+        "EnableRealRandomHitRate": false,
+        "ShotgunBulletCount": 0,
+        "HitPartRowName": "None",
+        "SpecialHitPartItemConfs": [],
+        "FightWaitScaler": 1,
+        "AimingTimeScaler": 1,
+        "ShootDelaySampleCurve": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ShootReloadAmmoCount": 0,
+        "StrafeShootProbability": 0,
+        "StrafeShootHitRateOverride": 0,
+        "DoNotTakeBullet": false,
+        "InitFightExposedArea": 0,
+        "InitFightShootDirectionAngle": 0,
+        "InitFightShootingProbability": 0,
+        "FightBroadcastTimeMin": 0,
+        "FightBroadcastTimeMax": 0,
+        "SupFireBroadcastTimeMin": 0,
+        "SupFireBroadcastTimeMax": 0,
+        "CoverSlidingProbability": 0,
+        "CoverRollingProbability": 0,
+        "CoverShootingProbability": 0,
+        "MeleeAttackProbability": 0,
+        "SideRushingProbability": 0,
+        "CoverEnteringProbability": 0,
+        "Cover_FullExposePWeight": 1,
+        "Cover_LeanFireWeight": 1,
+        "Cover_PeekWeight": 1,
+        "Cover_BlindFireWeight": 1,
+        "Cover_LyingBlindFireWeight": 1,
+        "ThrowGrenadeProbability": 0,
+        "ThrowGrenadeMinCooldown": 0,
+        "ThrowGrenadeMaxCooldown": 0,
+        "ThrowSmokeBombProbability": 0,
+        "ThrowSmokeBombMinCooldown": 0,
+        "ThrowSmokeBombMaxCooldown": 0,
+        "ThrowFlashBangProbability": 0,
+        "ThrowFlashBangMinCooldown": 0,
+        "ThrowFlashBangMaxCooldown": 0,
+        "OpenTorchMinDelay": 1.2,
+        "OpenTorchMaxDelay": 3,
+        "bCheckFoliage": true,
+        "bEnableStaticFoliage": true,
+        "bEnableDynamicFoliage": true,
+        "SenseConfigKey": "Default",
+        "NightSenseConfigKey": "None",
+        "AlertMsgDuration": 0,
+        "FightMsgDuration": 0,
+        "DynamicLevelScore": 100,
+        "DyanmicDifficultyGame": [],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "WaitTime": 0,
+        "WaitTimeDeviation": 0,
+        "ItemPool": {
+          "_StructType": "FStructFallback",
+          "AILevel": 111,
+          "AIType": 1
+        },
+        "Buffs": [],
+        "DynamicDifficulty": [],
+        "RowDescription": "None"
+      },
+      "Coach_Low": {
+        "AttackLevel": 0,
+        "BulletGroup": 0,
+        "AIDanmage": 15,
+        "AIDanmageMax": 0,
+        "AIArmorDanmage": 15,
+        "AIArmorDanmageMax": 0,
+        "AISpecialAttackDamage": "Common",
+        "WeaponDamageScale": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "DamageScalerWithSkill": 3,
+        "DamageScalerWhenImpendingDeath": 1,
+        "DamageScalerWithDist": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "DamageScalerWithHP": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "DamageScalerWithHPMember": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ArmorDamageScalerWithArmor": "Default",
+        "DamageToPlayerHpLocked": 0,
+        "DamageScalerToPlayer": 0.5,
+        "ArmorDamageScalerToPlayer": 1,
+        "HealthDamageScalerToPlayer": 1,
+        "DamageScalerToAI": 1,
+        "HeavyWeaponDamageParts": 1,
+        "Health": [
+          {
+            "_StructType": "FStructFallback",
+            "Part": "ECharacterPart::FullBody",
+            "MaxHealth": 130,
+            "Health": 130
+          }
+        ],
+        "bHasArmor": false,
+        "ArmorLevel": 0,
+        "ArmorHP": 0,
+        "ProtectDataTable": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "bHasHelmet": false,
+        "HelmetLevel": 0,
+        "HelmetArmorHP": 0,
+        "HitRate": {
+          "_StructType": "FStructFallback",
+          "BaseRate": 0.5,
+          "MinRate": 0,
+          "MaxRate": 1,
+          "MaxConsecutiveHitNum": 2,
+          "TotalFireNumInCycle": 8,
+          "MaxHitNumInCycle": 3,
+          "StandExposedScaler": 1,
+          "CrouchExposedScaler": 1,
+          "ProneExposedScaler": 1,
+          "DistanceCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "DistanceCurve_Night": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TargetSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TargetUnderWaterCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "WorldTimeCurveWhenHittingNPC": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "SelfSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "ExposedAreaCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FoliageCoverCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TimeSinceSeenCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "BehindPlayerCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "LastHitCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FlashBangCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "WeaponPriceCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "IntensityForceHitRateOverrided": 20,
+          "ToAiFinalHitRateScale": 1
+        },
+        "HitRateScalerWhenRescuing": 1,
+        "EnableRealRandomHitRate": false,
+        "ShotgunBulletCount": 0,
+        "HitPartRowName": "None",
+        "SpecialHitPartItemConfs": [],
+        "FightWaitScaler": 1,
+        "AimingTimeScaler": 1,
+        "ShootDelaySampleCurve": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ShootReloadAmmoCount": 0,
+        "StrafeShootProbability": 0,
+        "StrafeShootHitRateOverride": 0,
+        "DoNotTakeBullet": false,
+        "InitFightExposedArea": 0,
+        "InitFightShootDirectionAngle": 0,
+        "InitFightShootingProbability": 0,
+        "FightBroadcastTimeMin": 0,
+        "FightBroadcastTimeMax": 0,
+        "SupFireBroadcastTimeMin": 0,
+        "SupFireBroadcastTimeMax": 0,
+        "CoverSlidingProbability": 0,
+        "CoverRollingProbability": 0,
+        "CoverShootingProbability": 0,
+        "MeleeAttackProbability": 0,
+        "SideRushingProbability": 0,
+        "CoverEnteringProbability": 0,
+        "Cover_FullExposePWeight": 1,
+        "Cover_LeanFireWeight": 1,
+        "Cover_PeekWeight": 1,
+        "Cover_BlindFireWeight": 1,
+        "Cover_LyingBlindFireWeight": 1,
+        "ThrowGrenadeProbability": 0,
+        "ThrowGrenadeMinCooldown": 0,
+        "ThrowGrenadeMaxCooldown": 0,
+        "ThrowSmokeBombProbability": 0,
+        "ThrowSmokeBombMinCooldown": 0,
+        "ThrowSmokeBombMaxCooldown": 0,
+        "ThrowFlashBangProbability": 0,
+        "ThrowFlashBangMinCooldown": 0,
+        "ThrowFlashBangMaxCooldown": 0,
+        "OpenTorchMinDelay": 1.2,
+        "OpenTorchMaxDelay": 3,
+        "bCheckFoliage": true,
+        "bEnableStaticFoliage": true,
+        "bEnableDynamicFoliage": true,
+        "SenseConfigKey": "Default",
+        "NightSenseConfigKey": "None",
+        "AlertMsgDuration": 0,
+        "FightMsgDuration": 0,
+        "DynamicLevelScore": 100,
+        "DyanmicDifficultyGame": [],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "WaitTime": 0,
+        "WaitTimeDeviation": 0,
+        "ItemPool": {
+          "_StructType": "FStructFallback",
+          "AILevel": 211,
+          "AIType": 1
+        },
+        "Buffs": [],
+        "DynamicDifficulty": [],
+        "RowDescription": "None"
+      },
+      "Coach_Mid": {
+        "AttackLevel": 0,
+        "BulletGroup": 0,
+        "AIDanmage": 15,
+        "AIDanmageMax": 0,
+        "AIArmorDanmage": 15,
+        "AIArmorDanmageMax": 0,
+        "AISpecialAttackDamage": "Common",
+        "WeaponDamageScale": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "DamageScalerWithSkill": 3,
+        "DamageScalerWhenImpendingDeath": 1,
+        "DamageScalerWithDist": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "DamageScalerWithHP": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "DamageScalerWithHPMember": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ArmorDamageScalerWithArmor": "Default",
+        "DamageToPlayerHpLocked": 0,
+        "DamageScalerToPlayer": 0.75,
+        "ArmorDamageScalerToPlayer": 1,
+        "HealthDamageScalerToPlayer": 1,
+        "DamageScalerToAI": 1,
+        "HeavyWeaponDamageParts": 1,
+        "Health": [
+          {
+            "_StructType": "FStructFallback",
+            "Part": "ECharacterPart::FullBody",
+            "MaxHealth": 130,
+            "Health": 130
+          }
+        ],
+        "bHasArmor": false,
+        "ArmorLevel": 0,
+        "ArmorHP": 0,
+        "ProtectDataTable": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "bHasHelmet": false,
+        "HelmetLevel": 0,
+        "HelmetArmorHP": 0,
+        "HitRate": {
+          "_StructType": "FStructFallback",
+          "BaseRate": 0.6,
+          "MinRate": 0,
+          "MaxRate": 1,
+          "MaxConsecutiveHitNum": 2,
+          "TotalFireNumInCycle": 8,
+          "MaxHitNumInCycle": 3,
+          "StandExposedScaler": 1,
+          "CrouchExposedScaler": 1,
+          "ProneExposedScaler": 1,
+          "DistanceCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "DistanceCurve_Night": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TargetSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TargetUnderWaterCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "WorldTimeCurveWhenHittingNPC": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "SelfSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "ExposedAreaCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FoliageCoverCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TimeSinceSeenCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "BehindPlayerCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "LastHitCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FlashBangCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "WeaponPriceCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "IntensityForceHitRateOverrided": 20,
+          "ToAiFinalHitRateScale": 1
+        },
+        "HitRateScalerWhenRescuing": 1,
+        "EnableRealRandomHitRate": false,
+        "ShotgunBulletCount": 0,
+        "HitPartRowName": "None",
+        "SpecialHitPartItemConfs": [],
+        "FightWaitScaler": 1,
+        "AimingTimeScaler": 1,
+        "ShootDelaySampleCurve": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ShootReloadAmmoCount": 0,
+        "StrafeShootProbability": 0,
+        "StrafeShootHitRateOverride": 0,
+        "DoNotTakeBullet": false,
+        "InitFightExposedArea": 0,
+        "InitFightShootDirectionAngle": 0,
+        "InitFightShootingProbability": 0,
+        "FightBroadcastTimeMin": 0,
+        "FightBroadcastTimeMax": 0,
+        "SupFireBroadcastTimeMin": 0,
+        "SupFireBroadcastTimeMax": 0,
+        "CoverSlidingProbability": 0,
+        "CoverRollingProbability": 0,
+        "CoverShootingProbability": 0,
+        "MeleeAttackProbability": 0,
+        "SideRushingProbability": 0,
+        "CoverEnteringProbability": 0,
+        "Cover_FullExposePWeight": 1,
+        "Cover_LeanFireWeight": 1,
+        "Cover_PeekWeight": 1,
+        "Cover_BlindFireWeight": 1,
+        "Cover_LyingBlindFireWeight": 1,
+        "ThrowGrenadeProbability": 0,
+        "ThrowGrenadeMinCooldown": 0,
+        "ThrowGrenadeMaxCooldown": 0,
+        "ThrowSmokeBombProbability": 0,
+        "ThrowSmokeBombMinCooldown": 0,
+        "ThrowSmokeBombMaxCooldown": 0,
+        "ThrowFlashBangProbability": 0,
+        "ThrowFlashBangMinCooldown": 0,
+        "ThrowFlashBangMaxCooldown": 0,
+        "OpenTorchMinDelay": 1.2,
+        "OpenTorchMaxDelay": 3,
+        "bCheckFoliage": true,
+        "bEnableStaticFoliage": true,
+        "bEnableDynamicFoliage": true,
+        "SenseConfigKey": "Default",
+        "NightSenseConfigKey": "None",
+        "AlertMsgDuration": 0,
+        "FightMsgDuration": 0,
+        "DynamicLevelScore": 100,
+        "DyanmicDifficultyGame": [],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "WaitTime": 0,
+        "WaitTimeDeviation": 0,
+        "ItemPool": {
+          "_StructType": "FStructFallback",
+          "AILevel": 211,
+          "AIType": 1
+        },
+        "Buffs": [],
+        "DynamicDifficulty": [],
+        "RowDescription": "None"
+      },
+      "Coach_High": {
+        "AttackLevel": 0,
+        "BulletGroup": 0,
+        "AIDanmage": 15,
+        "AIDanmageMax": 0,
+        "AIArmorDanmage": 15,
+        "AIArmorDanmageMax": 0,
+        "AISpecialAttackDamage": "Common",
+        "WeaponDamageScale": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "DamageScalerWithSkill": 3,
+        "DamageScalerWhenImpendingDeath": 1,
+        "DamageScalerWithDist": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "DamageScalerWithHP": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "DamageScalerWithHPMember": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ArmorDamageScalerWithArmor": "Default",
+        "DamageToPlayerHpLocked": 0,
+        "DamageScalerToPlayer": 1,
+        "ArmorDamageScalerToPlayer": 1,
+        "HealthDamageScalerToPlayer": 1,
+        "DamageScalerToAI": 1,
+        "HeavyWeaponDamageParts": 1,
+        "Health": [
+          {
+            "_StructType": "FStructFallback",
+            "Part": "ECharacterPart::FullBody",
+            "MaxHealth": 130,
+            "Health": 130
+          }
+        ],
+        "bHasArmor": false,
+        "ArmorLevel": 0,
+        "ArmorHP": 0,
+        "ProtectDataTable": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "bHasHelmet": false,
+        "HelmetLevel": 0,
+        "HelmetArmorHP": 0,
+        "HitRate": {
+          "_StructType": "FStructFallback",
+          "BaseRate": 0.8,
+          "MinRate": 0,
+          "MaxRate": 1,
+          "MaxConsecutiveHitNum": 2,
+          "TotalFireNumInCycle": 8,
+          "MaxHitNumInCycle": 3,
+          "StandExposedScaler": 1,
+          "CrouchExposedScaler": 1,
+          "ProneExposedScaler": 1,
+          "DistanceCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "DistanceCurve_Night": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TargetSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TargetUnderWaterCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "WorldTimeCurveWhenHittingNPC": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "SelfSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "ExposedAreaCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FoliageCoverCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TimeSinceSeenCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "BehindPlayerCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "LastHitCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FlashBangCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "WeaponPriceCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "IntensityForceHitRateOverrided": 25,
+          "ToAiFinalHitRateScale": 1
+        },
+        "HitRateScalerWhenRescuing": 1,
+        "EnableRealRandomHitRate": false,
+        "ShotgunBulletCount": 0,
+        "HitPartRowName": "None",
+        "SpecialHitPartItemConfs": [],
+        "FightWaitScaler": 1,
+        "AimingTimeScaler": 1,
+        "ShootDelaySampleCurve": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ShootReloadAmmoCount": 0,
+        "StrafeShootProbability": 0,
+        "StrafeShootHitRateOverride": 0,
+        "DoNotTakeBullet": false,
+        "InitFightExposedArea": 0,
+        "InitFightShootDirectionAngle": 0,
+        "InitFightShootingProbability": 0,
+        "FightBroadcastTimeMin": 0,
+        "FightBroadcastTimeMax": 0,
+        "SupFireBroadcastTimeMin": 0,
+        "SupFireBroadcastTimeMax": 0,
+        "CoverSlidingProbability": 0,
+        "CoverRollingProbability": 0,
+        "CoverShootingProbability": 0,
+        "MeleeAttackProbability": 0,
+        "SideRushingProbability": 0,
+        "CoverEnteringProbability": 0,
+        "Cover_FullExposePWeight": 1,
+        "Cover_LeanFireWeight": 1,
+        "Cover_PeekWeight": 1,
+        "Cover_BlindFireWeight": 1,
+        "Cover_LyingBlindFireWeight": 1,
+        "ThrowGrenadeProbability": 0,
+        "ThrowGrenadeMinCooldown": 0,
+        "ThrowGrenadeMaxCooldown": 0,
+        "ThrowSmokeBombProbability": 0,
+        "ThrowSmokeBombMinCooldown": 0,
+        "ThrowSmokeBombMaxCooldown": 0,
+        "ThrowFlashBangProbability": 0,
+        "ThrowFlashBangMinCooldown": 0,
+        "ThrowFlashBangMaxCooldown": 0,
+        "OpenTorchMinDelay": 1.2,
+        "OpenTorchMaxDelay": 3,
+        "bCheckFoliage": true,
+        "bEnableStaticFoliage": true,
+        "bEnableDynamicFoliage": true,
+        "SenseConfigKey": "Default",
+        "NightSenseConfigKey": "None",
+        "AlertMsgDuration": 0,
+        "FightMsgDuration": 0,
+        "DynamicLevelScore": 100,
+        "DyanmicDifficultyGame": [],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "WaitTime": 0,
+        "WaitTimeDeviation": 0,
+        "ItemPool": {
+          "_StructType": "FStructFallback",
+          "AILevel": 311,
+          "AIType": 1
+        },
+        "Buffs": [],
+        "DynamicDifficulty": [],
+        "RowDescription": "None"
+      },
+      "Coach_Top": {
+        "AttackLevel": 0,
+        "BulletGroup": 0,
+        "AIDanmage": 15,
+        "AIDanmageMax": 0,
+        "AIArmorDanmage": 15,
+        "AIArmorDanmageMax": 0,
+        "AISpecialAttackDamage": "Common",
+        "WeaponDamageScale": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "DamageScalerWithSkill": 3,
+        "DamageScalerWhenImpendingDeath": 1,
+        "DamageScalerWithDist": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "DamageScalerWithHP": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "DamageScalerWithHPMember": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ArmorDamageScalerWithArmor": "Default",
+        "DamageToPlayerHpLocked": 0,
+        "DamageScalerToPlayer": 1.5,
+        "ArmorDamageScalerToPlayer": 1,
+        "HealthDamageScalerToPlayer": 1,
+        "DamageScalerToAI": 1,
+        "HeavyWeaponDamageParts": 1,
+        "Health": [
+          {
+            "_StructType": "FStructFallback",
+            "Part": "ECharacterPart::FullBody",
+            "MaxHealth": 130,
+            "Health": 130
+          }
+        ],
+        "bHasArmor": false,
+        "ArmorLevel": 0,
+        "ArmorHP": 0,
+        "ProtectDataTable": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "bHasHelmet": false,
+        "HelmetLevel": 0,
+        "HelmetArmorHP": 0,
+        "HitRate": {
+          "_StructType": "FStructFallback",
+          "BaseRate": 1,
+          "MinRate": 0,
+          "MaxRate": 1,
+          "MaxConsecutiveHitNum": 2,
+          "TotalFireNumInCycle": 8,
+          "MaxHitNumInCycle": 3,
+          "StandExposedScaler": 1,
+          "CrouchExposedScaler": 1,
+          "ProneExposedScaler": 1,
+          "DistanceCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "DistanceCurve_Night": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TargetSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TargetUnderWaterCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "WorldTimeCurveWhenHittingNPC": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "SelfSpeedCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "ExposedAreaCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FoliageCoverCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "TimeSinceSeenCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "BehindPlayerCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "LastHitCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "FlashBangCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "WeaponPriceCurve": {
+            "AssetPath": "None",
+            "SubPath": ""
+          },
+          "IntensityForceHitRateOverrided": 25,
+          "ToAiFinalHitRateScale": 1
+        },
+        "HitRateScalerWhenRescuing": 1,
+        "EnableRealRandomHitRate": false,
+        "ShotgunBulletCount": 0,
+        "HitPartRowName": "None",
+        "SpecialHitPartItemConfs": [],
+        "FightWaitScaler": 1,
+        "AimingTimeScaler": 1,
+        "ShootDelaySampleCurve": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ShootReloadAmmoCount": 0,
+        "StrafeShootProbability": 0,
+        "StrafeShootHitRateOverride": 0,
+        "DoNotTakeBullet": false,
+        "InitFightExposedArea": 0,
+        "InitFightShootDirectionAngle": 0,
+        "InitFightShootingProbability": 0,
+        "FightBroadcastTimeMin": 0,
+        "FightBroadcastTimeMax": 0,
+        "SupFireBroadcastTimeMin": 0,
+        "SupFireBroadcastTimeMax": 0,
+        "CoverSlidingProbability": 0,
+        "CoverRollingProbability": 0,
+        "CoverShootingProbability": 0,
+        "MeleeAttackProbability": 0,
+        "SideRushingProbability": 0,
+        "CoverEnteringProbability": 0,
+        "Cover_FullExposePWeight": 1,
+        "Cover_LeanFireWeight": 1,
+        "Cover_PeekWeight": 1,
+        "Cover_BlindFireWeight": 1,
+        "Cover_LyingBlindFireWeight": 1,
+        "ThrowGrenadeProbability": 0,
+        "ThrowGrenadeMinCooldown": 0,
+        "ThrowGrenadeMaxCooldown": 0,
+        "ThrowSmokeBombProbability": 0,
+        "ThrowSmokeBombMinCooldown": 0,
+        "ThrowSmokeBombMaxCooldown": 0,
+        "ThrowFlashBangProbability": 0,
+        "ThrowFlashBangMinCooldown": 0,
+        "ThrowFlashBangMaxCooldown": 0,
+        "OpenTorchMinDelay": 1.2,
+        "OpenTorchMaxDelay": 3,
+        "bCheckFoliage": true,
+        "bEnableStaticFoliage": true,
+        "bEnableDynamicFoliage": true,
+        "SenseConfigKey": "Default",
+        "NightSenseConfigKey": "None",
+        "AlertMsgDuration": 0,
+        "FightMsgDuration": 0,
+        "DynamicLevelScore": 100,
+        "DyanmicDifficultyGame": [],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "WaitTime": 0,
+        "WaitTimeDeviation": 0,
+        "ItemPool": {
+          "_StructType": "FStructFallback",
+          "AILevel": 311,
+          "AIType": 1
+        },
+        "Buffs": [],
+        "DynamicDifficulty": [],
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 5
+  }
+]

@@ -1,0 +1,2 @@
+﻿RowName,TagName,RedeployCommanders,RowDescription
+SSS_NearPlane,SSS_NearPlane,"(Key=ERedeployStateFuture::Rising, Value=(Commanders=)); (Key=ERedeployStateFuture::Landing, Value=(Commanders=r.ScreenSpaceShadow.CullDistance 8000; r.ScreenSpaceShadow.Length -1; Camera.Fpp.OverrideNearPlaneOnHighView 0)); (Key=ERedeployStateFuture::HighView, Value=(Commanders=r.ScreenSpaceShadow.CullDistance 99999999; r.ScreenSpaceShadow.Length 0.001; Camera.Fpp.OverrideNearPlaneOnHighView 6))",None

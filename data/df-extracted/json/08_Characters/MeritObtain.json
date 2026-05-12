@@ -1,0 +1,109 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "MeritObtain",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/MeritObtain",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "MeritObtainRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "HitTarget": {
+        "MeritObtainType": "EMeritObtainType::HitTarget",
+        "MeritObtainName": null,
+        "HitDamage": 10,
+        "IsAssist": false,
+        "IsHitHead": false,
+        "ContinueKillNum": 0,
+        "ContinueKillCD": 0,
+        "LongDistanceKill": 0,
+        "ShortDistanceKill": 0,
+        "Merit": 10,
+        "RowDescription": "None"
+      },
+      "HeadShot": {
+        "MeritObtainType": "EMeritObtainType::HeadShot",
+        "MeritObtainName": null,
+        "HitDamage": 20,
+        "IsAssist": false,
+        "IsHitHead": true,
+        "ContinueKillNum": 0,
+        "ContinueKillCD": 0,
+        "LongDistanceKill": 0,
+        "ShortDistanceKill": 0,
+        "Merit": 100,
+        "RowDescription": "None"
+      },
+      "Assist": {
+        "MeritObtainType": "EMeritObtainType::Assist",
+        "MeritObtainName": null,
+        "HitDamage": 0,
+        "IsAssist": false,
+        "IsHitHead": false,
+        "ContinueKillNum": 0,
+        "ContinueKillCD": 0,
+        "LongDistanceKill": 0,
+        "ShortDistanceKill": 0,
+        "Merit": 20,
+        "RowDescription": "None"
+      },
+      "BasicKill": {
+        "MeritObtainType": "EMeritObtainType::BasicKill",
+        "MeritObtainName": null,
+        "HitDamage": 60,
+        "IsAssist": false,
+        "IsHitHead": false,
+        "ContinueKillNum": 1,
+        "ContinueKillCD": 0,
+        "LongDistanceKill": 0,
+        "ShortDistanceKill": 0,
+        "Merit": 40,
+        "RowDescription": "None"
+      },
+      "ContinueKillTwo": {
+        "MeritObtainType": "EMeritObtainType::ContinueKillTwo",
+        "MeritObtainName": null,
+        "HitDamage": 0,
+        "IsAssist": false,
+        "IsHitHead": false,
+        "ContinueKillNum": 2,
+        "ContinueKillCD": 3,
+        "LongDistanceKill": 0,
+        "ShortDistanceKill": 0,
+        "Merit": 80,
+        "RowDescription": "None"
+      },
+      "LongDistanceKill": {
+        "MeritObtainType": "EMeritObtainType::LongDistanceKill",
+        "MeritObtainName": null,
+        "HitDamage": 0,
+        "IsAssist": false,
+        "IsHitHead": false,
+        "ContinueKillNum": 0,
+        "ContinueKillCD": 0,
+        "LongDistanceKill": 2000,
+        "ShortDistanceKill": 0,
+        "Merit": 60,
+        "RowDescription": "None"
+      },
+      "ShortDistanceKill": {
+        "MeritObtainType": "EMeritObtainType::ShortDistanceKill",
+        "MeritObtainName": null,
+        "HitDamage": 0,
+        "IsAssist": false,
+        "IsHitHead": false,
+        "ContinueKillNum": 0,
+        "ContinueKillCD": 0,
+        "LongDistanceKill": 0,
+        "ShortDistanceKill": 800,
+        "Merit": 60,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 7
+  }
+]

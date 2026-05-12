@@ -1,0 +1,298 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "ChestHangingFunc",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/ChestHangingFunc",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "ChestHangingFunctionBaseRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "11070001001": {
+        "BagIncrementY": 1,
+        "AddBuffs": [],
+        "ItemID": 11070001001,
+        "GainEquipPosLength": 4,
+        "GainEquipPosWidth": 2,
+        "TotalCapacity": 6,
+        "ComplexSpaceDescription": "(1,1)(0,1)|(1,1)(0,-1)|(1,1)(-2,1)|(1,1)(-2,-1)|(1,1)(2,1)|(1,1)(2,-1)",
+        "RowDescription": "None"
+      },
+      "11070001002": {
+        "BagIncrementY": 1,
+        "AddBuffs": [],
+        "ItemID": 11070001002,
+        "GainEquipPosLength": 3,
+        "GainEquipPosWidth": 3,
+        "TotalCapacity": 6,
+        "ComplexSpaceDescription": "(1,1)(0,1)|(1,1)(0,-1)|(1,1)(-2,1)|(1,1)(-2,-1)|(1,1)(2,1)|(1,1)(2,-1)",
+        "RowDescription": "None"
+      },
+      "11070001003": {
+        "BagIncrementY": 1,
+        "AddBuffs": [],
+        "ItemID": 11070001003,
+        "GainEquipPosLength": 4,
+        "GainEquipPosWidth": 3,
+        "TotalCapacity": 6,
+        "ComplexSpaceDescription": "(1,2)(0,0)|(1,1)(-2,1)|(1,1)(-2,-1)|(1,1)(2,1)|(1,1)(2,-1)",
+        "RowDescription": "None"
+      },
+      "11070001004": {
+        "BagIncrementY": 1,
+        "AddBuffs": [],
+        "ItemID": 11070001004,
+        "GainEquipPosLength": 3,
+        "GainEquipPosWidth": 4,
+        "TotalCapacity": 6,
+        "ComplexSpaceDescription": "(1,1)(0,1)|(1,1)(0,-1)|(1,2)(-2,0)|(1,1)(2,1)|(1,1)(2,-1)",
+        "RowDescription": "None"
+      },
+      "11070002001": {
+        "BagIncrementY": 2,
+        "AddBuffs": [],
+        "ItemID": 11070002001,
+        "GainEquipPosLength": 4,
+        "GainEquipPosWidth": 4,
+        "TotalCapacity": 8,
+        "ComplexSpaceDescription": "(1,2)(0,-1)|(1,1)(-2,0)|(1,1)(2,0)|(1,1)(-2,2)|(1,1)(2,2)|(1,1)(-2,-2)|(1,1)(2,-2)",
+        "RowDescription": "None"
+      },
+      "11070002002": {
+        "BagIncrementY": 2,
+        "AddBuffs": [],
+        "ItemID": 11070002002,
+        "GainEquipPosLength": 5,
+        "GainEquipPosWidth": 3,
+        "TotalCapacity": 8,
+        "ComplexSpaceDescription": "(1,2)(1,1)|(1,2)(-1,1)|(1,1)(-1,-2)|(1,1)(1,-2)|(1,1)(-3,2)|(1,1)(3,2)",
+        "RowDescription": "None"
+      },
+      "11070002003": {
+        "BagIncrementY": 2,
+        "AddBuffs": [],
+        "ItemID": 11070002003,
+        "GainEquipPosLength": 4,
+        "GainEquipPosWidth": 5,
+        "TotalCapacity": 8,
+        "ComplexSpaceDescription": "(1,2)(-1,0)|(1,2)(1,0)|(1,2)(3,0)|(1,1)(-3,1)|(1,1)(-3,-1)",
+        "RowDescription": "None"
+      },
+      "11070002004": {
+        "BagIncrementY": 2,
+        "AddBuffs": [],
+        "ItemID": 11070002004,
+        "GainEquipPosLength": 3,
+        "GainEquipPosWidth": 6,
+        "TotalCapacity": 9,
+        "ComplexSpaceDescription": "(1,2)(0,0)|(1,2)(-2,0)|(1,2)(2,0)|(2,1)(1,3)|(1,1)(-2,3)",
+        "RowDescription": "None"
+      },
+      "11070003001": {
+        "BagIncrementY": 3,
+        "AddBuffs": [],
+        "ItemID": 11070003001,
+        "GainEquipPosLength": 4,
+        "GainEquipPosWidth": 6,
+        "TotalCapacity": 10,
+        "ComplexSpaceDescription": "(1,2)(-1,-1)|(1,2)(1,-1)|(2,1)(0,2)|(1,1)(-3,0)|(1,1)(3,0)|(1,1)(-3,-2)|(1,1)(3,-2)",
+        "RowDescription": "None"
+      },
+      "11070003002": {
+        "BagIncrementY": 3,
+        "AddBuffs": [],
+        "ItemID": 11070003002,
+        "GainEquipPosLength": 5,
+        "GainEquipPosWidth": 5,
+        "TotalCapacity": 12,
+        "ComplexSpaceDescription": "(1,2)(1,-1)|(1,2)(-1,-1)|(2,1)(0,2)|(1,2)(3,-1)|(1,1)(-3,0)|(1,1)(-3,-2)|(1,1)(3,2)|(1,1)(-3,2)",
+        "RowDescription": "None"
+      },
+      "11070003003": {
+        "BagIncrementY": 3,
+        "AddBuffs": [],
+        "ItemID": 11070003003,
+        "GainEquipPosLength": 4,
+        "GainEquipPosWidth": 7,
+        "TotalCapacity": 12,
+        "ComplexSpaceDescription": "(1,2)(-1,1)|(1,2)(1,1)|(2,1)(-2,-2)|(2,1)(2,-2)|(1,2)(-3,1)|(1,2)(3,1)",
+        "RowDescription": "None"
+      },
+      "11070003004": {
+        "BagIncrementY": 3,
+        "AddBuffs": [],
+        "ItemID": 11070003004,
+        "GainEquipPosLength": 5,
+        "GainEquipPosWidth": 6,
+        "TotalCapacity": 13,
+        "ComplexSpaceDescription": "(1,2)(0,1)|(3,1)(0,-2)|(1,2)(2,1)|(1,2)(-2,1)|(1,2)(4,-1)|(1,2)(-4,-1)",
+        "RowDescription": "None"
+      },
+      "11070004001": {
+        "BagIncrementY": 4,
+        "AddBuffs": [
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 9010101,
+            "AttributeOperateIDs": []
+          }
+        ],
+        "ItemID": 11070004001,
+        "GainEquipPosLength": 5,
+        "GainEquipPosWidth": 6,
+        "TotalCapacity": 14,
+        "ComplexSpaceDescription": "(1,2)(0,-1)|(1,2)(-2,-1)|(1,2)(-4,-1)|(1,1)(-2,2)|(1,1)(-4,2)|(1,3)(2,0)|(1,3)(4,0)",
+        "RowDescription": "None"
+      },
+      "11070004002": {
+        "BagIncrementY": 4,
+        "AddBuffs": [
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 901001,
+            "AttributeOperateIDs": []
+          }
+        ],
+        "ItemID": 11070004002,
+        "GainEquipPosLength": 5,
+        "GainEquipPosWidth": 6,
+        "TotalCapacity": 16,
+        "ComplexSpaceDescription": "(2,1)(0,0)|(2,2)(0,3)|(1,2)(-1,-3)|(1,2)(1,-3)|(1,3)(3,-2)|(1,3)(-3,-2)",
+        "RowDescription": "None"
+      },
+      "11070004003": {
+        "BagIncrementY": 4,
+        "AddBuffs": [],
+        "ItemID": 11070004003,
+        "GainEquipPosLength": 5,
+        "GainEquipPosWidth": 7,
+        "TotalCapacity": 16,
+        "ComplexSpaceDescription": "(1,3)(0,2)|(1,3)(2,2)|(1,3)(-2,2)|(2,2)(2,-3)|(2,2)(-2,-3)",
+        "RowDescription": "None"
+      },
+      "11070004004": {
+        "BagIncrementY": 4,
+        "AddBuffs": [],
+        "ItemID": 11070004004,
+        "GainEquipPosLength": 5,
+        "GainEquipPosWidth": 7,
+        "TotalCapacity": 18,
+        "ComplexSpaceDescription": "(1,3)(1,2)|(1,3)(-1,2)|(1,3)(3,2)|(1,3)(-3,2)|(2,2)(2,-3)|(2,2)(-2,-3)",
+        "RowDescription": "None"
+      },
+      "11070005001": {
+        "BagIncrementY": 5,
+        "AddBuffs": [
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 9010102,
+            "AttributeOperateIDs": []
+          }
+        ],
+        "ItemID": 11070005001,
+        "GainEquipPosLength": 0,
+        "GainEquipPosWidth": 0,
+        "TotalCapacity": 20,
+        "ComplexSpaceDescription": "(1,3)(1,1)|(1,3)(-1,1)|(1,2)(3,2)|(1,2)(-3,2)|(2,2)(0,-4)|(1,3)(3,-3)|(1,3)(-3,-3)|(1,1)(3,5)|(1,1)(-3,5)",
+        "RowDescription": "None"
+      },
+      "11070005002": {
+        "BagIncrementY": 5,
+        "AddBuffs": [
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 901001,
+            "AttributeOperateIDs": []
+          },
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 9010103,
+            "AttributeOperateIDs": []
+          }
+        ],
+        "ItemID": 11070005002,
+        "GainEquipPosLength": 0,
+        "GainEquipPosWidth": 0,
+        "TotalCapacity": 22,
+        "ComplexSpaceDescription": "(1,2)(1,0)|(1,2)(-1,0)|(1,2)(1,4)|(1,2)(-1,4)|(1,3)(3,1)|(1,3)(-3,1)|(2,2)(2,-4)|(2,2)(-2,-4)",
+        "RowDescription": "None"
+      },
+      "11070005003": {
+        "BagIncrementY": 5,
+        "AddBuffs": [
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 901001,
+            "AttributeOperateIDs": []
+          },
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 9010103,
+            "AttributeOperateIDs": []
+          }
+        ],
+        "ItemID": 11070005003,
+        "GainEquipPosLength": 0,
+        "GainEquipPosWidth": 0,
+        "TotalCapacity": 22,
+        "ComplexSpaceDescription": "(2,2)(0,2)|(2,3)(0,-3)|(1,3)(3,1)|(1,3)(-3,1)|(1,2)(3,-4)|(1,2)(-3,-4)|(2,1)(0,5)",
+        "RowDescription": "None"
+      },
+      "11070005004": {
+        "BagIncrementY": 5,
+        "AddBuffs": [
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 901001,
+            "AttributeOperateIDs": []
+          },
+          {
+            "_StructType": "FStructFallback",
+            "BuffId": 9010105,
+            "AttributeOperateIDs": []
+          }
+        ],
+        "ItemID": 11070005004,
+        "GainEquipPosLength": 0,
+        "GainEquipPosWidth": 0,
+        "TotalCapacity": 24,
+        "ComplexSpaceDescription": "(1,3)(-1,3)|(2,3)(2,3)|(1,3)(-3,3)|(2,2)(-2,-2)|(2,2)(2,-2)|(2,1)(2,-5)|(2,1)(-2,-5)",
+        "RowDescription": "None"
+      },
+      "11070008001": {
+        "BagIncrementY": 0,
+        "AddBuffs": [],
+        "ItemID": 11070008001,
+        "GainEquipPosLength": 0,
+        "GainEquipPosWidth": 0,
+        "TotalCapacity": 0,
+        "ComplexSpaceDescription": "(1,2)(1,2)|(1,2)(-1,2)|(1,1)(3,1)|(1,1)(3,-1)|(1,1)(3,3)|(1,1)(-3,1)|(1,1)(-3,-1)|(1,1)(-3,3)",
+        "RowDescription": "None"
+      },
+      "11070005010": {
+        "BagIncrementY": 0,
+        "AddBuffs": [],
+        "ItemID": 11070005010,
+        "GainEquipPosLength": 0,
+        "GainEquipPosWidth": 0,
+        "TotalCapacity": 1,
+        "ComplexSpaceDescription": "\u4E09\u89D2\u6D32\u4E00\u7EA7",
+        "RowDescription": "None"
+      },
+      "11070004005": {
+        "BagIncrementY": 4,
+        "AddBuffs": [],
+        "ItemID": 11070004005,
+        "GainEquipPosLength": 5,
+        "GainEquipPosWidth": 7,
+        "TotalCapacity": 18,
+        "ComplexSpaceDescription": "(1,3)(1,2)|(1,3)(-1,2)|(1,3)(3,2)|(1,3)(-3,2)|(2,2)(2,-3)|(2,2)(-2,-3)",
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 23
+  }
+]

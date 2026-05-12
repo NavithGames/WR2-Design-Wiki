@@ -1,0 +1,3 @@
+﻿RowName,ConfigId,VisibilityRule,CountLimitRule,Lifespan,Capacity,bOnlyAddToCurrent,bMainWeapon,bAbilityWeapon,bOverrideAddAmmoNum,AddAmmoType,AddAmmoValue,AmmoType_BlackList,AddAmmoOverrides,RowDescription
+1,1,EDBAmmoBoxVisibilityRule::OnlyKiller,EDBAmmoBoxCountLimitRule::OnlyOnce,60,160,False,True,False,False,EWeaponAddAmmoType::AddToFull,0,,,None
+2,2,EDBAmmoBoxVisibilityRule::All,EDBAmmoBoxCountLimitRule::OnlyOnce,60,600,False,True,False,False,EWeaponAddAmmoType::AddToFull,0,,,None

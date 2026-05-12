@@ -1,0 +1,14 @@
+﻿RowName,Items,RowDescription
+Default,"(DifficultyName=MMR1000, Probability=0.1); (DifficultyName=MMR1200, Probability=0.2); (DifficultyName=MMR1500, Probability=0.4); (DifficultyName=MMR1700, Probability=0.2); (DifficultyName=MMR2000, Probability=0.1)",None
+TestDifficulty,"(DifficultyName=MMR2000, Probability=1)",None
+Iron,"(DifficultyName=MMR1000, Probability=0.8); (DifficultyName=MMR1200, Probability=0.2)",None
+Silver,"(DifficultyName=MMR1000, Probability=0.2); (DifficultyName=MMR1200, Probability=0.6); (DifficultyName=MMR1500, Probability=0.2)",None
+Gold,"(DifficultyName=MMR1200, Probability=0.2); (DifficultyName=MMR1500, Probability=0.6); (DifficultyName=MMR1700, Probability=0.2)",None
+Platinium,"(DifficultyName=MMR1500, Probability=0.2); (DifficultyName=MMR1700, Probability=0.6); (DifficultyName=MMR2000, Probability=0.2)",None
+Diamond,"(DifficultyName=MMR1700, Probability=0.2); (DifficultyName=MMR2000, Probability=0.8)",None
+DeathTest,"(DifficultyName=MMR3000, Probability=1)",None
+NotHurtAI,"(DifficultyName=NotHurtAI, Probability=1)",None
+noob,"(DifficultyName=cai, Probability=1)",None
+pro,"(DifficultyName=niu, Probability=1)",None
+noob5s,"(DifficultyName=cai5s, Probability=1)",None
+DyBot1,"(DifficultyName=MMR1700, Probability=0.2); (DifficultyName=MMR2000, Probability=0.8)",None

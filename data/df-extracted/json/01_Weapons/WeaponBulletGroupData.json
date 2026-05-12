@@ -1,0 +1,2501 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "WeaponBulletGroupData",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/Ammo/WeaponBulletGroupData",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "WeaponBulletGroupData",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "1": {
+        "ID": 1,
+        "WeaponBulletGroupID": 201,
+        "ItemID": 10010003552,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "2": {
+        "ID": 2,
+        "WeaponBulletGroupID": 201,
+        "ItemID": 37280400001,
+        "Position": 199997,
+        "ItemNum": 30,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "3": {
+        "ID": 3,
+        "WeaponBulletGroupID": 201,
+        "ItemID": 37280300001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 450000,
+        "WeaponCouponPrice": 300000
+      },
+      "4": {
+        "ID": 4,
+        "WeaponBulletGroupID": 202,
+        "ItemID": 10010003561,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "5": {
+        "ID": 5,
+        "WeaponBulletGroupID": 202,
+        "ItemID": 37100400001,
+        "Position": 199997,
+        "ItemNum": 30,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "6": {
+        "ID": 6,
+        "WeaponBulletGroupID": 202,
+        "ItemID": 37100300001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 400000,
+        "WeaponCouponPrice": 250000
+      },
+      "7": {
+        "ID": 7,
+        "WeaponBulletGroupID": 203,
+        "ItemID": 10010003565,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "9": {
+        "ID": 9,
+        "WeaponBulletGroupID": 203,
+        "ItemID": 37170400001,
+        "Position": 199997,
+        "ItemNum": 30,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "10": {
+        "ID": 10,
+        "WeaponBulletGroupID": 203,
+        "ItemID": 37170300001,
+        "Position": 199997,
+        "ItemNum": 120,
+        "WeaponBulletGroupPrice": 350000,
+        "WeaponCouponPrice": 250000
+      },
+      "11": {
+        "ID": 11,
+        "WeaponBulletGroupID": 204,
+        "ItemID": 10010003567,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "12": {
+        "ID": 12,
+        "WeaponBulletGroupID": 204,
+        "ItemID": 37170400001,
+        "Position": 199997,
+        "ItemNum": 30,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "13": {
+        "ID": 13,
+        "WeaponBulletGroupID": 204,
+        "ItemID": 37170300001,
+        "Position": 199997,
+        "ItemNum": 150,
+        "WeaponBulletGroupPrice": 450000,
+        "WeaponCouponPrice": 300000
+      },
+      "14": {
+        "ID": 14,
+        "WeaponBulletGroupID": 205,
+        "ItemID": 10010003569,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "15": {
+        "ID": 15,
+        "WeaponBulletGroupID": 205,
+        "ItemID": 37120400001,
+        "Position": 199997,
+        "ItemNum": 30,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "16": {
+        "ID": 16,
+        "WeaponBulletGroupID": 205,
+        "ItemID": 37120300001,
+        "Position": 199997,
+        "ItemNum": 150,
+        "WeaponBulletGroupPrice": 350000,
+        "WeaponCouponPrice": 250000
+      },
+      "17": {
+        "ID": 17,
+        "WeaponBulletGroupID": 206,
+        "ItemID": 10010003571,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "18": {
+        "ID": 18,
+        "WeaponBulletGroupID": 206,
+        "ItemID": 37100400001,
+        "Position": 199997,
+        "ItemNum": 30,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "19": {
+        "ID": 19,
+        "WeaponBulletGroupID": 206,
+        "ItemID": 37100300001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 400000,
+        "WeaponCouponPrice": 250000
+      },
+      "20": {
+        "ID": 20,
+        "WeaponBulletGroupID": 207,
+        "ItemID": 10010003579,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "21": {
+        "ID": 21,
+        "WeaponBulletGroupID": 207,
+        "ItemID": 37100400001,
+        "Position": 199997,
+        "ItemNum": 20,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "22": {
+        "ID": 22,
+        "WeaponBulletGroupID": 207,
+        "ItemID": 37100300001,
+        "Position": 199997,
+        "ItemNum": 90,
+        "WeaponBulletGroupPrice": 350000,
+        "WeaponCouponPrice": 300000
+      },
+      "23": {
+        "ID": 23,
+        "WeaponBulletGroupID": 208,
+        "ItemID": 10010003583,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "24": {
+        "ID": 24,
+        "WeaponBulletGroupID": 208,
+        "ItemID": 37120400001,
+        "Position": 199997,
+        "ItemNum": 30,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "25": {
+        "ID": 25,
+        "WeaponBulletGroupID": 208,
+        "ItemID": 37120300001,
+        "Position": 199997,
+        "ItemNum": 150,
+        "WeaponBulletGroupPrice": 300000,
+        "WeaponCouponPrice": 200000
+      },
+      "26": {
+        "ID": 26,
+        "WeaponBulletGroupID": 209,
+        "ItemID": 10020003593,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "27": {
+        "ID": 27,
+        "WeaponBulletGroupID": 209,
+        "ItemID": 37260400001,
+        "Position": 199997,
+        "ItemNum": 48,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "28": {
+        "ID": 28,
+        "WeaponBulletGroupID": 209,
+        "ItemID": 37260300001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 350000,
+        "WeaponCouponPrice": 200000
+      },
+      "29": {
+        "ID": 29,
+        "WeaponBulletGroupID": 210,
+        "ItemID": 10020003598,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "30": {
+        "ID": 30,
+        "WeaponBulletGroupID": 210,
+        "ItemID": 37200400001,
+        "Position": 199997,
+        "ItemNum": 45,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "31": {
+        "ID": 31,
+        "WeaponBulletGroupID": 210,
+        "ItemID": 37200300001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 450000,
+        "WeaponCouponPrice": 350000
+      },
+      "32": {
+        "ID": 32,
+        "WeaponBulletGroupID": 211,
+        "ItemID": 10020003601,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "33": {
+        "ID": 33,
+        "WeaponBulletGroupID": 211,
+        "ItemID": 37190400001,
+        "Position": 199997,
+        "ItemNum": 40,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "34": {
+        "ID": 34,
+        "WeaponBulletGroupID": 211,
+        "ItemID": 37190300001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 500000,
+        "WeaponCouponPrice": 300000
+      },
+      "35": {
+        "ID": 35,
+        "WeaponBulletGroupID": 212,
+        "ItemID": 10020003602,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "36": {
+        "ID": 36,
+        "WeaponBulletGroupID": 212,
+        "ItemID": 37200400001,
+        "Position": 199997,
+        "ItemNum": 30,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "37": {
+        "ID": 37,
+        "WeaponBulletGroupID": 212,
+        "ItemID": 37200300001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 350000,
+        "WeaponCouponPrice": 250000
+      },
+      "38": {
+        "ID": 38,
+        "WeaponBulletGroupID": 213,
+        "ItemID": 10020003603,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "39": {
+        "ID": 39,
+        "WeaponBulletGroupID": 213,
+        "ItemID": 37200400001,
+        "Position": 199997,
+        "ItemNum": 40,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "40": {
+        "ID": 40,
+        "WeaponBulletGroupID": 213,
+        "ItemID": 37200300001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 400000,
+        "WeaponCouponPrice": 250000
+      },
+      "41": {
+        "ID": 41,
+        "WeaponBulletGroupID": 214,
+        "ItemID": 10020003607,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "42": {
+        "ID": 42,
+        "WeaponBulletGroupID": 214,
+        "ItemID": 37200400001,
+        "Position": 199997,
+        "ItemNum": 30,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "43": {
+        "ID": 43,
+        "WeaponBulletGroupID": 214,
+        "ItemID": 37200300001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 350000,
+        "WeaponCouponPrice": 250000
+      },
+      "44": {
+        "ID": 44,
+        "WeaponBulletGroupID": 215,
+        "ItemID": 10030003638,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "45": {
+        "ID": 45,
+        "WeaponBulletGroupID": 215,
+        "ItemID": 37250400003,
+        "Position": 199997,
+        "ItemNum": 60,
+        "WeaponBulletGroupPrice": 450000,
+        "WeaponCouponPrice": 350000
+      },
+      "46": {
+        "ID": 46,
+        "WeaponBulletGroupID": 216,
+        "ItemID": 10030003609,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "47": {
+        "ID": 47,
+        "WeaponBulletGroupID": 216,
+        "ItemID": 37250400003,
+        "Position": 199997,
+        "ItemNum": 60,
+        "WeaponBulletGroupPrice": 350000,
+        "WeaponCouponPrice": 250000
+      },
+      "48": {
+        "ID": 48,
+        "WeaponBulletGroupID": 217,
+        "ItemID": 10040003615,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "49": {
+        "ID": 49,
+        "WeaponBulletGroupID": 217,
+        "ItemID": 37100300001,
+        "Position": 199997,
+        "ItemNum": 300,
+        "WeaponBulletGroupPrice": 400000,
+        "WeaponCouponPrice": 250000
+      },
+      "50": {
+        "ID": 50,
+        "WeaponBulletGroupID": 218,
+        "ItemID": 10040003617,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "51": {
+        "ID": 51,
+        "WeaponBulletGroupID": 218,
+        "ItemID": 37180300001,
+        "Position": 199997,
+        "ItemNum": 240,
+        "WeaponBulletGroupPrice": 400000,
+        "WeaponCouponPrice": 250000
+      },
+      "52": {
+        "ID": 52,
+        "WeaponBulletGroupID": 219,
+        "ItemID": 10150003619,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "53": {
+        "ID": 53,
+        "WeaponBulletGroupID": 219,
+        "ItemID": 37270500001,
+        "Position": 199997,
+        "ItemNum": 5,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "54": {
+        "ID": 54,
+        "WeaponBulletGroupID": 219,
+        "ItemID": 37270400001,
+        "Position": 199997,
+        "ItemNum": 15,
+        "WeaponBulletGroupPrice": 250000,
+        "WeaponCouponPrice": 200000
+      },
+      "55": {
+        "ID": 55,
+        "WeaponBulletGroupID": 220,
+        "ItemID": 10050003626,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "56": {
+        "ID": 56,
+        "WeaponBulletGroupID": 220,
+        "ItemID": 37100400001,
+        "Position": 199997,
+        "ItemNum": 30,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "57": {
+        "ID": 57,
+        "WeaponBulletGroupID": 220,
+        "ItemID": 37100300001,
+        "Position": 199997,
+        "ItemNum": 60,
+        "WeaponBulletGroupPrice": 400000,
+        "WeaponCouponPrice": 300000
+      },
+      "58": {
+        "ID": 58,
+        "WeaponBulletGroupID": 221,
+        "ItemID": 10050003628,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "59": {
+        "ID": 59,
+        "WeaponBulletGroupID": 221,
+        "ItemID": 37140400001,
+        "Position": 199997,
+        "ItemNum": 30,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "60": {
+        "ID": 60,
+        "WeaponBulletGroupID": 221,
+        "ItemID": 37140300001,
+        "Position": 199997,
+        "ItemNum": 120,
+        "WeaponBulletGroupPrice": 300000,
+        "WeaponCouponPrice": 150000
+      },
+      "61": {
+        "ID": 61,
+        "WeaponBulletGroupID": 301,
+        "ItemID": 10010003555,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "62": {
+        "ID": 62,
+        "WeaponBulletGroupID": 301,
+        "ItemID": 37120400001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 750000,
+        "WeaponCouponPrice": 550000
+      },
+      "63": {
+        "ID": 63,
+        "WeaponBulletGroupID": 302,
+        "ItemID": 10010003556,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "64": {
+        "ID": 64,
+        "WeaponBulletGroupID": 302,
+        "ItemID": 37280400002,
+        "Position": 199997,
+        "ItemNum": 150,
+        "WeaponBulletGroupPrice": 800000,
+        "WeaponCouponPrice": 600000
+      },
+      "65": {
+        "ID": 65,
+        "WeaponBulletGroupID": 303,
+        "ItemID": 10010003562,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "66": {
+        "ID": 66,
+        "WeaponBulletGroupID": 303,
+        "ItemID": 37100400001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 750000,
+        "WeaponCouponPrice": 400000
+      },
+      "67": {
+        "ID": 67,
+        "WeaponBulletGroupID": 304,
+        "ItemID": 10010003563,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "68": {
+        "ID": 68,
+        "WeaponBulletGroupID": 304,
+        "ItemID": 37110400001,
+        "Position": 199997,
+        "ItemNum": 240,
+        "WeaponBulletGroupPrice": 500000,
+        "WeaponCouponPrice": 250000
+      },
+      "69": {
+        "ID": 69,
+        "WeaponBulletGroupID": 305,
+        "ItemID": 10010003566,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "70": {
+        "ID": 70,
+        "WeaponBulletGroupID": 305,
+        "ItemID": 37170400001,
+        "Position": 199997,
+        "ItemNum": 120,
+        "WeaponBulletGroupPrice": 550000,
+        "WeaponCouponPrice": 350000
+      },
+      "71": {
+        "ID": 71,
+        "WeaponBulletGroupID": 306,
+        "ItemID": 10010003568,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "72": {
+        "ID": 72,
+        "WeaponBulletGroupID": 306,
+        "ItemID": 37170400001,
+        "Position": 199997,
+        "ItemNum": 120,
+        "WeaponBulletGroupPrice": 750000,
+        "WeaponCouponPrice": 600000
+      },
+      "73": {
+        "ID": 73,
+        "WeaponBulletGroupID": 307,
+        "ItemID": 10010003570,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "74": {
+        "ID": 74,
+        "WeaponBulletGroupID": 307,
+        "ItemID": 37120400001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 600000,
+        "WeaponCouponPrice": 400000
+      },
+      "75": {
+        "ID": 75,
+        "WeaponBulletGroupID": 308,
+        "ItemID": 10010003572,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "76": {
+        "ID": 76,
+        "WeaponBulletGroupID": 308,
+        "ItemID": 37100400001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 600000,
+        "WeaponCouponPrice": 350000
+      },
+      "77": {
+        "ID": 77,
+        "WeaponBulletGroupID": 309,
+        "ItemID": 10010003578,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "78": {
+        "ID": 78,
+        "WeaponBulletGroupID": 309,
+        "ItemID": 37100400001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 650000,
+        "WeaponCouponPrice": 400000
+      },
+      "79": {
+        "ID": 79,
+        "WeaponBulletGroupID": 310,
+        "ItemID": 10010003580,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "80": {
+        "ID": 80,
+        "WeaponBulletGroupID": 310,
+        "ItemID": 37160400002,
+        "Position": 199997,
+        "ItemNum": 90,
+        "WeaponBulletGroupPrice": 550000,
+        "WeaponCouponPrice": 300000
+      },
+      "81": {
+        "ID": 81,
+        "WeaponBulletGroupID": 311,
+        "ItemID": 10010003584,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "82": {
+        "ID": 82,
+        "WeaponBulletGroupID": 311,
+        "ItemID": 37120400001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 650000,
+        "WeaponCouponPrice": 400000
+      },
+      "83": {
+        "ID": 83,
+        "WeaponBulletGroupID": 312,
+        "ItemID": 10010003586,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "84": {
+        "ID": 84,
+        "WeaponBulletGroupID": 312,
+        "ItemID": 37130400001,
+        "Position": 199997,
+        "ItemNum": 240,
+        "WeaponBulletGroupPrice": 650000,
+        "WeaponCouponPrice": 200000
+      },
+      "85": {
+        "ID": 85,
+        "WeaponBulletGroupID": 313,
+        "ItemID": 10010003587,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "86": {
+        "ID": 86,
+        "WeaponBulletGroupID": 313,
+        "ItemID": 37110400001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 500000,
+        "WeaponCouponPrice": 300000
+      },
+      "87": {
+        "ID": 87,
+        "WeaponBulletGroupID": 314,
+        "ItemID": 10010003589,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "88": {
+        "ID": 88,
+        "WeaponBulletGroupID": 314,
+        "ItemID": 37110400001,
+        "Position": 199997,
+        "ItemNum": 240,
+        "WeaponBulletGroupPrice": 550000,
+        "WeaponCouponPrice": 300000
+      },
+      "89": {
+        "ID": 89,
+        "WeaponBulletGroupID": 315,
+        "ItemID": 10010003591,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "90": {
+        "ID": 90,
+        "WeaponBulletGroupID": 315,
+        "ItemID": 37100400001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 650000,
+        "WeaponCouponPrice": 400000
+      },
+      "91": {
+        "ID": 91,
+        "WeaponBulletGroupID": 316,
+        "ItemID": 10010003592,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "92": {
+        "ID": 92,
+        "WeaponBulletGroupID": 316,
+        "ItemID": 37100400001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 700000,
+        "WeaponCouponPrice": 450000
+      },
+      "93": {
+        "ID": 93,
+        "WeaponBulletGroupID": 317,
+        "ItemID": 10020003594,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "94": {
+        "ID": 94,
+        "WeaponBulletGroupID": 317,
+        "ItemID": 37200400001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 700000,
+        "WeaponCouponPrice": 450000
+      },
+      "95": {
+        "ID": 95,
+        "WeaponBulletGroupID": 318,
+        "ItemID": 10020003596,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "96": {
+        "ID": 96,
+        "WeaponBulletGroupID": 318,
+        "ItemID": 37260400001,
+        "Position": 199997,
+        "ItemNum": 210,
+        "WeaponBulletGroupPrice": 750000,
+        "WeaponCouponPrice": 450000
+      },
+      "97": {
+        "ID": 97,
+        "WeaponBulletGroupID": 319,
+        "ItemID": 10020003599,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "98": {
+        "ID": 98,
+        "WeaponBulletGroupID": 319,
+        "ItemID": 37140400001,
+        "Position": 199997,
+        "ItemNum": 120,
+        "WeaponBulletGroupPrice": 600000,
+        "WeaponCouponPrice": 400000
+      },
+      "99": {
+        "ID": 99,
+        "WeaponBulletGroupID": 320,
+        "ItemID": 10020003604,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "100": {
+        "ID": 100,
+        "WeaponBulletGroupID": 320,
+        "ItemID": 37190400001,
+        "Position": 199997,
+        "ItemNum": 210,
+        "WeaponBulletGroupPrice": 800000,
+        "WeaponCouponPrice": 400000
+      },
+      "101": {
+        "ID": 101,
+        "WeaponBulletGroupID": 321,
+        "ItemID": 10020003606,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "102": {
+        "ID": 102,
+        "WeaponBulletGroupID": 321,
+        "ItemID": 37210400001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 750000,
+        "WeaponCouponPrice": 450000
+      },
+      "103": {
+        "ID": 103,
+        "WeaponBulletGroupID": 322,
+        "ItemID": 10040003616,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "104": {
+        "ID": 104,
+        "WeaponBulletGroupID": 322,
+        "ItemID": 37100400001,
+        "Position": 199997,
+        "ItemNum": 60,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "105": {
+        "ID": 105,
+        "WeaponBulletGroupID": 322,
+        "ItemID": 37100300001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 650000,
+        "WeaponCouponPrice": 450000
+      },
+      "106": {
+        "ID": 106,
+        "WeaponBulletGroupID": 323,
+        "ItemID": 10050003627,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "107": {
+        "ID": 107,
+        "WeaponBulletGroupID": 323,
+        "ItemID": 37100500001,
+        "Position": 199997,
+        "ItemNum": 15,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "108": {
+        "ID": 108,
+        "WeaponBulletGroupID": 323,
+        "ItemID": 37100400001,
+        "Position": 199997,
+        "ItemNum": 60,
+        "WeaponBulletGroupPrice": 550000,
+        "WeaponCouponPrice": 400000
+      },
+      "109": {
+        "ID": 109,
+        "WeaponBulletGroupID": 324,
+        "ItemID": 10060003632,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "110": {
+        "ID": 110,
+        "WeaponBulletGroupID": 324,
+        "ItemID": 10070003638,
+        "Position": 114,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "111": {
+        "ID": 111,
+        "WeaponBulletGroupID": 324,
+        "ItemID": 37170500001,
+        "Position": 199997,
+        "ItemNum": 10,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "112": {
+        "ID": 112,
+        "WeaponBulletGroupID": 324,
+        "ItemID": 37170400001,
+        "Position": 199997,
+        "ItemNum": 10,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "113": {
+        "ID": 113,
+        "WeaponBulletGroupID": 324,
+        "ItemID": 37200000001,
+        "Position": 199997,
+        "ItemNum": 120,
+        "WeaponBulletGroupPrice": 650000,
+        "WeaponCouponPrice": 300000
+      },
+      "114": {
+        "ID": 114,
+        "WeaponBulletGroupID": 325,
+        "ItemID": 10060003633,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "115": {
+        "ID": 115,
+        "WeaponBulletGroupID": 325,
+        "ItemID": 10070003640,
+        "Position": 114,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "116": {
+        "ID": 116,
+        "WeaponBulletGroupID": 325,
+        "ItemID": 37170500001,
+        "Position": 199997,
+        "ItemNum": 15,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "117": {
+        "ID": 117,
+        "WeaponBulletGroupID": 325,
+        "ItemID": 37170400001,
+        "Position": 199997,
+        "ItemNum": 10,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "118": {
+        "ID": 118,
+        "WeaponBulletGroupID": 325,
+        "ItemID": 37200400001,
+        "Position": 199997,
+        "ItemNum": 60,
+        "WeaponBulletGroupPrice": 550000,
+        "WeaponCouponPrice": 300000
+      },
+      "119": {
+        "ID": 119,
+        "WeaponBulletGroupID": 326,
+        "ItemID": 10060003634,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "120": {
+        "ID": 120,
+        "WeaponBulletGroupID": 326,
+        "ItemID": 10070003639,
+        "Position": 114,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "121": {
+        "ID": 121,
+        "WeaponBulletGroupID": 326,
+        "ItemID": 37180500001,
+        "Position": 199997,
+        "ItemNum": 15,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "122": {
+        "ID": 122,
+        "WeaponBulletGroupID": 326,
+        "ItemID": 37180400001,
+        "Position": 199997,
+        "ItemNum": 60,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "123": {
+        "ID": 123,
+        "WeaponBulletGroupID": 326,
+        "ItemID": 37230400001,
+        "Position": 199997,
+        "ItemNum": 60,
+        "WeaponBulletGroupPrice": 550000,
+        "WeaponCouponPrice": 400000
+      },
+      "124": {
+        "ID": 124,
+        "WeaponBulletGroupID": 401,
+        "ItemID": 10010003554,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "125": {
+        "ID": 125,
+        "WeaponBulletGroupID": 401,
+        "ItemID": 37110500001,
+        "Position": 199997,
+        "ItemNum": 40,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "126": {
+        "ID": 126,
+        "WeaponBulletGroupID": 401,
+        "ItemID": 37110400001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 900000,
+        "WeaponCouponPrice": 550000
+      },
+      "127": {
+        "ID": 127,
+        "WeaponBulletGroupID": 402,
+        "ItemID": 10010003557,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "128": {
+        "ID": 128,
+        "WeaponBulletGroupID": 402,
+        "ItemID": 37130500001,
+        "Position": 199997,
+        "ItemNum": 40,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "129": {
+        "ID": 129,
+        "WeaponBulletGroupID": 402,
+        "ItemID": 37130400001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 1050000,
+        "WeaponCouponPrice": 600000
+      },
+      "130": {
+        "ID": 130,
+        "WeaponBulletGroupID": 403,
+        "ItemID": 10010003558,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "131": {
+        "ID": 131,
+        "WeaponBulletGroupID": 403,
+        "ItemID": 37130500001,
+        "Position": 199997,
+        "ItemNum": 45,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "132": {
+        "ID": 132,
+        "WeaponBulletGroupID": 403,
+        "ItemID": 37130400001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 950000,
+        "WeaponCouponPrice": 450000
+      },
+      "133": {
+        "ID": 133,
+        "WeaponBulletGroupID": 404,
+        "ItemID": 10010003559,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "134": {
+        "ID": 134,
+        "WeaponBulletGroupID": 404,
+        "ItemID": 37140500001,
+        "Position": 199997,
+        "ItemNum": 30,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "135": {
+        "ID": 135,
+        "WeaponBulletGroupID": 404,
+        "ItemID": 37140400001,
+        "Position": 199997,
+        "ItemNum": 150,
+        "WeaponBulletGroupPrice": 850000,
+        "WeaponCouponPrice": 500000
+      },
+      "136": {
+        "ID": 136,
+        "WeaponBulletGroupID": 405,
+        "ItemID": 10010003564,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "137": {
+        "ID": 137,
+        "WeaponBulletGroupID": 405,
+        "ItemID": 37100500001,
+        "Position": 199997,
+        "ItemNum": 45,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "138": {
+        "ID": 138,
+        "WeaponBulletGroupID": 405,
+        "ItemID": 37100400001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 1150000,
+        "WeaponCouponPrice": 700000
+      },
+      "139": {
+        "ID": 139,
+        "WeaponBulletGroupID": 406,
+        "ItemID": 10010003575,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "140": {
+        "ID": 140,
+        "WeaponBulletGroupID": 406,
+        "ItemID": 37150500001,
+        "Position": 199997,
+        "ItemNum": 45,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "141": {
+        "ID": 141,
+        "WeaponBulletGroupID": 406,
+        "ItemID": 37150400001,
+        "Position": 199997,
+        "ItemNum": 150,
+        "WeaponBulletGroupPrice": 850000,
+        "WeaponCouponPrice": 550000
+      },
+      "142": {
+        "ID": 142,
+        "WeaponBulletGroupID": 407,
+        "ItemID": 10010003576,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "143": {
+        "ID": 143,
+        "WeaponBulletGroupID": 407,
+        "ItemID": 37100500001,
+        "Position": 199997,
+        "ItemNum": 60,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "144": {
+        "ID": 144,
+        "WeaponBulletGroupID": 407,
+        "ItemID": 37100400001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 950000,
+        "WeaponCouponPrice": 400000
+      },
+      "145": {
+        "ID": 145,
+        "WeaponBulletGroupID": 408,
+        "ItemID": 10010003577,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "146": {
+        "ID": 146,
+        "WeaponBulletGroupID": 408,
+        "ItemID": 37100500001,
+        "Position": 199997,
+        "ItemNum": 60,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "147": {
+        "ID": 147,
+        "WeaponBulletGroupID": 408,
+        "ItemID": 37100400001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 1050000,
+        "WeaponCouponPrice": 550000
+      },
+      "148": {
+        "ID": 148,
+        "WeaponBulletGroupID": 409,
+        "ItemID": 10010003581,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "149": {
+        "ID": 149,
+        "WeaponBulletGroupID": 409,
+        "ItemID": 37160500001,
+        "Position": 199997,
+        "ItemNum": 30,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "150": {
+        "ID": 150,
+        "WeaponBulletGroupID": 409,
+        "ItemID": 37160400001,
+        "Position": 199997,
+        "ItemNum": 120,
+        "WeaponBulletGroupPrice": 950000,
+        "WeaponCouponPrice": 500000
+      },
+      "151": {
+        "ID": 151,
+        "WeaponBulletGroupID": 410,
+        "ItemID": 10010003585,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "152": {
+        "ID": 152,
+        "WeaponBulletGroupID": 410,
+        "ItemID": 37130500001,
+        "Position": 199997,
+        "ItemNum": 45,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "153": {
+        "ID": 153,
+        "WeaponBulletGroupID": 410,
+        "ItemID": 37130400001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 850000,
+        "WeaponCouponPrice": 350000
+      },
+      "154": {
+        "ID": 154,
+        "WeaponBulletGroupID": 411,
+        "ItemID": 10010003588,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "155": {
+        "ID": 155,
+        "WeaponBulletGroupID": 411,
+        "ItemID": 37110500001,
+        "Position": 199997,
+        "ItemNum": 45,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "156": {
+        "ID": 156,
+        "WeaponBulletGroupID": 411,
+        "ItemID": 37110400001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 800000,
+        "WeaponCouponPrice": 450000
+      },
+      "157": {
+        "ID": 157,
+        "WeaponBulletGroupID": 412,
+        "ItemID": 10010003590,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "158": {
+        "ID": 158,
+        "WeaponBulletGroupID": 412,
+        "ItemID": 37100500001,
+        "Position": 199997,
+        "ItemNum": 40,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "159": {
+        "ID": 159,
+        "WeaponBulletGroupID": 412,
+        "ItemID": 37100400001,
+        "Position": 199997,
+        "ItemNum": 200,
+        "WeaponBulletGroupPrice": 900000,
+        "WeaponCouponPrice": 500000
+      },
+      "160": {
+        "ID": 160,
+        "WeaponBulletGroupID": 413,
+        "ItemID": 10020003597,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "161": {
+        "ID": 161,
+        "WeaponBulletGroupID": 413,
+        "ItemID": 37260500001,
+        "Position": 199997,
+        "ItemNum": 30,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "162": {
+        "ID": 162,
+        "WeaponBulletGroupID": 413,
+        "ItemID": 37260400001,
+        "Position": 199997,
+        "ItemNum": 210,
+        "WeaponBulletGroupPrice": 900000,
+        "WeaponCouponPrice": 450000
+      },
+      "163": {
+        "ID": 163,
+        "WeaponBulletGroupID": 414,
+        "ItemID": 10020003600,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "164": {
+        "ID": 164,
+        "WeaponBulletGroupID": 414,
+        "ItemID": 37140500001,
+        "Position": 199997,
+        "ItemNum": 45,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "165": {
+        "ID": 165,
+        "WeaponBulletGroupID": 414,
+        "ItemID": 37140400001,
+        "Position": 199997,
+        "ItemNum": 120,
+        "WeaponBulletGroupPrice": 1150000,
+        "WeaponCouponPrice": 700000
+      },
+      "166": {
+        "ID": 166,
+        "WeaponBulletGroupID": 415,
+        "ItemID": 10020003605,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "167": {
+        "ID": 167,
+        "WeaponBulletGroupID": 415,
+        "ItemID": 37190400001,
+        "Position": 199997,
+        "ItemNum": 255,
+        "WeaponBulletGroupPrice": 1150000,
+        "WeaponCouponPrice": 600000
+      },
+      "168": {
+        "ID": 168,
+        "WeaponBulletGroupID": 416,
+        "ItemID": 10040003610,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "169": {
+        "ID": 169,
+        "WeaponBulletGroupID": 416,
+        "ItemID": 37130500001,
+        "Position": 199997,
+        "ItemNum": 60,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "170": {
+        "ID": 170,
+        "WeaponBulletGroupID": 416,
+        "ItemID": 37130400001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 950000,
+        "WeaponCouponPrice": 400000
+      },
+      "171": {
+        "ID": 171,
+        "WeaponBulletGroupID": 417,
+        "ItemID": 10040003611,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "172": {
+        "ID": 172,
+        "WeaponBulletGroupID": 417,
+        "ItemID": 37130500001,
+        "Position": 199997,
+        "ItemNum": 45,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "173": {
+        "ID": 173,
+        "WeaponBulletGroupID": 417,
+        "ItemID": 37130400001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 1000000,
+        "WeaponCouponPrice": 500000
+      },
+      "174": {
+        "ID": 174,
+        "WeaponBulletGroupID": 418,
+        "ItemID": 10040003614,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "175": {
+        "ID": 175,
+        "WeaponBulletGroupID": 418,
+        "ItemID": 37150500001,
+        "Position": 199997,
+        "ItemNum": 50,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "176": {
+        "ID": 176,
+        "WeaponBulletGroupID": 418,
+        "ItemID": 37150400001,
+        "Position": 199997,
+        "ItemNum": 150,
+        "WeaponBulletGroupPrice": 800000,
+        "WeaponCouponPrice": 500000
+      },
+      "177": {
+        "ID": 177,
+        "WeaponBulletGroupID": 419,
+        "ItemID": 10040003618,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "178": {
+        "ID": 178,
+        "WeaponBulletGroupID": 419,
+        "ItemID": 37180500001,
+        "Position": 199997,
+        "ItemNum": 50,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "179": {
+        "ID": 179,
+        "WeaponBulletGroupID": 419,
+        "ItemID": 37180400001,
+        "Position": 199997,
+        "ItemNum": 205,
+        "WeaponBulletGroupPrice": 950000,
+        "WeaponCouponPrice": 500000
+      },
+      "180": {
+        "ID": 180,
+        "WeaponBulletGroupID": 420,
+        "ItemID": 10050003622,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "181": {
+        "ID": 181,
+        "WeaponBulletGroupID": 420,
+        "ItemID": 37170500001,
+        "Position": 199997,
+        "ItemNum": 30,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "182": {
+        "ID": 182,
+        "WeaponBulletGroupID": 420,
+        "ItemID": 37170400001,
+        "Position": 199997,
+        "ItemNum": 150,
+        "WeaponBulletGroupPrice": 1050000,
+        "WeaponCouponPrice": 650000
+      },
+      "183": {
+        "ID": 183,
+        "WeaponBulletGroupID": 421,
+        "ItemID": 10050003624,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "184": {
+        "ID": 184,
+        "WeaponBulletGroupID": 421,
+        "ItemID": 37180500001,
+        "Position": 199997,
+        "ItemNum": 15,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "185": {
+        "ID": 185,
+        "WeaponBulletGroupID": 421,
+        "ItemID": 37180400001,
+        "Position": 199997,
+        "ItemNum": 90,
+        "WeaponBulletGroupPrice": 800000,
+        "WeaponCouponPrice": 550000
+      },
+      "186": {
+        "ID": 186,
+        "WeaponBulletGroupID": 422,
+        "ItemID": 10050003625,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "187": {
+        "ID": 187,
+        "WeaponBulletGroupID": 422,
+        "ItemID": 37170500001,
+        "Position": 199997,
+        "ItemNum": 15,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "188": {
+        "ID": 188,
+        "WeaponBulletGroupID": 422,
+        "ItemID": 37170400001,
+        "Position": 199997,
+        "ItemNum": 90,
+        "WeaponBulletGroupPrice": 850000,
+        "WeaponCouponPrice": 650000
+      },
+      "189": {
+        "ID": 189,
+        "WeaponBulletGroupID": 423,
+        "ItemID": 10060003631,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "190": {
+        "ID": 190,
+        "WeaponBulletGroupID": 423,
+        "ItemID": 10070003639,
+        "Position": 114,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "191": {
+        "ID": 191,
+        "WeaponBulletGroupID": 423,
+        "ItemID": 37170500001,
+        "Position": 199997,
+        "ItemNum": 20,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "192": {
+        "ID": 192,
+        "WeaponBulletGroupID": 423,
+        "ItemID": 37230500001,
+        "Position": 199997,
+        "ItemNum": 35,
+        "WeaponBulletGroupPrice": 800000,
+        "WeaponCouponPrice": 500000
+      },
+      "193": {
+        "ID": 193,
+        "WeaponBulletGroupID": 424,
+        "ItemID": 10050003636,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "194": {
+        "ID": 194,
+        "WeaponBulletGroupID": 424,
+        "ItemID": 10070003638,
+        "Position": 114,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "195": {
+        "ID": 195,
+        "WeaponBulletGroupID": 424,
+        "ItemID": 37180500001,
+        "Position": 199997,
+        "ItemNum": 20,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "196": {
+        "ID": 196,
+        "WeaponBulletGroupID": 424,
+        "ItemID": 37180400001,
+        "Position": 199997,
+        "ItemNum": 40,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "197": {
+        "ID": 197,
+        "WeaponBulletGroupID": 424,
+        "ItemID": 37200400001,
+        "Position": 199997,
+        "ItemNum": 60,
+        "WeaponBulletGroupPrice": 800000,
+        "WeaponCouponPrice": 450000
+      },
+      "198": {
+        "ID": 198,
+        "WeaponBulletGroupID": 501,
+        "ItemID": 10010003553,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "199": {
+        "ID": 199,
+        "WeaponBulletGroupID": 501,
+        "ItemID": 37110500001,
+        "Position": 199997,
+        "ItemNum": 40,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "200": {
+        "ID": 200,
+        "WeaponBulletGroupID": 501,
+        "ItemID": 37110400001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 1150000,
+        "WeaponCouponPrice": 800000
+      },
+      "201": {
+        "ID": 201,
+        "WeaponBulletGroupID": 502,
+        "ItemID": 10010003560,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "202": {
+        "ID": 202,
+        "WeaponBulletGroupID": 502,
+        "ItemID": 37140500001,
+        "Position": 199997,
+        "ItemNum": 60,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "203": {
+        "ID": 203,
+        "WeaponBulletGroupID": 502,
+        "ItemID": 37140400001,
+        "Position": 199997,
+        "ItemNum": 120,
+        "WeaponBulletGroupPrice": 1350000,
+        "WeaponCouponPrice": 800000
+      },
+      "204": {
+        "ID": 204,
+        "WeaponBulletGroupID": 503,
+        "ItemID": 10010003573,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "205": {
+        "ID": 205,
+        "WeaponBulletGroupID": 503,
+        "ItemID": 37150500001,
+        "Position": 199997,
+        "ItemNum": 45,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "206": {
+        "ID": 206,
+        "WeaponBulletGroupID": 503,
+        "ItemID": 37150400001,
+        "Position": 199997,
+        "ItemNum": 150,
+        "WeaponBulletGroupPrice": 1150000,
+        "WeaponCouponPrice": 800000
+      },
+      "207": {
+        "ID": 207,
+        "WeaponBulletGroupID": 504,
+        "ItemID": 10010003574,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "208": {
+        "ID": 208,
+        "WeaponBulletGroupID": 504,
+        "ItemID": 37150500001,
+        "Position": 199997,
+        "ItemNum": 45,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "209": {
+        "ID": 209,
+        "WeaponBulletGroupID": 504,
+        "ItemID": 37150400001,
+        "Position": 199997,
+        "ItemNum": 150,
+        "WeaponBulletGroupPrice": 1200000,
+        "WeaponCouponPrice": 900000
+      },
+      "210": {
+        "ID": 210,
+        "WeaponBulletGroupID": 505,
+        "ItemID": 10010003582,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "211": {
+        "ID": 211,
+        "WeaponBulletGroupID": 505,
+        "ItemID": 37160500001,
+        "Position": 199997,
+        "ItemNum": 30,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "212": {
+        "ID": 212,
+        "WeaponBulletGroupID": 505,
+        "ItemID": 37160400001,
+        "Position": 199997,
+        "ItemNum": 120,
+        "WeaponBulletGroupPrice": 1100000,
+        "WeaponCouponPrice": 550000
+      },
+      "213": {
+        "ID": 213,
+        "WeaponBulletGroupID": 506,
+        "ItemID": 10020003595,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "214": {
+        "ID": 214,
+        "WeaponBulletGroupID": 506,
+        "ItemID": 37260500001,
+        "Position": 199997,
+        "ItemNum": 60,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "215": {
+        "ID": 215,
+        "WeaponBulletGroupID": 506,
+        "ItemID": 37260400001,
+        "Position": 199997,
+        "ItemNum": 210,
+        "WeaponBulletGroupPrice": 1200000,
+        "WeaponCouponPrice": 700000
+      },
+      "216": {
+        "ID": 216,
+        "WeaponBulletGroupID": 507,
+        "ItemID": 10040003612,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "217": {
+        "ID": 217,
+        "WeaponBulletGroupID": 507,
+        "ItemID": 37150500001,
+        "Position": 199997,
+        "ItemNum": 50,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "218": {
+        "ID": 218,
+        "WeaponBulletGroupID": 507,
+        "ItemID": 37150400001,
+        "Position": 199997,
+        "ItemNum": 210,
+        "WeaponBulletGroupPrice": 1100000,
+        "WeaponCouponPrice": 600000
+      },
+      "219": {
+        "ID": 219,
+        "WeaponBulletGroupID": 508,
+        "ItemID": 10040003613,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "220": {
+        "ID": 220,
+        "WeaponBulletGroupID": 508,
+        "ItemID": 37150500001,
+        "Position": 199997,
+        "ItemNum": 50,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "221": {
+        "ID": 221,
+        "WeaponBulletGroupID": 508,
+        "ItemID": 37150400001,
+        "Position": 199997,
+        "ItemNum": 205,
+        "WeaponBulletGroupPrice": 1150000,
+        "WeaponCouponPrice": 650000
+      },
+      "222": {
+        "ID": 222,
+        "WeaponBulletGroupID": 509,
+        "ItemID": 10050003620,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "223": {
+        "ID": 223,
+        "WeaponBulletGroupID": 509,
+        "ItemID": 37170500001,
+        "Position": 199997,
+        "ItemNum": 60,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "224": {
+        "ID": 224,
+        "WeaponBulletGroupID": 509,
+        "ItemID": 37170400001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 1650000,
+        "WeaponCouponPrice": 1100000
+      },
+      "225": {
+        "ID": 225,
+        "WeaponBulletGroupID": 510,
+        "ItemID": 10050003621,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "226": {
+        "ID": 226,
+        "WeaponBulletGroupID": 510,
+        "ItemID": 37170500001,
+        "Position": 199997,
+        "ItemNum": 60,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "227": {
+        "ID": 227,
+        "WeaponBulletGroupID": 510,
+        "ItemID": 37170400001,
+        "Position": 199997,
+        "ItemNum": 150,
+        "WeaponBulletGroupPrice": 1400000,
+        "WeaponCouponPrice": 850000
+      },
+      "228": {
+        "ID": 228,
+        "WeaponBulletGroupID": 511,
+        "ItemID": 10050003623,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "229": {
+        "ID": 229,
+        "WeaponBulletGroupID": 511,
+        "ItemID": 37170500001,
+        "Position": 199997,
+        "ItemNum": 30,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "230": {
+        "ID": 230,
+        "WeaponBulletGroupID": 511,
+        "ItemID": 37170400001,
+        "Position": 199997,
+        "ItemNum": 120,
+        "WeaponBulletGroupPrice": 1200000,
+        "WeaponCouponPrice": 850000
+      },
+      "231": {
+        "ID": 231,
+        "WeaponBulletGroupID": 512,
+        "ItemID": 10060003629,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "232": {
+        "ID": 232,
+        "WeaponBulletGroupID": 512,
+        "ItemID": 10070003638,
+        "Position": 114,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "233": {
+        "ID": 233,
+        "WeaponBulletGroupID": 512,
+        "ItemID": 37240700001,
+        "Position": 199997,
+        "ItemNum": 9,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "234": {
+        "ID": 234,
+        "WeaponBulletGroupID": 512,
+        "ItemID": 37200400001,
+        "Position": 199997,
+        "ItemNum": 120,
+        "WeaponBulletGroupPrice": 2000000,
+        "WeaponCouponPrice": 1100000
+      },
+      "235": {
+        "ID": 235,
+        "WeaponBulletGroupID": 513,
+        "ItemID": 10060003630,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "236": {
+        "ID": 236,
+        "WeaponBulletGroupID": 513,
+        "ItemID": 10020003599,
+        "Position": 112,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "237": {
+        "ID": 237,
+        "WeaponBulletGroupID": 513,
+        "ItemID": 37170600001,
+        "Position": 199997,
+        "ItemNum": 5,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "238": {
+        "ID": 238,
+        "WeaponBulletGroupID": 513,
+        "ItemID": 37170500001,
+        "Position": 199997,
+        "ItemNum": 15,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "239": {
+        "ID": 239,
+        "WeaponBulletGroupID": 513,
+        "ItemID": 37140400001,
+        "Position": 199997,
+        "ItemNum": 120,
+        "WeaponBulletGroupPrice": 1500000,
+        "WeaponCouponPrice": 1100000
+      },
+      "240": {
+        "ID": 240,
+        "WeaponBulletGroupID": 514,
+        "ItemID": 10050003635,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "241": {
+        "ID": 241,
+        "WeaponBulletGroupID": 514,
+        "ItemID": 10020003596,
+        "Position": 112,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "242": {
+        "ID": 242,
+        "WeaponBulletGroupID": 514,
+        "ItemID": 37170500001,
+        "Position": 199997,
+        "ItemNum": 30,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "243": {
+        "ID": 243,
+        "WeaponBulletGroupID": 514,
+        "ItemID": 37170400001,
+        "Position": 199997,
+        "ItemNum": 30,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "244": {
+        "ID": 244,
+        "WeaponBulletGroupID": 514,
+        "ItemID": 37260400001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 1550000,
+        "WeaponCouponPrice": 1100000
+      },
+      "245": {
+        "ID": 245,
+        "WeaponBulletGroupID": 515,
+        "ItemID": 10050003637,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "246": {
+        "ID": 246,
+        "WeaponBulletGroupID": 515,
+        "ItemID": 10030003641,
+        "Position": 112,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "247": {
+        "ID": 247,
+        "WeaponBulletGroupID": 515,
+        "ItemID": 37170500001,
+        "Position": 199997,
+        "ItemNum": 30,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "248": {
+        "ID": 248,
+        "WeaponBulletGroupID": 515,
+        "ItemID": 37170400001,
+        "Position": 199997,
+        "ItemNum": 30,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "249": {
+        "ID": 249,
+        "WeaponBulletGroupID": 515,
+        "ItemID": 37250400003,
+        "Position": 199997,
+        "ItemNum": 40,
+        "WeaponBulletGroupPrice": 1200000,
+        "WeaponCouponPrice": 850000
+      },
+      "250": {
+        "ID": 250,
+        "WeaponBulletGroupID": 516,
+        "ItemID": 10020003642,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "251": {
+        "ID": 251,
+        "WeaponBulletGroupID": 516,
+        "ItemID": 37260500001,
+        "Position": 199997,
+        "ItemNum": 60,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "252": {
+        "ID": 252,
+        "WeaponBulletGroupID": 516,
+        "ItemID": 37260400001,
+        "Position": 199997,
+        "ItemNum": 210,
+        "WeaponBulletGroupPrice": 1150000,
+        "WeaponCouponPrice": 500000
+      },
+      "253": {
+        "ID": 253,
+        "WeaponBulletGroupID": 601,
+        "ItemID": 10020003599,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "255": {
+        "ID": 255,
+        "WeaponBulletGroupID": 601,
+        "ItemID": 37140400001,
+        "Position": 199997,
+        "ItemNum": 120,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "254": {
+        "ID": 254,
+        "WeaponBulletGroupID": 601,
+        "ItemID": 10060003545,
+        "Position": 112,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "257": {
+        "ID": 257,
+        "WeaponBulletGroupID": 601,
+        "ItemID": 37170500001,
+        "Position": 199997,
+        "ItemNum": 20,
+        "WeaponBulletGroupPrice": 600000,
+        "WeaponCouponPrice": 450000
+      },
+      "258": {
+        "ID": 258,
+        "WeaponBulletGroupID": 602,
+        "ItemID": 10050003546,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "259": {
+        "ID": 259,
+        "WeaponBulletGroupID": 602,
+        "ItemID": 37170500001,
+        "Position": 199997,
+        "ItemNum": 60,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "260": {
+        "ID": 260,
+        "WeaponBulletGroupID": 602,
+        "ItemID": 37170400001,
+        "Position": 199997,
+        "ItemNum": 120,
+        "WeaponBulletGroupPrice": 1500000,
+        "WeaponCouponPrice": 950000
+      },
+      "261": {
+        "ID": 261,
+        "WeaponBulletGroupID": 603,
+        "ItemID": 10020003595,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "262": {
+        "ID": 262,
+        "WeaponBulletGroupID": 603,
+        "ItemID": 37260500001,
+        "Position": 199997,
+        "ItemNum": 60,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "263": {
+        "ID": 263,
+        "WeaponBulletGroupID": 603,
+        "ItemID": 37260400001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 1100000,
+        "WeaponCouponPrice": 650000
+      },
+      "264": {
+        "ID": 264,
+        "WeaponBulletGroupID": 604,
+        "ItemID": 10010003550,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "265": {
+        "ID": 265,
+        "WeaponBulletGroupID": 604,
+        "ItemID": 37100400001,
+        "Position": 199997,
+        "ItemNum": 180,
+        "WeaponBulletGroupPrice": 700000,
+        "WeaponCouponPrice": 400000
+      },
+      "266": {
+        "ID": 266,
+        "WeaponBulletGroupID": 605,
+        "ItemID": 10010003547,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "267": {
+        "ID": 267,
+        "WeaponBulletGroupID": 605,
+        "ItemID": 37110500001,
+        "Position": 199997,
+        "ItemNum": 20,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "268": {
+        "ID": 268,
+        "WeaponBulletGroupID": 605,
+        "ItemID": 37110400001,
+        "Position": 199997,
+        "ItemNum": 40,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "269": {
+        "ID": 269,
+        "WeaponBulletGroupID": 605,
+        "ItemID": 37110300001,
+        "Position": 199997,
+        "ItemNum": 90,
+        "WeaponBulletGroupPrice": 350000,
+        "WeaponCouponPrice": 200000
+      },
+      "270": {
+        "ID": 270,
+        "WeaponBulletGroupID": 606,
+        "ItemID": 10010003551,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "271": {
+        "ID": 271,
+        "WeaponBulletGroupID": 606,
+        "ItemID": 37120400002,
+        "Position": 199997,
+        "ItemNum": 120,
+        "WeaponBulletGroupPrice": 500000,
+        "WeaponCouponPrice": 300000
+      },
+      "272": {
+        "ID": 272,
+        "WeaponBulletGroupID": 607,
+        "ItemID": 10050003552,
+        "Position": 111,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "273": {
+        "ID": 273,
+        "WeaponBulletGroupID": 607,
+        "ItemID": 10070000019,
+        "Position": 114,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "274": {
+        "ID": 274,
+        "WeaponBulletGroupID": 607,
+        "ItemID": 37290500001,
+        "Position": 199997,
+        "ItemNum": 20,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "275": {
+        "ID": 275,
+        "WeaponBulletGroupID": 607,
+        "ItemID": 37290400001,
+        "Position": 199997,
+        "ItemNum": 40,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "276": {
+        "ID": 276,
+        "WeaponBulletGroupID": 607,
+        "ItemID": 37220400001,
+        "Position": 199997,
+        "ItemNum": 20,
+        "WeaponBulletGroupPrice": 550000,
+        "WeaponCouponPrice": 300000
+      },
+      "277": {
+        "ID": 277,
+        "WeaponBulletGroupID": 608,
+        "ItemID": 10070003548,
+        "Position": 114,
+        "ItemNum": 1,
+        "WeaponBulletGroupPrice": 0,
+        "WeaponCouponPrice": 0
+      },
+      "278": {
+        "ID": 278,
+        "WeaponBulletGroupID": 608,
+        "ItemID": 37200000001,
+        "Position": 199997,
+        "ItemNum": 120,
+        "WeaponBulletGroupPrice": 200000,
+        "WeaponCouponPrice": 150000
+      }
+    },
+    "_RowCount": 276
+  }
+]

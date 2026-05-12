@@ -1,0 +1,655 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "ItemTagFilterMap",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/ItemTagFilterMap",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "ItemTagFilterMap",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "0": {
+        "TagID": 0,
+        "Desc": "",
+        "bIsMainTag": 1,
+        "ParentTagID": 0,
+        "RowDescription": "None"
+      },
+      "1": {
+        "TagID": 1,
+        "Desc": null,
+        "bIsMainTag": 1,
+        "ParentTagID": 0,
+        "RowDescription": "None"
+      },
+      "2": {
+        "TagID": 2,
+        "Desc": null,
+        "bIsMainTag": 1,
+        "ParentTagID": 0,
+        "RowDescription": "None"
+      },
+      "3": {
+        "TagID": 3,
+        "Desc": null,
+        "bIsMainTag": 1,
+        "ParentTagID": 0,
+        "RowDescription": "None"
+      },
+      "4": {
+        "TagID": 4,
+        "Desc": null,
+        "bIsMainTag": 1,
+        "ParentTagID": 0,
+        "RowDescription": "None"
+      },
+      "5": {
+        "TagID": 5,
+        "Desc": null,
+        "bIsMainTag": 1,
+        "ParentTagID": 0,
+        "RowDescription": "None"
+      },
+      "6": {
+        "TagID": 6,
+        "Desc": null,
+        "bIsMainTag": 1,
+        "ParentTagID": 0,
+        "RowDescription": "None"
+      },
+      "7": {
+        "TagID": 7,
+        "Desc": null,
+        "bIsMainTag": 1,
+        "ParentTagID": 0,
+        "RowDescription": "None"
+      },
+      "8": {
+        "TagID": 8,
+        "Desc": null,
+        "bIsMainTag": 1,
+        "ParentTagID": 0,
+        "RowDescription": "None"
+      },
+      "9": {
+        "TagID": 9,
+        "Desc": null,
+        "bIsMainTag": 1,
+        "ParentTagID": 0,
+        "RowDescription": "None"
+      },
+      "10": {
+        "TagID": 10,
+        "Desc": null,
+        "bIsMainTag": 1,
+        "ParentTagID": 0,
+        "RowDescription": "None"
+      },
+      "11": {
+        "TagID": 11,
+        "Desc": null,
+        "bIsMainTag": 1,
+        "ParentTagID": 0,
+        "RowDescription": "None"
+      },
+      "12": {
+        "TagID": 12,
+        "Desc": null,
+        "bIsMainTag": 1,
+        "ParentTagID": 0,
+        "RowDescription": "None"
+      },
+      "13": {
+        "TagID": 13,
+        "Desc": null,
+        "bIsMainTag": 1,
+        "ParentTagID": 0,
+        "RowDescription": "None"
+      },
+      "14": {
+        "TagID": 14,
+        "Desc": null,
+        "bIsMainTag": 1,
+        "ParentTagID": 0,
+        "RowDescription": "None"
+      },
+      "15": {
+        "TagID": 15,
+        "Desc": null,
+        "bIsMainTag": 1,
+        "ParentTagID": 0,
+        "RowDescription": "None"
+      },
+      "16": {
+        "TagID": 16,
+        "Desc": null,
+        "bIsMainTag": 1,
+        "ParentTagID": 0,
+        "RowDescription": "None"
+      },
+      "101": {
+        "TagID": 101,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 1,
+        "RowDescription": "None"
+      },
+      "102": {
+        "TagID": 102,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 1,
+        "RowDescription": "None"
+      },
+      "103": {
+        "TagID": 103,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 1,
+        "RowDescription": "None"
+      },
+      "104": {
+        "TagID": 104,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 1,
+        "RowDescription": "None"
+      },
+      "105": {
+        "TagID": 105,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 1,
+        "RowDescription": "None"
+      },
+      "106": {
+        "TagID": 106,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 1,
+        "RowDescription": "None"
+      },
+      "107": {
+        "TagID": 107,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 1,
+        "RowDescription": "None"
+      },
+      "108": {
+        "TagID": 108,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 1,
+        "RowDescription": "None"
+      },
+      "201": {
+        "TagID": 201,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 2,
+        "RowDescription": "None"
+      },
+      "202": {
+        "TagID": 202,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 2,
+        "RowDescription": "None"
+      },
+      "203": {
+        "TagID": 203,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 2,
+        "RowDescription": "None"
+      },
+      "204": {
+        "TagID": 204,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 2,
+        "RowDescription": "None"
+      },
+      "301": {
+        "TagID": 301,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 3,
+        "RowDescription": "None"
+      },
+      "302": {
+        "TagID": 302,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 3,
+        "RowDescription": "None"
+      },
+      "303": {
+        "TagID": 303,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 3,
+        "RowDescription": "None"
+      },
+      "304": {
+        "TagID": 304,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 3,
+        "RowDescription": "None"
+      },
+      "305": {
+        "TagID": 305,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 3,
+        "RowDescription": "None"
+      },
+      "306": {
+        "TagID": 306,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 3,
+        "RowDescription": "None"
+      },
+      "307": {
+        "TagID": 307,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 3,
+        "RowDescription": "None"
+      },
+      "315": {
+        "TagID": 315,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 3,
+        "RowDescription": "None"
+      },
+      "401": {
+        "TagID": 401,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 4,
+        "RowDescription": "None"
+      },
+      "402": {
+        "TagID": 402,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 4,
+        "RowDescription": "None"
+      },
+      "403": {
+        "TagID": 403,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 4,
+        "RowDescription": "None"
+      },
+      "404": {
+        "TagID": 404,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 4,
+        "RowDescription": "None"
+      },
+      "405": {
+        "TagID": 405,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 4,
+        "RowDescription": "None"
+      },
+      "406": {
+        "TagID": 406,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 4,
+        "RowDescription": "None"
+      },
+      "407": {
+        "TagID": 407,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 4,
+        "RowDescription": "None"
+      },
+      "408": {
+        "TagID": 408,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 4,
+        "RowDescription": "None"
+      },
+      "409": {
+        "TagID": 409,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 4,
+        "RowDescription": "None"
+      },
+      "501": {
+        "TagID": 501,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 5,
+        "RowDescription": "None"
+      },
+      "502": {
+        "TagID": 502,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 5,
+        "RowDescription": "None"
+      },
+      "503": {
+        "TagID": 503,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 5,
+        "RowDescription": "None"
+      },
+      "504": {
+        "TagID": 504,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 5,
+        "RowDescription": "None"
+      },
+      "505": {
+        "TagID": 505,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 5,
+        "RowDescription": "None"
+      },
+      "506": {
+        "TagID": 506,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 5,
+        "RowDescription": "None"
+      },
+      "507": {
+        "TagID": 507,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 5,
+        "RowDescription": "None"
+      },
+      "510": {
+        "TagID": 510,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 5,
+        "RowDescription": "None"
+      },
+      "511": {
+        "TagID": 511,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 5,
+        "RowDescription": "None"
+      },
+      "512": {
+        "TagID": 512,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 5,
+        "RowDescription": "None"
+      },
+      "513": {
+        "TagID": 513,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 5,
+        "RowDescription": "None"
+      },
+      "514": {
+        "TagID": 514,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 5,
+        "RowDescription": "None"
+      },
+      "515": {
+        "TagID": 515,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 5,
+        "RowDescription": "None"
+      },
+      "516": {
+        "TagID": 516,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 5,
+        "RowDescription": "None"
+      },
+      "517": {
+        "TagID": 517,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 5,
+        "RowDescription": "None"
+      },
+      "518": {
+        "TagID": 518,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 5,
+        "RowDescription": "None"
+      },
+      "519": {
+        "TagID": 519,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 5,
+        "RowDescription": "None"
+      },
+      "520": {
+        "TagID": 520,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 5,
+        "RowDescription": "None"
+      },
+      "521": {
+        "TagID": 521,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 5,
+        "RowDescription": "None"
+      },
+      "522": {
+        "TagID": 522,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 5,
+        "RowDescription": "None"
+      },
+      "523": {
+        "TagID": 523,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 5,
+        "RowDescription": "None"
+      },
+      "524": {
+        "TagID": 524,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 5,
+        "RowDescription": "None"
+      },
+      "525": {
+        "TagID": 525,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 5,
+        "RowDescription": "None"
+      },
+      "526": {
+        "TagID": 526,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 5,
+        "RowDescription": "None"
+      },
+      "527": {
+        "TagID": 527,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 5,
+        "RowDescription": "None"
+      },
+      "528": {
+        "TagID": 528,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 5,
+        "RowDescription": "None"
+      },
+      "529": {
+        "TagID": 529,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 5,
+        "RowDescription": "None"
+      },
+      "601": {
+        "TagID": 601,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 6,
+        "RowDescription": "None"
+      },
+      "701": {
+        "TagID": 701,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 7,
+        "RowDescription": "None"
+      },
+      "702": {
+        "TagID": 702,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 7,
+        "RowDescription": "None"
+      },
+      "801": {
+        "TagID": 801,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 8,
+        "RowDescription": "None"
+      },
+      "802": {
+        "TagID": 802,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 8,
+        "RowDescription": "None"
+      },
+      "803": {
+        "TagID": 803,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 8,
+        "RowDescription": "None"
+      },
+      "1601": {
+        "TagID": 1601,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 16,
+        "RowDescription": "None"
+      },
+      "1602": {
+        "TagID": 1602,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 16,
+        "RowDescription": "None"
+      },
+      "1603": {
+        "TagID": 1603,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 16,
+        "RowDescription": "None"
+      },
+      "1604": {
+        "TagID": 1604,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 16,
+        "RowDescription": "None"
+      },
+      "1605": {
+        "TagID": 1605,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 16,
+        "RowDescription": "None"
+      },
+      "1606": {
+        "TagID": 1606,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 16,
+        "RowDescription": "None"
+      },
+      "1607": {
+        "TagID": 1607,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 16,
+        "RowDescription": "None"
+      },
+      "1608": {
+        "TagID": 1608,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 16,
+        "RowDescription": "None"
+      },
+      "1609": {
+        "TagID": 1609,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 16,
+        "RowDescription": "None"
+      },
+      "1610": {
+        "TagID": 1610,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 16,
+        "RowDescription": "None"
+      },
+      "1621": {
+        "TagID": 1621,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 16,
+        "RowDescription": "None"
+      },
+      "1631": {
+        "TagID": 1631,
+        "Desc": null,
+        "bIsMainTag": 0,
+        "ParentTagID": 16,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 91
+  }
+]

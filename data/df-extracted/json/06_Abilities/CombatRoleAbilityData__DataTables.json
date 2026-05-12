@@ -1,0 +1,138 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "CombatRoleAbilityData",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/CombatRoleAbilityData",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "CombatRoleAbilityDataInfo",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "1": {
+        "ID": 1,
+        "CombatRoleAbilityID": 10001,
+        "GameMode": 1,
+        "ThrowWeapon": 0,
+        "ThrowWeaponNum": 0,
+        "AbilityList": "2100001",
+        "SpecialItemIcon": "/Game/UI/UIAtlas/Common/BakedSprite/Common_ArmsSkills_Icon_0010.Common_ArmsSkills_Icon_0010",
+        "RowDescription": "None"
+      },
+      "2": {
+        "ID": 2,
+        "CombatRoleAbilityID": 10001,
+        "GameMode": 2,
+        "ThrowWeapon": 0,
+        "ThrowWeaponNum": 0,
+        "AbilityList": "",
+        "SpecialItemIcon": "",
+        "RowDescription": "None"
+      },
+      "3": {
+        "ID": 3,
+        "CombatRoleAbilityID": 10001,
+        "GameMode": 3,
+        "ThrowWeapon": 0,
+        "ThrowWeaponNum": 0,
+        "AbilityList": "2100001",
+        "SpecialItemIcon": "/Game/UI/UIAtlas/Common/BakedSprite/Common_ArmsSkills_Icon_0010.Common_ArmsSkills_Icon_0010",
+        "RowDescription": "None"
+      },
+      "4": {
+        "ID": 4,
+        "CombatRoleAbilityID": 10002,
+        "GameMode": 1,
+        "ThrowWeapon": 0,
+        "ThrowWeaponNum": 0,
+        "AbilityList": "2200001",
+        "SpecialItemIcon": "/Game/UI/UIAtlas/Common/BakedSprite/Common_ArmsSkills_Icon_0011.Common_ArmsSkills_Icon_0011",
+        "RowDescription": "None"
+      },
+      "5": {
+        "ID": 5,
+        "CombatRoleAbilityID": 10002,
+        "GameMode": 2,
+        "ThrowWeapon": 0,
+        "ThrowWeaponNum": 0,
+        "AbilityList": "",
+        "SpecialItemIcon": "",
+        "RowDescription": "None"
+      },
+      "6": {
+        "ID": 6,
+        "CombatRoleAbilityID": 10002,
+        "GameMode": 3,
+        "ThrowWeapon": 0,
+        "ThrowWeaponNum": 0,
+        "AbilityList": "2200001",
+        "SpecialItemIcon": "/Game/UI/UIAtlas/Common/BakedSprite/Common_ArmsSkills_Icon_0011.Common_ArmsSkills_Icon_0011",
+        "RowDescription": "None"
+      },
+      "7": {
+        "ID": 7,
+        "CombatRoleAbilityID": 10003,
+        "GameMode": 1,
+        "ThrowWeapon": 0,
+        "ThrowWeaponNum": 0,
+        "AbilityList": "2300001",
+        "SpecialItemIcon": "",
+        "RowDescription": "None"
+      },
+      "8": {
+        "ID": 8,
+        "CombatRoleAbilityID": 10003,
+        "GameMode": 2,
+        "ThrowWeapon": 0,
+        "ThrowWeaponNum": 0,
+        "AbilityList": "",
+        "SpecialItemIcon": "",
+        "RowDescription": "None"
+      },
+      "9": {
+        "ID": 9,
+        "CombatRoleAbilityID": 10003,
+        "GameMode": 3,
+        "ThrowWeapon": 0,
+        "ThrowWeaponNum": 0,
+        "AbilityList": "2300001",
+        "SpecialItemIcon": "",
+        "RowDescription": "None"
+      },
+      "10": {
+        "ID": 10,
+        "CombatRoleAbilityID": 10004,
+        "GameMode": 1,
+        "ThrowWeapon": 0,
+        "ThrowWeaponNum": 0,
+        "AbilityList": "2400001",
+        "SpecialItemIcon": "/Game/UI/UIAtlas/Common/BakedSprite/Common_ArmsSkills_Icon_0010.Common_ArmsSkills_Icon_0010",
+        "RowDescription": "None"
+      },
+      "11": {
+        "ID": 11,
+        "CombatRoleAbilityID": 10004,
+        "GameMode": 2,
+        "ThrowWeapon": 0,
+        "ThrowWeaponNum": 0,
+        "AbilityList": "",
+        "SpecialItemIcon": "",
+        "RowDescription": "None"
+      },
+      "12": {
+        "ID": 12,
+        "CombatRoleAbilityID": 10004,
+        "GameMode": 3,
+        "ThrowWeapon": 0,
+        "ThrowWeaponNum": 0,
+        "AbilityList": "2400001",
+        "SpecialItemIcon": "/Game/UI/UIAtlas/Common/BakedSprite/Common_ArmsSkills_Icon_0010.Common_ArmsSkills_Icon_0010",
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 12
+  }
+]

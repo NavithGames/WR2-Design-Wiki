@@ -1,0 +1,5 @@
+﻿RowName,GameModeType,DamageId,MaxLifeTime,EffectType,ExplosionType,WaterExplosionType,ExplosionSeconds,ExplosionDurationSeconds,SafeMoveDistance,DamageDistance,FullExplodeDamageDistance,TickDamageEffectInterval,KeepFireExcludeExplosionTime,KeepFireExcludeExplosionDelayTime,FadeOutTime,RowDescription
+遥控烟雾,0,40,0,EWeaponThrowableEffectType::Smoke,EWeaponThrowableExplosionType::Stop,EWeaponThrowableUnderWaterExplosionType::OutFromWaterStartExp,15,15,0,500,200,2,False,99,2,None
+41,0,41,0,EWeaponThrowableEffectType::Smoke,EWeaponThrowableExplosionType::Stop,EWeaponThrowableUnderWaterExplosionType::OutFromWaterStartExp,15,15,0,500,200,2,False,99,2,None
+投掷型干扰装置,0,50,0,EWeaponThrowableEffectType::Damage,EWeaponThrowableExplosionType::Timer,EWeaponThrowableUnderWaterExplosionType::OutFromWaterStartExp,3,4,0,1000,200,0,True,99,0,None
+C405_X,0,42,0,EWeaponThrowableEffectType::Damage,EWeaponThrowableExplosionType::Timer,EWeaponThrowableUnderWaterExplosionType::None,2.5,4,0,600,600,0,False,99,3,None

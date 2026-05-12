@@ -1,0 +1,89 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "RaidComment",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/RaidSettlement/RaidComment",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "RaidComment",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "1": {
+        "ID": 1,
+        "EvaluateName": null,
+        "EvaluateWeight": 10,
+        "RowDescription": "None"
+      },
+      "2": {
+        "ID": 2,
+        "EvaluateName": null,
+        "EvaluateWeight": 10,
+        "RowDescription": "None"
+      },
+      "3": {
+        "ID": 3,
+        "EvaluateName": null,
+        "EvaluateWeight": 10,
+        "RowDescription": "None"
+      },
+      "4": {
+        "ID": 4,
+        "EvaluateName": null,
+        "EvaluateWeight": 10,
+        "RowDescription": "None"
+      },
+      "5": {
+        "ID": 5,
+        "EvaluateName": null,
+        "EvaluateWeight": 10,
+        "RowDescription": "None"
+      },
+      "6": {
+        "ID": 6,
+        "EvaluateName": null,
+        "EvaluateWeight": 10,
+        "RowDescription": "None"
+      },
+      "7": {
+        "ID": 7,
+        "EvaluateName": null,
+        "EvaluateWeight": 10,
+        "RowDescription": "None"
+      },
+      "8": {
+        "ID": 8,
+        "EvaluateName": null,
+        "EvaluateWeight": 10,
+        "RowDescription": "None"
+      },
+      "9": {
+        "ID": 9,
+        "EvaluateName": null,
+        "EvaluateWeight": 10,
+        "RowDescription": "None"
+      },
+      "10": {
+        "ID": 10,
+        "EvaluateName": null,
+        "EvaluateWeight": 10,
+        "RowDescription": "None"
+      },
+      "11": {
+        "ID": 11,
+        "EvaluateName": null,
+        "EvaluateWeight": 2,
+        "RowDescription": "None"
+      },
+      "12": {
+        "ID": 12,
+        "EvaluateName": null,
+        "EvaluateWeight": 2,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 12
+  }
+]

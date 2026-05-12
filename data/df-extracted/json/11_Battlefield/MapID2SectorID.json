@@ -1,0 +1,827 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "MapID2SectorID",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/MapID2SectorID",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "MapID2SectorID",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "33": {
+        "MapID": 33,
+        "SectorID": 0,
+        "RowDescription": "None"
+      },
+      "34": {
+        "MapID": 34,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "54": {
+        "MapID": 54,
+        "SectorID": 0,
+        "RowDescription": "None"
+      },
+      "75": {
+        "MapID": 75,
+        "SectorID": 0,
+        "RowDescription": "None"
+      },
+      "103": {
+        "MapID": 103,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "105": {
+        "MapID": 105,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "107": {
+        "MapID": 107,
+        "SectorID": 0,
+        "RowDescription": "None"
+      },
+      "108": {
+        "MapID": 108,
+        "SectorID": 5,
+        "RowDescription": "None"
+      },
+      "109": {
+        "MapID": 109,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "111": {
+        "MapID": 111,
+        "SectorID": 0,
+        "RowDescription": "None"
+      },
+      "112": {
+        "MapID": 112,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "113": {
+        "MapID": 113,
+        "SectorID": 0,
+        "RowDescription": "None"
+      },
+      "114": {
+        "MapID": 114,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "116": {
+        "MapID": 116,
+        "SectorID": 4,
+        "RowDescription": "None"
+      },
+      "117": {
+        "MapID": 117,
+        "SectorID": 1,
+        "RowDescription": "None"
+      },
+      "118": {
+        "MapID": 118,
+        "SectorID": 1,
+        "RowDescription": "None"
+      },
+      "119": {
+        "MapID": 119,
+        "SectorID": 1,
+        "RowDescription": "None"
+      },
+      "121": {
+        "MapID": 121,
+        "SectorID": 0,
+        "RowDescription": "None"
+      },
+      "122": {
+        "MapID": 122,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "123": {
+        "MapID": 123,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "124": {
+        "MapID": 124,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "125": {
+        "MapID": 125,
+        "SectorID": 1,
+        "RowDescription": "None"
+      },
+      "126": {
+        "MapID": 126,
+        "SectorID": 1,
+        "RowDescription": "None"
+      },
+      "127": {
+        "MapID": 127,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "128": {
+        "MapID": 128,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "132": {
+        "MapID": 132,
+        "SectorID": 0,
+        "RowDescription": "None"
+      },
+      "133": {
+        "MapID": 133,
+        "SectorID": 0,
+        "RowDescription": "None"
+      },
+      "134": {
+        "MapID": 134,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "136": {
+        "MapID": 136,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "137": {
+        "MapID": 137,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "210": {
+        "MapID": 210,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "213": {
+        "MapID": 213,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "227": {
+        "MapID": 227,
+        "SectorID": 5,
+        "RowDescription": "None"
+      },
+      "232": {
+        "MapID": 232,
+        "SectorID": 0,
+        "RowDescription": "None"
+      },
+      "233": {
+        "MapID": 233,
+        "SectorID": 0,
+        "RowDescription": "None"
+      },
+      "234": {
+        "MapID": 234,
+        "SectorID": 0,
+        "RowDescription": "None"
+      },
+      "235": {
+        "MapID": 235,
+        "SectorID": 0,
+        "RowDescription": "None"
+      },
+      "236": {
+        "MapID": 236,
+        "SectorID": 0,
+        "RowDescription": "None"
+      },
+      "237": {
+        "MapID": 237,
+        "SectorID": 0,
+        "RowDescription": "None"
+      },
+      "238": {
+        "MapID": 238,
+        "SectorID": 0,
+        "RowDescription": "None"
+      },
+      "401": {
+        "MapID": 401,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "402": {
+        "MapID": 402,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "403": {
+        "MapID": 403,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "501": {
+        "MapID": 501,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "502": {
+        "MapID": 502,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "503": {
+        "MapID": 503,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "504": {
+        "MapID": 504,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "505": {
+        "MapID": 505,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "506": {
+        "MapID": 506,
+        "SectorID": 1,
+        "RowDescription": "None"
+      },
+      "507": {
+        "MapID": 507,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "508": {
+        "MapID": 508,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "509": {
+        "MapID": 509,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "510": {
+        "MapID": 510,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "511": {
+        "MapID": 511,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "512": {
+        "MapID": 512,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "513": {
+        "MapID": 513,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "514": {
+        "MapID": 514,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "515": {
+        "MapID": 515,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "516": {
+        "MapID": 516,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "517": {
+        "MapID": 517,
+        "SectorID": 4,
+        "RowDescription": "None"
+      },
+      "526": {
+        "MapID": 526,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "551": {
+        "MapID": 551,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "553": {
+        "MapID": 553,
+        "SectorID": 4,
+        "RowDescription": "None"
+      },
+      "554": {
+        "MapID": 554,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "555": {
+        "MapID": 555,
+        "SectorID": 4,
+        "RowDescription": "None"
+      },
+      "556": {
+        "MapID": 556,
+        "SectorID": 4,
+        "RowDescription": "None"
+      },
+      "557": {
+        "MapID": 557,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "558": {
+        "MapID": 558,
+        "SectorID": 1,
+        "RowDescription": "None"
+      },
+      "559": {
+        "MapID": 559,
+        "SectorID": 4,
+        "RowDescription": "None"
+      },
+      "560": {
+        "MapID": 560,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "561": {
+        "MapID": 561,
+        "SectorID": 4,
+        "RowDescription": "None"
+      },
+      "562": {
+        "MapID": 562,
+        "SectorID": 4,
+        "RowDescription": "None"
+      },
+      "563": {
+        "MapID": 563,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "564": {
+        "MapID": 564,
+        "SectorID": 1,
+        "RowDescription": "None"
+      },
+      "565": {
+        "MapID": 565,
+        "SectorID": 4,
+        "RowDescription": "None"
+      },
+      "566": {
+        "MapID": 566,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "567": {
+        "MapID": 567,
+        "SectorID": 4,
+        "RowDescription": "None"
+      },
+      "568": {
+        "MapID": 568,
+        "SectorID": 4,
+        "RowDescription": "None"
+      },
+      "569": {
+        "MapID": 569,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "570": {
+        "MapID": 570,
+        "SectorID": 1,
+        "RowDescription": "None"
+      },
+      "571": {
+        "MapID": 571,
+        "SectorID": 4,
+        "RowDescription": "None"
+      },
+      "572": {
+        "MapID": 572,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "573": {
+        "MapID": 573,
+        "SectorID": 4,
+        "RowDescription": "None"
+      },
+      "574": {
+        "MapID": 574,
+        "SectorID": 4,
+        "RowDescription": "None"
+      },
+      "575": {
+        "MapID": 575,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "576": {
+        "MapID": 576,
+        "SectorID": 1,
+        "RowDescription": "None"
+      },
+      "577": {
+        "MapID": 577,
+        "SectorID": 4,
+        "RowDescription": "None"
+      },
+      "578": {
+        "MapID": 578,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "579": {
+        "MapID": 579,
+        "SectorID": 4,
+        "RowDescription": "None"
+      },
+      "580": {
+        "MapID": 580,
+        "SectorID": 4,
+        "RowDescription": "None"
+      },
+      "581": {
+        "MapID": 581,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "582": {
+        "MapID": 582,
+        "SectorID": 1,
+        "RowDescription": "None"
+      },
+      "583": {
+        "MapID": 583,
+        "SectorID": 4,
+        "RowDescription": "None"
+      },
+      "584": {
+        "MapID": 584,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "585": {
+        "MapID": 585,
+        "SectorID": 4,
+        "RowDescription": "None"
+      },
+      "586": {
+        "MapID": 586,
+        "SectorID": 4,
+        "RowDescription": "None"
+      },
+      "587": {
+        "MapID": 587,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "588": {
+        "MapID": 588,
+        "SectorID": 1,
+        "RowDescription": "None"
+      },
+      "601": {
+        "MapID": 601,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "602": {
+        "MapID": 602,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "603": {
+        "MapID": 603,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "604": {
+        "MapID": 604,
+        "SectorID": 1,
+        "RowDescription": "None"
+      },
+      "605": {
+        "MapID": 605,
+        "SectorID": 5,
+        "RowDescription": "None"
+      },
+      "606": {
+        "MapID": 606,
+        "SectorID": 0,
+        "RowDescription": "None"
+      },
+      "607": {
+        "MapID": 607,
+        "SectorID": 0,
+        "RowDescription": "None"
+      },
+      "621": {
+        "MapID": 621,
+        "SectorID": 0,
+        "RowDescription": "None"
+      },
+      "622": {
+        "MapID": 622,
+        "SectorID": 0,
+        "RowDescription": "None"
+      },
+      "623": {
+        "MapID": 623,
+        "SectorID": 0,
+        "RowDescription": "None"
+      },
+      "624": {
+        "MapID": 624,
+        "SectorID": 0,
+        "RowDescription": "None"
+      },
+      "625": {
+        "MapID": 625,
+        "SectorID": 0,
+        "RowDescription": "None"
+      },
+      "626": {
+        "MapID": 626,
+        "SectorID": 0,
+        "RowDescription": "None"
+      },
+      "627": {
+        "MapID": 627,
+        "SectorID": 0,
+        "RowDescription": "None"
+      },
+      "801": {
+        "MapID": 801,
+        "SectorID": 0,
+        "RowDescription": "None"
+      },
+      "802": {
+        "MapID": 802,
+        "SectorID": 5,
+        "RowDescription": "None"
+      },
+      "803": {
+        "MapID": 803,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "804": {
+        "MapID": 804,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "805": {
+        "MapID": 805,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "806": {
+        "MapID": 806,
+        "SectorID": 5,
+        "RowDescription": "None"
+      },
+      "901": {
+        "MapID": 901,
+        "SectorID": 4,
+        "RowDescription": "None"
+      },
+      "902": {
+        "MapID": 902,
+        "SectorID": 4,
+        "RowDescription": "None"
+      },
+      "903": {
+        "MapID": 903,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "904": {
+        "MapID": 904,
+        "SectorID": 4,
+        "RowDescription": "None"
+      },
+      "906": {
+        "MapID": 906,
+        "SectorID": 1,
+        "RowDescription": "None"
+      },
+      "2401": {
+        "MapID": 2401,
+        "SectorID": 5,
+        "RowDescription": "None"
+      },
+      "2402": {
+        "MapID": 2402,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "2403": {
+        "MapID": 2403,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "2404": {
+        "MapID": 2404,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "2405": {
+        "MapID": 2405,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "2406": {
+        "MapID": 2406,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "2407": {
+        "MapID": 2407,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "956": {
+        "MapID": 956,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "959": {
+        "MapID": 959,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "957": {
+        "MapID": 957,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "958": {
+        "MapID": 958,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "960": {
+        "MapID": 960,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "961": {
+        "MapID": 961,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "962": {
+        "MapID": 962,
+        "SectorID": 1,
+        "RowDescription": "None"
+      },
+      "963": {
+        "MapID": 963,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "965": {
+        "MapID": 965,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "966": {
+        "MapID": 966,
+        "SectorID": 4,
+        "RowDescription": "None"
+      },
+      "967": {
+        "MapID": 967,
+        "SectorID": 4,
+        "RowDescription": "None"
+      },
+      "969": {
+        "MapID": 969,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "970": {
+        "MapID": 970,
+        "SectorID": 4,
+        "RowDescription": "None"
+      },
+      "971": {
+        "MapID": 971,
+        "SectorID": 4,
+        "RowDescription": "None"
+      },
+      "972": {
+        "MapID": 972,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "973": {
+        "MapID": 973,
+        "SectorID": 4,
+        "RowDescription": "None"
+      },
+      "974": {
+        "MapID": 974,
+        "SectorID": 1,
+        "RowDescription": "None"
+      },
+      "1059": {
+        "MapID": 1059,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "1060": {
+        "MapID": 1060,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "1061": {
+        "MapID": 1061,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "1062": {
+        "MapID": 1062,
+        "SectorID": 1,
+        "RowDescription": "None"
+      },
+      "1063": {
+        "MapID": 1063,
+        "SectorID": 2,
+        "RowDescription": "None"
+      },
+      "980": {
+        "MapID": 980,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "886": {
+        "MapID": 886,
+        "SectorID": 1,
+        "RowDescription": "None"
+      },
+      "996": {
+        "MapID": 996,
+        "SectorID": 1,
+        "RowDescription": "None"
+      },
+      "1107": {
+        "MapID": 1107,
+        "SectorID": 0,
+        "RowDescription": "None"
+      },
+      "1302": {
+        "MapID": 1302,
+        "SectorID": 0,
+        "RowDescription": "None"
+      },
+      "981": {
+        "MapID": 981,
+        "SectorID": 1,
+        "RowDescription": "None"
+      },
+      "887": {
+        "MapID": 887,
+        "SectorID": 4,
+        "RowDescription": "None"
+      },
+      "889": {
+        "MapID": 889,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "900": {
+        "MapID": 900,
+        "SectorID": 3,
+        "RowDescription": "None"
+      },
+      "999": {
+        "MapID": 999,
+        "SectorID": 3,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 162
+  }
+]

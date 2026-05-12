@@ -1,0 +1,48 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "PvpAIFightStyleScoresConfigTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/CharacterTemplate/PvPAI/PvpAIFightStyleScoresConfigTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "PVPAIFightStyleScoresConfig",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "Aggressive": {
+        "Style": "EPVPAIFightStyle::Aggressive",
+        "MainTargetTreat_Medium": 30,
+        "MainTargetTreat_Hight": 70,
+        "MainTargetVulnerable_Medium": 0.3,
+        "MainTargetVulnerable_High": 0.7,
+        "EnvironmentTreat_Medium": 30,
+        "EnvironmentTreat_High": 70,
+        "RowDescription": "None"
+      },
+      "Defensive": {
+        "Style": "EPVPAIFightStyle::Defensive",
+        "MainTargetTreat_Medium": 30,
+        "MainTargetTreat_Hight": 70,
+        "MainTargetVulnerable_Medium": 0.3,
+        "MainTargetVulnerable_High": 0.7,
+        "EnvironmentTreat_Medium": 30,
+        "EnvironmentTreat_High": 70,
+        "RowDescription": "None"
+      },
+      "Passive": {
+        "Style": "EPVPAIFightStyle::Passive",
+        "MainTargetTreat_Medium": 30,
+        "MainTargetTreat_Hight": 70,
+        "MainTargetVulnerable_Medium": 0.3,
+        "MainTargetVulnerable_High": 0.7,
+        "EnvironmentTreat_Medium": 30,
+        "EnvironmentTreat_High": 70,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 3
+  }
+]

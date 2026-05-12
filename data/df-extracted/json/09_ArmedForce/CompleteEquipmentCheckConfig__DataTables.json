@@ -1,0 +1,259 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "CompleteEquipmentCheckConfig",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/CompleteEquipmentCheckConfig",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "CompleteEquipmentCheckConfig",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "1": {
+        "Key": 1,
+        "CheckMainType": 1,
+        "CheckSubType": 1,
+        "Switch": true,
+        "CheckValue": 180,
+        "MatchModeIDList": [],
+        "AbnormalDesc": null,
+        "RowDescription": "None"
+      },
+      "2": {
+        "Key": 2,
+        "CheckMainType": 1,
+        "CheckSubType": 2,
+        "Switch": true,
+        "CheckValue": 180,
+        "MatchModeIDList": [],
+        "AbnormalDesc": null,
+        "RowDescription": "None"
+      },
+      "3": {
+        "Key": 3,
+        "CheckMainType": 1,
+        "CheckSubType": 3,
+        "Switch": true,
+        "CheckValue": 30,
+        "MatchModeIDList": [],
+        "AbnormalDesc": null,
+        "RowDescription": "None"
+      },
+      "4": {
+        "Key": 4,
+        "CheckMainType": 1,
+        "CheckSubType": 4,
+        "Switch": true,
+        "CheckValue": 180,
+        "MatchModeIDList": [],
+        "AbnormalDesc": null,
+        "RowDescription": "None"
+      },
+      "5": {
+        "Key": 5,
+        "CheckMainType": 1,
+        "CheckSubType": 5,
+        "Switch": true,
+        "CheckValue": 60,
+        "MatchModeIDList": [],
+        "AbnormalDesc": null,
+        "RowDescription": "None"
+      },
+      "6": {
+        "Key": 6,
+        "CheckMainType": 1,
+        "CheckSubType": 6,
+        "Switch": true,
+        "CheckValue": 30,
+        "MatchModeIDList": [],
+        "AbnormalDesc": null,
+        "RowDescription": "None"
+      },
+      "7": {
+        "Key": 7,
+        "CheckMainType": 1,
+        "CheckSubType": 7,
+        "Switch": true,
+        "CheckValue": 60,
+        "MatchModeIDList": [],
+        "AbnormalDesc": null,
+        "RowDescription": "None"
+      },
+      "8": {
+        "Key": 8,
+        "CheckMainType": 1,
+        "CheckSubType": 8,
+        "Switch": true,
+        "CheckValue": 2,
+        "MatchModeIDList": [],
+        "AbnormalDesc": null,
+        "RowDescription": "None"
+      },
+      "9": {
+        "Key": 9,
+        "CheckMainType": 1,
+        "CheckSubType": 15,
+        "Switch": true,
+        "CheckValue": 30,
+        "MatchModeIDList": [],
+        "AbnormalDesc": null,
+        "RowDescription": "None"
+      },
+      "10": {
+        "Key": 10,
+        "CheckMainType": 5,
+        "CheckSubType": 1,
+        "Switch": true,
+        "CheckValue": -1,
+        "MatchModeIDList": [],
+        "AbnormalDesc": null,
+        "RowDescription": "None"
+      },
+      "11": {
+        "Key": 11,
+        "CheckMainType": 5,
+        "CheckSubType": 2,
+        "Switch": true,
+        "CheckValue": -1,
+        "MatchModeIDList": [],
+        "AbnormalDesc": null,
+        "RowDescription": "None"
+      },
+      "12": {
+        "Key": 12,
+        "CheckMainType": 5,
+        "CheckSubType": 3,
+        "Switch": false,
+        "CheckValue": -1,
+        "MatchModeIDList": [],
+        "AbnormalDesc": null,
+        "RowDescription": "None"
+      },
+      "13": {
+        "Key": 13,
+        "CheckMainType": 5,
+        "CheckSubType": 4,
+        "Switch": false,
+        "CheckValue": -1,
+        "MatchModeIDList": [],
+        "AbnormalDesc": null,
+        "RowDescription": "None"
+      },
+      "14": {
+        "Key": 14,
+        "CheckMainType": 2,
+        "CheckSubType": 101,
+        "Switch": true,
+        "CheckValue": 0.5,
+        "MatchModeIDList": [],
+        "AbnormalDesc": null,
+        "RowDescription": "None"
+      },
+      "15": {
+        "Key": 15,
+        "CheckMainType": 2,
+        "CheckSubType": 105,
+        "Switch": true,
+        "CheckValue": 0.5,
+        "MatchModeIDList": [],
+        "AbnormalDesc": null,
+        "RowDescription": "None"
+      },
+      "16": {
+        "Key": 16,
+        "CheckMainType": 4,
+        "CheckSubType": 0,
+        "Switch": true,
+        "CheckValue": 0.5,
+        "MatchModeIDList": [],
+        "AbnormalDesc": null,
+        "RowDescription": "None"
+      },
+      "17": {
+        "Key": 17,
+        "CheckMainType": 3,
+        "CheckSubType": 0,
+        "Switch": true,
+        "CheckValue": 0,
+        "MatchModeIDList": [],
+        "AbnormalDesc": null,
+        "RowDescription": "None"
+      },
+      "18": {
+        "Key": 18,
+        "CheckMainType": 9,
+        "CheckSubType": 0,
+        "Switch": true,
+        "CheckValue": -1,
+        "MatchModeIDList": [],
+        "AbnormalDesc": null,
+        "RowDescription": "None"
+      },
+      "19": {
+        "Key": 19,
+        "CheckMainType": 6,
+        "CheckSubType": 0,
+        "Switch": true,
+        "CheckValue": -1,
+        "MatchModeIDList": [],
+        "AbnormalDesc": null,
+        "RowDescription": "None"
+      },
+      "20": {
+        "Key": 20,
+        "CheckMainType": 7,
+        "CheckSubType": 7,
+        "Switch": true,
+        "CheckValue": -1,
+        "MatchModeIDList": [
+          142232163
+        ],
+        "AbnormalDesc": null,
+        "RowDescription": "None"
+      },
+      "21": {
+        "Key": 21,
+        "CheckMainType": 8,
+        "CheckSubType": 109,
+        "Switch": true,
+        "CheckValue": -1,
+        "MatchModeIDList": [],
+        "AbnormalDesc": null,
+        "RowDescription": "None"
+      },
+      "22": {
+        "Key": 22,
+        "CheckMainType": 8,
+        "CheckSubType": 116,
+        "Switch": true,
+        "CheckValue": -1,
+        "MatchModeIDList": [],
+        "AbnormalDesc": null,
+        "RowDescription": "None"
+      },
+      "23": {
+        "Key": 23,
+        "CheckMainType": 10,
+        "CheckSubType": 0,
+        "Switch": true,
+        "CheckValue": -1,
+        "MatchModeIDList": [],
+        "AbnormalDesc": null,
+        "RowDescription": "None"
+      },
+      "24": {
+        "Key": 24,
+        "CheckMainType": 11,
+        "CheckSubType": 0,
+        "Switch": true,
+        "CheckValue": -1,
+        "MatchModeIDList": [],
+        "AbnormalDesc": null,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 24
+  }
+]

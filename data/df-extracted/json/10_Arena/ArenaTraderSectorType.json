@@ -1,0 +1,52 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "ArenaTraderSectorType",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/ArenaTrader/ArenaTraderSectorType",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "TraderSectorTypeInfo",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "1": {
+        "TraderSectorID": 1,
+        "QualityID": 100001,
+        "TraderSectorTypeName": null,
+        "TraderSectorTypeKey": "Support",
+        "RowDescription": "None"
+      },
+      "2": {
+        "TraderSectorID": 2,
+        "QualityID": 100002,
+        "TraderSectorTypeName": null,
+        "TraderSectorTypeKey": "Combat",
+        "RowDescription": "None"
+      },
+      "3": {
+        "TraderSectorID": 3,
+        "QualityID": 100003,
+        "TraderSectorTypeName": null,
+        "TraderSectorTypeKey": "Tactical",
+        "RowDescription": "None"
+      },
+      "4": {
+        "TraderSectorID": 4,
+        "QualityID": 100004,
+        "TraderSectorTypeName": null,
+        "TraderSectorTypeKey": "Med",
+        "RowDescription": "None"
+      },
+      "5": {
+        "TraderSectorID": 5,
+        "QualityID": 100006,
+        "TraderSectorTypeName": null,
+        "TraderSectorTypeKey": "Research",
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 5
+  }
+]

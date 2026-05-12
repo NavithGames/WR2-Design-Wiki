@@ -1,0 +1,765 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "WeaponThrowableProjectileTable_CombinationTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Ability/OperatorFormTool/CombinationTables/WeaponThrowableProjectileTable_CombinationTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "WeaponThrowableDataProjectile",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "\u533B\u7597\u7C89\u5C18": {
+        "GameModeType": 0,
+        "ProjectileId": 61,
+        "ThreatId": 0,
+        "AudioId": 0,
+        "bTriggerExplosionWhenDefenseByADS": false,
+        "ThrowableWeaponTypeForADS": "EGPThrowableWeaponTypeForADS::Placement",
+        "ProjectileClassBP": {
+          "AssetPath": "/Game/BluePrints/Ability/MedicalSoldier/103/BP_AbilityBullet_C103_MedicalDrone.BP_AbilityBullet_C103_MedicalDrone_C",
+          "SubPath": ""
+        },
+        "ProjectileMesh": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Weapons/MilitaryProps/Support_C103_MedicalDrone/Support_C103_MedicalDrone_3P.Support_C103_MedicalDrone_3P"
+        },
+        "ProjectileAnimationBP": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ProjectileMeshRotator": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "bUseWeaponRotation": false,
+        "ProjectileMeshSize": {
+          "_StructType": "FVector2D",
+          "_Value": "X=1.000 Y=1.000"
+        },
+        "VelocityThrowHigh": 2000,
+        "VelocityThrowLow": 900,
+        "GravityScale": 0,
+        "ZeroGravityDistance": 0,
+        "bShouldBounce": true,
+        "bCanBeCountered": false,
+        "SmokeBreakSetting": {
+          "_StructType": "FStructFallback",
+          "SmokeBreakType": "ESmokeBreakType::None",
+          "SmokeBreakID": "None",
+          "SmokeID_SOL": 0,
+          "SmokeID_MP": 0
+        },
+        "bGenerateSmokeActor": false,
+        "SmokeEmitActorBP": null,
+        "ProjectileSoftClassBP": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "Bounciness": 0.3,
+        "WallBounciness": 0.3,
+        "CeilingBounciness": 0.5,
+        "CharacterBounciness": 0.2,
+        "Friction": 1,
+        "CharacterFriction": 0.9,
+        "BounceVelocityStopLimited": 0,
+        "RotationRate": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "FixedMoveFrame": 30,
+        "WaterDragFactorLow": 0,
+        "WaterDragFactorHigh": 0.01,
+        "WaterDragChangeVelocity": 1200,
+        "UnderWaterMinHorizontalVelocity": 5,
+        "WaterBuoyancyScale": -0.2,
+        "RowDescription": "None"
+      },
+      "\u6551\u63F4\u65E0\u4EBA\u673A": {
+        "GameModeType": 0,
+        "ProjectileId": 63,
+        "ThreatId": 0,
+        "AudioId": 0,
+        "bTriggerExplosionWhenDefenseByADS": false,
+        "ThrowableWeaponTypeForADS": "EGPThrowableWeaponTypeForADS::Placement",
+        "ProjectileClassBP": {
+          "AssetPath": "/Game/BluePrints/Ability/MedicalSoldier/103/BP_AbilityBullet_C103_Butter.BP_AbilityBullet_C103_Butter_C",
+          "SubPath": ""
+        },
+        "ProjectileMesh": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Weapons/MilitaryProps/Support_C103_Butterfly/Support_C103_Butterfly_3P.Support_C103_Butterfly_3P"
+        },
+        "ProjectileAnimationBP": {
+          "AssetPath": "/Game/Models/Weapons/MilitaryProps/Support_C103_Butterfly/ABP_Support_C103_Butterfly_1P.ABP_Support_C103_Butterfly_1P_C",
+          "SubPath": ""
+        },
+        "ProjectileMeshRotator": {
+          "Pitch": 0,
+          "Yaw": -90,
+          "Roll": 0
+        },
+        "bUseWeaponRotation": false,
+        "ProjectileMeshSize": {
+          "_StructType": "FVector2D",
+          "_Value": "X=1.000 Y=2.000"
+        },
+        "VelocityThrowHigh": 1800,
+        "VelocityThrowLow": 900,
+        "GravityScale": 0,
+        "ZeroGravityDistance": 0,
+        "bShouldBounce": true,
+        "bCanBeCountered": false,
+        "SmokeBreakSetting": {
+          "_StructType": "FStructFallback",
+          "SmokeBreakType": "ESmokeBreakType::None",
+          "SmokeBreakID": "None",
+          "SmokeID_SOL": 0,
+          "SmokeID_MP": 0
+        },
+        "bGenerateSmokeActor": false,
+        "SmokeEmitActorBP": null,
+        "ProjectileSoftClassBP": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "Bounciness": 0.7,
+        "WallBounciness": 0.7,
+        "CeilingBounciness": 0.7,
+        "CharacterBounciness": 0.2,
+        "Friction": 0.2,
+        "CharacterFriction": 0.9,
+        "BounceVelocityStopLimited": 10,
+        "RotationRate": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "FixedMoveFrame": 30,
+        "WaterDragFactorLow": 0,
+        "WaterDragFactorHigh": 0.01,
+        "WaterDragChangeVelocity": 1200,
+        "UnderWaterMinHorizontalVelocity": 5,
+        "WaterBuoyancyScale": -0.2,
+        "RowDescription": "None"
+      },
+      "\u9065\u63A7\u70DF\u96FETest": {
+        "GameModeType": 0,
+        "ProjectileId": 82,
+        "ThreatId": 34,
+        "AudioId": 0,
+        "bTriggerExplosionWhenDefenseByADS": true,
+        "ThrowableWeaponTypeForADS": "EGPThrowableWeaponTypeForADS::Special",
+        "ProjectileClassBP": {
+          "AssetPath": "/Game/BluePrints/Ability/MedicalSoldier/103/BP_C103_Smoke.BP_C103_Smoke_C",
+          "SubPath": ""
+        },
+        "ProjectileMesh": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Weapons/MilitaryProps/Support_C103_ControlSmoke/Support_C103_ControlSmoke_3P.Support_C103_ControlSmoke_3P"
+        },
+        "ProjectileAnimationBP": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ProjectileMeshRotator": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 90
+        },
+        "bUseWeaponRotation": false,
+        "ProjectileMeshSize": {
+          "_StructType": "FVector2D",
+          "_Value": "X=3.000 Y=3.000"
+        },
+        "VelocityThrowHigh": 1800,
+        "VelocityThrowLow": 900,
+        "GravityScale": 1,
+        "ZeroGravityDistance": 0,
+        "bShouldBounce": false,
+        "bCanBeCountered": true,
+        "SmokeBreakSetting": {
+          "_StructType": "FStructFallback",
+          "SmokeBreakType": "ESmokeBreakType::SmokeBreakTaker",
+          "SmokeBreakID": "None",
+          "SmokeID_SOL": 23,
+          "SmokeID_MP": 24
+        },
+        "bGenerateSmokeActor": true,
+        "SmokeEmitActorBP": null,
+        "ProjectileSoftClassBP": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "Bounciness": 0.5,
+        "WallBounciness": 0.5,
+        "CeilingBounciness": 0.5,
+        "CharacterBounciness": 0.05,
+        "Friction": 0.8,
+        "CharacterFriction": 0.9,
+        "BounceVelocityStopLimited": 10,
+        "RotationRate": {
+          "Pitch": 280,
+          "Yaw": 280,
+          "Roll": 290
+        },
+        "FixedMoveFrame": 30,
+        "WaterDragFactorLow": 0.6,
+        "WaterDragFactorHigh": 0.006,
+        "WaterDragChangeVelocity": 200,
+        "UnderWaterMinHorizontalVelocity": 5,
+        "WaterBuoyancyScale": 0.2,
+        "RowDescription": "None"
+      },
+      "ANewTest83": {
+        "GameModeType": 0,
+        "ProjectileId": 83,
+        "ThreatId": 34,
+        "AudioId": 0,
+        "bTriggerExplosionWhenDefenseByADS": true,
+        "ThrowableWeaponTypeForADS": "EGPThrowableWeaponTypeForADS::Special",
+        "ProjectileClassBP": {
+          "AssetPath": "/Game/BluePrints/Ability/MedicalSoldier/103/BP_C103_Smoke.BP_C103_Smoke_C",
+          "SubPath": ""
+        },
+        "ProjectileMesh": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Weapons/MilitaryProps/Support_C103_ControlSmoke/Support_C103_ControlSmoke_3P.Support_C103_ControlSmoke_3P"
+        },
+        "ProjectileAnimationBP": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ProjectileMeshRotator": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 90
+        },
+        "bUseWeaponRotation": false,
+        "ProjectileMeshSize": {
+          "_StructType": "FVector2D",
+          "_Value": "X=3.000 Y=3.000"
+        },
+        "VelocityThrowHigh": 1800,
+        "VelocityThrowLow": 900,
+        "GravityScale": 1,
+        "ZeroGravityDistance": 0,
+        "bShouldBounce": false,
+        "bCanBeCountered": true,
+        "SmokeBreakSetting": {
+          "_StructType": "FStructFallback",
+          "SmokeBreakType": "ESmokeBreakType::SmokeBreakTaker",
+          "SmokeBreakID": "None",
+          "SmokeID_SOL": 23,
+          "SmokeID_MP": 24
+        },
+        "bGenerateSmokeActor": true,
+        "SmokeEmitActorBP": null,
+        "ProjectileSoftClassBP": {
+          "AssetPath": "/Game/BluePrints/Ability/Smoke/BP_BlindSmokeActor.BP_BlindSmokeActor_C",
+          "SubPath": ""
+        },
+        "Bounciness": 0.5,
+        "WallBounciness": 0.5,
+        "CeilingBounciness": 0.5,
+        "CharacterBounciness": 0.05,
+        "Friction": 0.8,
+        "CharacterFriction": 0.9,
+        "BounceVelocityStopLimited": 10,
+        "RotationRate": {
+          "Pitch": 280,
+          "Yaw": 280,
+          "Roll": 290
+        },
+        "FixedMoveFrame": 30,
+        "WaterDragFactorLow": 0.6,
+        "WaterDragFactorHigh": 0.006,
+        "WaterDragChangeVelocity": 200,
+        "UnderWaterMinHorizontalVelocity": 5,
+        "WaterBuoyancyScale": 0.2,
+        "RowDescription": "None"
+      },
+      "75": {
+        "GameModeType": 0,
+        "ProjectileId": 75,
+        "ThreatId": 0,
+        "AudioId": 6,
+        "bTriggerExplosionWhenDefenseByADS": true,
+        "ThrowableWeaponTypeForADS": "EGPThrowableWeaponTypeForADS::Special",
+        "ProjectileClassBP": {
+          "AssetPath": "/Game/BluePrints/Ability/C104/ToxicSmoke/BP_AbilityBullet_C104_Smoke.BP_AbilityBullet_C104_Smoke_C",
+          "SubPath": ""
+        },
+        "ProjectileMesh": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Weapons/MilitaryProps/Support_C101_honeycombsmoke_01/Support_C101_honeycombsmoke_01_Static.Support_C101_honeycombsmoke_01_Static"
+        },
+        "ProjectileAnimationBP": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ProjectileMeshRotator": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 90
+        },
+        "bUseWeaponRotation": false,
+        "ProjectileMeshSize": {
+          "_StructType": "FVector2D",
+          "_Value": "X=3.000 Y=3.000"
+        },
+        "VelocityThrowHigh": 1800,
+        "VelocityThrowLow": 900,
+        "GravityScale": 1,
+        "ZeroGravityDistance": 0,
+        "bShouldBounce": true,
+        "bCanBeCountered": true,
+        "SmokeBreakSetting": {
+          "_StructType": "FStructFallback",
+          "SmokeBreakType": "ESmokeBreakType::SmokeBreakTaker",
+          "SmokeBreakID": "None",
+          "SmokeID_SOL": 3,
+          "SmokeID_MP": 4
+        },
+        "bGenerateSmokeActor": true,
+        "SmokeEmitActorBP": null,
+        "ProjectileSoftClassBP": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "Bounciness": 0.1,
+        "WallBounciness": 0.3,
+        "CeilingBounciness": 0.3,
+        "CharacterBounciness": 0.05,
+        "Friction": 0.8,
+        "CharacterFriction": 0.9,
+        "BounceVelocityStopLimited": 10,
+        "RotationRate": {
+          "Pitch": 280,
+          "Yaw": 280,
+          "Roll": 290
+        },
+        "FixedMoveFrame": 30,
+        "WaterDragFactorLow": 0.6,
+        "WaterDragFactorHigh": 0.006,
+        "WaterDragChangeVelocity": 200,
+        "UnderWaterMinHorizontalVelocity": 5,
+        "WaterBuoyancyScale": 0.2,
+        "RowDescription": "None"
+      },
+      "\u58F0\u5450\u88C5\u7F6E": {
+        "GameModeType": 0,
+        "ProjectileId": 60,
+        "ThreatId": 0,
+        "AudioId": 38,
+        "bTriggerExplosionWhenDefenseByADS": false,
+        "ThrowableWeaponTypeForADS": "EGPThrowableWeaponTypeForADS::Placement",
+        "ProjectileClassBP": {
+          "AssetPath": "/Game/BluePrints/Ability/Mine/BP_AntiTankMine_Bullet.BP_AntiTankMine_Bullet_C",
+          "SubPath": ""
+        },
+        "ProjectileMesh": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Weapons/BattlefieldProps/BF_ATmine_001/BF_ATmine_001_Static.BF_ATmine_001_Static"
+        },
+        "ProjectileAnimationBP": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ProjectileMeshRotator": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "bUseWeaponRotation": false,
+        "ProjectileMeshSize": {
+          "_StructType": "FVector2D",
+          "_Value": "X=4.000 Y=4.000"
+        },
+        "VelocityThrowHigh": 6000,
+        "VelocityThrowLow": 6000,
+        "GravityScale": 0,
+        "ZeroGravityDistance": 0,
+        "bShouldBounce": false,
+        "bCanBeCountered": false,
+        "SmokeBreakSetting": {
+          "_StructType": "FStructFallback",
+          "SmokeBreakType": "ESmokeBreakType::None",
+          "SmokeBreakID": "None",
+          "SmokeID_SOL": 0,
+          "SmokeID_MP": 0
+        },
+        "bGenerateSmokeActor": false,
+        "SmokeEmitActorBP": null,
+        "ProjectileSoftClassBP": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "Bounciness": 0.3,
+        "WallBounciness": 0.3,
+        "CeilingBounciness": 0.3,
+        "CharacterBounciness": 0.2,
+        "Friction": 0.7,
+        "CharacterFriction": 0.9,
+        "BounceVelocityStopLimited": 10,
+        "RotationRate": {
+          "Pitch": -450,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "FixedMoveFrame": 30,
+        "WaterDragFactorLow": 0.6,
+        "WaterDragFactorHigh": 0.006,
+        "WaterDragChangeVelocity": 200,
+        "UnderWaterMinHorizontalVelocity": 5,
+        "WaterBuoyancyScale": -0.2,
+        "RowDescription": "None"
+      },
+      "\u6295\u63B7\u578B\u5E72\u6270\u88C5\u7F6E": {
+        "GameModeType": 0,
+        "ProjectileId": 64,
+        "ThreatId": 45,
+        "AudioId": 37,
+        "bTriggerExplosionWhenDefenseByADS": true,
+        "ThrowableWeaponTypeForADS": "EGPThrowableWeaponTypeForADS::Special",
+        "ProjectileClassBP": {
+          "AssetPath": "/Game/BluePrints/Ability/Scout/C204/BP_Projectile_C204Interference.BP_Projectile_C204Interference_C",
+          "SubPath": ""
+        },
+        "ProjectileMesh": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Weapons/MilitaryProps/Recon_C204_Interference/Recon_C204_Interference_1P.Recon_C204_Interference_1P"
+        },
+        "ProjectileAnimationBP": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ProjectileMeshRotator": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 90
+        },
+        "bUseWeaponRotation": false,
+        "ProjectileMeshSize": {
+          "_StructType": "FVector2D",
+          "_Value": "X=3.000 Y=3.000"
+        },
+        "VelocityThrowHigh": 2700,
+        "VelocityThrowLow": 900,
+        "GravityScale": 1,
+        "ZeroGravityDistance": 0,
+        "bShouldBounce": true,
+        "bCanBeCountered": true,
+        "SmokeBreakSetting": {
+          "_StructType": "FStructFallback",
+          "SmokeBreakType": "ESmokeBreakType::None",
+          "SmokeBreakID": "None",
+          "SmokeID_SOL": 0,
+          "SmokeID_MP": 0
+        },
+        "bGenerateSmokeActor": false,
+        "SmokeEmitActorBP": null,
+        "ProjectileSoftClassBP": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "Bounciness": 0.3,
+        "WallBounciness": 0.3,
+        "CeilingBounciness": 0.3,
+        "CharacterBounciness": 0.05,
+        "Friction": 0.5,
+        "CharacterFriction": 0.9,
+        "BounceVelocityStopLimited": 10,
+        "RotationRate": {
+          "Pitch": 280,
+          "Yaw": 280,
+          "Roll": 290
+        },
+        "FixedMoveFrame": 30,
+        "WaterDragFactorLow": 0.6,
+        "WaterDragFactorHigh": 0.006,
+        "WaterDragChangeVelocity": 200,
+        "UnderWaterMinHorizontalVelocity": 5,
+        "WaterBuoyancyScale": -0.2,
+        "RowDescription": "None"
+      },
+      "\u5EF6\u65F6\u578B\u95EA\u5149\u5F39": {
+        "GameModeType": 0,
+        "ProjectileId": 65,
+        "ThreatId": 46,
+        "AudioId": 36,
+        "bTriggerExplosionWhenDefenseByADS": true,
+        "ThrowableWeaponTypeForADS": "EGPThrowableWeaponTypeForADS::Special",
+        "ProjectileClassBP": {
+          "AssetPath": "/Game/BluePrints/Ability/Scout/C204/BP_Proj_C204Flash.BP_Proj_C204Flash_C",
+          "SubPath": ""
+        },
+        "ProjectileMesh": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Weapons/MilitaryProps/Recon_C204_Flash/Recon_C204_Flash_1P.Recon_C204_Flash_1P"
+        },
+        "ProjectileAnimationBP": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ProjectileMeshRotator": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 90
+        },
+        "bUseWeaponRotation": false,
+        "ProjectileMeshSize": {
+          "_StructType": "FVector2D",
+          "_Value": "X=3.000 Y=3.000"
+        },
+        "VelocityThrowHigh": 2300,
+        "VelocityThrowLow": 900,
+        "GravityScale": 1,
+        "ZeroGravityDistance": 0,
+        "bShouldBounce": true,
+        "bCanBeCountered": true,
+        "SmokeBreakSetting": {
+          "_StructType": "FStructFallback",
+          "SmokeBreakType": "ESmokeBreakType::None",
+          "SmokeBreakID": "None",
+          "SmokeID_SOL": 0,
+          "SmokeID_MP": 0
+        },
+        "bGenerateSmokeActor": false,
+        "SmokeEmitActorBP": null,
+        "ProjectileSoftClassBP": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "Bounciness": 0.3,
+        "WallBounciness": 0.3,
+        "CeilingBounciness": 0.3,
+        "CharacterBounciness": 0.05,
+        "Friction": 0.5,
+        "CharacterFriction": 0.9,
+        "BounceVelocityStopLimited": 10,
+        "RotationRate": {
+          "Pitch": 280,
+          "Yaw": 280,
+          "Roll": 290
+        },
+        "FixedMoveFrame": 30,
+        "WaterDragFactorLow": 0.6,
+        "WaterDragFactorHigh": 0.006,
+        "WaterDragChangeVelocity": 200,
+        "UnderWaterMinHorizontalVelocity": 5,
+        "WaterBuoyancyScale": -0.2,
+        "RowDescription": "None"
+      },
+      "C405_X": {
+        "GameModeType": 0,
+        "ProjectileId": 66,
+        "ThreatId": 6,
+        "AudioId": 10,
+        "bTriggerExplosionWhenDefenseByADS": false,
+        "ThrowableWeaponTypeForADS": "EGPThrowableWeaponTypeForADS::Damage",
+        "ProjectileClassBP": {
+          "AssetPath": "/Game/BluePrints/Ability/AbilityAdvanced/BP_AbilityBullet_AirCannon.BP_AbilityBullet_AirCannon_C",
+          "SubPath": ""
+        },
+        "ProjectileMesh": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Weapons/MilitaryProps/Assault_C301_launcher/Assault_C301_bullet_3P.Assault_C301_bullet_3P"
+        },
+        "ProjectileAnimationBP": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ProjectileMeshRotator": {
+          "Pitch": 0,
+          "Yaw": 90,
+          "Roll": 180
+        },
+        "bUseWeaponRotation": false,
+        "ProjectileMeshSize": {
+          "_StructType": "FVector2D",
+          "_Value": "X=2.000 Y=2.000"
+        },
+        "VelocityThrowHigh": 2700,
+        "VelocityThrowLow": 900,
+        "GravityScale": 1.5,
+        "ZeroGravityDistance": 0,
+        "bShouldBounce": true,
+        "bCanBeCountered": true,
+        "SmokeBreakSetting": {
+          "_StructType": "FStructFallback",
+          "SmokeBreakType": "ESmokeBreakType::SmokeBreaker",
+          "SmokeBreakID": "AirCannon",
+          "SmokeID_SOL": 0,
+          "SmokeID_MP": 0
+        },
+        "bGenerateSmokeActor": false,
+        "SmokeEmitActorBP": null,
+        "ProjectileSoftClassBP": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "Bounciness": 0.3,
+        "WallBounciness": 0.3,
+        "CeilingBounciness": 0.3,
+        "CharacterBounciness": 0.2,
+        "Friction": 0.5,
+        "CharacterFriction": 0.9,
+        "BounceVelocityStopLimited": 10,
+        "RotationRate": {
+          "Pitch": 280,
+          "Yaw": 280,
+          "Roll": 290
+        },
+        "FixedMoveFrame": 30,
+        "WaterDragFactorLow": 0.6,
+        "WaterDragFactorHigh": 0.006,
+        "WaterDragChangeVelocity": 200,
+        "UnderWaterMinHorizontalVelocity": 5,
+        "WaterBuoyancyScale": -0.2,
+        "RowDescription": "None"
+      },
+      "C405_V": {
+        "GameModeType": 0,
+        "ProjectileId": 67,
+        "ThreatId": 9,
+        "AudioId": 17,
+        "bTriggerExplosionWhenDefenseByADS": true,
+        "ThrowableWeaponTypeForADS": "EGPThrowableWeaponTypeForADS::Damage",
+        "ProjectileClassBP": {
+          "AssetPath": "/Game/BluePrints/Ability/C405/BP_AbilityBullet_Freeze.BP_AbilityBullet_Freeze_C",
+          "SubPath": ""
+        },
+        "ProjectileMesh": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Weapons/MilitaryProps/Engineering_C405_IceSpray/Engineering_C405_IceSpray_3P.Engineering_C405_IceSpray_3P"
+        },
+        "ProjectileAnimationBP": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ProjectileMeshRotator": {
+          "Pitch": -90,
+          "Yaw": 180,
+          "Roll": 0
+        },
+        "bUseWeaponRotation": false,
+        "ProjectileMeshSize": {
+          "_StructType": "FVector2D",
+          "_Value": "X=3.000 Y=2.000"
+        },
+        "VelocityThrowHigh": 2700,
+        "VelocityThrowLow": 900,
+        "GravityScale": 1.5,
+        "ZeroGravityDistance": 0,
+        "bShouldBounce": false,
+        "bCanBeCountered": false,
+        "SmokeBreakSetting": {
+          "_StructType": "FStructFallback",
+          "SmokeBreakType": "ESmokeBreakType::None",
+          "SmokeBreakID": "None",
+          "SmokeID_SOL": 0,
+          "SmokeID_MP": 0
+        },
+        "bGenerateSmokeActor": false,
+        "SmokeEmitActorBP": null,
+        "ProjectileSoftClassBP": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "Bounciness": 0.3,
+        "WallBounciness": 0.3,
+        "CeilingBounciness": 0.3,
+        "CharacterBounciness": 0.05,
+        "Friction": 0.5,
+        "CharacterFriction": 0.9,
+        "BounceVelocityStopLimited": 10,
+        "RotationRate": {
+          "Pitch": 280,
+          "Yaw": 280,
+          "Roll": 290
+        },
+        "FixedMoveFrame": 30,
+        "WaterDragFactorLow": 0.6,
+        "WaterDragFactorHigh": 0.006,
+        "WaterDragChangeVelocity": 200,
+        "UnderWaterMinHorizontalVelocity": 5,
+        "WaterBuoyancyScale": 0.2,
+        "RowDescription": "None"
+      },
+      "C405_G": {
+        "GameModeType": 0,
+        "ProjectileId": 68,
+        "ThreatId": 20,
+        "AudioId": 26,
+        "bTriggerExplosionWhenDefenseByADS": true,
+        "ThrowableWeaponTypeForADS": "EGPThrowableWeaponTypeForADS::Damage",
+        "ProjectileClassBP": {
+          "AssetPath": "/Game/BluePrints/Ability/C405/BP_AbilityBullet_StunGrenade.BP_AbilityBullet_StunGrenade_C",
+          "SubPath": ""
+        },
+        "ProjectileMesh": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/Models/Weapons/MilitaryProps/Engineering_C405_SmartShockGrenade/Engineering_C405_SmartShockGrenade_1P.Engineering_C405_SmartShockGrenade_1P"
+        },
+        "ProjectileAnimationBP": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "ProjectileMeshRotator": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "bUseWeaponRotation": false,
+        "ProjectileMeshSize": {
+          "_StructType": "FVector2D",
+          "_Value": "X=3.000 Y=3.000"
+        },
+        "VelocityThrowHigh": 1800,
+        "VelocityThrowLow": 900,
+        "GravityScale": 0,
+        "ZeroGravityDistance": 0,
+        "bShouldBounce": true,
+        "bCanBeCountered": true,
+        "SmokeBreakSetting": {
+          "_StructType": "FStructFallback",
+          "SmokeBreakType": "ESmokeBreakType::None",
+          "SmokeBreakID": "None",
+          "SmokeID_SOL": 0,
+          "SmokeID_MP": 0
+        },
+        "bGenerateSmokeActor": false,
+        "SmokeEmitActorBP": null,
+        "ProjectileSoftClassBP": {
+          "AssetPath": "None",
+          "SubPath": ""
+        },
+        "Bounciness": 0.5,
+        "WallBounciness": 0.5,
+        "CeilingBounciness": 0.5,
+        "CharacterBounciness": 0.05,
+        "Friction": 0.8,
+        "CharacterFriction": 0.9,
+        "BounceVelocityStopLimited": 10,
+        "RotationRate": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "FixedMoveFrame": 30,
+        "WaterDragFactorLow": 0.6,
+        "WaterDragFactorHigh": 0.006,
+        "WaterDragChangeVelocity": 200,
+        "UnderWaterMinHorizontalVelocity": 5,
+        "WaterBuoyancyScale": -0.2,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 11
+  }
+]

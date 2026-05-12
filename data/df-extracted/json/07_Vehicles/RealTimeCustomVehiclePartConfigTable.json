@@ -1,0 +1,792 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "RealTimeCustomVehiclePartConfigTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/BattleField/RealTimeCustomVehiclePartConfigTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "RealTimeCustomVehiclePartConfigRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "40120000008": {
+        "PartItemID": 40120000008,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120000020": {
+        "PartItemID": 40120000020,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120000021": {
+        "PartItemID": 40120000021,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120000022": {
+        "PartItemID": 40120000022,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120000023": {
+        "PartItemID": 40120000023,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40000010002": {
+        "PartItemID": 40000010002,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40000010008": {
+        "PartItemID": 40000010008,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40000010001": {
+        "PartItemID": 40000010001,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40000010004": {
+        "PartItemID": 40000010004,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120000009": {
+        "PartItemID": 40120000009,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120000001": {
+        "PartItemID": 40120000001,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120000047": {
+        "PartItemID": 40120000047,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120000012": {
+        "PartItemID": 40120000012,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120000014": {
+        "PartItemID": 40120000014,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120000013": {
+        "PartItemID": 40120000013,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120000026": {
+        "PartItemID": 40120000026,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120000037": {
+        "PartItemID": 40120000037,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40000010006": {
+        "PartItemID": 40000010006,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40000010012": {
+        "PartItemID": 40000010012,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120100004": {
+        "PartItemID": 40120100004,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120100031": {
+        "PartItemID": 40120100031,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120100007": {
+        "PartItemID": 40120100007,
+        "Price": 1000,
+        "RowDescription": "None"
+      },
+      "40000110002": {
+        "PartItemID": 40000110002,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40000110008": {
+        "PartItemID": 40000110008,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40000110011": {
+        "PartItemID": 40000110011,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40000110001": {
+        "PartItemID": 40000110001,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120100009": {
+        "PartItemID": 40120100009,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120100001": {
+        "PartItemID": 40120100001,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120100010": {
+        "PartItemID": 40120100010,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120100011": {
+        "PartItemID": 40120100011,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120100012": {
+        "PartItemID": 40120100012,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120100024": {
+        "PartItemID": 40120100024,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120100026": {
+        "PartItemID": 40120100026,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120200003": {
+        "PartItemID": 40120200003,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120200029": {
+        "PartItemID": 40120200029,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120200030": {
+        "PartItemID": 40120200030,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120200034": {
+        "PartItemID": 40120200034,
+        "Price": 1000,
+        "RowDescription": "None"
+      },
+      "40120200050": {
+        "PartItemID": 40120200050,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40000210002": {
+        "PartItemID": 40000210002,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40000210008": {
+        "PartItemID": 40000210008,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40000210011": {
+        "PartItemID": 40000210011,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40000210001": {
+        "PartItemID": 40000210001,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40000210004": {
+        "PartItemID": 40000210004,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120200009": {
+        "PartItemID": 40120200009,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120200001": {
+        "PartItemID": 40120200001,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120200010": {
+        "PartItemID": 40120200010,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120200025": {
+        "PartItemID": 40120200025,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120200012": {
+        "PartItemID": 40120200012,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120200024": {
+        "PartItemID": 40120200024,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120200013": {
+        "PartItemID": 40120200013,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40000310002": {
+        "PartItemID": 40000310002,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40000310008": {
+        "PartItemID": 40000310008,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40000310001": {
+        "PartItemID": 40000310001,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40000310007": {
+        "PartItemID": 40000310007,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120300009": {
+        "PartItemID": 40120300009,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120300001": {
+        "PartItemID": 40120300001,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120300010": {
+        "PartItemID": 40120300010,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120300045": {
+        "PartItemID": 40120300045,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120300046": {
+        "PartItemID": 40120300046,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120400017": {
+        "PartItemID": 40120400017,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120400027": {
+        "PartItemID": 40120400027,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120400028": {
+        "PartItemID": 40120400028,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120400019": {
+        "PartItemID": 40120400019,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120400038": {
+        "PartItemID": 40120400038,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120400070": {
+        "PartItemID": 40120400070,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40000410003": {
+        "PartItemID": 40000410003,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40000410001": {
+        "PartItemID": 40000410001,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120400018": {
+        "PartItemID": 40120400018,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120500032": {
+        "PartItemID": 40120500032,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120500033": {
+        "PartItemID": 40120500033,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120500039": {
+        "PartItemID": 40120500039,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120500040": {
+        "PartItemID": 40120500040,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40000510002": {
+        "PartItemID": 40000510002,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40000510008": {
+        "PartItemID": 40000510008,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40000510009": {
+        "PartItemID": 40000510009,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40000510010": {
+        "PartItemID": 40000510010,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40000510001": {
+        "PartItemID": 40000510001,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40000510004": {
+        "PartItemID": 40000510004,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120500009": {
+        "PartItemID": 40120500009,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120500001": {
+        "PartItemID": 40120500001,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120500010": {
+        "PartItemID": 40120500010,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120500012": {
+        "PartItemID": 40120500012,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120500024": {
+        "PartItemID": 40120500024,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120500037": {
+        "PartItemID": 40120500037,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120500048": {
+        "PartItemID": 40120500048,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120500049": {
+        "PartItemID": 40120500049,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120600041": {
+        "PartItemID": 40120600041,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120600042": {
+        "PartItemID": 40120600042,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120600043": {
+        "PartItemID": 40120600043,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120600044": {
+        "PartItemID": 40120600044,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120610003": {
+        "PartItemID": 40120610003,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120610001": {
+        "PartItemID": 40120610001,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120610006": {
+        "PartItemID": 40120610006,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120610005": {
+        "PartItemID": 40120610005,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120700058": {
+        "PartItemID": 40120700058,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120700059": {
+        "PartItemID": 40120700059,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120700060": {
+        "PartItemID": 40120700060,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120700061": {
+        "PartItemID": 40120700061,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120710002": {
+        "PartItemID": 40120710002,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120710008": {
+        "PartItemID": 40120710008,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120710014": {
+        "PartItemID": 40120710014,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120710001": {
+        "PartItemID": 40120710001,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120710004": {
+        "PartItemID": 40120710004,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120700062": {
+        "PartItemID": 40120700062,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120700063": {
+        "PartItemID": 40120700063,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120710006": {
+        "PartItemID": 40120710006,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120710013": {
+        "PartItemID": 40120710013,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120800052": {
+        "PartItemID": 40120800052,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120800053": {
+        "PartItemID": 40120800053,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120800054": {
+        "PartItemID": 40120800054,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120800055": {
+        "PartItemID": 40120800055,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120800056": {
+        "PartItemID": 40120800056,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120800057": {
+        "PartItemID": 40120800057,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120810003": {
+        "PartItemID": 40120810003,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120810001": {
+        "PartItemID": 40120810001,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120900001": {
+        "PartItemID": 40120900001,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120900009": {
+        "PartItemID": 40120900009,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120900015": {
+        "PartItemID": 40120900015,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120900047": {
+        "PartItemID": 40120900047,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120900046": {
+        "PartItemID": 40120900046,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120900069": {
+        "PartItemID": 40120900069,
+        "Price": 1000,
+        "RowDescription": "None"
+      },
+      "40120910002": {
+        "PartItemID": 40120910002,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120910008": {
+        "PartItemID": 40120910008,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120910001": {
+        "PartItemID": 40120910001,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120910004": {
+        "PartItemID": 40120910004,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120910006": {
+        "PartItemID": 40120910006,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120910005": {
+        "PartItemID": 40120910005,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40121000071": {
+        "PartItemID": 40121000071,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40121000072": {
+        "PartItemID": 40121000072,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40121010002": {
+        "PartItemID": 40121010002,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40121010008": {
+        "PartItemID": 40121010008,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40121010017": {
+        "PartItemID": 40121010017,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40121010018": {
+        "PartItemID": 40121010018,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40121010006": {
+        "PartItemID": 40121010006,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40121010012": {
+        "PartItemID": 40121010012,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40121000076": {
+        "PartItemID": 40121000076,
+        "Price": 1000,
+        "RowDescription": "None"
+      },
+      "40121000075": {
+        "PartItemID": 40121000075,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40121000012": {
+        "PartItemID": 40121000012,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40121000026": {
+        "PartItemID": 40121000026,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40121000024": {
+        "PartItemID": 40121000024,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120100074": {
+        "PartItemID": 40120100074,
+        "Price": 1000,
+        "RowDescription": "None"
+      },
+      "40121000073": {
+        "PartItemID": 40121000073,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40121000047": {
+        "PartItemID": 40121000047,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40121100001": {
+        "PartItemID": 40121100001,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40121100009": {
+        "PartItemID": 40121100009,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40121200001": {
+        "PartItemID": 40121200001,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40121200009": {
+        "PartItemID": 40121200009,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40120200080": {
+        "PartItemID": 40120200080,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40121300001": {
+        "PartItemID": 40121300001,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40121300009": {
+        "PartItemID": 40121300009,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40121400001": {
+        "PartItemID": 40121400001,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40121400009": {
+        "PartItemID": 40121400009,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40121500001": {
+        "PartItemID": 40121500001,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40121500009": {
+        "PartItemID": 40121500009,
+        "Price": 500,
+        "RowDescription": "None"
+      },
+      "40121010020": {
+        "PartItemID": 40121010020,
+        "Price": 500,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 155
+  }
+]

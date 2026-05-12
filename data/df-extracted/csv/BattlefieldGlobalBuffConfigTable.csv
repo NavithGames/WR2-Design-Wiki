@@ -1,0 +1,2 @@
+﻿RowName,MapGlobalBuffsSettingTag,GlobalBuffs
+NewRow,与BattlefieldTagTable中一致（和局外MapID一致）,"(BuffID=140064, DeployBuffDelay=5, ReviveBuffDelay=0.1, PendingDeathBuffRemoval=True, DeathBuffRemoval=True)"

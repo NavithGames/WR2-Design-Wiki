@@ -1,0 +1,4 @@
+﻿RowName,ID,ItemId,DescText,ItemName,PremiumRate,Probability,CurrencyId,Price,bLimitedBuy,LimitedNum,RowDescription
+1,1,14060000001,,,1.2,0.8,17020000010,7200,True,5,None
+2,2,14030000001,,,1.2,0.5,17020000010,7200,True,2,None
+3,3,14020000001,,,1.2,1,17020000010,3600,False,-1,None

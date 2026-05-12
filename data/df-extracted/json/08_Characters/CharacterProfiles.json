@@ -1,0 +1,4242 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "CharacterProfiles",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/CharacterTemplate/CharacterProfiles",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "CharacterProfileRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "SOL_V2_Test": {
+        "FashionList": [
+          "18000000001",
+          "18000000008",
+          "18000000009",
+          "18000000006"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10010000012"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_V2": {
+        "FashionList": [
+          "18000000001",
+          "18000000008",
+          "18000000009",
+          "18000000006"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10010000012"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "MGS": {
+        "FashionList": [
+          "18000000001",
+          "18000000008",
+          "18000000009",
+          "18000000006"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10030000001",
+          "11050005003",
+          "11080004005"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "TKV_Normal": {
+        "FashionList": [
+          "18000000001",
+          "18000000008",
+          "18000000009",
+          "18000000006"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10010000002"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "TKV_Assult": {
+        "FashionList": [
+          "18000000001",
+          "18000000008",
+          "18000000009",
+          "18000000006"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10010000002"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "TKV_Prudent": {
+        "FashionList": [
+          "18000000001",
+          "18000000008",
+          "18000000009",
+          "18000000006"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10010000002"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "StealthAI": {
+        "FashionList": [
+          "18000000001",
+          "18000000006",
+          "18000000008"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "11010005002",
+          "11050006001",
+          "11080009001",
+          "10010000009"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "StealthAI_1": {
+        "FashionList": [
+          "18000000009"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "11010006001",
+          "11050004004",
+          "11080004001",
+          "10010000007"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "StealthAI_2": {
+        "FashionList": [
+          "18000000008"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10020000006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "StealthAI_3": {
+        "FashionList": [
+          "18000000006"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "11080006002",
+          "10010000038"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL-StealthAI_4": {
+        "FashionList": [
+          "18000000001"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "11080009001",
+          "10030000005"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "StealthAI_5": {
+        "FashionList": [
+          "18000000006"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "11080009001",
+          "10010000038"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "MGS_DarkTide_Normal": {
+        "FashionList": [
+          "18000000006",
+          "18000000010"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10010000002"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "MGS_Hudson": {
+        "FashionList": [
+          "18000000008",
+          "18000000009"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10010000002"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "MGS_DarkTide_Easy": {
+        "FashionList": [
+          "18000000010",
+          "18000000006"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10010000002"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "MGS_Hudson_Paratrooper": {
+        "FashionList": [
+          "18000000008",
+          "18000000009"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10010000002"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Shield_Test": {
+        "FashionList": [
+          "18000000001",
+          "18000000008",
+          "18000000009",
+          "18000000006"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10070000002"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "MGS_Test": {
+        "FashionList": [
+          "18000000001",
+          "18000000008",
+          "18000000009",
+          "18000000006"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10010000012"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "MGS_T1_Test": {
+        "FashionList": [
+          "18000000001",
+          "18000000008",
+          "18000000009",
+          "18000000006"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10010000002"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "MGS_T2_Test": {
+        "FashionList": [
+          "18000000001",
+          "18000000008",
+          "18000000009",
+          "18000000006"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10010000002"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "MGS_T3_Test": {
+        "FashionList": [
+          "18000000001",
+          "18000000008",
+          "18000000009",
+          "18000000006"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10010000002"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "TKV_Prudent_T2": {
+        "FashionList": [
+          "18000000001",
+          "18000000008",
+          "18000000009",
+          "18000000006"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10010000002"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "TKV_Prudent_T3": {
+        "FashionList": [
+          "18000000001",
+          "18000000008",
+          "18000000009",
+          "18000000006"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10010000002"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "TKV_Prudent_T1": {
+        "FashionList": [
+          "18000000001",
+          "18000000008",
+          "18000000009",
+          "18000000006"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10010000002"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "StatueTestAI": {
+        "FashionList": [
+          "18000000001"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10010000012"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Snip_Normal": {
+        "FashionList": [
+          "18000000006"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10060000009",
+          "11050005006",
+          "11070005006",
+          "11080004002"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "DT_Psycho_01": {
+        "FashionList": [
+          "18000000011"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10020000001"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "DT_Assaulter_01": {
+        "FashionList": [
+          "1000140"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "DT_Charger_01": {
+        "FashionList": [
+          "1000136"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10030000001"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "DT_Sniper_01": {
+        "FashionList": [
+          "18000000006"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10060000009",
+          "11050005006",
+          "11070005006",
+          "11080004002"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "DT_RPGer_01": {
+        "FashionList": [
+          "18000000010"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10080000007",
+          "11080009001",
+          "11070004002",
+          "11010004003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "DT_FireFlamer_01": {
+        "FashionList": [
+          "18000000006"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10010000002"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "DT_Shield_01": {
+        "FashionList": [
+          "18000000006"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10010000002",
+          "11050004004",
+          "11010002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "HS_Security_01": {
+        "FashionList": [
+          "1000141"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10020000004"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "HS_Security_02": {
+        "FashionList": [
+          "18000000009"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10010000087",
+          "11070005005"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "HS_Security_03": {
+        "FashionList": [
+          "18000000009"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10010000087",
+          "11070005002"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "HS_Security_04": {
+        "FashionList": [
+          "18000000008"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10010000087",
+          "11050004005",
+          "10020000004"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "HS_Security_05": {
+        "FashionList": [
+          "18000000008"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10010000087",
+          "11070004003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "HS_Assaulter_01": {
+        "FashionList": [
+          "1000138"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10010000087"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "HS_Assaulter_02": {
+        "FashionList": [
+          "18000000008"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10010000087",
+          "11070006004",
+          "11010004005"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "HS_Assaulter_03": {
+        "FashionList": [
+          "18000000008"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10010000087",
+          "11080004005",
+          "11050005003",
+          "11010005003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "HS_Charger_01": {
+        "FashionList": [
+          "1000137"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10030000001"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "HS_Charger_02": {
+        "FashionList": [
+          "18000000008"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "11050005004",
+          "11010005005",
+          "11070006004",
+          "10030000005 "
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "HS_Sniper_01": {
+        "FashionList": [
+          "18000000009"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "11080004005",
+          "11050005005",
+          "10060000009"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "HS_Paratrooper_01": {
+        "FashionList": [
+          "18000000008"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10010000087",
+          "11070004003",
+          "11080006004",
+          "11010006004"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "HS_Paratrooper_02": {
+        "FashionList": [
+          "1000139"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10010000012"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "HS_Shield_01": {
+        "FashionList": [
+          "18000000008"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10010000002",
+          "11050006004",
+          "11010006004"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "HS_FireFlamer_01": {
+        "FashionList": [
+          "1000135"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid1_DT_Psycho_01": {
+        "FashionList": [
+          "18000000011"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10020000001"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid1_DT_Charger_01": {
+        "FashionList": [
+          "18000000010"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10030000001",
+          "11010005006",
+          "11050005006",
+          "11070004002",
+          "11080005006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid1_DT_Sniper_01": {
+        "FashionList": [
+          "18000000006"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10060000009",
+          "11050005006",
+          "11070005006",
+          "11080004002"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid1_DT_Firebat_01": {
+        "FashionList": [
+          "1000140"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid1_DT_Psycho_01_Overkill": {
+        "FashionList": [
+          "18000000011"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10020000001"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid1_DT_Charger_01_Overkill": {
+        "FashionList": [
+          "18000000010"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10030000001",
+          "11010005006",
+          "11050005006",
+          "11070004002",
+          "11080005006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid1_DT_Shield_01_Overkill": {
+        "FashionList": [
+          "18000000006"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10070000002",
+          "11050004004",
+          "11010002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid1_HS_Assaulter_01": {
+        "FashionList": [
+          "18000000008"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10010000087",
+          "11050006004",
+          "11010004005"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid1_HS_Charger_01": {
+        "FashionList": [
+          "18000000008"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "11050002006",
+          "11070004003",
+          "11010005004",
+          "10030000001"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid1_HS_Sniper_01": {
+        "FashionList": [
+          "18000000009"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "11080004005",
+          "11050005005",
+          "10060000009"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid1_HS_Assaulter_01_Overkill": {
+        "FashionList": [
+          "18000000008"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10010000087",
+          "11050006004",
+          "11010004005"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid1_HS_Charger_01_Overkill": {
+        "FashionList": [
+          "18000000008"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "11050002006",
+          "11070004003",
+          "11010005004",
+          "10030000001"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid1_HS_Firebat_Overkill": {
+        "FashionList": [
+          "1000135"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid1_HS_Shield_01_Overkill": {
+        "FashionList": [
+          "18000000008"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10010000002",
+          "11050006004",
+          "11010006004"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid1_DT_Assaulter_01_SlowShoot": {
+        "FashionList": [
+          "18000000006",
+          "18000000010"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Psycho": {
+        "FashionList": [
+          "1000144",
+          "1000145",
+          "1000165",
+          "1000166",
+          "1000167"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Assaulter": {
+        "FashionList": [
+          "1000140"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Charger": {
+        "FashionList": [
+          "1000147"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Sniper": {
+        "FashionList": [
+          "1000146"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Assaulter": {
+        "FashionList": [
+          "1000138"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Charger": {
+        "FashionList": [
+          "1000137"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Sniper": {
+        "FashionList": [
+          "1000150"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Paratrooper": {
+        "FashionList": [
+          "1000186"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Shielder": {
+        "FashionList": [
+          "18000000006"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10070000002",
+          "11050004004",
+          "11010002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_Boss_Reis": {
+        "FashionList": [
+          "16"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10030000010"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_Boss_Reis_Accessin": {
+        "FashionList": [
+          "1000152"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "11010004001",
+          "11050004001"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_Boss_Reis_Guard": {
+        "FashionList": [
+          "1000152"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10070000002",
+          "11050004004",
+          "11010002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "safehouse_npc_01": {
+        "FashionList": [
+          "88000000012"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "safehouse_npc_02": {
+        "FashionList": [
+          "88000000013"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "safehouse_npc_03": {
+        "FashionList": [
+          "88000000021"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "safehouse_npc_04": {
+        "FashionList": [
+          "88000000016"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "safehouse_npc_05": {
+        "FashionList": [
+          "88000000020"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "safehouse_npc_06": {
+        "FashionList": [
+          "88000000019"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "safehouse_npc_07": {
+        "FashionList": [
+          "88000000018"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "safehouse_npc_08": {
+        "FashionList": [
+          "88000000017"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "safehouse_npc_09": {
+        "FashionList": [
+          "1000127"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "safehouse_npc_10": {
+        "FashionList": [
+          "18000000016"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "safehouse_npc_11": {
+        "FashionList": [
+          "1000129"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "safehouse_npc_12": {
+        "FashionList": [
+          "1000125"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "safehouse_npc_13": {
+        "FashionList": [
+          "1000110"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "safehouse_npc_14": {
+        "FashionList": [
+          "1000109"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "safehouse_npc_15": {
+        "FashionList": [
+          "88000000009"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "safehouse_npc_16": {
+        "FashionList": [
+          "88000000010"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "safehouse_npc_17": {
+        "FashionList": [
+          "88000000011"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "safehouse_npc_18": {
+        "FashionList": [
+          "88000000022"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "safehouse_npc_19": {
+        "FashionList": [
+          "88000000023"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "safehouse_npc_20": {
+        "FashionList": [
+          "18000000015"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "safehouse_npc_21": {
+        "FashionList": [
+          "88000000001"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "11070005001",
+          "11070006002"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "safehouse_npc_22": {
+        "FashionList": [
+          "18000000008"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "11070005003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "safehouse_npc_23": {
+        "FashionList": [
+          "88000000013"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid_DT_Charger_easy": {
+        "FashionList": [
+          "1000145"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10030000001",
+          "11010005006",
+          "11050005006",
+          "11070004002",
+          "11080005006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid_DT_Charger_normal": {
+        "FashionList": [
+          "1000145"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10030000001",
+          "11010005006",
+          "11050005006",
+          "11070004002",
+          "11080005006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid_DT_Charger_hard": {
+        "FashionList": [
+          "1000147"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10030000001",
+          "11010005006",
+          "11050005006",
+          "11070004002",
+          "11080005006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid_DT_Assaulter_easy": {
+        "FashionList": [
+          "1000140"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10020000001"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid_DT_Assaulter_normal": {
+        "FashionList": [
+          "1000140"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10020000001"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid_DT_Assaulter_hard": {
+        "FashionList": [
+          "1000140"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10020000001"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid_DT_Sniper_easy": {
+        "FashionList": [
+          "1000146"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10060000009",
+          "11050005006",
+          "11070005006",
+          "11080004002"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid_DT_Sniper_normal": {
+        "FashionList": [
+          "1000146"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10020000001",
+          "11050005006",
+          "11070005006",
+          "11080004002"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid_DT_Sniper_hard": {
+        "FashionList": [
+          "1000146"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10020000001",
+          "11050005006",
+          "11070005006",
+          "11080004002"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid_DT_Shield_easy": {
+        "FashionList": [
+          "1000144"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10070000002",
+          "11050004004",
+          "11010002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid_DT_Shield_normal": {
+        "FashionList": [
+          "1000144"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10070000002",
+          "11050004004",
+          "11010002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid_DT_Shield_hard": {
+        "FashionList": [
+          "1000147"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10070000002",
+          "11050004004",
+          "11010002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid_DT_Firebat_all": {
+        "FashionList": [
+          "1000152"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid_HS_Charger_easy": {
+        "FashionList": [
+          "1000142"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "11050002006",
+          "11070004003",
+          "11010005004",
+          "10030000001"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid_HS_Charger_normal": {
+        "FashionList": [
+          "1000142"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "11050002006",
+          "11070004003",
+          "11010005004",
+          "10030000001"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid_HS_Charger_hard": {
+        "FashionList": [
+          "1000137"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "11050002006",
+          "11070004003",
+          "11010005004",
+          "10030000001"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid_HS_Assaulter_easy": {
+        "FashionList": [
+          "1000149"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10010000087",
+          "11050006004",
+          "11010004005"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid_HS_Assaulter_normal": {
+        "FashionList": [
+          "1000149"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10010000087",
+          "11050006004",
+          "11010004005"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid_HS_Assaulter_hard": {
+        "FashionList": [
+          "1000138"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10010000087",
+          "11050006004",
+          "11010004005"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid_HS_Sniper_easy": {
+        "FashionList": [
+          "1000134"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "11080004005",
+          "11050005005",
+          "10060000009"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid_HS_Sniper_normal": {
+        "FashionList": [
+          "1000134"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "11080004005",
+          "11050005005",
+          "10060000009"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid_HS_Sniper_hard": {
+        "FashionList": [
+          "1000134"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "11080004005",
+          "11050005005",
+          "10060000009"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid_HS_Shield_easy": {
+        "FashionList": [
+          "1000134"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10010000002",
+          "11050006004",
+          "11010006004"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid_HS_Shield_normal": {
+        "FashionList": [
+          "1000134"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10010000002",
+          "11050006004",
+          "11010006004"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid_HS_Shield_hard": {
+        "FashionList": [
+          "1000134"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10010000002",
+          "11050006004",
+          "11010006004"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid_HS_Firebat_all": {
+        "FashionList": [
+          "1000135"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid_DT_RPGer": {
+        "FashionList": [
+          "1000156"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10080000258"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "MP_Red_Assaulter": {
+        "FashionList": [
+          "1000140"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10010000012"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "MP_Blue_Assaulter": {
+        "FashionList": [
+          "1000151"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10010000012"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_Boss_Maurice": {
+        "FashionList": [
+          "1000154"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_DT_FireFlamer_01": {
+        "FashionList": [
+          "1000152"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_HS_FireFlamer_01": {
+        "FashionList": [
+          "1000155"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Shield_01": {
+        "FashionList": [
+          "1000158"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Shield_01": {
+        "FashionList": [
+          "1000157"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_DT_RPGer": {
+        "FashionList": [
+          "1000156"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10080000258"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_DT_VIP": {
+        "FashionList": [
+          "18000000014"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_HS_VIP": {
+        "FashionList": [
+          "1000141",
+          "1000142",
+          "1000148",
+          "1000149"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "11010004005",
+          "11010004006",
+          "11050004006",
+          "11050004007"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid_DT_HeavyMachineGun": {
+        "FashionList": [
+          "1000163"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10040000854"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid_DT_MeleeAttack": {
+        "FashionList": [
+          "18000000011"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid1_npc_01": {
+        "FashionList": [
+          "1000104"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid1_npc_02": {
+        "FashionList": [
+          "1000106"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid1_npc_03": {
+        "FashionList": [
+          "1000105"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid1_npc_04": {
+        "FashionList": [
+          "1000107"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid1_npc_05": {
+        "FashionList": [
+          "1000114"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid1_npc_06": {
+        "FashionList": [
+          "1000101"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid1_npc_07": {
+        "FashionList": [
+          "1000102"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid1_npc_08": {
+        "FashionList": [
+          "1000103"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid1_npc_09": {
+        "FashionList": [
+          "1000160"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid1_Sergeant_Wilson": {
+        "FashionList": [
+          "1000161"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid1_DF_soldier": {
+        "FashionList": [
+          "1000162"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "COD_Anim_Test": {
+        "FashionList": [
+          "88000000066"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10010000087"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_DT_HeavyMachineGun": {
+        "FashionList": [
+          "1000164"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10040000854"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_HS_HeavyMachineGun": {
+        "FashionList": [
+          "1000163"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10040000854"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "1000152": {
+        "FashionList": [
+          "1000146"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "11010004001",
+          "11050004001"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_Boss_Reis_Guard_Temp": {
+        "FashionList": [
+          "1000152"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "11050004001"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_Boss_Reis_Accessin_Temp": {
+        "FashionList": [
+          "1000145"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "11050004001"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "AINewAnimTest": {
+        "FashionList": [
+          "1000176"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10010000430",
+          "11010002002",
+          "11080004002"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Intro_DT_RPGer": {
+        "FashionList": [
+          "1000156"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10080000258",
+          "11080009001",
+          "11070004002",
+          "11010004003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Intro_Boss_Reis_Accessin": {
+        "FashionList": [
+          "1000152"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10020000521",
+          "11010004001",
+          "11050004001"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Intro_DT_Shield_01": {
+        "FashionList": [
+          "1000158"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10070000002",
+          "11050004004",
+          "11010002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Basic_SMG_10": {
+        "FashionList": [
+          "1000172"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050001001",
+          "11010001001",
+          "11080001003",
+          "11070001003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Basic_AR_10": {
+        "FashionList": [
+          "1000172"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050002001",
+          "11010001001",
+          "11070002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Basic_Shotgun_10": {
+        "FashionList": [
+          "1000172"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050001001",
+          "11010002001",
+          "11080001003",
+          "11070001003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Elite_SMG_10": {
+        "FashionList": [
+          "1000174"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050002001",
+          "11010002001",
+          "11070001003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Elite_AR_10": {
+        "FashionList": [
+          "1000174"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050003001",
+          "11010002001",
+          "11080002006",
+          "11070002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Elite_Shotgun_10": {
+        "FashionList": [
+          "1000174"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050002001",
+          "11010002001",
+          "11070002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Shielder_01_10": {
+        "FashionList": [
+          "1000158"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Sniper_01_10": {
+        "FashionList": [
+          "1000146"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_RPG_01_10": {
+        "FashionList": [
+          "1000156"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10080000258"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_HeavyMachineGun_01_10": {
+        "FashionList": [
+          "1000164"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10040000854"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_VIP_01_10": {
+        "FashionList": [
+          "18000000014"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050003001",
+          "11010003001",
+          "11080003003",
+          "11070002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Basic_SMG_10": {
+        "FashionList": [
+          "1000176"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050001002",
+          "11010001002",
+          "11070002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Basic_AR_10": {
+        "FashionList": [
+          "1000176"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050002002",
+          "11010002002",
+          "11070001003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Basic_Shotgun_10": {
+        "FashionList": [
+          "1000176"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050002002",
+          "11010002002",
+          "11080002006",
+          "11070001003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Elite_SMG_10": {
+        "FashionList": [
+          "1000176"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050002002",
+          "11010002002",
+          "11080002006",
+          "11070002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Elite_AR_10": {
+        "FashionList": [
+          "1000176"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050003002",
+          "11010002002",
+          "11080002006",
+          "11070001003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Elite_Shotgun_10": {
+        "FashionList": [
+          "1000176"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050002002",
+          "11010003002",
+          "11080001003",
+          "11070002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Shielder_01_10": {
+        "FashionList": [
+          "1000157"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Sniper_01_10": {
+        "FashionList": [
+          "1000150"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_HeavyMachineGun_01_10": {
+        "FashionList": [
+          "1000163"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10040000854"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Paratrooper_SMG_10": {
+        "FashionList": [
+          "1000186"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050003002",
+          "11010003002",
+          "11080003003",
+          "11070002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Paratrooper_AR_10": {
+        "FashionList": [
+          "1000186"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050003002",
+          "11010003002",
+          "11080002006",
+          "11070003003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_VIP_01_10": {
+        "FashionList": [
+          "1000176"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050003002",
+          "11010003002",
+          "11080003003",
+          "11070002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_Boss_Reis_10": {
+        "FashionList": [
+          "16"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "11080003003",
+          "11070003003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_Boss_Assault_10": {
+        "FashionList": [
+          "1000174"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050003001",
+          "11010003001",
+          "11080002006",
+          "11070003003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_BOSS_Guard_10": {
+        "FashionList": [
+          "1000159"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11080003003",
+          "11070003003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_Boss_Maurice_10": {
+        "FashionList": [
+          "1000154"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Basic_SMG_20": {
+        "FashionList": [
+          "1000172"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050002001",
+          "11010001001",
+          "11080001003",
+          "11070001003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Basic_AR_20": {
+        "FashionList": [
+          "1000172"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050002001",
+          "11010002001",
+          "11070002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Basic_Shotgun_20": {
+        "FashionList": [
+          "1000172"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050003001",
+          "11010002001",
+          "11080001003",
+          "11070001003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Elite_SMG_20": {
+        "FashionList": [
+          "1000174"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050003001",
+          "11010003001",
+          "11070001003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Elite_AR_20": {
+        "FashionList": [
+          "1000174"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050003001",
+          "11010003001",
+          "11080002006",
+          "11070002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Elite_Shotgun_20": {
+        "FashionList": [
+          "1000174"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050003001",
+          "11010003001",
+          "11070002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Shielder_01_20": {
+        "FashionList": [
+          "1000158"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Sniper_01_20": {
+        "FashionList": [
+          "1000146"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_RPG_01_20": {
+        "FashionList": [
+          "1000156"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10080000258"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_HeavyMachineGun_01_20": {
+        "FashionList": [
+          "1000164"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10040000854"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_VIP_01_20": {
+        "FashionList": [
+          "18000000014"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050004001",
+          "11010003001",
+          "11080003003",
+          "11070002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Basic_SMG_20": {
+        "FashionList": [
+          "1000176"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050003002",
+          "11010002002",
+          "11070002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Basic_AR_20": {
+        "FashionList": [
+          "1000176"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050002002",
+          "11010003002",
+          "11070001003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Basic_Shotgun_20": {
+        "FashionList": [
+          "1000176"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050003002",
+          "11010003002",
+          "11080002006",
+          "11070001003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Elite_SMG_20": {
+        "FashionList": [
+          "1000176"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050004002",
+          "11010003002",
+          "11080002006",
+          "11070002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Elite_AR_20": {
+        "FashionList": [
+          "1000176"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050003002",
+          "11010004002",
+          "11080002006",
+          "11070001003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Elite_Shotgun_20": {
+        "FashionList": [
+          "1000176"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050004002",
+          "11010003002",
+          "11080001003",
+          "11070002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Shielder_01_20": {
+        "FashionList": [
+          "1000157"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Sniper_01_20": {
+        "FashionList": [
+          "1000150"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_HeavyMachineGun_01_20": {
+        "FashionList": [
+          "1000163"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10040000854"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Paratrooper_SMG_20": {
+        "FashionList": [
+          "1000186"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050004002",
+          "11010003002",
+          "11080003003",
+          "11070002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Paratrooper_AR_20": {
+        "FashionList": [
+          "1000186"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050003002",
+          "11010004002",
+          "11080002006",
+          "11070003003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_VIP_01_20": {
+        "FashionList": [
+          "1000176"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050003002",
+          "11010004002",
+          "11080003003",
+          "11070002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_Boss_Reis_20": {
+        "FashionList": [
+          "16"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "11080003003",
+          "11070003003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_Boss_Assault_20": {
+        "FashionList": [
+          "1000174"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050004001",
+          "11010004001",
+          "11080002006",
+          "11070003003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_BOSS_Guard_20": {
+        "FashionList": [
+          "1000159"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11080003003",
+          "11070003003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_Boss_Maurice_20": {
+        "FashionList": [
+          "1000154"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Basic_SMG_30": {
+        "FashionList": [
+          "1000172"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050003001",
+          "11010002001",
+          "11070002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Basic_AR_30": {
+        "FashionList": [
+          "1000172"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050004001",
+          "11010003001",
+          "11070001003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Basic_Shotgun_30": {
+        "FashionList": [
+          "1000172"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050003001",
+          "11010004001",
+          "11080002006",
+          "11070002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Elite_SMG_30": {
+        "FashionList": [
+          "1000174"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050003001",
+          "11010004001",
+          "11080002006",
+          "11070001003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Elite_AR_30": {
+        "FashionList": [
+          "1000174"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050004001",
+          "11010003001",
+          "11080003003",
+          "11070002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Elite_Shotgun_30": {
+        "FashionList": [
+          "1000174"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050004001",
+          "11010004001",
+          "11080002006",
+          "11070002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Shielder_01_30": {
+        "FashionList": [
+          "1000158"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Sniper_01_30": {
+        "FashionList": [
+          "1000146"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_RPG_01_30": {
+        "FashionList": [
+          "1000156"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10080000258"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_HeavyMachineGun_01_30": {
+        "FashionList": [
+          "1000164"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10040000854"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_VIP_01_30": {
+        "FashionList": [
+          "18000000014"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050005001",
+          "11010004001",
+          "11080003003",
+          "11070002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Basic_SMG_30": {
+        "FashionList": [
+          "1000176"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050004002",
+          "11010003002",
+          "11070005004"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Basic_AR_30": {
+        "FashionList": [
+          "1000176"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050003002",
+          "11010004002",
+          "11070005004"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Basic_Shotgun_30": {
+        "FashionList": [
+          "1000176"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050004002",
+          "11010003002",
+          "11080004003",
+          "11070006005"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Elite_SMG_30": {
+        "FashionList": [
+          "1000176"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050003002",
+          "11010003002",
+          "11080004003",
+          "11070005004"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Elite_AR_30": {
+        "FashionList": [
+          "1000176"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050005002",
+          "11010003002",
+          "11080004006",
+          "11070005004"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Elite_Shotgun_30": {
+        "FashionList": [
+          "1000176"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050004002",
+          "11010004002",
+          "11070004003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Shielder_01_30": {
+        "FashionList": [
+          "1000157"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Sniper_01_30": {
+        "FashionList": [
+          "1000150"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_HeavyMachineGun_01_30": {
+        "FashionList": [
+          "1000163"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10040000854"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Paratrooper_SMG_30": {
+        "FashionList": [
+          "1000186"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050004002",
+          "11010004002",
+          "11080004003",
+          "11070005004"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Paratrooper_AR_30": {
+        "FashionList": [
+          "1000186"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050004002",
+          "11010004002",
+          "11080004003",
+          "11070004003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_VIP_01_30": {
+        "FashionList": [
+          "1000176"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050005002",
+          "11010004002",
+          "11080004006",
+          "11070005004"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Normal_SMG_10": {
+        "FashionList": [
+          "1000172"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10050001001",
+          "10010001001",
+          "10080001003",
+          "10070001003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Normal_AR_10": {
+        "FashionList": [
+          "1000172"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10050002001",
+          "10010001001",
+          "10070002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Normal_Shotgun_10": {
+        "FashionList": [
+          "1000172"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10050001001",
+          "10010002001",
+          "10080001003",
+          "10070001003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Normal_SMG_20": {
+        "FashionList": [
+          "1000172"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10050002001",
+          "10010001001",
+          "10080001003",
+          "10070001003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Normal_AR_20": {
+        "FashionList": [
+          "1000172"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10050002001",
+          "10010002001",
+          "10070002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Normal_Shotgun_20": {
+        "FashionList": [
+          "1000172"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10050003001",
+          "10010002001",
+          "10080001003",
+          "10070001003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Normal_SMG_30": {
+        "FashionList": [
+          "1000172"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10050003001",
+          "10010002001",
+          "10070002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Normal_AR_30": {
+        "FashionList": [
+          "1000172"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10050004001",
+          "10010003001",
+          "10070001003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Normal_Shotgun_30": {
+        "FashionList": [
+          "1000172"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10050003001",
+          "10010004001",
+          "10080002006",
+          "10070002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Normal_SMG_10": {
+        "FashionList": [
+          "1000176"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10050001002",
+          "10010001002",
+          "10070002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Normal_AR_10": {
+        "FashionList": [
+          "1000176"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10050002002",
+          "10010002002",
+          "10070001003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Normal_Shotgun_10": {
+        "FashionList": [
+          "1000176"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10050002002",
+          "10010002002",
+          "10080002006",
+          "10070001003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Normal_SMG_20": {
+        "FashionList": [
+          "1000176"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10050003002",
+          "10010002002",
+          "10070002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Normal_AR_20": {
+        "FashionList": [
+          "1000176"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10050002002",
+          "10010003002",
+          "10070001003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Normal_Shotgun_20": {
+        "FashionList": [
+          "1000176"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10050003002",
+          "10010003002",
+          "10080002006",
+          "10070001003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Normal_SMG_30": {
+        "FashionList": [
+          "1000176"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10050004002",
+          "10010003002",
+          "10070005004"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Normal_AR_30": {
+        "FashionList": [
+          "1000176"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10050003002",
+          "10010004002",
+          "10070005004"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Normal_Shotgun_30": {
+        "FashionList": [
+          "1000176"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10050004002",
+          "10010003002",
+          "10080004003",
+          "10070006005"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_Boss_Reis_30": {
+        "FashionList": [
+          "16"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_Boss_Assault_30": {
+        "FashionList": [
+          "1000174"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050004001",
+          "11010004001",
+          "11080001003",
+          "11070002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_BOSS_Guard_30": {
+        "FashionList": [
+          "1000159"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_Boss_Maurice_30": {
+        "FashionList": [
+          "1000154"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10040000006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_Test_Flashlight": {
+        "FashionList": [
+          "1000144"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10020001227"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "BHD_Test_Reb": {
+        "FashionList": [
+          "1000172"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "BHD_Test_Civil_Bk": {
+        "FashionList": [
+          "1000104",
+          "1000105",
+          "1000106",
+          "1000107",
+          "1000114",
+          "1000101",
+          "1000102",
+          "1000103",
+          "1000160"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "BHD_Test_Civil": {
+        "FashionList": [
+          "18000000014"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_Tutorial_PlayerAi_Camp": {
+        "FashionList": [
+          "88000000027"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_Tutorial_PlayerAi_Exist": {
+        "FashionList": [
+          "88000000030"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_Crocodile": {
+        "FashionList": [
+          "1000177"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_Boss_Anais": {
+        "FashionList": [
+          "17"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10060001486"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_HeavyMachineGun_Adjutant": {
+        "FashionList": [
+          "1000178"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10040000854"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Shield_Adjutant": {
+        "FashionList": [
+          "1000179"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_HS_FireFlamer_Adjutant": {
+        "FashionList": [
+          "1000180"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_HS_HeavyMachineGun_Adjutant": {
+        "FashionList": [
+          "1000181"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10040000854"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Shield_Adjutant": {
+        "FashionList": [
+          "1000182"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_DT_AR_Adjutant": {
+        "FashionList": [
+          "1000174"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050004001",
+          "11010005001"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Sniper_Adjutant": {
+        "FashionList": [
+          "1000146"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050003001",
+          "11010004001"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Sniper_Adjutant": {
+        "FashionList": [
+          "1000150"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050004002",
+          "11010005002"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "Raid_DT_Base_10": {
+        "FashionList": [
+          "1000172",
+          "1000174"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050001001",
+          "11010001001",
+          "11080001003",
+          "11070001003",
+          ""
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "Raid_DT_General_10": {
+        "FashionList": [
+          "1000187",
+          "1000188"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11010001001",
+          "11010002001",
+          "11050001001",
+          "11050002001",
+          "11070001001",
+          "11070002001"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "Raid_DT_General_20": {
+        "FashionList": [
+          "1000188",
+          "1000189"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11010003001",
+          "11010004001",
+          "11050003001",
+          "11050004001",
+          "11070003001",
+          "11070004001"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "Raid_DT_General_30": {
+        "FashionList": [
+          "1000189",
+          "1000190"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11010003001",
+          "11010004001",
+          "11050003001",
+          "11050004001",
+          "11070003001",
+          "11070004001"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "Raid_GTI_Driver": {
+        "FashionList": [
+          "1000183"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_Boss_Romytheus": {
+        "FashionList": [
+          "1000184"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10070001600"
+        ],
+        "DefaultSkins": [
+          {
+            "_StructType": "FStructFallback",
+            "SkinID": 28070640002,
+            "FancyColorID": 0
+          }
+        ],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_Boss_Romytheus_Shielder": {
+        "FashionList": [
+          "1000185"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10060001486"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_Boss_Romytheus_Assaulter": {
+        "FashionList": [
+          "1000186"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10060001486"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_Boss_Romytheus_HelicopterGuard": {
+        "FashionList": [
+          "1000186"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "11010003002",
+          "11050004002",
+          "10010001604"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_Boss_Romytheus_HelicopterPilot": {
+        "FashionList": [
+          "1000186"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "11010003002",
+          "11050004002"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_Boss_Raven": {
+        "FashionList": [
+          "1000192"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10070001719"
+        ],
+        "DefaultSkins": [
+          {
+            "_StructType": "FStructFallback",
+            "SkinID": 28070640002,
+            "FancyColorID": 0
+          }
+        ],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Security": {
+        "FashionList": [
+          "1000186"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10060001486"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Security_Shielder": {
+        "FashionList": [
+          "1000185"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10060001486"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010004",
+        "RowDescription": "None"
+      },
+      "SOL_Boss_05_Henc": {
+        "FashionList": [
+          "1000191"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050005002",
+          "11010005001",
+          "10010000049"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_Boss_06_Warder": {
+        "FashionList": [
+          "1000197"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10010001775",
+          "11050005002"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Prisoner": {
+        "FashionList": [
+          "1000193"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11070001002"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Prisoner_B": {
+        "FashionList": [
+          "1000194"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050003002"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Security_Masked": {
+        "FashionList": [
+          "1000195"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_HS_Shielder_Masked": {
+        "FashionList": [
+          "1000196"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_Boss_Boss07": {
+        "FashionList": [
+          "1000201"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10010003132"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_Boss07_Guard": {
+        "FashionList": [
+          "1000202"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10010003121",
+          "11080001003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_Boss07_Guard_Car15": {
+        "FashionList": [
+          "1000202"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10010003133",
+          "11080001003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_Boss07_Guard_ScarH": {
+        "FashionList": [
+          "1000202"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10010003170",
+          "11080001003"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_Boss_06_Warder_Attendant": {
+        "FashionList": [
+          "1000198"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "10010001775",
+          "11010004002",
+          "11050005002",
+          "11080001003",
+          "11070002002"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Prisoner_Elite": {
+        "FashionList": [
+          "1000194"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Elite_AR_C501": {
+        "FashionList": [
+          "1000501"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [
+          "11050003001",
+          "11010002001",
+          "11080002006",
+          "11070002006"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_HeavyMachineGun_C501": {
+        "FashionList": [
+          "1000502"
+        ],
+        "bUseDefaultWeapons": true,
+        "bUseDefaultItems": true,
+        "DefaultItems": [
+          "10040000854"
+        ],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_DT_Shielder_C501": {
+        "FashionList": [
+          "1000503"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "SOL_Shark": {
+        "FashionList": [
+          "1000200"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      },
+      "SOL_DT_FireFlamer_C501": {
+        "FashionList": [
+          "1000504"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": true,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "15110010005",
+        "RowDescription": "None"
+      },
+      "C104AI_Dog": {
+        "FashionList": [
+          "1040001"
+        ],
+        "bUseDefaultWeapons": false,
+        "bUseDefaultItems": false,
+        "DefaultItems": [],
+        "DefaultSkins": [],
+        "ArchiveItemID": "None",
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 304
+  }
+]

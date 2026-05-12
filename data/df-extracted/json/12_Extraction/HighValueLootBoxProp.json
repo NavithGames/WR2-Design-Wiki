@@ -1,0 +1,479 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "HighValueLootBoxProp",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/HighValueLootBoxProp",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "HighValueLootBoxItemRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "1": {
+        "UniqueID": 1,
+        "MatchModeID": 141901103,
+        "MapBoxConfig": 0,
+        "BoxId": "934;952;938;930;946",
+        "HighValueProportion": 0.3
+      },
+      "2": {
+        "UniqueID": 2,
+        "MatchModeID": 142201103,
+        "MapBoxConfig": 0,
+        "BoxId": "934;952;938;930;946",
+        "HighValueProportion": 0.3
+      },
+      "3": {
+        "UniqueID": 3,
+        "MatchModeID": 148101103,
+        "MapBoxConfig": 0,
+        "BoxId": "934;952;938;930;946",
+        "HighValueProportion": 0.3
+      },
+      "4": {
+        "UniqueID": 4,
+        "MatchModeID": 141911101,
+        "MapBoxConfig": 0,
+        "BoxId": "934;952;938;930;946",
+        "HighValueProportion": 0.3
+      },
+      "5": {
+        "UniqueID": 5,
+        "MatchModeID": 142211101,
+        "MapBoxConfig": 0,
+        "BoxId": "934;952;938;930;946",
+        "HighValueProportion": 0.3
+      },
+      "6": {
+        "UniqueID": 6,
+        "MatchModeID": 148801103,
+        "MapBoxConfig": 0,
+        "BoxId": "934;952;938;930;946",
+        "HighValueProportion": 0.3
+      },
+      "7": {
+        "UniqueID": 7,
+        "MatchModeID": 142231133,
+        "MapBoxConfig": 0,
+        "BoxId": "934;952;938;930;946",
+        "HighValueProportion": 0.3
+      },
+      "8": {
+        "UniqueID": 8,
+        "MatchModeID": 141901103,
+        "MapBoxConfig": 0,
+        "BoxId": "955;909;957;956",
+        "HighValueProportion": 0.3
+      },
+      "9": {
+        "UniqueID": 9,
+        "MatchModeID": 142201103,
+        "MapBoxConfig": 0,
+        "BoxId": "955;909;957;956",
+        "HighValueProportion": 0.3
+      },
+      "10": {
+        "UniqueID": 10,
+        "MatchModeID": 148101103,
+        "MapBoxConfig": 0,
+        "BoxId": "955;909;957;956",
+        "HighValueProportion": 0.3
+      },
+      "11": {
+        "UniqueID": 11,
+        "MatchModeID": 141911101,
+        "MapBoxConfig": 0,
+        "BoxId": "955;909;957;956",
+        "HighValueProportion": 0.3
+      },
+      "12": {
+        "UniqueID": 12,
+        "MatchModeID": 142211101,
+        "MapBoxConfig": 0,
+        "BoxId": "955;909;957;956",
+        "HighValueProportion": 0.3
+      },
+      "13": {
+        "UniqueID": 13,
+        "MatchModeID": 148801103,
+        "MapBoxConfig": 0,
+        "BoxId": "955;909;957;956",
+        "HighValueProportion": 0.3
+      },
+      "14": {
+        "UniqueID": 14,
+        "MatchModeID": 142231133,
+        "MapBoxConfig": 0,
+        "BoxId": "955;909;957;956",
+        "HighValueProportion": 0.3
+      },
+      "15": {
+        "UniqueID": 15,
+        "MatchModeID": 141902113,
+        "MapBoxConfig": 0,
+        "BoxId": "934;952;938;930;946",
+        "HighValueProportion": 0.4
+      },
+      "16": {
+        "UniqueID": 16,
+        "MatchModeID": 142202113,
+        "MapBoxConfig": 0,
+        "BoxId": "934;952;938;930;946",
+        "HighValueProportion": 0.4
+      },
+      "17": {
+        "UniqueID": 17,
+        "MatchModeID": 141912111,
+        "MapBoxConfig": 0,
+        "BoxId": "934;952;938;930;946",
+        "HighValueProportion": 0.4
+      },
+      "18": {
+        "UniqueID": 18,
+        "MatchModeID": 142212111,
+        "MapBoxConfig": 0,
+        "BoxId": "934;952;938;930;946",
+        "HighValueProportion": 0.4
+      },
+      "19": {
+        "UniqueID": 19,
+        "MatchModeID": 142232143,
+        "MapBoxConfig": 0,
+        "BoxId": "934;952;938;930;946",
+        "HighValueProportion": 0.4
+      },
+      "20": {
+        "UniqueID": 20,
+        "MatchModeID": 148102113,
+        "MapBoxConfig": 0,
+        "BoxId": "934;952;938;930;946",
+        "HighValueProportion": 0.4
+      },
+      "21": {
+        "UniqueID": 21,
+        "MatchModeID": 143901113,
+        "MapBoxConfig": 0,
+        "BoxId": "934;952;938;930;946",
+        "HighValueProportion": 0.4
+      },
+      "22": {
+        "UniqueID": 22,
+        "MatchModeID": 148802113,
+        "MapBoxConfig": 0,
+        "BoxId": "934;952;938;930;946",
+        "HighValueProportion": 0.4
+      },
+      "23": {
+        "UniqueID": 23,
+        "MatchModeID": 142242173,
+        "MapBoxConfig": 0,
+        "BoxId": "934;952;938;930;946",
+        "HighValueProportion": 0.4
+      },
+      "24": {
+        "UniqueID": 24,
+        "MatchModeID": 141902113,
+        "MapBoxConfig": 0,
+        "BoxId": "955;909;957;956",
+        "HighValueProportion": 0.4
+      },
+      "25": {
+        "UniqueID": 25,
+        "MatchModeID": 142202113,
+        "MapBoxConfig": 0,
+        "BoxId": "955;909;957;956",
+        "HighValueProportion": 0.4
+      },
+      "26": {
+        "UniqueID": 26,
+        "MatchModeID": 141912111,
+        "MapBoxConfig": 0,
+        "BoxId": "955;909;957;956",
+        "HighValueProportion": 0.4
+      },
+      "27": {
+        "UniqueID": 27,
+        "MatchModeID": 142212111,
+        "MapBoxConfig": 0,
+        "BoxId": "955;909;957;956",
+        "HighValueProportion": 0.4
+      },
+      "28": {
+        "UniqueID": 28,
+        "MatchModeID": 142232143,
+        "MapBoxConfig": 0,
+        "BoxId": "955;909;957;956",
+        "HighValueProportion": 0.4
+      },
+      "29": {
+        "UniqueID": 29,
+        "MatchModeID": 148102113,
+        "MapBoxConfig": 0,
+        "BoxId": "955;909;957;956",
+        "HighValueProportion": 0.4
+      },
+      "30": {
+        "UniqueID": 30,
+        "MatchModeID": 143901113,
+        "MapBoxConfig": 0,
+        "BoxId": "955;909;957;956",
+        "HighValueProportion": 0.4
+      },
+      "31": {
+        "UniqueID": 31,
+        "MatchModeID": 148802113,
+        "MapBoxConfig": 0,
+        "BoxId": "955;909;957;956",
+        "HighValueProportion": 0.4
+      },
+      "32": {
+        "UniqueID": 32,
+        "MatchModeID": 142242173,
+        "MapBoxConfig": 0,
+        "BoxId": "955;909;957;956",
+        "HighValueProportion": 0.4
+      },
+      "33": {
+        "UniqueID": 33,
+        "MatchModeID": 148103123,
+        "MapBoxConfig": 0,
+        "BoxId": "934;952;938;930;946",
+        "HighValueProportion": 0.5
+      },
+      "34": {
+        "UniqueID": 34,
+        "MatchModeID": 143902123,
+        "MapBoxConfig": 0,
+        "BoxId": "934;952;938;930;946",
+        "HighValueProportion": 0.5
+      },
+      "35": {
+        "UniqueID": 35,
+        "MatchModeID": 148803123,
+        "MapBoxConfig": 0,
+        "BoxId": "934;952;938;930;946",
+        "HighValueProportion": 0.5
+      },
+      "36": {
+        "UniqueID": 36,
+        "MatchModeID": 148103123,
+        "MapBoxConfig": 0,
+        "BoxId": "955;909;957;956",
+        "HighValueProportion": 0.5
+      },
+      "37": {
+        "UniqueID": 37,
+        "MatchModeID": 143902123,
+        "MapBoxConfig": 0,
+        "BoxId": "955;909;957;956",
+        "HighValueProportion": 0.5
+      },
+      "38": {
+        "UniqueID": 38,
+        "MatchModeID": 148803123,
+        "MapBoxConfig": 0,
+        "BoxId": "955;909;957;956",
+        "HighValueProportion": 0.5
+      },
+      "39": {
+        "UniqueID": 39,
+        "MatchModeID": 141901103,
+        "MapBoxConfig": 100,
+        "BoxId": "934;952;938;930;946",
+        "HighValueProportion": 0.3
+      },
+      "40": {
+        "UniqueID": 40,
+        "MatchModeID": 142201103,
+        "MapBoxConfig": 100,
+        "BoxId": "934;952;938;930;946",
+        "HighValueProportion": 0.3
+      },
+      "41": {
+        "UniqueID": 41,
+        "MatchModeID": 148101103,
+        "MapBoxConfig": 100,
+        "BoxId": "934;952;938;930;946",
+        "HighValueProportion": 0.3
+      },
+      "42": {
+        "UniqueID": 42,
+        "MatchModeID": 141911101,
+        "MapBoxConfig": 100,
+        "BoxId": "934;952;938;930;946",
+        "HighValueProportion": 0.3
+      },
+      "43": {
+        "UniqueID": 43,
+        "MatchModeID": 142211101,
+        "MapBoxConfig": 100,
+        "BoxId": "934;952;938;930;946",
+        "HighValueProportion": 0.3
+      },
+      "44": {
+        "UniqueID": 44,
+        "MatchModeID": 148801103,
+        "MapBoxConfig": 100,
+        "BoxId": "934;952;938;930;946",
+        "HighValueProportion": 0.3
+      },
+      "45": {
+        "UniqueID": 45,
+        "MatchModeID": 142231133,
+        "MapBoxConfig": 100,
+        "BoxId": "934;952;938;930;946",
+        "HighValueProportion": 0.3
+      },
+      "46": {
+        "UniqueID": 46,
+        "MatchModeID": 141901103,
+        "MapBoxConfig": 100,
+        "BoxId": "955;909;957;956",
+        "HighValueProportion": 0.3
+      },
+      "47": {
+        "UniqueID": 47,
+        "MatchModeID": 142201103,
+        "MapBoxConfig": 100,
+        "BoxId": "955;909;957;956",
+        "HighValueProportion": 0.3
+      },
+      "48": {
+        "UniqueID": 48,
+        "MatchModeID": 148101103,
+        "MapBoxConfig": 100,
+        "BoxId": "955;909;957;956",
+        "HighValueProportion": 0.3
+      },
+      "49": {
+        "UniqueID": 49,
+        "MatchModeID": 141911101,
+        "MapBoxConfig": 100,
+        "BoxId": "955;909;957;956",
+        "HighValueProportion": 0.3
+      },
+      "50": {
+        "UniqueID": 50,
+        "MatchModeID": 142211101,
+        "MapBoxConfig": 100,
+        "BoxId": "955;909;957;956",
+        "HighValueProportion": 0.3
+      },
+      "51": {
+        "UniqueID": 51,
+        "MatchModeID": 148801103,
+        "MapBoxConfig": 100,
+        "BoxId": "955;909;957;956",
+        "HighValueProportion": 0.3
+      },
+      "52": {
+        "UniqueID": 52,
+        "MatchModeID": 142231133,
+        "MapBoxConfig": 100,
+        "BoxId": "955;909;957;956",
+        "HighValueProportion": 0.3
+      },
+      "53": {
+        "UniqueID": 53,
+        "MatchModeID": 141901103,
+        "MapBoxConfig": 200,
+        "BoxId": "934;952;938;930;946",
+        "HighValueProportion": 0.3
+      },
+      "54": {
+        "UniqueID": 54,
+        "MatchModeID": 142201103,
+        "MapBoxConfig": 200,
+        "BoxId": "934;952;938;930;946",
+        "HighValueProportion": 0.3
+      },
+      "55": {
+        "UniqueID": 55,
+        "MatchModeID": 148101103,
+        "MapBoxConfig": 200,
+        "BoxId": "934;952;938;930;946",
+        "HighValueProportion": 0.3
+      },
+      "56": {
+        "UniqueID": 56,
+        "MatchModeID": 141911101,
+        "MapBoxConfig": 200,
+        "BoxId": "934;952;938;930;946",
+        "HighValueProportion": 0.3
+      },
+      "57": {
+        "UniqueID": 57,
+        "MatchModeID": 142211101,
+        "MapBoxConfig": 200,
+        "BoxId": "934;952;938;930;946",
+        "HighValueProportion": 0.3
+      },
+      "58": {
+        "UniqueID": 58,
+        "MatchModeID": 148801103,
+        "MapBoxConfig": 200,
+        "BoxId": "934;952;938;930;946",
+        "HighValueProportion": 0.3
+      },
+      "59": {
+        "UniqueID": 59,
+        "MatchModeID": 142231133,
+        "MapBoxConfig": 200,
+        "BoxId": "934;952;938;930;946",
+        "HighValueProportion": 0.3
+      },
+      "60": {
+        "UniqueID": 60,
+        "MatchModeID": 141901103,
+        "MapBoxConfig": 200,
+        "BoxId": "955;909;957;956",
+        "HighValueProportion": 0.3
+      },
+      "61": {
+        "UniqueID": 61,
+        "MatchModeID": 142201103,
+        "MapBoxConfig": 200,
+        "BoxId": "955;909;957;956",
+        "HighValueProportion": 0.3
+      },
+      "62": {
+        "UniqueID": 62,
+        "MatchModeID": 148101103,
+        "MapBoxConfig": 200,
+        "BoxId": "955;909;957;956",
+        "HighValueProportion": 0.3
+      },
+      "63": {
+        "UniqueID": 63,
+        "MatchModeID": 141911101,
+        "MapBoxConfig": 200,
+        "BoxId": "955;909;957;956",
+        "HighValueProportion": 0.3
+      },
+      "64": {
+        "UniqueID": 64,
+        "MatchModeID": 142211101,
+        "MapBoxConfig": 200,
+        "BoxId": "955;909;957;956",
+        "HighValueProportion": 0.3
+      },
+      "65": {
+        "UniqueID": 65,
+        "MatchModeID": 148801103,
+        "MapBoxConfig": 200,
+        "BoxId": "955;909;957;956",
+        "HighValueProportion": 0.3
+      },
+      "66": {
+        "UniqueID": 66,
+        "MatchModeID": 142231133,
+        "MapBoxConfig": 200,
+        "BoxId": "955;909;957;956",
+        "HighValueProportion": 0.3
+      }
+    },
+    "_RowCount": 66
+  }
+]

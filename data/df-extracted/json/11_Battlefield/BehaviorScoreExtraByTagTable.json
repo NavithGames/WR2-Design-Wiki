@@ -1,0 +1,287 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "BehaviorScoreExtraByTagTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/BattleField/BehaviorScoreExtraByTagTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "BehaviorScoreExtraByTagDataRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "NewRow": {
+        "ScoreConfigTag": "Test",
+        "BehaviorScoreExtraData": [
+          {
+            "Key": "Target_Claimtarget",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ScoreName": "EScoreName::ECaptureProgress",
+              "ScoreNameExt": "None",
+              "Category": "\u76EE\u6807",
+              "ScoreBoardCategoryType": "EScoreBoardCategoryType::ECapture",
+              "Score": 20000,
+              "MedalScore": 20000,
+              "TournamentScore": 20000,
+              "IntValue1": 0,
+              "IntValue2": 0,
+              "IntValue3": 0,
+              "FloatValue1": 1,
+              "FloatValue2": 0,
+              "FloatValue3": 0,
+              "AvailableMode": [
+                "EDFMGamePlayMode::GamePlayMode_Conquest"
+              ],
+              "AvailableWeapon": [],
+              "WeaponUpgradeMultiplier": 0,
+              "AccountUpgradeMultiplier": 1,
+              "ShowText": "",
+              "bIsDifferentCamp": false,
+              "AttackerMultiplier": 1,
+              "DefenderMultiplier": 1
+            }
+          },
+          {
+            "Key": "Target_Claimtargetsuccess",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ScoreName": "EScoreName::ECaptured",
+              "ScoreNameExt": "None",
+              "Category": "\u76EE\u6807",
+              "ScoreBoardCategoryType": "EScoreBoardCategoryType::ECapture",
+              "Score": 150,
+              "MedalScore": 150,
+              "TournamentScore": 150,
+              "IntValue1": -1,
+              "IntValue2": -1,
+              "IntValue3": -1,
+              "FloatValue1": -1,
+              "FloatValue2": -1,
+              "FloatValue3": -1,
+              "AvailableMode": [
+                "EDFMGamePlayMode::GamePlayMode_Conquest"
+              ],
+              "AvailableWeapon": [],
+              "WeaponUpgradeMultiplier": 0,
+              "AccountUpgradeMultiplier": 1,
+              "ShowText": "",
+              "bIsDifferentCamp": false,
+              "AttackerMultiplier": 1,
+              "DefenderMultiplier": 1
+            }
+          },
+          {
+            "Key": "Target_Neutraltarget",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ScoreName": "EScoreName::ECaptured2Neutral",
+              "ScoreNameExt": "None",
+              "Category": "\u76EE\u6807",
+              "ScoreBoardCategoryType": "EScoreBoardCategoryType::ECapture",
+              "Score": 150,
+              "MedalScore": 150,
+              "TournamentScore": 150,
+              "IntValue1": -1,
+              "IntValue2": -1,
+              "IntValue3": -1,
+              "FloatValue1": -1,
+              "FloatValue2": -1,
+              "FloatValue3": -1,
+              "AvailableMode": [
+                "EDFMGamePlayMode::GamePlayMode_Conquest"
+              ],
+              "AvailableWeapon": [],
+              "WeaponUpgradeMultiplier": 0,
+              "AccountUpgradeMultiplier": 1,
+              "ShowText": "",
+              "bIsDifferentCamp": false,
+              "AttackerMultiplier": 1,
+              "DefenderMultiplier": 1
+            }
+          },
+          {
+            "Key": "Row_None_6",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ScoreName": "EScoreName::ECapturedByCamp",
+              "ScoreNameExt": "None",
+              "Category": "\u76EE\u6807",
+              "ScoreBoardCategoryType": "EScoreBoardCategoryType::ECapture",
+              "Score": 150,
+              "MedalScore": 150,
+              "TournamentScore": 150,
+              "IntValue1": -1,
+              "IntValue2": -1,
+              "IntValue3": -1,
+              "FloatValue1": -1,
+              "FloatValue2": -1,
+              "FloatValue3": -1,
+              "AvailableMode": [
+                "EDFMGamePlayMode::GamePlayMode_Conquest"
+              ],
+              "AvailableWeapon": [],
+              "WeaponUpgradeMultiplier": 0,
+              "AccountUpgradeMultiplier": 0,
+              "ShowText": "",
+              "bIsDifferentCamp": false,
+              "AttackerMultiplier": 1,
+              "DefenderMultiplier": 1
+            }
+          },
+          {
+            "Key": "Target_Claimwaypoint",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ScoreName": "EScoreName::EStickToTheGoal",
+              "ScoreNameExt": "None",
+              "Category": "\u76EE\u6807",
+              "ScoreBoardCategoryType": "EScoreBoardCategoryType::ECapture",
+              "Score": 20,
+              "MedalScore": 20,
+              "TournamentScore": 20,
+              "IntValue1": 1,
+              "IntValue2": 2,
+              "IntValue3": 1,
+              "FloatValue1": -1,
+              "FloatValue2": -1,
+              "FloatValue3": -1,
+              "AvailableMode": [
+                "EDFMGamePlayMode::GamePlayMode_Conquest",
+                "EDFMGamePlayMode::GamePlayMode_Breakthrough"
+              ],
+              "AvailableWeapon": [],
+              "WeaponUpgradeMultiplier": 0,
+              "AccountUpgradeMultiplier": 1,
+              "ShowText": "",
+              "bIsDifferentCamp": false,
+              "AttackerMultiplier": 1,
+              "DefenderMultiplier": 1
+            }
+          },
+          {
+            "Key": "saveline",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ScoreName": "EScoreName::EDefenderHoldingTheLine",
+              "ScoreNameExt": "None",
+              "Category": "None",
+              "ScoreBoardCategoryType": "EScoreBoardCategoryType::ENone",
+              "Score": 0,
+              "MedalScore": -1,
+              "TournamentScore": -1,
+              "IntValue1": -1,
+              "IntValue2": -1,
+              "IntValue3": -1,
+              "FloatValue1": -1,
+              "FloatValue2": -1,
+              "FloatValue3": -1,
+              "AvailableMode": [],
+              "AvailableWeapon": [],
+              "WeaponUpgradeMultiplier": 0,
+              "AccountUpgradeMultiplier": 0,
+              "ShowText": "",
+              "bIsDifferentCamp": false,
+              "AttackerMultiplier": 1,
+              "DefenderMultiplier": 1
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u7126\u70B9": {
+        "ScoreConfigTag": "HardPoint",
+        "BehaviorScoreExtraData": [
+          {
+            "Key": "Target_Claimwaypoint",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ScoreName": "EScoreName::EStickToTheGoal",
+              "ScoreNameExt": "None",
+              "Category": "None",
+              "ScoreBoardCategoryType": "EScoreBoardCategoryType::ECapture",
+              "Score": 100,
+              "MedalScore": 100,
+              "TournamentScore": 100,
+              "IntValue1": 0,
+              "IntValue2": 5,
+              "IntValue3": -1,
+              "FloatValue1": -1,
+              "FloatValue2": -1,
+              "FloatValue3": -1,
+              "AvailableMode": [
+                "EDFMGamePlayMode::GamePlayMode_Conquest"
+              ],
+              "AvailableWeapon": [],
+              "WeaponUpgradeMultiplier": 0,
+              "AccountUpgradeMultiplier": 0,
+              "ShowText": "",
+              "bIsDifferentCamp": false,
+              "AttackerMultiplier": 1,
+              "DefenderMultiplier": 1
+            }
+          },
+          {
+            "Key": "Target_Claimtargetsuccess",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ScoreName": "EScoreName::ECaptured",
+              "ScoreNameExt": "None",
+              "Category": "None",
+              "ScoreBoardCategoryType": "EScoreBoardCategoryType::ENone",
+              "Score": 50,
+              "MedalScore": 50,
+              "TournamentScore": 50,
+              "IntValue1": -1,
+              "IntValue2": -1,
+              "IntValue3": -1,
+              "FloatValue1": -1,
+              "FloatValue2": -1,
+              "FloatValue3": -1,
+              "AvailableMode": [
+                "EDFMGamePlayMode::GamePlayMode_Conquest"
+              ],
+              "AvailableWeapon": [],
+              "WeaponUpgradeMultiplier": 0,
+              "AccountUpgradeMultiplier": 0,
+              "ShowText": "",
+              "bIsDifferentCamp": false,
+              "AttackerMultiplier": 1,
+              "DefenderMultiplier": 1
+            }
+          },
+          {
+            "Key": "Target_CampClaimtargetsuccess",
+            "Value": {
+              "_StructType": "FStructFallback",
+              "ScoreName": "EScoreName::ECapturedByCamp",
+              "ScoreNameExt": "None",
+              "Category": "None",
+              "ScoreBoardCategoryType": "EScoreBoardCategoryType::ENone",
+              "Score": 0,
+              "MedalScore": 0,
+              "TournamentScore": 0,
+              "IntValue1": -1,
+              "IntValue2": -1,
+              "IntValue3": -1,
+              "FloatValue1": -1,
+              "FloatValue2": -1,
+              "FloatValue3": -1,
+              "AvailableMode": [],
+              "AvailableWeapon": [],
+              "WeaponUpgradeMultiplier": 0,
+              "AccountUpgradeMultiplier": 0,
+              "ShowText": "",
+              "bIsDifferentCamp": false,
+              "AttackerMultiplier": 1,
+              "DefenderMultiplier": 1
+            }
+          }
+        ],
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 2
+  }
+]

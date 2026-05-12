@@ -1,0 +1,3 @@
+﻿RowName,SpeedID,StandSilentWalkSpeed,StandRunSpeed,StandSprintSpeed,CrouchRunSpeed,CrouchSilentWalkSpeed,ProneMoveSpeed,SwimmingSurfaceSpeed,SwimmingInWaterSpeed,SwimmingUpSpeed,SwimmingDownSpeed,UsingItemSpeedFactor,UsingItemInWaterSpeedFactor,RowDescription
+9999,9999,180,355,630,255,125,90,285,340,340,200,-0.25,-0.25,None
+1,1,180,355,630,255,125,90,285,340,340,200,-0.25,-0.25,None

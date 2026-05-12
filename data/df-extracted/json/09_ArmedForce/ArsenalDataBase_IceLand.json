@@ -1,0 +1,17 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "ArsenalDataBase_IceLand",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/BattleField/ArsenalData/ArsenalDataBase_IceLand",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "BattleFieldMapItemInfoRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {},
+    "_RowCount": 0
+  }
+]

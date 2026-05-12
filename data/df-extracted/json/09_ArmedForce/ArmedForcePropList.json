@@ -1,0 +1,150 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "ArmedForcePropList",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/ArmedForcePropList",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "ArmedForcePropListInfo",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "1": {
+        "ItemID": 21010000001,
+        "ArmedForceIDs": 1,
+        "PropType": null,
+        "Name": null,
+        "MPCount": 2,
+        "MPDesc": null,
+        "SOLCD": 20,
+        "SOLDesc": null,
+        "RowDescription": "None"
+      },
+      "2": {
+        "ItemID": 21010000001,
+        "ArmedForceIDs": 1,
+        "PropType": null,
+        "Name": null,
+        "MPCount": 2,
+        "MPDesc": null,
+        "SOLCD": 20,
+        "SOLDesc": null,
+        "RowDescription": "None"
+      },
+      "3": {
+        "ItemID": 21020100001,
+        "ArmedForceIDs": 3,
+        "PropType": null,
+        "Name": null,
+        "MPCount": 2,
+        "MPDesc": null,
+        "SOLCD": 20,
+        "SOLDesc": null,
+        "RowDescription": "None"
+      },
+      "4": {
+        "ItemID": 21020100001,
+        "ArmedForceIDs": 3,
+        "PropType": null,
+        "Name": null,
+        "MPCount": 2,
+        "MPDesc": null,
+        "SOLCD": 20,
+        "SOLDesc": null,
+        "RowDescription": "None"
+      },
+      "5": {
+        "ItemID": 18080000004,
+        "ArmedForceIDs": 2,
+        "PropType": null,
+        "Name": null,
+        "MPCount": 2,
+        "MPDesc": null,
+        "SOLCD": 20,
+        "SOLDesc": null,
+        "RowDescription": "None"
+      },
+      "6": {
+        "ItemID": 18080000004,
+        "ArmedForceIDs": 2,
+        "PropType": null,
+        "Name": null,
+        "MPCount": 2,
+        "MPDesc": null,
+        "SOLCD": 20,
+        "SOLDesc": null,
+        "RowDescription": "None"
+      },
+      "7": {
+        "ItemID": 21020100001,
+        "ArmedForceIDs": 4,
+        "PropType": null,
+        "Name": null,
+        "MPCount": 2,
+        "MPDesc": null,
+        "SOLCD": 20,
+        "SOLDesc": null,
+        "RowDescription": "None"
+      },
+      "8": {
+        "ItemID": 21020100001,
+        "ArmedForceIDs": 4,
+        "PropType": null,
+        "Name": null,
+        "MPCount": 2,
+        "MPDesc": null,
+        "SOLCD": 20,
+        "SOLDesc": null,
+        "RowDescription": "None"
+      },
+      "9": {
+        "ItemID": 25010000003,
+        "ArmedForceIDs": 4,
+        "PropType": null,
+        "Name": null,
+        "MPCount": 1,
+        "MPDesc": null,
+        "SOLCD": 60,
+        "SOLDesc": null,
+        "RowDescription": "None"
+      },
+      "10": {
+        "ItemID": 21020300003,
+        "ArmedForceIDs": 4,
+        "PropType": null,
+        "Name": null,
+        "MPCount": 2,
+        "MPDesc": null,
+        "SOLCD": 45,
+        "SOLDesc": null,
+        "RowDescription": "None"
+      },
+      "11": {
+        "ItemID": 25010000006,
+        "ArmedForceIDs": 2,
+        "PropType": null,
+        "Name": null,
+        "MPCount": 1,
+        "MPDesc": null,
+        "SOLCD": 1,
+        "SOLDesc": null,
+        "RowDescription": "None"
+      },
+      "12": {
+        "ItemID": 21020300004,
+        "ArmedForceIDs": 2,
+        "PropType": null,
+        "Name": null,
+        "MPCount": 2,
+        "MPDesc": null,
+        "SOLCD": 60,
+        "SOLDesc": null,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 12
+  }
+]

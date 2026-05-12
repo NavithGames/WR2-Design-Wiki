@@ -1,0 +1,829 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "RollMoveData",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Ability/SkillData/RollMoveData",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "RollMoveData",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "NewRow": {
+        "Key": "\u514B\u83B1\u5C14\u7FFB\u6EDA",
+        "SpineCurveStand": {
+          "_Type": "CurveFloat",
+          "_Name": "BP_RollHeight",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/C304/BP_RollHeight",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              2,
+              1
+            ]
+          }
+        },
+        "SpineCurveCrouch": {
+          "_Type": "CurveFloat",
+          "_Name": "BP_RollHeight_Crouch",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/C304/BP_RollHeight_Crouch",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              2,
+              1
+            ]
+          }
+        },
+        "SpineCurveProne": {
+          "_Type": "CurveFloat",
+          "_Name": "BP_RollHeight_Crouch",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/C304/BP_RollHeight_Crouch",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              2,
+              1
+            ]
+          }
+        },
+        "SpineCurveSwim": null,
+        "RollSpeedCurve": {
+          "_Type": "CurveFloat",
+          "_Name": "BP_RollSpeed",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/C304/BP_RollSpeed",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        "RollSpeedCurve_LF": {
+          "_Type": "CurveFloat",
+          "_Name": "BP_RollSpeed",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/C304/BP_RollSpeed",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        "RollSpeedCurve_L": {
+          "_Type": "CurveFloat",
+          "_Name": "BP_RollSpeed_LR",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/C304/BP_RollSpeed_LR",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              1
+            ]
+          }
+        },
+        "RollSpeedCurve_RF": {
+          "_Type": "CurveFloat",
+          "_Name": "BP_RollSpeed",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/C304/BP_RollSpeed",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        "RollSpeedCurve_R": {
+          "_Type": "CurveFloat",
+          "_Name": "BP_RollSpeed_LR",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/C304/BP_RollSpeed_LR",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              1
+            ]
+          }
+        },
+        "RollSpeedCurve_LB": {
+          "_Type": "CurveFloat",
+          "_Name": "BP_RollSpeed",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/C304/BP_RollSpeed",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        "RollSpeedCurve_RB": {
+          "_Type": "CurveFloat",
+          "_Name": "BP_RollSpeed",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/C304/BP_RollSpeed",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        "RollSpeedCurve_B": {
+          "_Type": "CurveFloat",
+          "_Name": "BP_RollSpeed",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/C304/BP_RollSpeed",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        "WaterRollScaleCurve": null,
+        "AnimKey_F": "RollMove_F",
+        "AnimKey_LF": "RollMove_LF",
+        "AnimKey_L": "RollMove_L",
+        "AnimKey_RF": "RollMove_RF",
+        "AnimKey_R": "RollMove_R",
+        "AnimKey_LB": "RollMove_LB",
+        "AnimKey_RB": "RollMove_RB",
+        "AnimKey_B": "RollMove_B",
+        "Buff_F": [
+          300191
+        ],
+        "Buff_LF": [
+          300192
+        ],
+        "Buff_L": [
+          300193
+        ],
+        "Buff_RF": [
+          300195
+        ],
+        "Buff_R": [
+          300196
+        ],
+        "Buff_LB": [
+          300194
+        ],
+        "Buff_RB": [
+          300197
+        ],
+        "Buff_B": [
+          300198
+        ],
+        "SprintSpeedValue": 220,
+        "SprintAnimStartTime": 0,
+        "SprintAnimPlate": 0,
+        "AnimPlate": 1,
+        "RollTime": 1.4,
+        "DSRollTimeScale": 1.1,
+        "CurveTimeScale": 1000,
+        "MaxStepHeight": 100,
+        "StopBlendOutTime": 0.2,
+        "CameraRotationCalcType": "EFPPCameraRotationCalcType::EJointBoneAddValue",
+        "AnimationPlayTypeFPP": "EAnimationPlayType::AnimPlayType_FullBody",
+        "AnimationPlayTypeTPP": "EAnimationPlayType::AnimPlayType_FullBodyRescue",
+        "PutWeaponType": "EInteractivePutWeaponType::QuietUnEquip",
+        "GetWeaponType": "EInteractiveGetWeaponType::FastEquip",
+        "BreakInAirWaterDepth": 100,
+        "SkillID": 1012001,
+        "AddBuff": [
+          304001,
+          300096,
+          304002,
+          300199
+        ],
+        "RemoveBuff": [
+          300052,
+          1108,
+          1107,
+          1106,
+          1105,
+          204,
+          205,
+          1000015,
+          140064,
+          19070001,
+          19070002,
+          19070003,
+          19070004,
+          1000013,
+          1000014,
+          1000028,
+          1000029,
+          501014
+        ],
+        "RemoveBuffType": [],
+        "RollMultFactor": 0.55,
+        "RollDeceleration": 400,
+        "RollPutTimeOffset": 0.1,
+        "RollGetTimeOffset": -0.8,
+        "RollGetTimeUnlockOffset": -0.1,
+        "RollFallingHeight": 1000,
+        "RollEndMaxVelocity": 710,
+        "RollMaxYVelocity": 200,
+        "bUseGravity": true,
+        "GravityScaleWaterDepthCurve": null,
+        "GravityScale": 1,
+        "StartCheckTime": 0,
+        "MaxMoveDist": 2000,
+        "RollSetupAngle": 78.5,
+        "RollRevertAngle": 46.7,
+        "RollUpAngleLimit": 11.5,
+        "RollDownAngleLimit": 30,
+        "RollSetupRevertDistance": 100,
+        "GetWeaponUnLock": [
+          "ECharacterStateMask::CanAimOn",
+          "ECharacterStateMask::CanFire",
+          "ECharacterStateMask::CanAimOff"
+        ],
+        "RollAfterHitVoiceName": "None",
+        "RollAfterHitVoiceTime": 5,
+        "RollAfterHitVoiceDelay": 1,
+        "ChangeToStandTime": -1,
+        "RollEndStand": true,
+        "RowDescription": "None"
+      },
+      "NewRow_0": {
+        "Key": "\u8D5B\u4F0A\u5FB7\u7FFB\u6EDA",
+        "SpineCurveStand": {
+          "_Type": "CurveFloat",
+          "_Name": "BP_RollHeight",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/C304/BP_RollHeight",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              2,
+              1
+            ]
+          }
+        },
+        "SpineCurveCrouch": {
+          "_Type": "CurveFloat",
+          "_Name": "BP_RollHeight_Crouch",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/C304/BP_RollHeight_Crouch",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              2,
+              1
+            ]
+          }
+        },
+        "SpineCurveProne": {
+          "_Type": "CurveFloat",
+          "_Name": "BP_RollHeight_Crouch",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/C304/BP_RollHeight_Crouch",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              2,
+              1
+            ]
+          }
+        },
+        "SpineCurveSwim": null,
+        "RollSpeedCurve": {
+          "_Type": "CurveFloat",
+          "_Name": "BP_RollSpeed",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/C304/BP_RollSpeed",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        "RollSpeedCurve_LF": {
+          "_Type": "CurveFloat",
+          "_Name": "BP_RollSpeed",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/C304/BP_RollSpeed",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        "RollSpeedCurve_L": {
+          "_Type": "CurveFloat",
+          "_Name": "BP_RollSpeed_LR",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/C304/BP_RollSpeed_LR",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              1
+            ]
+          }
+        },
+        "RollSpeedCurve_RF": {
+          "_Type": "CurveFloat",
+          "_Name": "BP_RollSpeed",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/C304/BP_RollSpeed",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        "RollSpeedCurve_R": {
+          "_Type": "CurveFloat",
+          "_Name": "BP_RollSpeed_LR",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/C304/BP_RollSpeed_LR",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              1
+            ]
+          }
+        },
+        "RollSpeedCurve_LB": {
+          "_Type": "CurveFloat",
+          "_Name": "BP_RollSpeed",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/C304/BP_RollSpeed",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        "RollSpeedCurve_RB": {
+          "_Type": "CurveFloat",
+          "_Name": "BP_RollSpeed",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/C304/BP_RollSpeed",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        "RollSpeedCurve_B": {
+          "_Type": "CurveFloat",
+          "_Name": "BP_RollSpeed",
+          "_Class": "UCurveFloat",
+          "_Outer": "DeltaForce/Content/BluePrints/Ability/C304/BP_RollSpeed",
+          "FloatCurve": {
+            "_StructType": "FStructFallback",
+            "Keys": [
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              },
+              {
+                "_StructType": "FRichCurveKey",
+                "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+              }
+            ],
+            "Orders": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        "WaterRollScaleCurve": null,
+        "AnimKey_F": "Roll_F",
+        "AnimKey_LF": "Roll_LF",
+        "AnimKey_L": "Roll_L",
+        "AnimKey_RF": "Roll_RF",
+        "AnimKey_R": "Roll_R",
+        "AnimKey_LB": "Roll_LB",
+        "AnimKey_RB": "Roll_RB",
+        "AnimKey_B": "Roll_B",
+        "Buff_F": [
+          501002
+        ],
+        "Buff_LF": [
+          501003
+        ],
+        "Buff_L": [
+          501004
+        ],
+        "Buff_RF": [
+          501006
+        ],
+        "Buff_R": [
+          501007
+        ],
+        "Buff_LB": [
+          501005
+        ],
+        "Buff_RB": [
+          501008
+        ],
+        "Buff_B": [
+          501009
+        ],
+        "SprintSpeedValue": 220,
+        "SprintAnimStartTime": 0,
+        "SprintAnimPlate": 0,
+        "AnimPlate": 1,
+        "RollTime": 1.4,
+        "DSRollTimeScale": 1.1,
+        "CurveTimeScale": 1000,
+        "MaxStepHeight": 100,
+        "StopBlendOutTime": 0.2,
+        "CameraRotationCalcType": "EFPPCameraRotationCalcType::EJointBoneAddValue",
+        "AnimationPlayTypeFPP": "EAnimationPlayType::AnimPlayType_FullBody",
+        "AnimationPlayTypeTPP": "EAnimationPlayType::AnimPlayType_FullBodyRescue",
+        "PutWeaponType": "EInteractivePutWeaponType::QuietUnEquip",
+        "GetWeaponType": "EInteractiveGetWeaponType::FastEquip",
+        "BreakInAirWaterDepth": 100,
+        "SkillID": 5010002,
+        "AddBuff": [
+          501010,
+          501011
+        ],
+        "RemoveBuff": [
+          300052,
+          1108,
+          1107,
+          1106,
+          1105,
+          204,
+          205,
+          1000015,
+          140064,
+          19070001,
+          19070002,
+          19070003,
+          19070004,
+          1000013,
+          1000014,
+          1000028,
+          1000029,
+          501014
+        ],
+        "RemoveBuffType": [],
+        "RollMultFactor": 0.55,
+        "RollDeceleration": 400,
+        "RollPutTimeOffset": 0.1,
+        "RollGetTimeOffset": -0.8,
+        "RollGetTimeUnlockOffset": -0.1,
+        "RollFallingHeight": 1000,
+        "RollEndMaxVelocity": 710,
+        "RollMaxYVelocity": 200,
+        "bUseGravity": true,
+        "GravityScaleWaterDepthCurve": null,
+        "GravityScale": 1,
+        "StartCheckTime": 0,
+        "MaxMoveDist": 2000,
+        "RollSetupAngle": 78.5,
+        "RollRevertAngle": 46.7,
+        "RollUpAngleLimit": 11.5,
+        "RollDownAngleLimit": 30,
+        "RollSetupRevertDistance": 100,
+        "GetWeaponUnLock": [
+          "ECharacterStateMask::CanAimOn",
+          "ECharacterStateMask::CanFire",
+          "ECharacterStateMask::CanAimOff"
+        ],
+        "RollAfterHitVoiceName": "None",
+        "RollAfterHitVoiceTime": 5,
+        "RollAfterHitVoiceDelay": 1,
+        "ChangeToStandTime": -1,
+        "RollEndStand": true,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 2
+  }
+]

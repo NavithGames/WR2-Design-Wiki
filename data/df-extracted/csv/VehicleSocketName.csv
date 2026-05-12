@@ -1,0 +1,14 @@
+﻿RowName,SocketNum,SocketName,SocketIndex,RowDescription
+0,0,Point_Bodycontrol,None,None
+101010,101010,Point_Machinegun_01,None,None
+101020,101020,None,None,None
+101021,101021,Point_Machinegun_01,1,None
+102010,102010,None,None,None
+102020,102020,Point_Scanning,None,None
+201010,201010,Point_Machinegun_02,None,None
+301010,301010,Point_Machinegun_03,None,None
+402010,402010,None,None,None
+102030,102030,None,None,None
+401010,401010,None,None,None
+401020,401020,None,None,None
+402020,402020,None,None,None

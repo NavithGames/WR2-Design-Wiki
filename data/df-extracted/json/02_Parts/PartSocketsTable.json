@@ -1,0 +1,1245 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "PartSocketsTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/WeaponPart/PartSocketsTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "PartSocketsRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "1": {
+        "SocketId": 1,
+        "SocketName": "PisG_point",
+        "SocketDisplayName": "\u540E\u63E1\u628A",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_00.Common_WeaponPart_Icon_00"
+        },
+        "SocketPartType": "EAdapterItemType::PistolGrip",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_GRIP",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "2": {
+        "SocketId": 2,
+        "SocketName": "Bar_point",
+        "SocketDisplayName": "\u67AA\u7BA1",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_06.Common_WeaponPart_Icon_06"
+        },
+        "SocketPartType": "EAdapterItemType::GunBarral",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_BARREL",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "3": {
+        "SocketId": 3,
+        "SocketName": "Sto_point",
+        "SocketDisplayName": "\u67AA\u6258",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_03.Common_WeaponPart_Icon_03"
+        },
+        "SocketPartType": "EAdapterItemType::Stock",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_STOCK",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "4": {
+        "SocketId": 4,
+        "SocketName": "Han_point",
+        "SocketDisplayName": "\u62A4\u6728",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_04.Common_WeaponPart_Icon_04"
+        },
+        "SocketPartType": "EAdapterItemType::Handguard",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_HANDGUARD",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "5": {
+        "SocketId": 5,
+        "SocketName": "Mag_point",
+        "SocketDisplayName": "\u5F39\u5323",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_01.Common_WeaponPart_Icon_01"
+        },
+        "SocketPartType": "EAdapterItemType::Magazine",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_MAGAZINE",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "6": {
+        "SocketId": 6,
+        "SocketName": "Muzzle_point",
+        "SocketDisplayName": "\u67AA\u53E3",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_05.Common_WeaponPart_Icon_05"
+        },
+        "SocketPartType": "EAdapterItemType::Muzzle",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_MUZZLE",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "7": {
+        "SocketId": 7,
+        "SocketName": "FSig_point",
+        "SocketDisplayName": "\u51C6\u661F",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_19.Common_WeaponPart_Icon_19"
+        },
+        "SocketPartType": "EAdapterItemType::ForSight",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": true,
+        "CamPoint": "EAssemblerCamPoint::POINT_SIGHT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "8": {
+        "SocketId": 8,
+        "SocketName": "For_point",
+        "SocketDisplayName": "\u524D\u63E1\u628A",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_11.Common_WeaponPart_Icon_11"
+        },
+        "SocketPartType": "EAdapterItemType::Foregrip",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_HANDGUARD",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "9": {
+        "SocketId": 9,
+        "SocketName": "Rea_point",
+        "SocketDisplayName": "\u7167\u95E8",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_18.Common_WeaponPart_Icon_18"
+        },
+        "SocketPartType": "EAdapterItemType::Sight",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": true,
+        "CamPoint": "EAssemblerCamPoint::POINT_SIGHT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "10": {
+        "SocketId": 10,
+        "SocketName": "Bip_point",
+        "SocketDisplayName": "\u5BFC\u8F68\u811A\u67B6",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_08.Common_WeaponPart_Icon_08"
+        },
+        "SocketPartType": "EAdapterItemType::Bipod",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_BIPOD",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "11": {
+        "SocketId": 11,
+        "SocketName": "Sco_point",
+        "SocketDisplayName": "\u7784\u51C6\u955C",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_07.Common_WeaponPart_Icon_07"
+        },
+        "SocketPartType": "EAdapterItemType::Sight",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_SIGHT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "12": {
+        "SocketId": 12,
+        "SocketName": "Mag1_point",
+        "SocketDisplayName": "\u5F39\u5323",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_01.Common_WeaponPart_Icon_01"
+        },
+        "SocketPartType": "EAdapterItemType::Magazine",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_MAGAZINE",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "13": {
+        "SocketId": 13,
+        "SocketName": "ScoB_point",
+        "SocketDisplayName": "\u540E\u7784\u51C6\u955C",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_07.Common_WeaponPart_Icon_07"
+        },
+        "SocketPartType": "EAdapterItemType::Sight",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_SIGHT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "14": {
+        "SocketId": 14,
+        "SocketName": "Common_point",
+        "SocketDisplayName": "\u6218\u672F\u8BBE\u5907",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_12.Common_WeaponPart_Icon_12"
+        },
+        "SocketPartType": "EAdapterItemType::TacticalDevices",
+        "bDefaultHide": false,
+        "bIsCommon": true,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_COMMON_POINT",
+        "ExtraInfos": [
+          {
+            "_StructType": "FStructFallback",
+            "ParentPartType": "EAdapterItemType::Handguard",
+            "SocketDisplayName": "\u6218\u672F\u8BBE\u5907",
+            "SocketPartIcon": {
+              "_StructType": "FSoftObjectPath",
+              "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_12.Common_WeaponPart_Icon_12"
+            },
+            "CamPoint": "EAssemblerCamPoint::POINT_HANDGUARD"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "ParentPartType": "EAdapterItemType::Sight",
+            "SocketDisplayName": "\u526F\u955C1",
+            "SocketPartIcon": {
+              "_StructType": "FSoftObjectPath",
+              "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_10.Common_WeaponPart_Icon_10"
+            },
+            "CamPoint": "EAssemblerCamPoint::POINT_SIGHT"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "ParentPartType": "EAdapterItemType::Sight",
+            "SocketDisplayName": "\u526F\u955C2",
+            "SocketPartIcon": {
+              "_StructType": "FSoftObjectPath",
+              "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_10.Common_WeaponPart_Icon_10"
+            },
+            "CamPoint": "EAssemblerCamPoint::POINT_SIGHT"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "ParentPartType": "EAdapterItemType::Receiver",
+            "SocketDisplayName": "\u71C3\u70E7\u7F50",
+            "SocketPartIcon": {
+              "_StructType": "FSoftObjectPath",
+              "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_13.Common_WeaponPart_Icon_13"
+            },
+            "CamPoint": "EAssemblerCamPoint::POINT_MAGAZINE"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "15": {
+        "SocketId": 15,
+        "SocketName": "CommonF_point",
+        "SocketDisplayName": "\u524D\u5BFC\u8F68test",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_12.Common_WeaponPart_Icon_12"
+        },
+        "SocketPartType": "EAdapterItemType::TacticalDevices",
+        "bDefaultHide": false,
+        "bIsCommon": true,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_UP_RAIL",
+        "ExtraInfos": [
+          {
+            "_StructType": "FStructFallback",
+            "ParentPartType": "EAdapterItemType::Handguard",
+            "SocketDisplayName": "\u6218\u672F\u8BBE\u5907",
+            "SocketPartIcon": {
+              "_StructType": "FSoftObjectPath",
+              "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_12.Common_WeaponPart_Icon_12"
+            },
+            "CamPoint": "EAssemblerCamPoint::POINT_HANDGUARD"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "ParentPartType": "EAdapterItemType::Sight",
+            "SocketDisplayName": "\u526F\u955C",
+            "SocketPartIcon": {
+              "_StructType": "FSoftObjectPath",
+              "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_10.Common_WeaponPart_Icon_10"
+            },
+            "CamPoint": "EAssemblerCamPoint::POINT_SIGHT"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "ParentPartType": "EAdapterItemType::SightBase",
+            "SocketDisplayName": "\u526F\u955Ctest",
+            "SocketPartIcon": {
+              "_StructType": "FSoftObjectPath",
+              "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_10.Common_WeaponPart_Icon_10"
+            },
+            "CamPoint": "EAssemblerCamPoint::POINT_SIGHT"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "16": {
+        "SocketId": 16,
+        "SocketName": "CommonB_point",
+        "SocketDisplayName": "\u540E\u5BFC\u8F68",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_12.Common_WeaponPart_Icon_12"
+        },
+        "SocketPartType": "EAdapterItemType::TacticalDevices",
+        "bDefaultHide": false,
+        "bIsCommon": true,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_UP_RAIL",
+        "ExtraInfos": [
+          {
+            "_StructType": "FStructFallback",
+            "ParentPartType": "EAdapterItemType::Handguard",
+            "SocketDisplayName": "\u6218\u672F\u8BBE\u5907",
+            "SocketPartIcon": {
+              "_StructType": "FSoftObjectPath",
+              "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_12.Common_WeaponPart_Icon_12"
+            },
+            "CamPoint": "EAssemblerCamPoint::POINT_HANDGUARD"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "ParentPartType": "EAdapterItemType::Sight",
+            "SocketDisplayName": "\u526F\u955C",
+            "SocketPartIcon": {
+              "_StructType": "FSoftObjectPath",
+              "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_10.Common_WeaponPart_Icon_10"
+            },
+            "CamPoint": "EAssemblerCamPoint::POINT_SIGHT"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "17": {
+        "SocketId": 17,
+        "SocketName": "CommonU_point",
+        "SocketDisplayName": "\u4E0A\u5BFC\u8F68",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_12.Common_WeaponPart_Icon_12"
+        },
+        "SocketPartType": "EAdapterItemType::TacticalDevices",
+        "bDefaultHide": false,
+        "bIsCommon": true,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_UP_RAIL",
+        "ExtraInfos": [
+          {
+            "_StructType": "FStructFallback",
+            "ParentPartType": "EAdapterItemType::Handguard",
+            "SocketDisplayName": "\u6218\u672F\u8BBE\u5907",
+            "SocketPartIcon": {
+              "_StructType": "FSoftObjectPath",
+              "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_12.Common_WeaponPart_Icon_12"
+            },
+            "CamPoint": "EAssemblerCamPoint::POINT_UP_RAIL"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "ParentPartType": "EAdapterItemType::Sight",
+            "SocketDisplayName": "\u526F\u955C",
+            "SocketPartIcon": {
+              "_StructType": "FSoftObjectPath",
+              "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_10.Common_WeaponPart_Icon_10"
+            },
+            "CamPoint": "EAssemblerCamPoint::POINT_SIGHT"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "18": {
+        "SocketId": 18,
+        "SocketName": "CommonD_point",
+        "SocketDisplayName": "\u4E0B\u5BFC\u8F68",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_12.Common_WeaponPart_Icon_12"
+        },
+        "SocketPartType": "EAdapterItemType::TacticalDevices",
+        "bDefaultHide": false,
+        "bIsCommon": true,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_DOWN_RAIL",
+        "ExtraInfos": [
+          {
+            "_StructType": "FStructFallback",
+            "ParentPartType": "EAdapterItemType::Handguard",
+            "SocketDisplayName": "\u6218\u672F\u8BBE\u5907",
+            "SocketPartIcon": {
+              "_StructType": "FSoftObjectPath",
+              "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_12.Common_WeaponPart_Icon_12"
+            },
+            "CamPoint": "EAssemblerCamPoint::POINT_DOWN_RAIL"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "ParentPartType": "EAdapterItemType::Sight",
+            "SocketDisplayName": "\u526F\u955C",
+            "SocketPartIcon": {
+              "_StructType": "FSoftObjectPath",
+              "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_10.Common_WeaponPart_Icon_10"
+            },
+            "CamPoint": "EAssemblerCamPoint::POINT_SIGHT"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "19": {
+        "SocketId": 19,
+        "SocketName": "CommonL_point",
+        "SocketDisplayName": "\u5DE6\u5BFC\u8F68",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_12.Common_WeaponPart_Icon_12"
+        },
+        "SocketPartType": "EAdapterItemType::TacticalDevices",
+        "bDefaultHide": false,
+        "bIsCommon": true,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_LEFT_RAIL",
+        "ExtraInfos": [
+          {
+            "_StructType": "FStructFallback",
+            "ParentPartType": "EAdapterItemType::Handguard",
+            "SocketDisplayName": "\u6218\u672F\u8BBE\u5907",
+            "SocketPartIcon": {
+              "_StructType": "FSoftObjectPath",
+              "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_12.Common_WeaponPart_Icon_12"
+            },
+            "CamPoint": "EAssemblerCamPoint::POINT_LEFT_RAIL"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "ParentPartType": "EAdapterItemType::Sight",
+            "SocketDisplayName": "\u526F\u955C",
+            "SocketPartIcon": {
+              "_StructType": "FSoftObjectPath",
+              "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_10.Common_WeaponPart_Icon_10"
+            },
+            "CamPoint": "EAssemblerCamPoint::POINT_SIGHT"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "20": {
+        "SocketId": 20,
+        "SocketName": "CommonR_point",
+        "SocketDisplayName": "\u53F3\u5BFC\u8F68",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_12.Common_WeaponPart_Icon_12"
+        },
+        "SocketPartType": "EAdapterItemType::TacticalDevices",
+        "bDefaultHide": false,
+        "bIsCommon": true,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_RIGHT_RAIL",
+        "ExtraInfos": [
+          {
+            "_StructType": "FStructFallback",
+            "ParentPartType": "EAdapterItemType::Handguard",
+            "SocketDisplayName": "\u6218\u672F\u8BBE\u5907",
+            "SocketPartIcon": {
+              "_StructType": "FSoftObjectPath",
+              "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_12.Common_WeaponPart_Icon_12"
+            },
+            "CamPoint": "EAssemblerCamPoint::POINT_RIGHT_RAIL"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "ParentPartType": "EAdapterItemType::Sight",
+            "SocketDisplayName": "\u526F\u955C",
+            "SocketPartIcon": {
+              "_StructType": "FSoftObjectPath",
+              "_Value": ""
+            },
+            "CamPoint": "EAssemblerCamPoint::POINT_SIGHT"
+          },
+          {
+            "_StructType": "FStructFallback",
+            "ParentPartType": "EAdapterItemType::Sight",
+            "SocketDisplayName": "\u526F\u955C",
+            "SocketPartIcon": {
+              "_StructType": "FSoftObjectPath",
+              "_Value": ""
+            },
+            "CamPoint": "EAssemblerCamPoint::POINT_SIGHT"
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "21": {
+        "SocketId": 21,
+        "SocketName": "Mou_point",
+        "SocketDisplayName": "\u955C\u5EA7",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_17.Common_WeaponPart_Icon_17"
+        },
+        "SocketPartType": "EAdapterItemType::SightBase",
+        "bDefaultHide": true,
+        "bIsCommon": false,
+        "bHideForPlayer": true,
+        "CamPoint": "EAssemblerCamPoint::POINT_SIGHT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "22": {
+        "SocketId": 22,
+        "SocketName": "Spe_point",
+        "SocketDisplayName": "\u72EC\u7279",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_13.Common_WeaponPart_Icon_13"
+        },
+        "SocketPartType": "EAdapterItemType::None",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_SPECIAL",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "12_0": {
+        "SocketId": 26,
+        "SocketName": "ScoS1_point",
+        "SocketDisplayName": "\u526F\u955C",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_10.Common_WeaponPart_Icon_10"
+        },
+        "SocketPartType": "EAdapterItemType::Sight",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_SIGHT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "12_1": {
+        "SocketId": 24,
+        "SocketName": "ScoS2_point",
+        "SocketDisplayName": "\u526F\u955C",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_10.Common_WeaponPart_Icon_10"
+        },
+        "SocketPartType": "EAdapterItemType::Sight",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_SIGHT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "12_2": {
+        "SocketId": 25,
+        "SocketName": "ScoS3_point",
+        "SocketDisplayName": "\u526F\u955C",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_10.Common_WeaponPart_Icon_10"
+        },
+        "SocketPartType": "EAdapterItemType::Sight",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_SIGHT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "12_3": {
+        "SocketId": 23,
+        "SocketName": "Upgrade_point",
+        "SocketDisplayName": "\u5F3A\u5316\u5957\u4EF6",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_10.Common_WeaponPart_Icon_10"
+        },
+        "SocketPartType": "EAdapterItemType::Attacker",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_GUN_DISPLAY",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "12_4": {
+        "SocketId": 100,
+        "SocketName": "Conflict_point",
+        "SocketDisplayName": "\u51B2\u7A81\u70B9",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_13.Common_WeaponPart_Icon_13"
+        },
+        "SocketPartType": "EAdapterItemType::Special",
+        "bDefaultHide": true,
+        "bIsCommon": false,
+        "bHideForPlayer": true,
+        "CamPoint": "EAssemblerCamPoint::POINT_DEFAULT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "4_0": {
+        "SocketId": 27,
+        "SocketName": "Han_point_alt",
+        "SocketDisplayName": "\u62A4\u6728",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_04.Common_WeaponPart_Icon_04"
+        },
+        "SocketPartType": "EAdapterItemType::Handguard",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_HANDGUARD",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "3_0": {
+        "SocketId": 28,
+        "SocketName": "StockP_point",
+        "SocketDisplayName": "\u67AA\u6258\u57AB",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_21.Common_WeaponPart_Icon_21"
+        },
+        "SocketPartType": "EAdapterItemType::Stock",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_CONNECTOR",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "3_1": {
+        "SocketId": 29,
+        "SocketName": "StockC_point",
+        "SocketDisplayName": "\u6258\u816E\u677F",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_22.Common_WeaponPart_Icon_22"
+        },
+        "SocketPartType": "EAdapterItemType::Stock",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_CHEEKPAD",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "NewRow": {
+        "SocketId": 30,
+        "SocketName": "GripTape_Point",
+        "SocketDisplayName": "\u540E\u63E1\u8D34\u7247",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_00.Common_WeaponPart_Icon_00"
+        },
+        "SocketPartType": "EAdapterItemType::None",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_PISTOLGRIP_PATCH",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "NewRow_0": {
+        "SocketId": 31,
+        "SocketName": "sco_secondary_point",
+        "SocketDisplayName": "\u4FA7\u7784\u5177",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_26.Common_WeaponPart_Icon_26"
+        },
+        "SocketPartType": "EAdapterItemType::Sight",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_SCO_SECONDARY",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "NewRow_1": {
+        "SocketId": 32,
+        "SocketName": "RailCU_point",
+        "SocketDisplayName": "\u4E0A\u8D34\u7247",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_24.Common_WeaponPart_Icon_24"
+        },
+        "SocketPartType": "EAdapterItemType::TacticalDevices",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_HANU_POINT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "NewRow_2": {
+        "SocketId": 33,
+        "SocketName": "RailCD_point",
+        "SocketDisplayName": "\u4E0B\u8D34\u7247",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_24.Common_WeaponPart_Icon_24"
+        },
+        "SocketPartType": "EAdapterItemType::TacticalDevices",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_HAND_POINT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "NewRow_3": {
+        "SocketId": 34,
+        "SocketName": "RailCL_point",
+        "SocketDisplayName": "\u5DE6\u8D34\u7247",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_24.Common_WeaponPart_Icon_24"
+        },
+        "SocketPartType": "EAdapterItemType::TacticalDevices",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_HANL_POINT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "NewRow_4": {
+        "SocketId": 35,
+        "SocketName": "RailCR_point",
+        "SocketDisplayName": "\u53F3\u8D34\u7247",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_24.Common_WeaponPart_Icon_24"
+        },
+        "SocketPartType": "EAdapterItemType::TacticalDevices",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_HANR_POINT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "NewRow_5": {
+        "SocketId": 36,
+        "SocketName": "BarBip_point",
+        "SocketDisplayName": "\u67AA\u7BA1\u811A\u67B6",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_08.Common_WeaponPart_Icon_08"
+        },
+        "SocketPartType": "EAdapterItemType::Bipod",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_BARBIP_POINT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "NewRow_6": {
+        "SocketId": 37,
+        "SocketName": "HanKit_point",
+        "SocketDisplayName": "\u62A4\u6728\u5957\u4EF6",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_28_1.Common_WeaponPart_Icon_28_1"
+        },
+        "SocketPartType": "EAdapterItemType::Handguard",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_HANKIT_POINT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "NewRow_7": {
+        "SocketId": 38,
+        "SocketName": "StoKit_point",
+        "SocketDisplayName": "\u67AA\u6258\u5957\u4EF6",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_27_1.Common_WeaponPart_Icon_27_1"
+        },
+        "SocketPartType": "EAdapterItemType::Stock",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_STOKIT_POINT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "NewRow_8": {
+        "SocketId": 39,
+        "SocketName": "BarKit_point",
+        "SocketDisplayName": "\u67AA\u7BA1\u5957\u4EF6",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_29_1.Common_WeaponPart_Icon_29_1"
+        },
+        "SocketPartType": "EAdapterItemType::GunBarral",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_BARKIT_POINT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "NewRow_9": {
+        "SocketId": 40,
+        "SocketName": "ScoU_point",
+        "SocketDisplayName": "\u4E0A\u526F\u7784\u5177",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_25.Common_WeaponPart_Icon_25"
+        },
+        "SocketPartType": "EAdapterItemType::Sight",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_SCOU_POINT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "NewRow_10": {
+        "SocketId": 41,
+        "SocketName": "Riser_point",
+        "SocketDisplayName": "\u589E\u9AD8\u5EA7\u7784\u5177",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_23.Common_WeaponPart_Icon_23"
+        },
+        "SocketPartType": "EAdapterItemType::Sight",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_RISER_POINT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "NewRow_11": {
+        "SocketId": 150,
+        "SocketName": "Drop_point",
+        "SocketDisplayName": "\u6302\u9970",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_23.Common_WeaponPart_Icon_23"
+        },
+        "SocketPartType": "EAdapterItemType::Special",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_PENDANT_POINT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "NewRow_12": {
+        "SocketId": 43,
+        "SocketName": "GripBass_point",
+        "SocketDisplayName": "\u63E1\u628A\u5EA7",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_27.Common_WeaponPart_Icon_27"
+        },
+        "SocketPartType": "EAdapterItemType::GripBass",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_GRIPBASS_POINT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "NewRow_13": {
+        "SocketId": 44,
+        "SocketName": "MagBass_point",
+        "SocketDisplayName": "\u5F39\u5323\u5EA7",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_28.Common_WeaponPart_Icon_28"
+        },
+        "SocketPartType": "EAdapterItemType::MagBass",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_MAGBASS_POINT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "NewRow_14": {
+        "SocketId": 50,
+        "SocketName": "Sco_point",
+        "SocketDisplayName": "\u589E\u9AD8\u5EA7\u7784\u5177",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_23.Common_WeaponPart_Icon_23"
+        },
+        "SocketPartType": "EAdapterItemType::Sight",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_HYDRASCO_POINT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "NewRow_15": {
+        "SocketId": 45,
+        "SocketName": "Flashkill_point",
+        "SocketDisplayName": "\u906E\u5149\u7F69",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_29.Common_WeaponPart_Icon_29"
+        },
+        "SocketPartType": "EAdapterItemType::Sight",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_FLASHKILL_POINT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "NewRow_16": {
+        "SocketId": 46,
+        "SocketName": "HanU_point",
+        "SocketDisplayName": "\u4E0A\u62A4\u6728",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_04.Common_WeaponPart_Icon_04"
+        },
+        "SocketPartType": "EAdapterItemType::HanU",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_HANDGUARDU_POINT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "NewRow_17": {
+        "SocketId": 47,
+        "SocketName": "Gas_point",
+        "SocketDisplayName": "\u5BFC\u6C14",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_31.Common_WeaponPart_Icon_31"
+        },
+        "SocketPartType": "EAdapterItemType::GasT",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_GAS_POINT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "NewRow_18": {
+        "SocketId": 48,
+        "SocketName": "Hammer_point",
+        "SocketDisplayName": "\u51FB\u9524",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_30.Common_WeaponPart_Icon_30"
+        },
+        "SocketPartType": "EAdapterItemType::Hammer",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_HAMMER_POINT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "NewRow_19": {
+        "SocketId": 49,
+        "SocketName": "Trigger_point",
+        "SocketDisplayName": "\u6273\u673A",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_32.Common_WeaponPart_Icon_32"
+        },
+        "SocketPartType": "EAdapterItemType::Trigger",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_TRIGGER_POINT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "NewRow_20": {
+        "SocketId": 51,
+        "SocketName": "Shield_point",
+        "SocketDisplayName": "\u9694\u70ED\u7F51",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_33.Common_WeaponPart_Icon_33"
+        },
+        "SocketPartType": "EAdapterItemType::Shield",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_SHIELD_POINT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "NewRow_21": {
+        "SocketId": 52,
+        "SocketName": "Bolt_point",
+        "SocketDisplayName": "\u67AA\u673A",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_35.Common_WeaponPart_Icon_35"
+        },
+        "SocketPartType": "EAdapterItemType::Bolt",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_BOLT_POINT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "1_0": {
+        "SocketId": 53,
+        "SocketName": "PisG_point",
+        "SocketDisplayName": "\u540E\u63E1\u628A",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_00.Common_WeaponPart_Icon_00"
+        },
+        "SocketPartType": "EAdapterItemType::PistolGrip",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_GISG2_POINT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "NewRow_22": {
+        "SocketId": 54,
+        "SocketName": "Handle_point",
+        "SocketDisplayName": "\u62C9\u673A\u67C4",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_34.Common_WeaponPart_Icon_34"
+        },
+        "SocketPartType": "EAdapterItemType::Handle2",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_HANDLE_POINT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "NewRow_23": {
+        "SocketId": 55,
+        "SocketName": "BowString_point",
+        "SocketDisplayName": "\u5F13\u5F26",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_38.Common_WeaponPart_Icon_38"
+        },
+        "SocketPartType": "EAdapterItemType::BowString",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_BOWSTRING_POINT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "NewRow_24": {
+        "SocketId": 56,
+        "SocketName": "BowGrip_point",
+        "SocketDisplayName": "\u63E1\u628A\u7247",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_37.Common_WeaponPart_Icon_37"
+        },
+        "SocketPartType": "EAdapterItemType::BowGrip",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_BOWGRIP_POINT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "NewRow_25": {
+        "SocketId": 57,
+        "SocketName": "BowLimb_point",
+        "SocketDisplayName": "\u5F13\u81C2",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_36.Common_WeaponPart_Icon_36"
+        },
+        "SocketPartType": "EAdapterItemType::BowLimb",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_BOWLIMB_POINT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "NewRow_26": {
+        "SocketId": 58,
+        "SocketName": "BowScope_point",
+        "SocketDisplayName": "\u5F13\u7784\u5177",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_40.Common_WeaponPart_Icon_40"
+        },
+        "SocketPartType": "EAdapterItemType::None",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_BOWSCOPE_POINT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "NewRow_27": {
+        "SocketId": 59,
+        "SocketName": "ArrowRest_point",
+        "SocketDisplayName": "\u7BAD\u53F0",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_41.Common_WeaponPart_Icon_41"
+        },
+        "SocketPartType": "EAdapterItemType::ArrowRest",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_ARROWREST_POINT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "NewRow_28": {
+        "SocketId": 60,
+        "SocketName": "Stabilizer_point",
+        "SocketDisplayName": "\u7A33\u5B9A\u6746",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_42.Common_WeaponPart_Icon_42"
+        },
+        "SocketPartType": "EAdapterItemType::BowScope",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_STABILIZER_POINT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "NewRow_29": {
+        "SocketId": 61,
+        "SocketName": "BowRelease_point",
+        "SocketDisplayName": "\u6492\u653E\u5668",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_39.Common_WeaponPart_Icon_39"
+        },
+        "SocketPartType": "EAdapterItemType::BowRelease",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_BOWRELEASE_POINT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "NewRow_30": {
+        "SocketId": 62,
+        "SocketName": "Lever_point",
+        "SocketDisplayName": "\u6760\u6746",
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_43.Common_WeaponPart_Icon_43"
+        },
+        "SocketPartType": "EAdapterItemType::Lever",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_LEVER_POINT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "NewRow_31": {
+        "SocketId": 63,
+        "SocketName": "Bulletholder_point",
+        "SocketDisplayName": null,
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_22.Common_WeaponPart_Icon_22"
+        },
+        "SocketPartType": "EAdapterItemType::Lever",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_SHWLLHOLDER_POINT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      },
+      "NewRow_32": {
+        "SocketId": 64,
+        "SocketName": "UnderBar_point",
+        "SocketDisplayName": null,
+        "SocketPartIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/Common/BakedSprite/Common_WeaponPart_Icon_22.Common_WeaponPart_Icon_22"
+        },
+        "SocketPartType": "EAdapterItemType::Lever",
+        "bDefaultHide": false,
+        "bIsCommon": false,
+        "bHideForPlayer": false,
+        "CamPoint": "EAssemblerCamPoint::POINT_SHWLLHOLDER_POINT",
+        "ExtraInfos": [],
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 65
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "PartsClassConfigTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/WeaponPart/PartsClassConfigTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "PartsClassConfig",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true
+  }
+]

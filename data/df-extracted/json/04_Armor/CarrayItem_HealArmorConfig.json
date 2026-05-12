@@ -1,0 +1,23 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "CarrayItem_HealArmorConfig",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/CarryItem/CarrayItem_HealArmorConfig",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "CarrayItem_HealArmorConfig",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "1": {
+        "Level": 1,
+        "HealArmor": 48,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 1
+  }
+]

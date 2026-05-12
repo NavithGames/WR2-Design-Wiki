@@ -1,0 +1,90 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "ArmedForceMPPropList",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/ArmedForceMPPropList",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "ArmedForceMPPropListInfo",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "25010000001": {
+        "ItemID": 25010000001,
+        "ArmedForceIDs": 2,
+        "PropType": null,
+        "Name": null,
+        "PropCount": 99,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "24010000001": {
+        "ItemID": 24010000001,
+        "ArmedForceIDs": 3,
+        "PropType": null,
+        "Name": null,
+        "PropCount": 1,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "18080000001": {
+        "ItemID": 18080000001,
+        "ArmedForceIDs": 1,
+        "PropType": null,
+        "Name": null,
+        "PropCount": 2,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "21020300002": {
+        "ItemID": 21020300002,
+        "ArmedForceIDs": 4,
+        "PropType": null,
+        "Name": null,
+        "PropCount": 2,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "24000000001": {
+        "ItemID": 24000000001,
+        "ArmedForceIDs": 3,
+        "PropType": null,
+        "Name": null,
+        "PropCount": 2,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "25010000002": {
+        "ItemID": 25010000002,
+        "ArmedForceIDs": 4,
+        "PropType": null,
+        "Name": null,
+        "PropCount": 1,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "21020300005": {
+        "ItemID": 21020300005,
+        "ArmedForceIDs": 2,
+        "PropType": null,
+        "Name": null,
+        "PropCount": 2,
+        "Desc": null,
+        "RowDescription": "None"
+      },
+      "25010000005": {
+        "ItemID": 25010000005,
+        "ArmedForceIDs": 2,
+        "PropType": null,
+        "Name": null,
+        "PropCount": 1,
+        "Desc": null,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 8
+  }
+]

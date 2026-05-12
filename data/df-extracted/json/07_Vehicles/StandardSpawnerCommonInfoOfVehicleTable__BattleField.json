@@ -1,0 +1,121 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "StandardSpawnerCommonInfoOfVehicleTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/BattleField/StandardSpawnerCommonInfoOfVehicleTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "SpawnerCommonInfoOfVehicle",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "M1A4\u4E3B\u6218\u5766\u514B": {
+        "VehicleID": 1101001,
+        "bIsCampVehicle": false,
+        "bPartInGlobalVehicleNumLimit": true,
+        "VehicleCD": 120,
+        "SelfVehicleCD": 120,
+        "RowDescription": "None"
+      },
+      "LAV_AA\u9632\u7A7A\u8F66": {
+        "VehicleID": 1101002,
+        "bIsCampVehicle": false,
+        "bPartInGlobalVehicleNumLimit": true,
+        "VehicleCD": 90,
+        "SelfVehicleCD": 90,
+        "RowDescription": "None"
+      },
+      "LAV_G1\u6B65\u6218\u8F66": {
+        "VehicleID": 1101003,
+        "bIsCampVehicle": false,
+        "bPartInGlobalVehicleNumLimit": true,
+        "VehicleCD": 90,
+        "SelfVehicleCD": 90,
+        "RowDescription": "None"
+      },
+      "FSV\u8F6E\u5F0F\u7A81\u51FB\u70AE": {
+        "VehicleID": 1101004,
+        "bIsCampVehicle": false,
+        "bPartInGlobalVehicleNumLimit": true,
+        "VehicleCD": 90,
+        "SelfVehicleCD": 90,
+        "RowDescription": "None"
+      },
+      "GTQ-35\u8F7B\u578B\u5766\u514B": {
+        "VehicleID": 1101005,
+        "bIsCampVehicle": false,
+        "bPartInGlobalVehicleNumLimit": true,
+        "VehicleCD": 120,
+        "SelfVehicleCD": 120,
+        "RowDescription": "None"
+      },
+      "ORV\u7A81\u51FB\u8F66": {
+        "VehicleID": 1102001,
+        "bIsCampVehicle": false,
+        "bPartInGlobalVehicleNumLimit": true,
+        "VehicleCD": 60,
+        "SelfVehicleCD": 60,
+        "RowDescription": "None"
+      },
+      "LOSV\u8D8A\u91CE\u8F66": {
+        "VehicleID": 1103012,
+        "bIsCampVehicle": false,
+        "bPartInGlobalVehicleNumLimit": true,
+        "VehicleCD": 45,
+        "SelfVehicleCD": 45,
+        "RowDescription": "None"
+      },
+      "ATV\u5168\u5730\u5F62\u8F66": {
+        "VehicleID": 1103007,
+        "bIsCampVehicle": false,
+        "bPartInGlobalVehicleNumLimit": true,
+        "VehicleCD": 15,
+        "SelfVehicleCD": 15,
+        "RowDescription": "None"
+      },
+      "\u51B2\u950B\u8247": {
+        "VehicleID": 1201001,
+        "bIsCampVehicle": false,
+        "bPartInGlobalVehicleNumLimit": true,
+        "VehicleCD": 40,
+        "SelfVehicleCD": 40,
+        "RowDescription": "None"
+      },
+      "AH-1035D\u201C\u957F\u5F13\u730E\u4EBA\u201D\u7A81\u51FB\u76F4\u5347\u673A": {
+        "VehicleID": 1301002,
+        "bIsCampVehicle": false,
+        "bPartInGlobalVehicleNumLimit": true,
+        "VehicleCD": 150,
+        "SelfVehicleCD": 150,
+        "RowDescription": "None"
+      },
+      "MH-33D\u4FA6\u5BDF\u76F4\u5347\u673A": {
+        "VehicleID": 1301005,
+        "bIsCampVehicle": false,
+        "bPartInGlobalVehicleNumLimit": true,
+        "VehicleCD": 150,
+        "SelfVehicleCD": 150,
+        "RowDescription": "None"
+      },
+      "UH60": {
+        "VehicleID": 1301006,
+        "bIsCampVehicle": false,
+        "bPartInGlobalVehicleNumLimit": true,
+        "VehicleCD": 150,
+        "SelfVehicleCD": 150,
+        "RowDescription": "None"
+      },
+      "F35": {
+        "VehicleID": 1301007,
+        "bIsCampVehicle": false,
+        "bPartInGlobalVehicleNumLimit": true,
+        "VehicleCD": 150,
+        "SelfVehicleCD": 150,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 13
+  }
+]

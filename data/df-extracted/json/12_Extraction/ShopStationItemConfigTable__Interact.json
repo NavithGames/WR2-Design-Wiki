@@ -1,0 +1,57 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "ShopStationItemConfigTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/Interact/ShopStationItemConfigTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "ShopStationItemConfig",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "1": {
+        "ID": 1,
+        "ItemId": "14060000001",
+        "DescText": null,
+        "ItemName": null,
+        "PremiumRate": 1.2,
+        "Probability": 0.8,
+        "CurrencyId": "17020000010",
+        "Price": 7200,
+        "bLimitedBuy": true,
+        "LimitedNum": 5,
+        "RowDescription": "None"
+      },
+      "2": {
+        "ID": 2,
+        "ItemId": "14030000001",
+        "DescText": null,
+        "ItemName": null,
+        "PremiumRate": 1.2,
+        "Probability": 0.5,
+        "CurrencyId": "17020000010",
+        "Price": 7200,
+        "bLimitedBuy": true,
+        "LimitedNum": 2,
+        "RowDescription": "None"
+      },
+      "3": {
+        "ID": 3,
+        "ItemId": "14020000001",
+        "DescText": null,
+        "ItemName": null,
+        "PremiumRate": 1.2,
+        "Probability": 1,
+        "CurrencyId": "17020000010",
+        "Price": 3600,
+        "bLimitedBuy": false,
+        "LimitedNum": -1,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 3
+  }
+]

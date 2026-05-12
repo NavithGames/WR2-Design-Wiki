@@ -1,0 +1,2235 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "VehicleDataTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/PC/DataTables/Vehicle/VehicleDataTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "VehicleDataTableRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "1103002": {
+        "VehicleId": 1103002,
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::MilitaryJeep",
+        "CustomVehicleType": "ECustomVehicleType::None",
+        "ForceWidgetLayoutVehicleId": 0,
+        "VehicleClassType": "EDFMVehicleClassType::VehicleClassType_Ground",
+        "DeployShortDesc": "",
+        "DeployType": "EVehicleDeployType::LightVehicle",
+        "VehicleClass": {
+          "AssetPath": "/Game/BluePrints/Vehicles/MilitaryJeep/Appearance_Base/BP_MilitaryJeep.BP_MilitaryJeep_C",
+          "SubPath": ""
+        },
+        "LockType": 1,
+        "EffectId": 1000003,
+        "AudioKey": "Jeep",
+        "bIsClosedVehicle": true,
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_01.Battle_Vehicle_Icon_01"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0104.HUD_Screen_Icon_0104"
+        },
+        "bShowInEdgeWhenRedeploy": true,
+        "AirDropSockets": [
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": 448,
+              "Y": 0,
+              "Z": 258
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": 53,
+              "Y": 75,
+              "Z": 259
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": 53,
+              "Y": -66,
+              "Z": 259
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": -269,
+              "Y": 0,
+              "Z": 258
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        ],
+        "ScanningRadarConfig": {
+          "_StructType": "FStructFallback",
+          "bIsEnableScanning": false,
+          "HorizontalRadius": 100,
+          "VerticalLength": 100,
+          "ScanningInterval": 1,
+          "TargetVehicleClassArray": []
+        },
+        "AirDropOwnTime": 0,
+        "KillBroadcastIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AssistAimConfigGroup": "EVehicleAssistAimConfigGroup::EVAACG_Default",
+        "RowDescription": "None"
+      },
+      "1101001": {
+        "VehicleId": 1101001,
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::Tank",
+        "CustomVehicleType": "ECustomVehicleType::None",
+        "ForceWidgetLayoutVehicleId": 0,
+        "VehicleClassType": "EDFMVehicleClassType::VehicleClassType_Ground",
+        "DeployShortDesc": "",
+        "DeployType": "EVehicleDeployType::HeavyVehicle",
+        "VehicleClass": {
+          "AssetPath": "/Game/BluePrints/Vehicles/Tank/BP_Tank_HD_New.BP_Tank_HD_New_C",
+          "SubPath": ""
+        },
+        "LockType": 1,
+        "EffectId": 1000007,
+        "AudioKey": "M1_Abrams",
+        "bIsClosedVehicle": true,
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_04.Battle_Vehicle_Icon_04"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0103.HUD_Screen_Icon_0103"
+        },
+        "bShowInEdgeWhenRedeploy": true,
+        "AirDropSockets": [
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=-0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": 254,
+              "Y": 199,
+              "Z": 141
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=-0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": 254,
+              "Y": -199,
+              "Z": 141
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=-0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": -475,
+              "Y": -169,
+              "Z": 191
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=-0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": -475,
+              "Y": 170,
+              "Z": 191
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        ],
+        "ScanningRadarConfig": {
+          "_StructType": "FStructFallback",
+          "bIsEnableScanning": false,
+          "HorizontalRadius": 100,
+          "VerticalLength": 100,
+          "ScanningInterval": 1,
+          "TargetVehicleClassArray": []
+        },
+        "AirDropOwnTime": 25,
+        "KillBroadcastIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/HUD/BakedSprite/HUD_TipsBroadcast_Icon_0202.HUD_TipsBroadcast_Icon_0202"
+        },
+        "AssistAimConfigGroup": "EVehicleAssistAimConfigGroup::EVAACG_Default",
+        "RowDescription": "None"
+      },
+      "1101002": {
+        "VehicleId": 1101002,
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::SPAAG",
+        "CustomVehicleType": "ECustomVehicleType::None",
+        "ForceWidgetLayoutVehicleId": 0,
+        "VehicleClassType": "EDFMVehicleClassType::VehicleClassType_Ground",
+        "DeployShortDesc": "",
+        "DeployType": "EVehicleDeployType::LightArmor",
+        "VehicleClass": {
+          "AssetPath": "/Game/BluePrints/Vehicles/LAVAD/Appearance_Base/BP_LAVAD_HD.BP_LAVAD_HD_C",
+          "SubPath": ""
+        },
+        "LockType": 1,
+        "EffectId": 1000005,
+        "AudioKey": "LAVAD",
+        "bIsClosedVehicle": true,
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_06.Battle_Vehicle_Icon_06"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0101.HUD_Screen_Icon_0101"
+        },
+        "bShowInEdgeWhenRedeploy": true,
+        "AirDropSockets": [
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=-0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": 416,
+              "Y": 74,
+              "Z": 205
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=-0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": 416,
+              "Y": -76,
+              "Z": 205
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=-0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": -336,
+              "Y": 150,
+              "Z": 263
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=-0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": -336,
+              "Y": -159,
+              "Z": 263
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        ],
+        "ScanningRadarConfig": {
+          "_StructType": "FStructFallback",
+          "bIsEnableScanning": true,
+          "HorizontalRadius": 15000,
+          "VerticalLength": 100000,
+          "ScanningInterval": 1,
+          "TargetVehicleClassArray": [
+            {
+              "_Type": "UScriptClass",
+              "_Name": "DFMHelicopter",
+              "_Class": "UScriptClass",
+              "_Outer": null
+            },
+            {
+              "_Type": "UScriptClass",
+              "_Name": "DFMJet",
+              "_Class": "UScriptClass",
+              "_Outer": null
+            }
+          ]
+        },
+        "AirDropOwnTime": 25,
+        "KillBroadcastIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/HUD/BakedSprite/HUD_TipsBroadcast_Icon_0210.HUD_TipsBroadcast_Icon_0210"
+        },
+        "AssistAimConfigGroup": "EVehicleAssistAimConfigGroup::EVAACG_Default",
+        "RowDescription": "None"
+      },
+      "1101003": {
+        "VehicleId": 1101003,
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::Infantry",
+        "CustomVehicleType": "ECustomVehicleType::None",
+        "ForceWidgetLayoutVehicleId": 0,
+        "VehicleClassType": "EDFMVehicleClassType::VehicleClassType_Ground",
+        "DeployShortDesc": "",
+        "DeployType": "EVehicleDeployType::LightArmor",
+        "VehicleClass": {
+          "AssetPath": "/Game/BluePrints/Vehicles/LAV25/Appearance_Base/BP_LAV25_HD.BP_LAV25_HD_C",
+          "SubPath": ""
+        },
+        "LockType": 1,
+        "EffectId": 1000006,
+        "AudioKey": "LAVAD",
+        "bIsClosedVehicle": true,
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_07.Battle_Vehicle_Icon_07"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0107.HUD_Screen_Icon_0107"
+        },
+        "bShowInEdgeWhenRedeploy": true,
+        "AirDropSockets": [
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": 416,
+              "Y": 74,
+              "Z": 205
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": 416,
+              "Y": -76,
+              "Z": 205
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": -336,
+              "Y": 150,
+              "Z": 263
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": -336,
+              "Y": -159,
+              "Z": 263
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        ],
+        "ScanningRadarConfig": {
+          "_StructType": "FStructFallback",
+          "bIsEnableScanning": false,
+          "HorizontalRadius": 100,
+          "VerticalLength": 100,
+          "ScanningInterval": 1,
+          "TargetVehicleClassArray": []
+        },
+        "AirDropOwnTime": 25,
+        "KillBroadcastIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/HUD/BakedSprite/HUD_TipsBroadcast_Icon_0211.HUD_TipsBroadcast_Icon_0211"
+        },
+        "AssistAimConfigGroup": "EVehicleAssistAimConfigGroup::EVAACG_Default",
+        "RowDescription": "None"
+      },
+      "1201001": {
+        "VehicleId": 1201001,
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::Boat",
+        "CustomVehicleType": "ECustomVehicleType::None",
+        "ForceWidgetLayoutVehicleId": 0,
+        "VehicleClassType": "EDFMVehicleClassType::VehicleClassType_Water",
+        "DeployShortDesc": "",
+        "DeployType": "EVehicleDeployType::LightVehicle",
+        "VehicleClass": {
+          "AssetPath": "/Game/BluePrints/Vehicles/AgainstBoat/Appearance_Base/BP_AgainstBoat_Iceland_HD.BP_AgainstBoat_Iceland_HD_C",
+          "SubPath": ""
+        },
+        "LockType": 1,
+        "EffectId": 1000000,
+        "AudioKey": "UCB95",
+        "bIsClosedVehicle": false,
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_03.Battle_Vehicle_Icon_03"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0102.HUD_Screen_Icon_0102"
+        },
+        "bShowInEdgeWhenRedeploy": true,
+        "AirDropSockets": [
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": 583,
+              "Y": -95,
+              "Z": 195
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": 583,
+              "Y": 95,
+              "Z": 195
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": -531,
+              "Y": 144,
+              "Z": 218
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": -531,
+              "Y": -144,
+              "Z": 218
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        ],
+        "ScanningRadarConfig": {
+          "_StructType": "FStructFallback",
+          "bIsEnableScanning": false,
+          "HorizontalRadius": 100,
+          "VerticalLength": 100,
+          "ScanningInterval": 1,
+          "TargetVehicleClassArray": []
+        },
+        "AirDropOwnTime": 25,
+        "KillBroadcastIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/HUD/BakedSprite/HUD_TipsBroadcast_Icon_0204.HUD_TipsBroadcast_Icon_0204"
+        },
+        "AssistAimConfigGroup": "EVehicleAssistAimConfigGroup::EVAACG_Default",
+        "RowDescription": "None"
+      },
+      "1103007": {
+        "VehicleId": 1103007,
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::ATV",
+        "CustomVehicleType": "ECustomVehicleType::None",
+        "ForceWidgetLayoutVehicleId": 0,
+        "VehicleClassType": "EDFMVehicleClassType::VehicleClassType_Ground",
+        "DeployShortDesc": "",
+        "DeployType": "EVehicleDeployType::LightVehicle",
+        "VehicleClass": {
+          "AssetPath": "/Game/BluePrints/Vehicles/ATV/Appearance_Base/BP_ATV.BP_ATV_C",
+          "SubPath": ""
+        },
+        "LockType": 1,
+        "EffectId": 1000009,
+        "AudioKey": "ATV",
+        "bIsClosedVehicle": false,
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_02.Battle_Vehicle_Icon_02"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0105.HUD_Screen_Icon_0105"
+        },
+        "bShowInEdgeWhenRedeploy": true,
+        "AirDropSockets": [
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=-0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": 92,
+              "Y": -25,
+              "Z": 112
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=-0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": 92,
+              "Y": 25,
+              "Z": 112
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=-0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": -85,
+              "Y": 55,
+              "Z": 110
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=-0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": -85,
+              "Y": -57,
+              "Z": 110
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        ],
+        "ScanningRadarConfig": {
+          "_StructType": "FStructFallback",
+          "bIsEnableScanning": false,
+          "HorizontalRadius": 100,
+          "VerticalLength": 100,
+          "ScanningInterval": 1,
+          "TargetVehicleClassArray": []
+        },
+        "AirDropOwnTime": 0,
+        "KillBroadcastIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/HUD/BakedSprite/HUD_TipsBroadcast_Icon_0209.HUD_TipsBroadcast_Icon_0209"
+        },
+        "AssistAimConfigGroup": "EVehicleAssistAimConfigGroup::EVAACG_Default",
+        "RowDescription": "None"
+      },
+      "1102001": {
+        "VehicleId": 1102001,
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::ORV",
+        "CustomVehicleType": "ECustomVehicleType::None",
+        "ForceWidgetLayoutVehicleId": 0,
+        "VehicleClassType": "EDFMVehicleClassType::VehicleClassType_Ground",
+        "DeployShortDesc": "",
+        "DeployType": "EVehicleDeployType::LightVehicle",
+        "VehicleClass": {
+          "AssetPath": "/Game/BluePrints/Vehicles/ORV/Appearance_Base/BP_ORV_HD.BP_ORV_HD_C",
+          "SubPath": ""
+        },
+        "LockType": 0,
+        "EffectId": 1000010,
+        "AudioKey": "ORV",
+        "bIsClosedVehicle": true,
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_05.Battle_Vehicle_Icon_05"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0108.HUD_Screen_Icon_0108"
+        },
+        "bShowInEdgeWhenRedeploy": true,
+        "AirDropSockets": [
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=-0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": 288,
+              "Y": 60,
+              "Z": 178
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=-0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": 288,
+              "Y": -60,
+              "Z": 178
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=-0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": -186,
+              "Y": 86,
+              "Z": 267
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=-0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": -186,
+              "Y": -86,
+              "Z": 267
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        ],
+        "ScanningRadarConfig": {
+          "_StructType": "FStructFallback",
+          "bIsEnableScanning": false,
+          "HorizontalRadius": 100,
+          "VerticalLength": 100,
+          "ScanningInterval": 1,
+          "TargetVehicleClassArray": []
+        },
+        "AirDropOwnTime": 25,
+        "KillBroadcastIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/HUD/BakedSprite/HUD_TipsBroadcast_Icon_0212.HUD_TipsBroadcast_Icon_0212"
+        },
+        "AssistAimConfigGroup": "EVehicleAssistAimConfigGroup::EVAACG_Default",
+        "RowDescription": "None"
+      },
+      "1301002": {
+        "VehicleId": 1301002,
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::Helicopter",
+        "CustomVehicleType": "ECustomVehicleType::None",
+        "ForceWidgetLayoutVehicleId": 0,
+        "VehicleClassType": "EDFMVehicleClassType::VehicleClassType_Sky",
+        "DeployShortDesc": "",
+        "DeployType": "EVehicleDeployType::AttackHelicopter",
+        "VehicleClass": {
+          "AssetPath": "/Game/BluePrints/Vehicles/AH64/BP_AH64_HD.BP_AH64_HD_C",
+          "SubPath": ""
+        },
+        "LockType": 2,
+        "EffectId": 1000011,
+        "AudioKey": "Military_Helicopter",
+        "bIsClosedVehicle": true,
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_08.Battle_Vehicle_Icon_08"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0106.HUD_Screen_Icon_0106"
+        },
+        "bShowInEdgeWhenRedeploy": true,
+        "AirDropSockets": [],
+        "ScanningRadarConfig": {
+          "_StructType": "FStructFallback",
+          "bIsEnableScanning": true,
+          "HorizontalRadius": 15000,
+          "VerticalLength": 100000,
+          "ScanningInterval": 1,
+          "TargetVehicleClassArray": [
+            {
+              "_Type": "UScriptClass",
+              "_Name": "DFMHelicopter",
+              "_Class": "UScriptClass",
+              "_Outer": null
+            },
+            {
+              "_Type": "UScriptClass",
+              "_Name": "DFMJet",
+              "_Class": "UScriptClass",
+              "_Outer": null
+            }
+          ]
+        },
+        "AirDropOwnTime": 25,
+        "KillBroadcastIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/HUD/BakedSprite/HUD_TipsBroadcast_Icon_0201.HUD_TipsBroadcast_Icon_0201"
+        },
+        "AssistAimConfigGroup": "EVehicleAssistAimConfigGroup::EVAACG_Default",
+        "RowDescription": "None"
+      },
+      "1103011": {
+        "VehicleId": 1103011,
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::MilitaryJeep",
+        "CustomVehicleType": "ECustomVehicleType::None",
+        "ForceWidgetLayoutVehicleId": 0,
+        "VehicleClassType": "EDFMVehicleClassType::VehicleClassType_Ground",
+        "DeployShortDesc": "",
+        "DeployType": "EVehicleDeployType::LightVehicle",
+        "VehicleClass": {
+          "AssetPath": "/Game/BluePrints/Vehicles/Humvee/Appearance_Base/BP_Humvee.BP_Humvee_C",
+          "SubPath": ""
+        },
+        "LockType": 0,
+        "EffectId": 1000012,
+        "AudioKey": "None",
+        "bIsClosedVehicle": true,
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_01.Battle_Vehicle_Icon_01"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0104.HUD_Screen_Icon_0104"
+        },
+        "bShowInEdgeWhenRedeploy": true,
+        "AirDropSockets": [],
+        "ScanningRadarConfig": {
+          "_StructType": "FStructFallback",
+          "bIsEnableScanning": false,
+          "HorizontalRadius": 100,
+          "VerticalLength": 100,
+          "ScanningInterval": 1,
+          "TargetVehicleClassArray": []
+        },
+        "AirDropOwnTime": 0,
+        "KillBroadcastIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AssistAimConfigGroup": "EVehicleAssistAimConfigGroup::EVAACG_Default",
+        "RowDescription": "None"
+      },
+      "1301003": {
+        "VehicleId": 1301003,
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::Helicopter",
+        "CustomVehicleType": "ECustomVehicleType::None",
+        "ForceWidgetLayoutVehicleId": 0,
+        "VehicleClassType": "EDFMVehicleClassType::VehicleClassType_Sky",
+        "DeployShortDesc": "",
+        "DeployType": "EVehicleDeployType::None",
+        "VehicleClass": {
+          "AssetPath": "/Game/BluePrints/Vehicles/BlackHawk/BP_BlackHawk_AI.BP_BlackHawk_AI_C",
+          "SubPath": ""
+        },
+        "LockType": 2,
+        "EffectId": 1000013,
+        "AudioKey": "Military_Helicopter",
+        "bIsClosedVehicle": true,
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_08.Battle_Vehicle_Icon_08"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0106.HUD_Screen_Icon_0106"
+        },
+        "bShowInEdgeWhenRedeploy": false,
+        "AirDropSockets": [],
+        "ScanningRadarConfig": {
+          "_StructType": "FStructFallback",
+          "bIsEnableScanning": false,
+          "HorizontalRadius": 100,
+          "VerticalLength": 100,
+          "ScanningInterval": 1,
+          "TargetVehicleClassArray": []
+        },
+        "AirDropOwnTime": 0,
+        "KillBroadcastIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AssistAimConfigGroup": "EVehicleAssistAimConfigGroup::EVAACG_Default",
+        "RowDescription": "None"
+      },
+      "1301004": {
+        "VehicleId": 1301004,
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::Helicopter",
+        "CustomVehicleType": "ECustomVehicleType::None",
+        "ForceWidgetLayoutVehicleId": 0,
+        "VehicleClassType": "EDFMVehicleClassType::VehicleClassType_Sky",
+        "DeployShortDesc": "",
+        "DeployType": "EVehicleDeployType::None",
+        "VehicleClass": {
+          "AssetPath": "/Game/BluePrints/Vehicles/AI_AH64/BP_AI_AH64_HD.BP_AI_AH64_HD_C",
+          "SubPath": ""
+        },
+        "LockType": 2,
+        "EffectId": 1000016,
+        "AudioKey": "Boss04_Helicopter",
+        "bIsClosedVehicle": true,
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_08.Battle_Vehicle_Icon_08"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0106.HUD_Screen_Icon_0106"
+        },
+        "bShowInEdgeWhenRedeploy": false,
+        "AirDropSockets": [],
+        "ScanningRadarConfig": {
+          "_StructType": "FStructFallback",
+          "bIsEnableScanning": false,
+          "HorizontalRadius": 100,
+          "VerticalLength": 100,
+          "ScanningInterval": 1,
+          "TargetVehicleClassArray": []
+        },
+        "AirDropOwnTime": 0,
+        "KillBroadcastIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AssistAimConfigGroup": "EVehicleAssistAimConfigGroup::EVAACG_Default",
+        "RowDescription": "None"
+      },
+      "1103012": {
+        "VehicleId": 1103012,
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::MilitaryJeep",
+        "CustomVehicleType": "ECustomVehicleType::None",
+        "ForceWidgetLayoutVehicleId": 0,
+        "VehicleClassType": "EDFMVehicleClassType::VehicleClassType_Ground",
+        "DeployShortDesc": "",
+        "DeployType": "EVehicleDeployType::LightVehicle",
+        "VehicleClass": {
+          "AssetPath": "/Game/BluePrints/Vehicles/LSOV/Appearance_Base/BP_LSOV_HD.BP_LSOV_HD_C",
+          "SubPath": ""
+        },
+        "LockType": 1,
+        "EffectId": 1000014,
+        "AudioKey": "LRSOV",
+        "bIsClosedVehicle": false,
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_16.Battle_Vehicle_Icon_16"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0109.HUD_Screen_Icon_0109"
+        },
+        "bShowInEdgeWhenRedeploy": true,
+        "AirDropSockets": [
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=-0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": 202,
+              "Y": 48,
+              "Z": 155
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=-0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": 202,
+              "Y": -49,
+              "Z": 155
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=-0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": -211,
+              "Y": -63,
+              "Z": 121
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=-0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": -211,
+              "Y": 61,
+              "Z": 121
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        ],
+        "ScanningRadarConfig": {
+          "_StructType": "FStructFallback",
+          "bIsEnableScanning": false,
+          "HorizontalRadius": 100,
+          "VerticalLength": 100,
+          "ScanningInterval": 1,
+          "TargetVehicleClassArray": []
+        },
+        "AirDropOwnTime": 0,
+        "KillBroadcastIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/HUD/BakedSprite/HUD_TipsBroadcast_Icon_0214.HUD_TipsBroadcast_Icon_0214"
+        },
+        "AssistAimConfigGroup": "EVehicleAssistAimConfigGroup::EVAACG_Default",
+        "RowDescription": "None"
+      },
+      "1101004": {
+        "VehicleId": 1101004,
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::Wheel_Tank",
+        "CustomVehicleType": "ECustomVehicleType::None",
+        "ForceWidgetLayoutVehicleId": 0,
+        "VehicleClassType": "EDFMVehicleClassType::VehicleClassType_Ground",
+        "DeployShortDesc": "",
+        "DeployType": "EVehicleDeployType::LightArmor",
+        "VehicleClass": {
+          "AssetPath": "/Game/BluePrints/Vehicles/WheeledTank/Appearance_Base/BP_WheeledTank_HD.BP_WheeledTank_HD_C",
+          "SubPath": ""
+        },
+        "LockType": 1,
+        "EffectId": 1000015,
+        "AudioKey": "FSV",
+        "bIsClosedVehicle": true,
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_17.Battle_Vehicle_Icon_17"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0110.HUD_Screen_Icon_0110"
+        },
+        "bShowInEdgeWhenRedeploy": true,
+        "AirDropSockets": [
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=-0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": 268,
+              "Y": 112,
+              "Z": 140
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=-0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": 268,
+              "Y": -113,
+              "Z": 140
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=-0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": -222,
+              "Y": -99,
+              "Z": 181
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=-0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": -222,
+              "Y": 99,
+              "Z": 181
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        ],
+        "ScanningRadarConfig": {
+          "_StructType": "FStructFallback",
+          "bIsEnableScanning": false,
+          "HorizontalRadius": 100,
+          "VerticalLength": 100,
+          "ScanningInterval": 1,
+          "TargetVehicleClassArray": []
+        },
+        "AirDropOwnTime": 25,
+        "KillBroadcastIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/HUD/BakedSprite/HUD_TipsBroadcast_Icon_0215.HUD_TipsBroadcast_Icon_0215"
+        },
+        "AssistAimConfigGroup": "EVehicleAssistAimConfigGroup::EVAACG_Default",
+        "RowDescription": "None"
+      },
+      "1301005": {
+        "VehicleId": 1301005,
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::Bird_Helicopter",
+        "CustomVehicleType": "ECustomVehicleType::None",
+        "ForceWidgetLayoutVehicleId": 0,
+        "VehicleClassType": "EDFMVehicleClassType::VehicleClassType_Sky",
+        "DeployShortDesc": "",
+        "DeployType": "EVehicleDeployType::AttackHelicopter",
+        "VehicleClass": {
+          "AssetPath": "/Game/BluePrints/Vehicles/MH6/BP_MH6_HD.BP_MH6_HD_C",
+          "SubPath": ""
+        },
+        "LockType": 2,
+        "EffectId": 1000017,
+        "AudioKey": "Military_Helicopter_AH_6i",
+        "bIsClosedVehicle": true,
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_18.Battle_Vehicle_Icon_18"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0111.HUD_Screen_Icon_0111"
+        },
+        "bShowInEdgeWhenRedeploy": true,
+        "AirDropSockets": [],
+        "ScanningRadarConfig": {
+          "_StructType": "FStructFallback",
+          "bIsEnableScanning": true,
+          "HorizontalRadius": 15000,
+          "VerticalLength": 100000,
+          "ScanningInterval": 1,
+          "TargetVehicleClassArray": [
+            {
+              "_Type": "UScriptClass",
+              "_Name": "DFMHelicopter",
+              "_Class": "UScriptClass",
+              "_Outer": null
+            },
+            {
+              "_Type": "UScriptClass",
+              "_Name": "DFMJet",
+              "_Class": "UScriptClass",
+              "_Outer": null
+            }
+          ]
+        },
+        "AirDropOwnTime": 25,
+        "KillBroadcastIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/HUD/BakedSprite/HUD_TipsBroadcast_Icon_0216.HUD_TipsBroadcast_Icon_0216"
+        },
+        "AssistAimConfigGroup": "EVehicleAssistAimConfigGroup::EVAACG_Default",
+        "RowDescription": "None"
+      },
+      "1301006": {
+        "VehicleId": 1301006,
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::Helicopter",
+        "CustomVehicleType": "ECustomVehicleType::None",
+        "ForceWidgetLayoutVehicleId": 0,
+        "VehicleClassType": "EDFMVehicleClassType::VehicleClassType_Sky",
+        "DeployShortDesc": "",
+        "DeployType": "EVehicleDeployType::AirTransport",
+        "VehicleClass": {
+          "AssetPath": "/Game/BluePrints/Vehicles/UH60/UH-60.UH-60_C",
+          "SubPath": ""
+        },
+        "LockType": 2,
+        "EffectId": 1000019,
+        "AudioKey": "Military_Helicopter",
+        "bIsClosedVehicle": true,
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_09.Battle_Vehicle_Icon_09"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0112.HUD_Screen_Icon_0112"
+        },
+        "bShowInEdgeWhenRedeploy": true,
+        "AirDropSockets": [],
+        "ScanningRadarConfig": {
+          "_StructType": "FStructFallback",
+          "bIsEnableScanning": false,
+          "HorizontalRadius": 100,
+          "VerticalLength": 100,
+          "ScanningInterval": 1,
+          "TargetVehicleClassArray": []
+        },
+        "AirDropOwnTime": 25,
+        "KillBroadcastIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/HUD/BakedSprite/HUD_TipsBroadcast_Icon_0203.HUD_TipsBroadcast_Icon_0203"
+        },
+        "AssistAimConfigGroup": "EVehicleAssistAimConfigGroup::EVAACG_Default",
+        "RowDescription": "None"
+      },
+      "1301007": {
+        "VehicleId": 1301007,
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::Jet",
+        "CustomVehicleType": "ECustomVehicleType::None",
+        "ForceWidgetLayoutVehicleId": 0,
+        "VehicleClassType": "EDFMVehicleClassType::VehicleClassType_Sky",
+        "DeployShortDesc": "",
+        "DeployType": "EVehicleDeployType::Fighter",
+        "VehicleClass": {
+          "AssetPath": "/Game/BluePrints/Vehicles/JET/BP_Jet_HD.BP_Jet_HD_C",
+          "SubPath": ""
+        },
+        "LockType": 2,
+        "EffectId": 1000021,
+        "AudioKey": "F35",
+        "bIsClosedVehicle": true,
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_20.Battle_Vehicle_Icon_20"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0114.HUD_Screen_Icon_0114"
+        },
+        "bShowInEdgeWhenRedeploy": true,
+        "AirDropSockets": [],
+        "ScanningRadarConfig": {
+          "_StructType": "FStructFallback",
+          "bIsEnableScanning": true,
+          "HorizontalRadius": 15000,
+          "VerticalLength": 100000,
+          "ScanningInterval": 1,
+          "TargetVehicleClassArray": [
+            {
+              "_Type": "UScriptClass",
+              "_Name": "DFMHelicopter",
+              "_Class": "UScriptClass",
+              "_Outer": null
+            },
+            {
+              "_Type": "UScriptClass",
+              "_Name": "DFMJet",
+              "_Class": "UScriptClass",
+              "_Outer": null
+            }
+          ]
+        },
+        "AirDropOwnTime": 25,
+        "KillBroadcastIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/HUD/BakedSprite/HUD_TipsBroadcast_Icon_0218.HUD_TipsBroadcast_Icon_0218"
+        },
+        "AssistAimConfigGroup": "EVehicleAssistAimConfigGroup::EVAACG_Default",
+        "RowDescription": "None"
+      },
+      "1101099": {
+        "VehicleId": 1101099,
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::Tank",
+        "CustomVehicleType": "ECustomVehicleType::None",
+        "ForceWidgetLayoutVehicleId": 0,
+        "VehicleClassType": "EDFMVehicleClassType::VehicleClassType_Ground",
+        "DeployShortDesc": "",
+        "DeployType": "EVehicleDeployType::HeavyVehicle",
+        "VehicleClass": {
+          "AssetPath": "/Game/BluePrints/Vehicles/Tank/BP_Tank_HD.BP_Tank_HD_C",
+          "SubPath": ""
+        },
+        "LockType": 1,
+        "EffectId": 1000007,
+        "AudioKey": "M1_Abrams",
+        "bIsClosedVehicle": true,
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_04.Battle_Vehicle_Icon_04"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0103.HUD_Screen_Icon_0103"
+        },
+        "bShowInEdgeWhenRedeploy": true,
+        "AirDropSockets": [
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": 254,
+              "Y": 199,
+              "Z": 141
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": 254,
+              "Y": -199,
+              "Z": 141
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": -475,
+              "Y": -169,
+              "Z": 191
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": -475,
+              "Y": 170,
+              "Z": 191
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        ],
+        "ScanningRadarConfig": {
+          "_StructType": "FStructFallback",
+          "bIsEnableScanning": false,
+          "HorizontalRadius": 100,
+          "VerticalLength": 100,
+          "ScanningInterval": 1,
+          "TargetVehicleClassArray": []
+        },
+        "AirDropOwnTime": 25,
+        "KillBroadcastIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/HUD/BakedSprite/HUD_TipsBroadcast_Icon_0202.HUD_TipsBroadcast_Icon_0202"
+        },
+        "AssistAimConfigGroup": "EVehicleAssistAimConfigGroup::EVAACG_Default",
+        "RowDescription": "None"
+      },
+      "1101005": {
+        "VehicleId": 1101005,
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::GTQ35",
+        "CustomVehicleType": "ECustomVehicleType::None",
+        "ForceWidgetLayoutVehicleId": 0,
+        "VehicleClassType": "EDFMVehicleClassType::VehicleClassType_Ground",
+        "DeployShortDesc": "",
+        "DeployType": "EVehicleDeployType::LightArmor",
+        "VehicleClass": {
+          "AssetPath": "/Game/BluePrints/Vehicles/GTQ-35/BP_GTQ35_HD.BP_GTQ35_HD_C",
+          "SubPath": ""
+        },
+        "LockType": 1,
+        "EffectId": 1000020,
+        "AudioKey": "GTQ35",
+        "bIsClosedVehicle": true,
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_19.Battle_Vehicle_Icon_19"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0113.HUD_Screen_Icon_0113"
+        },
+        "bShowInEdgeWhenRedeploy": true,
+        "AirDropSockets": [
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=-0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": 295,
+              "Y": -92,
+              "Z": 115
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=-0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": 295,
+              "Y": 95,
+              "Z": 115
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=-0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": -319,
+              "Y": 138,
+              "Z": 158
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=-0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": -319,
+              "Y": -139,
+              "Z": 158
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        ],
+        "ScanningRadarConfig": {
+          "_StructType": "FStructFallback",
+          "bIsEnableScanning": false,
+          "HorizontalRadius": 100,
+          "VerticalLength": 100,
+          "ScanningInterval": 1,
+          "TargetVehicleClassArray": []
+        },
+        "AirDropOwnTime": 25,
+        "KillBroadcastIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/HUD/BakedSprite/HUD_TipsBroadcast_Icon_0217.HUD_TipsBroadcast_Icon_0217"
+        },
+        "AssistAimConfigGroup": "EVehicleAssistAimConfigGroup::EVAACG_Default",
+        "RowDescription": "None"
+      },
+      "1103013": {
+        "VehicleId": 1103013,
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::BaseCar",
+        "CustomVehicleType": "ECustomVehicleType::None",
+        "ForceWidgetLayoutVehicleId": 0,
+        "VehicleClassType": "EDFMVehicleClassType::VehicleClassType_Ground",
+        "DeployShortDesc": "",
+        "DeployType": "EVehicleDeployType::None",
+        "VehicleClass": {
+          "AssetPath": "/Game/BluePrints/Vehicles/BP_ArmedPickup_AI_S2.BP_ArmedPickup_AI_S2_C",
+          "SubPath": ""
+        },
+        "LockType": 1,
+        "EffectId": 1000001,
+        "AudioKey": "Pickup",
+        "bIsClosedVehicle": false,
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_01.Battle_Vehicle_Icon_01"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/CommonHud_MapMarker_Icon_0801.CommonHud_MapMarker_Icon_0801"
+        },
+        "bShowInEdgeWhenRedeploy": false,
+        "AirDropSockets": [],
+        "ScanningRadarConfig": {
+          "_StructType": "FStructFallback",
+          "bIsEnableScanning": false,
+          "HorizontalRadius": 100,
+          "VerticalLength": 100,
+          "ScanningInterval": 1,
+          "TargetVehicleClassArray": []
+        },
+        "AirDropOwnTime": 0,
+        "KillBroadcastIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AssistAimConfigGroup": "EVehicleAssistAimConfigGroup::EVAACG_Default",
+        "RowDescription": "None"
+      },
+      "1103014": {
+        "VehicleId": 1103014,
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::BaseCar",
+        "CustomVehicleType": "ECustomVehicleType::None",
+        "ForceWidgetLayoutVehicleId": 0,
+        "VehicleClassType": "EDFMVehicleClassType::VehicleClassType_Ground",
+        "DeployShortDesc": "",
+        "DeployType": "EVehicleDeployType::None",
+        "VehicleClass": {
+          "AssetPath": "/Game/BluePrints/Vehicles/BP_ArmedPickup_AI_S2.BP_ArmedPickup_AI_S2_C",
+          "SubPath": ""
+        },
+        "LockType": 1,
+        "EffectId": 1000001,
+        "AudioKey": "Pickup",
+        "bIsClosedVehicle": false,
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_01.Battle_Vehicle_Icon_01"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/CommonHud_MapMarker_Icon_0801.CommonHud_MapMarker_Icon_0801"
+        },
+        "bShowInEdgeWhenRedeploy": false,
+        "AirDropSockets": [],
+        "ScanningRadarConfig": {
+          "_StructType": "FStructFallback",
+          "bIsEnableScanning": false,
+          "HorizontalRadius": 100,
+          "VerticalLength": 100,
+          "ScanningInterval": 1,
+          "TargetVehicleClassArray": []
+        },
+        "AirDropOwnTime": 0,
+        "KillBroadcastIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": ""
+        },
+        "AssistAimConfigGroup": "EVehicleAssistAimConfigGroup::EVAACG_Default",
+        "RowDescription": "None"
+      },
+      "1201002": {
+        "VehicleId": 1201002,
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::MotorBoat",
+        "CustomVehicleType": "ECustomVehicleType::None",
+        "ForceWidgetLayoutVehicleId": 0,
+        "VehicleClassType": "EDFMVehicleClassType::VehicleClassType_Water",
+        "DeployShortDesc": "",
+        "DeployType": "EVehicleDeployType::LightVehicle",
+        "VehicleClass": {
+          "AssetPath": "/Game/BluePrints/Vehicles/MotorBoat/BP_MotorBoat_HD.BP_MotorBoat_HD_C",
+          "SubPath": ""
+        },
+        "LockType": 1,
+        "EffectId": 1000022,
+        "AudioKey": "Motorboat",
+        "bIsClosedVehicle": false,
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_22.Battle_Vehicle_Icon_22"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0116.HUD_Screen_Icon_0116"
+        },
+        "bShowInEdgeWhenRedeploy": true,
+        "AirDropSockets": [
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": 101,
+              "Y": -48,
+              "Z": 56
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": 101,
+              "Y": 48,
+              "Z": 56
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": -101,
+              "Y": 50,
+              "Z": 48
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": -101,
+              "Y": -50,
+              "Z": 48
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        ],
+        "ScanningRadarConfig": {
+          "_StructType": "FStructFallback",
+          "bIsEnableScanning": false,
+          "HorizontalRadius": 100,
+          "VerticalLength": 100,
+          "ScanningInterval": 1,
+          "TargetVehicleClassArray": []
+        },
+        "AirDropOwnTime": 0,
+        "KillBroadcastIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/HUD/BakedSprite/HUD_TipsBroadcast_Icon_0220.HUD_TipsBroadcast_Icon_0220"
+        },
+        "AssistAimConfigGroup": "EVehicleAssistAimConfigGroup::EVAACG_Default",
+        "RowDescription": "None"
+      },
+      "1201003": {
+        "VehicleId": 1201003,
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::Boat",
+        "CustomVehicleType": "ECustomVehicleType::None",
+        "ForceWidgetLayoutVehicleId": 0,
+        "VehicleClassType": "EDFMVehicleClassType::VehicleClassType_Water",
+        "DeployShortDesc": "",
+        "DeployType": "EVehicleDeployType::LightVehicle",
+        "VehicleClass": {
+          "AssetPath": "/Game/BluePrints/Vehicles/AgainstBoat/Appearance_Base/BP_AgainstBoat_HD.BP_AgainstBoat_HD_C",
+          "SubPath": ""
+        },
+        "LockType": 1,
+        "EffectId": 1000000,
+        "AudioKey": "UCB95",
+        "bIsClosedVehicle": false,
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_03.Battle_Vehicle_Icon_03"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0102.HUD_Screen_Icon_0102"
+        },
+        "bShowInEdgeWhenRedeploy": true,
+        "AirDropSockets": [],
+        "ScanningRadarConfig": {
+          "_StructType": "FStructFallback",
+          "bIsEnableScanning": false,
+          "HorizontalRadius": 100,
+          "VerticalLength": 100,
+          "ScanningInterval": 1,
+          "TargetVehicleClassArray": []
+        },
+        "AirDropOwnTime": 25,
+        "KillBroadcastIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/HUD/BakedSprite/HUD_TipsBroadcast_Icon_0204.HUD_TipsBroadcast_Icon_0204"
+        },
+        "AssistAimConfigGroup": "EVehicleAssistAimConfigGroup::EVAACG_Default",
+        "RowDescription": "None"
+      },
+      "1101006": {
+        "VehicleId": 1101006,
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::AAV",
+        "CustomVehicleType": "ECustomVehicleType::None",
+        "ForceWidgetLayoutVehicleId": 0,
+        "VehicleClassType": "EDFMVehicleClassType::VehicleClassType_Ground",
+        "DeployShortDesc": "",
+        "DeployType": "EVehicleDeployType::HeavyVehicle",
+        "VehicleClass": {
+          "AssetPath": "/Game/BluePrints/Vehicles/AAV7/BP_AAV7_HD.BP_AAV7_HD_C",
+          "SubPath": ""
+        },
+        "LockType": 1,
+        "EffectId": 1000023,
+        "AudioKey": "AAV",
+        "bIsClosedVehicle": true,
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_21.Battle_Vehicle_Icon_21"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0115.HUD_Screen_Icon_0115"
+        },
+        "bShowInEdgeWhenRedeploy": true,
+        "AirDropSockets": [
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": 295,
+              "Y": -92,
+              "Z": 115
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": 295,
+              "Y": 95,
+              "Z": 115
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": -319,
+              "Y": 138,
+              "Z": 158
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": -319,
+              "Y": -139,
+              "Z": 158
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        ],
+        "ScanningRadarConfig": {
+          "_StructType": "FStructFallback",
+          "bIsEnableScanning": false,
+          "HorizontalRadius": 100,
+          "VerticalLength": 100,
+          "ScanningInterval": 1,
+          "TargetVehicleClassArray": []
+        },
+        "AirDropOwnTime": 25,
+        "KillBroadcastIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/HUD/BakedSprite/HUD_TipsBroadcast_Icon_0219.HUD_TipsBroadcast_Icon_0219"
+        },
+        "AssistAimConfigGroup": "EVehicleAssistAimConfigGroup::EVAACG_Default",
+        "RowDescription": "None"
+      },
+      "1101007": {
+        "VehicleId": 1101007,
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::ATV",
+        "CustomVehicleType": "ECustomVehicleType::None",
+        "ForceWidgetLayoutVehicleId": 0,
+        "VehicleClassType": "EDFMVehicleClassType::VehicleClassType_Ground",
+        "DeployShortDesc": "",
+        "DeployType": "EVehicleDeployType::LightArmor",
+        "VehicleClass": {
+          "AssetPath": "/Game/BluePrints/Vehicles/RCV/BP_RCV_HD.BP_RCV_HD_C",
+          "SubPath": ""
+        },
+        "LockType": 1,
+        "EffectId": 1000009,
+        "AudioKey": "ATV",
+        "bIsClosedVehicle": true,
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_07.Battle_Vehicle_Icon_07"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0107.HUD_Screen_Icon_0107"
+        },
+        "bShowInEdgeWhenRedeploy": true,
+        "AirDropSockets": [
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": 416,
+              "Y": 74,
+              "Z": 205
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": 416,
+              "Y": -76,
+              "Z": 205
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": -336,
+              "Y": 150,
+              "Z": 263
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": -336,
+              "Y": -159,
+              "Z": 263
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        ],
+        "ScanningRadarConfig": {
+          "_StructType": "FStructFallback",
+          "bIsEnableScanning": false,
+          "HorizontalRadius": 100,
+          "VerticalLength": 100,
+          "ScanningInterval": 1,
+          "TargetVehicleClassArray": []
+        },
+        "AirDropOwnTime": 25,
+        "KillBroadcastIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/HUD/BakedSprite/HUD_TipsBroadcast_Icon_0211.HUD_TipsBroadcast_Icon_0211"
+        },
+        "AssistAimConfigGroup": "EVehicleAssistAimConfigGroup::EVAACG_Default",
+        "RowDescription": "None"
+      },
+      "1301008": {
+        "VehicleId": 1301008,
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::Jet",
+        "CustomVehicleType": "ECustomVehicleType::None",
+        "ForceWidgetLayoutVehicleId": 0,
+        "VehicleClassType": "EDFMVehicleClassType::VehicleClassType_Sky",
+        "DeployShortDesc": "",
+        "DeployType": "EVehicleDeployType::AirTransport",
+        "VehicleClass": {
+          "AssetPath": "/Game/BluePrints/Vehicles/QXY35/BP_QXY35_HD.BP_QXY35_HD_C",
+          "SubPath": ""
+        },
+        "LockType": 2,
+        "EffectId": 1000021,
+        "AudioKey": "F35",
+        "bIsClosedVehicle": true,
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_20.Battle_Vehicle_Icon_20"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0114.HUD_Screen_Icon_0114"
+        },
+        "bShowInEdgeWhenRedeploy": true,
+        "AirDropSockets": [],
+        "ScanningRadarConfig": {
+          "_StructType": "FStructFallback",
+          "bIsEnableScanning": true,
+          "HorizontalRadius": 15000,
+          "VerticalLength": 100000,
+          "ScanningInterval": 1,
+          "TargetVehicleClassArray": [
+            {
+              "_Type": "UScriptClass",
+              "_Name": "DFMHelicopter",
+              "_Class": "UScriptClass",
+              "_Outer": null
+            },
+            {
+              "_Type": "UScriptClass",
+              "_Name": "DFMJet",
+              "_Class": "UScriptClass",
+              "_Outer": null
+            }
+          ]
+        },
+        "AirDropOwnTime": 25,
+        "KillBroadcastIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/HUD/BakedSprite/HUD_TipsBroadcast_Icon_0218.HUD_TipsBroadcast_Icon_0218"
+        },
+        "AssistAimConfigGroup": "EVehicleAssistAimConfigGroup::EVAACG_Jet",
+        "RowDescription": "None"
+      },
+      "1101008": {
+        "VehicleId": 1101008,
+        "VehicleName": null,
+        "CarType": "EAnimVehicleType::ATV",
+        "CustomVehicleType": "ECustomVehicleType::None",
+        "ForceWidgetLayoutVehicleId": 0,
+        "VehicleClassType": "EDFMVehicleClassType::VehicleClassType_Ground",
+        "DeployShortDesc": "",
+        "DeployType": "EVehicleDeployType::LightArmor",
+        "VehicleClass": {
+          "AssetPath": "/Game/BluePrints/Vehicles/RCV/BP_RCV2_HD_2.BP_RCV2_HD_2_C",
+          "SubPath": ""
+        },
+        "LockType": 1,
+        "EffectId": 1000009,
+        "AudioKey": "ATV",
+        "bIsClosedVehicle": true,
+        "SoftRefIcon": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/Battle/BakedSprite/Battle_Vehicle_Icon_07.Battle_Vehicle_Icon_07"
+        },
+        "SoftRefIconInMap": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/CommonHud/BakedSprite/HUD_Screen_Icon_0107.HUD_Screen_Icon_0107"
+        },
+        "bShowInEdgeWhenRedeploy": true,
+        "AirDropSockets": [
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": 416,
+              "Y": 74,
+              "Z": 205
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": 416,
+              "Y": -76,
+              "Z": 205
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": -336,
+              "Y": 150,
+              "Z": 263
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "Rotation": {
+              "_StructType": "FQuat",
+              "_Value": "X=0.000 Y=0.000 Z=0.000 W=1.000"
+            },
+            "Translation": {
+              "X": -336,
+              "Y": -159,
+              "Z": 263
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        ],
+        "ScanningRadarConfig": {
+          "_StructType": "FStructFallback",
+          "bIsEnableScanning": false,
+          "HorizontalRadius": 100,
+          "VerticalLength": 100,
+          "ScanningInterval": 1,
+          "TargetVehicleClassArray": []
+        },
+        "AirDropOwnTime": 25,
+        "KillBroadcastIconPath": {
+          "_StructType": "FSoftObjectPath",
+          "_Value": "/Game/UI/UIAtlas/System/HUD/BakedSprite/HUD_TipsBroadcast_Icon_0211.HUD_TipsBroadcast_Icon_0211"
+        },
+        "AssistAimConfigGroup": "EVehicleAssistAimConfigGroup::EVAACG_Default",
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 26
+  }
+]

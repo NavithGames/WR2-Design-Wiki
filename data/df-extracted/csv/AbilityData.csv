@@ -1,0 +1,9 @@
+﻿RowName,AbilityId,Name,Desc,Icon,BuffIdArray,SpecialItemIdArray,SpecialItemCountArray,SpecialItemSlotArray,RowDescription
+1100001,1100001,,,(),8013,,,,None
+1200001,1200001,,,(),8009,,,,None
+1300001,1300001,,,(),8010,10100000001; 13270000001,1; 5,125; 127,None
+1400001,1400001,,,(),8011,,,,None
+2100001,2100001,,,(),8014,,,,None
+2200001,2200001,,,(),8005; 8016,,,,None
+2300001,2300001,,,(),8015,,,,None
+2400001,2400001,,,(),8012,,,,None

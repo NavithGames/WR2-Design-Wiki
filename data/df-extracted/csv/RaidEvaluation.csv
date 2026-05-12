@@ -1,0 +1,6 @@
+﻿RowName,ID,EvaluateName,ParamID,MinValue,EvaluateWeight,EvaluateType,RowDescription
+1,1,,1,1000,100,1,None
+2,2,,2,0,60,3,None
+3,3,,3,1,70,2,None
+4,4,,4,0,80,3,None
+5,5,,6,10,90,1,None

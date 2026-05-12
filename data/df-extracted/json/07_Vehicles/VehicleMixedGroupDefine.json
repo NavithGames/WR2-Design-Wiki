@@ -1,0 +1,279 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "VehicleMixedGroupDefine",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Vehicle/VehicleMixedGroupDefine",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "VehicleMixedGroupDefineRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "\u706B\u529B\u4FA6\u5BDF": {
+        "GroupID": 1,
+        "GroupName": null,
+        "VehicleEntries": [
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1301005,
+            "ExtraScoreCost": 0
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1101004,
+            "ExtraScoreCost": 0
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1201003,
+            "ExtraScoreCost": 0
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u65AD\u5C42": {
+        "GroupID": 2,
+        "GroupName": null,
+        "VehicleEntries": [
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1101002,
+            "ExtraScoreCost": 0
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1301005,
+            "ExtraScoreCost": 0
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1301007,
+            "ExtraScoreCost": 0
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u901A\u7528\u9650\u5236\u7EC4\u522B": {
+        "GroupID": 3,
+        "GroupName": null,
+        "VehicleEntries": [
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1101001,
+            "ExtraScoreCost": 0
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1101002,
+            "ExtraScoreCost": 0
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1101003,
+            "ExtraScoreCost": 0
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1101004,
+            "ExtraScoreCost": 0
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1101005,
+            "ExtraScoreCost": 0
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1101006,
+            "ExtraScoreCost": 0
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1201003,
+            "ExtraScoreCost": 0
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1301002,
+            "ExtraScoreCost": 0
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1301005,
+            "ExtraScoreCost": 6500
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1301007,
+            "ExtraScoreCost": 9000
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u901A\u7528\u9650\u5236\u7EC4\u522B\u52A0\u6743": {
+        "GroupID": 4,
+        "GroupName": null,
+        "VehicleEntries": [
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1101001,
+            "ExtraScoreCost": 3000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1101002,
+            "ExtraScoreCost": 0
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1101003,
+            "ExtraScoreCost": 0
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1101004,
+            "ExtraScoreCost": 0
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1101005,
+            "ExtraScoreCost": 0
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1101006,
+            "ExtraScoreCost": 0
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1201003,
+            "ExtraScoreCost": 0
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1301002,
+            "ExtraScoreCost": 3000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1301005,
+            "ExtraScoreCost": 0
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1301007,
+            "ExtraScoreCost": 3000
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u901A\u7528\u8DD1\u56FE\u8F7D\u5177": {
+        "GroupID": 5,
+        "GroupName": null,
+        "VehicleEntries": [
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1102001,
+            "ExtraScoreCost": 0
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1103007,
+            "ExtraScoreCost": 0
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1103012,
+            "ExtraScoreCost": 0
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1201002,
+            "ExtraScoreCost": 0
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "\u5927\u901A\u94FA": {
+        "GroupID": 6,
+        "GroupName": null,
+        "VehicleEntries": [
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1101001,
+            "ExtraScoreCost": 0
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1101002,
+            "ExtraScoreCost": 0
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1101003,
+            "ExtraScoreCost": 0
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1101004,
+            "ExtraScoreCost": 0
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1101005,
+            "ExtraScoreCost": 0
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1101006,
+            "ExtraScoreCost": 0
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1201003,
+            "ExtraScoreCost": 0
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1301002,
+            "ExtraScoreCost": 0
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1301005,
+            "ExtraScoreCost": 0
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1301007,
+            "ExtraScoreCost": 9000
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1201002,
+            "ExtraScoreCost": 0
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1102001,
+            "ExtraScoreCost": 0
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1103007,
+            "ExtraScoreCost": 0
+          },
+          {
+            "_StructType": "FStructFallback",
+            "VehicleID": 1103012,
+            "ExtraScoreCost": 0
+          }
+        ],
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 6
+  }
+]

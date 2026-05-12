@@ -1,0 +1,346 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "MatchSubMode",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/MatchName/MatchSubMode",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "MatchSubMode",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "10": {
+        "MatchSubMode": 10,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "11": {
+        "MatchSubMode": 11,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "12": {
+        "MatchSubMode": 12,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": null,
+        "RowDescription": "None"
+      },
+      "13": {
+        "MatchSubMode": 13,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "14": {
+        "MatchSubMode": 14,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "15": {
+        "MatchSubMode": 15,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": null,
+        "RowDescription": "None"
+      },
+      "16": {
+        "MatchSubMode": 16,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "17": {
+        "MatchSubMode": 17,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "20": {
+        "MatchSubMode": 20,
+        "MatchSubModeName": "",
+        "MatchSubModeFullName": "",
+        "MatchSubModeDesc": null,
+        "RowDescription": "None"
+      },
+      "21": {
+        "MatchSubMode": 21,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": null,
+        "RowDescription": "None"
+      },
+      "22": {
+        "MatchSubMode": 22,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": null,
+        "RowDescription": "None"
+      },
+      "23": {
+        "MatchSubMode": 23,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": null,
+        "RowDescription": "None"
+      },
+      "24": {
+        "MatchSubMode": 24,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": null,
+        "RowDescription": "None"
+      },
+      "41": {
+        "MatchSubMode": 41,
+        "MatchSubModeName": "",
+        "MatchSubModeFullName": "",
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "42": {
+        "MatchSubMode": 42,
+        "MatchSubModeName": "",
+        "MatchSubModeFullName": "",
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "51": {
+        "MatchSubMode": 51,
+        "MatchSubModeName": "",
+        "MatchSubModeFullName": "",
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "61": {
+        "MatchSubMode": 61,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "62": {
+        "MatchSubMode": 62,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "63": {
+        "MatchSubMode": 63,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "64": {
+        "MatchSubMode": 64,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "65": {
+        "MatchSubMode": 65,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "66": {
+        "MatchSubMode": 66,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "67": {
+        "MatchSubMode": 67,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "68": {
+        "MatchSubMode": 68,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "69": {
+        "MatchSubMode": 69,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "70": {
+        "MatchSubMode": 70,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "71": {
+        "MatchSubMode": 71,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "72": {
+        "MatchSubMode": 72,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "73": {
+        "MatchSubMode": 73,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "74": {
+        "MatchSubMode": 74,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "75": {
+        "MatchSubMode": 75,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "76": {
+        "MatchSubMode": 76,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "77": {
+        "MatchSubMode": 77,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "78": {
+        "MatchSubMode": 78,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "79": {
+        "MatchSubMode": 79,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "80": {
+        "MatchSubMode": 80,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "81": {
+        "MatchSubMode": 81,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "82": {
+        "MatchSubMode": 82,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "83": {
+        "MatchSubMode": 83,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "84": {
+        "MatchSubMode": 84,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "85": {
+        "MatchSubMode": 85,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "86": {
+        "MatchSubMode": 86,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "87": {
+        "MatchSubMode": 87,
+        "MatchSubModeName": null,
+        "MatchSubModeFullName": null,
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "88": {
+        "MatchSubMode": 88,
+        "MatchSubModeName": "",
+        "MatchSubModeFullName": "",
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "89": {
+        "MatchSubMode": 89,
+        "MatchSubModeName": "",
+        "MatchSubModeFullName": "",
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "90": {
+        "MatchSubMode": 90,
+        "MatchSubModeName": "",
+        "MatchSubModeFullName": "",
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      },
+      "91": {
+        "MatchSubMode": 91,
+        "MatchSubModeName": "",
+        "MatchSubModeFullName": "",
+        "MatchSubModeDesc": "",
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 47
+  }
+]

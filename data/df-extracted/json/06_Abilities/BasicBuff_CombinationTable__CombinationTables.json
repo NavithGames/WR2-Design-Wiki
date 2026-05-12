@@ -1,0 +1,2741 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "BasicBuff_CombinationTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Ability/OperatorFormTool/CombinationTables/BasicBuff_CombinationTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "DFMBuffRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "300115": {
+        "BasicBuffID": 300115,
+        "IsPeriod": false,
+        "Period": 0,
+        "InstantEffect": false,
+        "AttributeOperateIDArray": [
+          90000
+        ],
+        "AttributeOperates": [
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::AttributeId",
+            "AttributeId": 30011501,
+            "AttackerValueId": 0,
+            "AttributeNames": [],
+            "GameplayModOp": "AttributeAdditionType::Add_Base",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 0,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::AttributeId",
+            "AttributeId": 30011502,
+            "AttackerValueId": 0,
+            "AttributeNames": [],
+            "GameplayModOp": "AttributeAdditionType::Add_Base",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 0,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::AttributeId",
+            "AttributeId": 30011503,
+            "AttackerValueId": 0,
+            "AttributeNames": [],
+            "GameplayModOp": "AttributeAdditionType::Add_Base",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 0,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::AttributeId",
+            "AttributeId": 30011504,
+            "AttackerValueId": 0,
+            "AttributeNames": [],
+            "GameplayModOp": "AttributeAdditionType::Add_Base",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 0,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "103007": {
+        "BasicBuffID": 103007,
+        "IsPeriod": true,
+        "Period": 0.1,
+        "InstantEffect": false,
+        "AttributeOperateIDArray": [
+          100010007
+        ],
+        "AttributeOperates": [
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::AttributeId",
+            "AttributeId": 100030001,
+            "AttackerValueId": 2100013,
+            "AttributeNames": [],
+            "GameplayModOp": "AttributeAdditionType::Add_Base",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 40,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "103008": {
+        "BasicBuffID": 103008,
+        "IsPeriod": true,
+        "Period": 0.1,
+        "InstantEffect": false,
+        "AttributeOperateIDArray": [
+          100010007
+        ],
+        "AttributeOperates": [
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::AttributeId",
+            "AttributeId": 100030002,
+            "AttackerValueId": 0,
+            "AttributeNames": [],
+            "GameplayModOp": "AttributeAdditionType::Add_Base",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 0,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "103012": {
+        "BasicBuffID": 103012,
+        "IsPeriod": true,
+        "Period": 0.1,
+        "InstantEffect": false,
+        "AttributeOperateIDArray": [
+          100010007
+        ],
+        "AttributeOperates": [
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::AttributeId",
+            "AttributeId": 100030004,
+            "AttackerValueId": 2100013,
+            "AttributeNames": [],
+            "GameplayModOp": "AttributeAdditionType::Add_Base",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 40,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "103013": {
+        "BasicBuffID": 103013,
+        "IsPeriod": true,
+        "Period": 0.1,
+        "InstantEffect": false,
+        "AttributeOperateIDArray": [
+          100010007
+        ],
+        "AttributeOperates": [
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::AttributeId",
+            "AttributeId": 100030003,
+            "AttackerValueId": 0,
+            "AttributeNames": [],
+            "GameplayModOp": "AttributeAdditionType::Add_Base",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 0,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "300020": {
+        "BasicBuffID": 300020,
+        "IsPeriod": false,
+        "Period": 0,
+        "InstantEffect": false,
+        "AttributeOperateIDArray": [
+          100010014
+        ],
+        "AttributeOperates": [
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::AttributeId",
+            "AttributeId": 900500083,
+            "AttackerValueId": 0,
+            "AttributeNames": [],
+            "GameplayModOp": "AttributeAdditionType::Add_Base",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 0,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::AttributeId",
+            "AttributeId": 900500084,
+            "AttackerValueId": 0,
+            "AttributeNames": [],
+            "GameplayModOp": "AttributeAdditionType::Add_Base",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 0,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "1041000101": {
+        "BasicBuffID": 1041000101,
+        "IsPeriod": true,
+        "Period": 1,
+        "InstantEffect": false,
+        "AttributeOperateIDArray": [],
+        "AttributeOperates": [
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::Damage",
+            "AttributeId": 0,
+            "AttackerValueId": 1982076,
+            "AttributeNames": [],
+            "GameplayModOp": "AttributeAdditionType::Add_Base",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 10,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "1042000201": {
+        "BasicBuffID": 1042000201,
+        "IsPeriod": true,
+        "Period": 1,
+        "InstantEffect": false,
+        "AttributeOperateIDArray": [],
+        "AttributeOperates": [
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::Damage",
+            "AttributeId": 0,
+            "AttackerValueId": 1982076,
+            "AttributeNames": [],
+            "GameplayModOp": "AttributeAdditionType::Add_Base",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 15,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "302101": {
+        "BasicBuffID": 302101,
+        "IsPeriod": false,
+        "Period": 1,
+        "InstantEffect": true,
+        "AttributeOperateIDArray": [],
+        "AttributeOperates": [
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::Damage",
+            "AttributeId": 0,
+            "AttackerValueId": 1982061,
+            "AttributeNames": [
+              "None"
+            ],
+            "GameplayModOp": "AttributeAdditionType::Add_Base",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 10,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  }
+                ],
+                "Orders": [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9
+                ],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "302103": {
+        "BasicBuffID": 302103,
+        "IsPeriod": false,
+        "Period": 1,
+        "InstantEffect": true,
+        "AttributeOperateIDArray": [],
+        "AttributeOperates": [
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::AttributeId",
+            "AttributeId": 100020403,
+            "AttackerValueId": 0,
+            "AttributeNames": [],
+            "GameplayModOp": "AttributeAdditionType::Add_Base",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 0,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "302104": {
+        "BasicBuffID": 302104,
+        "IsPeriod": false,
+        "Period": 0,
+        "InstantEffect": true,
+        "AttributeOperateIDArray": [],
+        "AttributeOperates": [
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::AttributeId",
+            "AttributeId": 100020404,
+            "AttackerValueId": 0,
+            "AttributeNames": [],
+            "GameplayModOp": "AttributeAdditionType::Add_Base",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 0,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "302105": {
+        "BasicBuffID": 302105,
+        "IsPeriod": false,
+        "Period": 1,
+        "InstantEffect": true,
+        "AttributeOperateIDArray": [],
+        "AttributeOperates": [
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::Damage",
+            "AttributeId": 0,
+            "AttackerValueId": 2040001,
+            "AttributeNames": [
+              "None"
+            ],
+            "GameplayModOp": "AttributeAdditionType::Add_Base",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 1,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  }
+                ],
+                "Orders": [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9
+                ],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "204011": {
+        "BasicBuffID": 204011,
+        "IsPeriod": false,
+        "Period": 1,
+        "InstantEffect": true,
+        "AttributeOperateIDArray": [],
+        "AttributeOperates": [
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::AttributeId",
+            "AttributeId": 100020401,
+            "AttackerValueId": 0,
+            "AttributeNames": [],
+            "GameplayModOp": "AttributeAdditionType::Add_Base",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 0,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::AttributeId",
+            "AttributeId": 100020402,
+            "AttackerValueId": 1982024,
+            "AttributeNames": [],
+            "GameplayModOp": "AttributeAdditionType::Add_Base",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 10,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::Damage",
+            "AttributeId": 0,
+            "AttackerValueId": 1982061,
+            "AttributeNames": [
+              "None"
+            ],
+            "GameplayModOp": "AttributeAdditionType::Add_Base",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 0.01,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  }
+                ],
+                "Orders": [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9
+                ],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "204016": {
+        "BasicBuffID": 204016,
+        "IsPeriod": false,
+        "Period": 1,
+        "InstantEffect": true,
+        "AttributeOperateIDArray": [],
+        "AttributeOperates": [
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::AttributeId",
+            "AttributeId": 100020401,
+            "AttackerValueId": 0,
+            "AttributeNames": [],
+            "GameplayModOp": "AttributeAdditionType::Add_Base",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 0,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::AttributeId",
+            "AttributeId": 100020402,
+            "AttackerValueId": 1982024,
+            "AttributeNames": [],
+            "GameplayModOp": "AttributeAdditionType::Add_Base",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 10,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::Damage",
+            "AttributeId": 0,
+            "AttackerValueId": 1982062,
+            "AttributeNames": [
+              "None"
+            ],
+            "GameplayModOp": "AttributeAdditionType::Add_Base",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 40,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  }
+                ],
+                "Orders": [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9
+                ],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "405002": {
+        "BasicBuffID": 405002,
+        "IsPeriod": false,
+        "Period": 0,
+        "InstantEffect": false,
+        "AttributeOperateIDArray": [],
+        "AttributeOperates": [
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::AttributeId",
+            "AttributeId": 100040502,
+            "AttackerValueId": 0,
+            "AttributeNames": [],
+            "GameplayModOp": "AttributeAdditionType::Add",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 0,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "405003": {
+        "BasicBuffID": 405003,
+        "IsPeriod": false,
+        "Period": 1,
+        "InstantEffect": true,
+        "AttributeOperateIDArray": [],
+        "AttributeOperates": [
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::AttributeId",
+            "AttributeId": 100040503,
+            "AttackerValueId": 1982024,
+            "AttributeNames": [],
+            "GameplayModOp": "AttributeAdditionType::Add_Base",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 10,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "405004": {
+        "BasicBuffID": 405004,
+        "IsPeriod": false,
+        "Period": 0,
+        "InstantEffect": false,
+        "AttributeOperateIDArray": [],
+        "AttributeOperates": [
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::Custom",
+            "AttributeId": 0,
+            "AttackerValueId": 0,
+            "AttributeNames": [
+              "GPAttributeSetHealth.MaxRightArmHealth",
+              "GPAttributeSetHealth.MaxLeftArmHealth",
+              "GPAttributeSetHealth.MaxRightLegHealth",
+              "GPAttributeSetHealth.MaxLeftLegHealth",
+              "GPAttributeSetHealth.MaxHeadHealth",
+              "GPAttributeSetHealth.MaxThoraxHealth"
+            ],
+            "GameplayModOp": "AttributeAdditionType::Mult_A",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 2,
+            "HPDamage": 0,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "1000027": {
+        "BasicBuffID": 1000027,
+        "IsPeriod": false,
+        "Period": 0.5,
+        "InstantEffect": true,
+        "AttributeOperateIDArray": [],
+        "AttributeOperates": [
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::Damage",
+            "AttributeId": 0,
+            "AttackerValueId": 1982071,
+            "AttributeNames": [
+              "None"
+            ],
+            "GameplayModOp": "AttributeAdditionType::Add_Base",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 0,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  }
+                ],
+                "Orders": [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9
+                ],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": true,
+            "GamePlayModeDamageMap": [
+              {
+                "Key": "EDFMGamePlayMode::GamePlayMode_SOL",
+                "Value": {
+                  "_StructType": "FStructFallback",
+                  "HPDamage": 0,
+                  "ArmorDamage": 0
+                }
+              }
+            ],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "1000028": {
+        "BasicBuffID": 1000028,
+        "IsPeriod": true,
+        "Period": 0.5,
+        "InstantEffect": true,
+        "AttributeOperateIDArray": [],
+        "AttributeOperates": [
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::Damage",
+            "AttributeId": 400100011,
+            "AttackerValueId": 1982072,
+            "AttributeNames": [],
+            "GameplayModOp": "AttributeAdditionType::Add_Base",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 2.5,
+            "ArmorDamage": 1.5,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "1000029": {
+        "BasicBuffID": 1000029,
+        "IsPeriod": true,
+        "Period": 0.5,
+        "InstantEffect": true,
+        "AttributeOperateIDArray": [],
+        "AttributeOperates": [
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::Damage",
+            "AttributeId": 400100011,
+            "AttackerValueId": 1982073,
+            "AttributeNames": [],
+            "GameplayModOp": "AttributeAdditionType::Add_Base",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 6,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "502091": {
+        "BasicBuffID": 502091,
+        "IsPeriod": false,
+        "Period": 0.03,
+        "InstantEffect": true,
+        "AttributeOperateIDArray": [
+          100010002
+        ],
+        "AttributeOperates": [
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::Damage",
+            "AttributeId": 0,
+            "AttackerValueId": 1982070,
+            "AttributeNames": [],
+            "GameplayModOp": "AttributeAdditionType::Add_Base",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 1,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "501012": {
+        "BasicBuffID": 501012,
+        "IsPeriod": false,
+        "Period": 0,
+        "InstantEffect": false,
+        "AttributeOperateIDArray": [
+          100010034
+        ],
+        "AttributeOperates": [
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::AttributeId",
+            "AttributeId": 100010108,
+            "AttackerValueId": 0,
+            "AttributeNames": [],
+            "GameplayModOp": "AttributeAdditionType::Add_Base",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 0,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          },
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::AttributeId",
+            "AttributeId": 100010109,
+            "AttackerValueId": 0,
+            "AttributeNames": [],
+            "GameplayModOp": "AttributeAdditionType::Add_Base",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 0,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "501013": {
+        "BasicBuffID": 501013,
+        "IsPeriod": true,
+        "Period": 0.25,
+        "InstantEffect": true,
+        "AttributeOperateIDArray": [],
+        "AttributeOperates": [
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::Damage",
+            "AttributeId": 0,
+            "AttackerValueId": 2100031,
+            "AttributeNames": [
+              "None"
+            ],
+            "GameplayModOp": "AttributeAdditionType::Add_Base",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 20,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  }
+                ],
+                "Orders": [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9
+                ],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "501014": {
+        "BasicBuffID": 501014,
+        "IsPeriod": true,
+        "Period": 2,
+        "InstantEffect": false,
+        "AttributeOperateIDArray": [],
+        "AttributeOperates": [
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::Damage",
+            "AttributeId": 100010040,
+            "AttackerValueId": 2100032,
+            "AttributeNames": [],
+            "GameplayModOp": "AttributeAdditionType::Add_Base",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 1,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "501015": {
+        "BasicBuffID": 501015,
+        "IsPeriod": true,
+        "Period": 0.5,
+        "InstantEffect": true,
+        "AttributeOperateIDArray": [],
+        "AttributeOperates": [
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::Damage",
+            "AttributeId": 0,
+            "AttackerValueId": 2100033,
+            "AttributeNames": [
+              "None"
+            ],
+            "GameplayModOp": "AttributeAdditionType::Add_Base",
+            "BuffModType": "EBuffAttributeModType::Curve",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  }
+                ],
+                "Orders": [
+                  0,
+                  1,
+                  2
+                ],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 16,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Curve",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  },
+                  {
+                    "_StructType": "FRichCurveKey",
+                    "_Value": "CUE4Parse.UE4.Objects.Engine.Curves.FRichCurveKey"
+                  }
+                ],
+                "Orders": [
+                  0,
+                  4,
+                  2,
+                  3,
+                  1
+                ],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "501001": {
+        "BasicBuffID": 501001,
+        "IsPeriod": false,
+        "Period": 0,
+        "InstantEffect": false,
+        "AttributeOperateIDArray": [],
+        "AttributeOperates": [
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::AttributeId",
+            "AttributeId": 100010110,
+            "AttackerValueId": 0,
+            "AttributeNames": [],
+            "GameplayModOp": "AttributeAdditionType::Add_Base",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 0,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          }
+        ],
+        "RowDescription": "None"
+      },
+      "501016": {
+        "BasicBuffID": 501016,
+        "IsPeriod": false,
+        "Period": 0,
+        "InstantEffect": false,
+        "AttributeOperateIDArray": [],
+        "AttributeOperates": [
+          {
+            "_StructType": "FStructFallback",
+            "DataType": "EBuffAttributeDataType::AttributeId",
+            "AttributeId": 100010111,
+            "AttackerValueId": 0,
+            "AttributeNames": [],
+            "GameplayModOp": "AttributeAdditionType::Add_Base",
+            "BuffModType": "EBuffAttributeModType::Float",
+            "FloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "OperateValue": 0,
+            "HPDamage": 0,
+            "ArmorDamage": 0,
+            "DamageModType": "EBuffAttributeModType::Float",
+            "HPDamageFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "ArmorFloatCurve": {
+              "_StructType": "FStructFallback",
+              "EditorCurveData": {
+                "_StructType": "FStructFallback",
+                "Keys": [],
+                "Orders": [],
+                "DefaultValue": 3.4028235E+38,
+                "PreInfinityExtrap": "RCCE_Constant",
+                "PostInfinityExtrap": "RCCE_Constant"
+              },
+              "ExternalCurve": null
+            },
+            "bUseGamePlayModeDamage": false,
+            "GamePlayModeDamageMap": [],
+            "PostMultiplyAttribute": {
+              "_StructType": "FStructFallback",
+              "AttributeName": "",
+              "Attribute": "",
+              "AttributeOwner": null
+            }
+          }
+        ],
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 27
+  }
+]

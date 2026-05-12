@@ -1,0 +1,256 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "AttributeOperates_CombinationTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/Ability/OperatorFormTool/CombinationTables/AttributeOperates_CombinationTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "AttributeOperatesRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "30011501": {
+        "AttributeOperateID": 30011501,
+        "AttributeIDArray": [
+          148
+        ],
+        "GameplayModOp": "AttributeAdditionType::Add",
+        "bCustomValue": false,
+        "OperateValue": 40,
+        "Description": "",
+        "RowDescription": "None"
+      },
+      "30011502": {
+        "AttributeOperateID": 30011502,
+        "AttributeIDArray": [
+          149
+        ],
+        "GameplayModOp": "AttributeAdditionType::Add_Base",
+        "bCustomValue": false,
+        "OperateValue": 40,
+        "Description": "",
+        "RowDescription": "None"
+      },
+      "30011503": {
+        "AttributeOperateID": 30011503,
+        "AttributeIDArray": [
+          146
+        ],
+        "GameplayModOp": "AttributeAdditionType::Add",
+        "bCustomValue": false,
+        "OperateValue": 40,
+        "Description": "",
+        "RowDescription": "None"
+      },
+      "30011504": {
+        "AttributeOperateID": 30011504,
+        "AttributeIDArray": [
+          147
+        ],
+        "GameplayModOp": "AttributeAdditionType::Add_Base",
+        "bCustomValue": false,
+        "OperateValue": 40,
+        "Description": "",
+        "RowDescription": "None"
+      },
+      "100030002": {
+        "AttributeOperateID": 100030002,
+        "AttributeIDArray": [
+          64
+        ],
+        "GameplayModOp": "AttributeAdditionType::Add_Base",
+        "bCustomValue": false,
+        "OperateValue": 0.2,
+        "Description": "",
+        "RowDescription": "None"
+      },
+      "100030001": {
+        "AttributeOperateID": 100030001,
+        "AttributeIDArray": [
+          64
+        ],
+        "GameplayModOp": "AttributeAdditionType::Add_Base",
+        "bCustomValue": false,
+        "OperateValue": 0.5,
+        "Description": "",
+        "RowDescription": "None"
+      },
+      "300019": {
+        "AttributeOperateID": 300019,
+        "AttributeIDArray": [
+          5
+        ],
+        "GameplayModOp": "AttributeAdditionType::Mult_A",
+        "bCustomValue": false,
+        "OperateValue": 0.1,
+        "Description": "",
+        "RowDescription": "None"
+      },
+      "100030003": {
+        "AttributeOperateID": 100030003,
+        "AttributeIDArray": [
+          64
+        ],
+        "GameplayModOp": "AttributeAdditionType::Add_Base",
+        "bCustomValue": false,
+        "OperateValue": 1,
+        "Description": "",
+        "RowDescription": "None"
+      },
+      "100030004": {
+        "AttributeOperateID": 100030004,
+        "AttributeIDArray": [
+          64
+        ],
+        "GameplayModOp": "AttributeAdditionType::Add_Base",
+        "bCustomValue": false,
+        "OperateValue": 1.2,
+        "Description": "",
+        "RowDescription": "None"
+      },
+      "300020": {
+        "AttributeOperateID": 300020,
+        "AttributeIDArray": [
+          5
+        ],
+        "GameplayModOp": "AttributeAdditionType::Mult_A",
+        "bCustomValue": false,
+        "OperateValue": 0.1,
+        "Description": "",
+        "RowDescription": "None"
+      },
+      "100020401": {
+        "AttributeOperateID": 100020401,
+        "AttributeIDArray": [
+          104
+        ],
+        "GameplayModOp": "AttributeAdditionType::Add",
+        "bCustomValue": false,
+        "OperateValue": 80,
+        "Description": "",
+        "RowDescription": "None"
+      },
+      "100020402": {
+        "AttributeOperateID": 100020402,
+        "AttributeIDArray": [
+          2,
+          3,
+          4,
+          5,
+          7,
+          8,
+          121,
+          122,
+          109
+        ],
+        "GameplayModOp": "AttributeAdditionType::Mult_A",
+        "bCustomValue": false,
+        "OperateValue": -0.3,
+        "Description": "",
+        "RowDescription": "None"
+      },
+      "100020403": {
+        "AttributeOperateID": 100020403,
+        "AttributeIDArray": [
+          78,
+          23
+        ],
+        "GameplayModOp": "AttributeAdditionType::Mult_A",
+        "bCustomValue": false,
+        "OperateValue": -0.5,
+        "Description": "",
+        "RowDescription": "None"
+      },
+      "100020404": {
+        "AttributeOperateID": 100020404,
+        "AttributeIDArray": [
+          78
+        ],
+        "GameplayModOp": "AttributeAdditionType::Mult_A",
+        "bCustomValue": false,
+        "OperateValue": 0.1,
+        "Description": "",
+        "RowDescription": "None"
+      },
+      "100040503": {
+        "AttributeOperateID": 100040503,
+        "AttributeIDArray": [
+          2,
+          3,
+          4,
+          5,
+          7,
+          8,
+          109,
+          121,
+          122
+        ],
+        "GameplayModOp": "AttributeAdditionType::Mult_A",
+        "bCustomValue": false,
+        "OperateValue": -0.25,
+        "Description": "",
+        "RowDescription": "None"
+      },
+      "100040502": {
+        "AttributeOperateID": 100040502,
+        "AttributeIDArray": [
+          89
+        ],
+        "GameplayModOp": "AttributeAdditionType::Mult_A",
+        "bCustomValue": false,
+        "OperateValue": 0.1,
+        "Description": "",
+        "RowDescription": "None"
+      },
+      "100010108": {
+        "AttributeOperateID": 100010108,
+        "AttributeIDArray": [
+          109
+        ],
+        "GameplayModOp": "AttributeAdditionType::Mult_A",
+        "bCustomValue": false,
+        "OperateValue": 0.1,
+        "Description": "",
+        "RowDescription": "None"
+      },
+      "100010109": {
+        "AttributeOperateID": 100010109,
+        "AttributeIDArray": [
+          5
+        ],
+        "GameplayModOp": "AttributeAdditionType::Mult_A",
+        "bCustomValue": false,
+        "OperateValue": 0.2,
+        "Description": "",
+        "RowDescription": "None"
+      },
+      "100010110": {
+        "AttributeOperateID": 100010110,
+        "AttributeIDArray": [
+          12,
+          13
+        ],
+        "GameplayModOp": "AttributeAdditionType::Add",
+        "bCustomValue": false,
+        "OperateValue": 0.2,
+        "Description": "",
+        "RowDescription": "None"
+      },
+      "100010111": {
+        "AttributeOperateID": 100010111,
+        "AttributeIDArray": [
+          12,
+          13
+        ],
+        "GameplayModOp": "AttributeAdditionType::Add",
+        "bCustomValue": false,
+        "OperateValue": 0.3,
+        "Description": "",
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 20
+  }
+]

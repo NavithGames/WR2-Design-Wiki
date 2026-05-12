@@ -1,0 +1,29 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "VehicleWeaponHitPosPredictTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/PC/DataTables/Vehicle/VehicleWeaponHitPosPredictTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "DFMVehicleWeaponHitPosPredictConfigRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "NewRow_0": {
+        "ConfigID": 1002,
+        "SimFrequency": 10,
+        "MaxPredictTime": 3,
+        "RowDescription": "None"
+      },
+      "NewRow": {
+        "ConfigID": 1004,
+        "SimFrequency": 10,
+        "MaxPredictTime": 3,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 2
+  }
+]

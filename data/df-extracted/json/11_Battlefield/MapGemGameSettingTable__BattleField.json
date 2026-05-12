@@ -1,0 +1,160 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "MapGemGameSettingTable",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/DataTables/BattleField/MapGemGameSettingTable",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "MapGemGameSettings",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "_Rows": {
+      "Iceland": {
+        "HeatMapTag": "Iceland",
+        "GemGameSettings": {
+          "_StructType": "FStructFallback",
+          "MapName": "Iceland",
+          "SceneLoc": "[(1224, -1160), (1224, -2725), (2789.25070312, -2725), (2789, -1160)]",
+          "MapLoc": "[(0, 0), (0, 4096), (4096, 4096), (4096, 0)]",
+          "MapSize": "(4096, 4096)"
+        },
+        "RowDescription": "None"
+      },
+      "Monument": {
+        "HeatMapTag": "Monument",
+        "GemGameSettings": {
+          "_StructType": "FStructFallback",
+          "MapName": "Monument",
+          "SceneLoc": "[(62, -12), (62, -1907), (1957.43554688, -1907), (1957, -12)]",
+          "MapLoc": "[(0, 0), (0, 4096), (4096, 4096), (4096, 0)]",
+          "MapSize": "(4096, 4096)"
+        },
+        "RowDescription": "None"
+      },
+      "Cracked": {
+        "HeatMapTag": "Cracked",
+        "GemGameSettings": {
+          "_StructType": "FStructFallback",
+          "MapName": "Cracked",
+          "SceneLoc": "[(452, -363), (452, -1563), (1652.8, -1563), (1652, -363)]",
+          "MapLoc": "[(0, 0), (0, 4096), (4096, 4096), (4096, 0)]",
+          "MapSize": "(4096, 4096)"
+        },
+        "RowDescription": "None"
+      },
+      "Collapse": {
+        "HeatMapTag": "Collapse",
+        "GemGameSettings": {
+          "_StructType": "FStructFallback",
+          "MapName": "Collapse",
+          "SceneLoc": "[(422, -487), (422, -1547), (1522, -1547), (1522, -487)]",
+          "MapLoc": "[(0, 0), (0, 4096), (4096, 4096), (4096, 0)]",
+          "MapSize": "(4096, 4096)"
+        },
+        "RowDescription": "None"
+      },
+      "Fault": {
+        "HeatMapTag": "Fault",
+        "GemGameSettings": {
+          "_StructType": "FStructFallback",
+          "MapName": "Fault",
+          "SceneLoc": "[(1247, -1124), (1247, -2674), (2797.79703125, -2674), (2797, -1124)]",
+          "MapLoc": "[(0, 0), (0, 4096), (4096, 4096), (4096, 0)]",
+          "MapSize": "(4096, 4096)"
+        },
+        "RowDescription": "None"
+      },
+      "Crest": {
+        "HeatMapTag": "Crest",
+        "GemGameSettings": {
+          "_StructType": "FStructFallback",
+          "MapName": "Crest",
+          "SceneLoc": "[(1530, -1430), (1530, -2570), (2670.0, -2570), (2670, -1430)]",
+          "MapLoc": "[(0, 0), (0, 4096), (4096, 4096), (4096, 0)]",
+          "MapSize": "(4096, 4096)"
+        },
+        "RowDescription": "None"
+      },
+      "Retrowar": {
+        "HeatMapTag": "Retrowar",
+        "GemGameSettings": {
+          "_StructType": "FStructFallback",
+          "MapName": "Retrowar",
+          "SceneLoc": "[(425, -435), (425, -1635), (1625.0, -1635), (1625, -435)]",
+          "MapLoc": "[(0, 0), (0, 4096), (4096, 4096), (4096, 0)]",
+          "MapSize": "(4096, 4096)"
+        },
+        "RowDescription": "None"
+      },
+      "Gibraltar": {
+        "HeatMapTag": "Gibraltar",
+        "GemGameSettings": {
+          "_StructType": "FStructFallback",
+          "MapName": "Gibraltar",
+          "SceneLoc": "[(-251, 1195), (-251, 191), (752.49779297, 191), (752, 1195)]",
+          "MapLoc": "[(0, 0), (0, 4096), (4096, 4096), (4096, 0)]",
+          "MapSize": "(4096, 4096)"
+        },
+        "RowDescription": "None"
+      },
+      "NavalBattle": {
+        "HeatMapTag": "NavalBattle",
+        "GemGameSettings": {
+          "_StructType": "FStructFallback",
+          "MapName": "NavalBattle",
+          "SceneLoc": "[(167, -4), (167, -1749), (1912.21640624, -1749), (1912, -4)]",
+          "MapLoc": "[(0, 0), (0, 4096), (4096, 4096), (4096, 0)]",
+          "MapSize": "(4096, 4096)"
+        },
+        "RowDescription": "None"
+      },
+      "Shafted": {
+        "HeatMapTag": "Shafted",
+        "GemGameSettings": {
+          "_StructType": "FStructFallback",
+          "MapName": "Shafted",
+          "SceneLoc": "[(1224, -1161), (1224, -2726), (2789, -2726), (2789, -1161)]",
+          "MapLoc": "[(0, 0), (0, 4096), (4096, 4096), (4096, 0)]",
+          "MapSize": "(4096, 4096)"
+        },
+        "RowDescription": "None"
+      },
+      "Derail": {
+        "HeatMapTag": "Derail",
+        "GemGameSettings": {
+          "_StructType": "FStructFallback",
+          "MapName": "Derail",
+          "SceneLoc": "[(200, -90), (200, -1490), (1600.0, -1490), (1600, -90)]",
+          "MapLoc": "[(0, 0), (0, 4096), (4096, 4096), (4096, 0)]",
+          "MapSize": "(4096, 4096)"
+        },
+        "RowDescription": "None"
+      },
+      "Suez": {
+        "HeatMapTag": "Suez",
+        "GemGameSettings": {
+          "_StructType": "FStructFallback",
+          "MapName": "Suez",
+          "SceneLoc": "[(34, -85), (34, -1980), (1929.43554688, -1980), (1929, -85)]",
+          "MapLoc": "[(0, 0), (0, 4096), (4096, 4096), (4096, 0)]",
+          "MapSize": "(4096, 4096)"
+        },
+        "RowDescription": "None"
+      },
+      "Colosseum": {
+        "HeatMapTag": "Colosseum",
+        "GemGameSettings": {
+          "_StructType": "FStructFallback",
+          "MapName": "Colosseum",
+          "SceneLoc": "",
+          "MapLoc": "",
+          "MapSize": ""
+        },
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 13
+  }
+]

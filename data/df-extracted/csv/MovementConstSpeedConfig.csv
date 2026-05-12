@@ -1,0 +1,2 @@
+﻿RowName,SpeedID,StandSilentWalkSpeed,StandRunSpeed,StandSprintSpeed,CrouchRunSpeed,CrouchSilentWalkSpeed,ProneMoveSpeed,SuperSprintSpeed,StandPeekSpeedFactor,CrouchPeekSpeedFactor,StandFireSpeedFactor,CrouchFireSpeedFactor,ProneFireSpeedFactor,StandAimSpeedFactor,CrouchAimSpeedFactor,ProneAimSpeedFactor,PeekAimSpeedFactor,RowDescription
+ConstValue,0,170,370,605,235,125,85,0,-0.5,-0.5,0,0,0,-0.2,-0.2,-0.2,1,None

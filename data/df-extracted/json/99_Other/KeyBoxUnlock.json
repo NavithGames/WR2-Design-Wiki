@@ -1,0 +1,90 @@
+[
+  {
+    "_Type": "DataTable",
+    "_Name": "KeyBoxUnlock",
+    "_Class": "UDataTable",
+    "_Outer": "DeltaForce/Content/R13N/Common/Base/DataTables/Key/KeyBoxUnlock",
+    "RowStruct": {
+      "_Type": "UScriptClass",
+      "_Name": "KeyBoxUnlockRow",
+      "_Class": "UScriptClass",
+      "_Outer": null
+    },
+    "bIgnoreReferencedObjectsGC": true,
+    "_Rows": {
+      "20112210001": {
+        "ItemID": "20112210001",
+        "KeyBoxID": "11120000001",
+        "MapID": 22,
+        "SlotLevel": 1,
+        "UnlockSlotNum": 1,
+        "RowDescription": "None"
+      },
+      "20112220001": {
+        "ItemID": "20112220001",
+        "KeyBoxID": "11120000001",
+        "MapID": 22,
+        "SlotLevel": 2,
+        "UnlockSlotNum": 1,
+        "RowDescription": "None"
+      },
+      "20112230001": {
+        "ItemID": "20112230001",
+        "KeyBoxID": "11120000001",
+        "MapID": 22,
+        "SlotLevel": 3,
+        "UnlockSlotNum": 1,
+        "RowDescription": "None"
+      },
+      "20111910001": {
+        "ItemID": "20111910001",
+        "KeyBoxID": "11120000001",
+        "MapID": 19,
+        "SlotLevel": 1,
+        "UnlockSlotNum": 1,
+        "RowDescription": "None"
+      },
+      "20111920001": {
+        "ItemID": "20111920001",
+        "KeyBoxID": "11120000001",
+        "MapID": 19,
+        "SlotLevel": 2,
+        "UnlockSlotNum": 1,
+        "RowDescription": "None"
+      },
+      "20111930001": {
+        "ItemID": "20111930001",
+        "KeyBoxID": "11120000001",
+        "MapID": 19,
+        "SlotLevel": 3,
+        "UnlockSlotNum": 1,
+        "RowDescription": "None"
+      },
+      "20112110001": {
+        "ItemID": "20112110001",
+        "KeyBoxID": "11120000001",
+        "MapID": 39,
+        "SlotLevel": 1,
+        "UnlockSlotNum": 1,
+        "RowDescription": "None"
+      },
+      "20112120001": {
+        "ItemID": "20112120001",
+        "KeyBoxID": "11120000001",
+        "MapID": 39,
+        "SlotLevel": 2,
+        "UnlockSlotNum": 1,
+        "RowDescription": "None"
+      },
+      "20112130001": {
+        "ItemID": "20112130001",
+        "KeyBoxID": "11120000001",
+        "MapID": 39,
+        "SlotLevel": 3,
+        "UnlockSlotNum": 1,
+        "RowDescription": "None"
+      }
+    },
+    "_RowCount": 9
+  }
+]
