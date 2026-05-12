@@ -19,18 +19,18 @@ Built with [Karpathy LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893
 
 ## Wiki Categories
 
-| Category | Description |
-|----------|-------------|
-| [Overview](wiki/overview/identity.html) | 정체성, 차별화, 코어 루프 |
-| [Gameplay](wiki/gameplay/) | 게임 모드, 페이즈, 협력 |
-| [Character](wiki/character/) | 액션, 수치, 병과, 성장 |
-| [Vehicle](wiki/vehicle/vehicle-types.html) | 차종, 스펙, 컨트롤 |
-| [Weapon](wiki/weapon/gun-categories.html) | 총기, 탄종, 커스터마이징 |
-| [Combat Tools](wiki/combat-tools/) | 투척/설치/특수장비 |
-| [UI](wiki/ui/) | UI, HUD, 컨트롤 |
-| [Economy](wiki/economy/) | 경제, 파밍 |
-| [Level Design](wiki/level-design/) | 레벨 디자인, 지형 |
-| [Data Tables](wiki/data-tables/) | 데이터 테이블 |
+| Category | Description | Pages | Status |
+|----------|-------------|-------|--------|
+| [Overview](wiki/overview/identity.html) | 정체성, 차별화, 코어 루프 | 4 | **Ready** |
+| Gameplay | 게임 모드, 페이즈, 협력 | 0 | Pending |
+| Character | 액션, 수치, 병과, 성장 | 0 | Pending |
+| [Vehicle](wiki/vehicle/vehicle-types.html) | 차종, 스펙, 컨트롤 | 1 | **Ready** |
+| [Weapon](wiki/weapon/gun-categories.html) | 총기, 탄종, 커스터마이징 | 7 | **Ready** |
+| Combat Tools | 투척/설치/특수장비 | 0 | Pending |
+| UI | UI, HUD, 컨트롤 | 0 | Pending |
+| Economy | 경제, 파밍 | 0 | Pending |
+| Level Design | 레벨 디자인, 지형 | 0 | Pending |
+| Data Tables | 데이터 테이블 | 0 | Pending |
 
 ## Status
 
