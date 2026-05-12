@@ -13,7 +13,8 @@ Built with [Karpathy LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893
 
 ## Quick Links
 
-- [Wiki Index](wiki/index.html) -- 전체 목차 + 소스 문서 매핑
+- [Wiki Index (KO)](wiki/index.html) -- 전체 목차 + 소스 문서 매핑
+- [Wiki Index (EN)](wiki/index-en.html) -- Full index + source mapping (English)
 - [Schema (CLAUDE.md)](CLAUDE.html) -- 작업 규칙 + 구조
 - [Change Log](log.html) -- 변경 기록
 
