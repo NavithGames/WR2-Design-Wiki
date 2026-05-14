@@ -22,7 +22,10 @@ last_updated: 2026-05-12
 - ~~Pending~~ Game modes, phases, cooperation, deployment, looting, combat, death
 
 ## Character
-- ~~Pending~~ Actions, stats (HP/stamina/weight), classes, progression, items
+- **Ready** [Stance & Movement](character/stance-movement-en.html) ([KO](character/stance-movement.html)) -- Stand/crouch/prone, run/sprint/walk/crawl
+- **Ready** [Object Interaction](character/object-interaction-en.html) ([KO](character/object-interaction.html)) -- Doors/switches/inspect, multi-interaction
+- **Ready** [Interaction Object Data](character/interaction-object-data-en.html) ([KO](character/interaction-object-data.html)) -- Object structure, phases, conditions, data fields
+- **Ready** [Terrain Interaction](character/terrain-interaction-en.html) ([KO](character/terrain-interaction.html)) -- Climb/vault/ladder/slide slope
 
 ## Vehicle
 - **Ready** [Vehicle Types & Characteristics](vehicle/vehicle-types-en.html) ([KO](vehicle/vehicle-types.html)) -- Air/ground vehicle roster
@@ -57,7 +60,7 @@ last_updated: 2026-05-12
 
 ---
 
-## Progress: 14 / 20+ pages ready
+## Progress: 18 / 20+ pages ready
 
 ---
 
@@ -78,4 +81,8 @@ last_updated: 2026-05-12
 | 11 | Tuning | [link](https://docs.google.com/document/d/1S5lb1M8NcMZkNn6ec_1uyJvVMXqC39eKV5Y7agoBAgw/) | 2026-05-12 | ingested |
 | 12 | Skin | [link](https://docs.google.com/document/d/1kumkhaSAk4_Wesd6XYMxys8oqFbaBBDIEiS-DCmplg8/) | 2026-05-12 | ingested |
 | 13 | Gun Specs | [link](https://docs.google.com/document/d/1agil5iEOV1jqetm4S5jhM4HDmuzP7zYuIKBtEf6XJyo/) | 2026-05-12 | ingested |
-| 14 | Game UI (Figma) | [link](https://www.figma.com/design/hreIsMZOPVodJRZ56e2VfD/) | — | external |
+| 14 | Stance & Movement | [link](https://docs.google.com/document/d/1_sgiJk9Iqd0HGYndeL7yAcKh_ialGfQCPMryczw9njY/) | 2026-05-14 | ingested |
+| 15 | Object Interaction | [link](https://docs.google.com/document/d/12-FG9ZOrg5qNkGdeJ2KDQWXHQKHKuq8vNSEoRwATGSY/) | 2026-05-14 | ingested |
+| 16 | Interaction Object Data | [link](https://docs.google.com/document/d/1IPMoEdnmcFqUK-kofVDsM4uEvFVEpE1yRI1cXNxXPOc/) | 2026-05-14 | ingested |
+| 17 | Terrain Interaction | [link](https://docs.google.com/document/d/1s7642ylEWu7NQVOD-qK1kNCjPKvNRO-5gJXLMACYjvg/) | 2026-05-14 | ingested |
+| 18 | Game UI (Figma) | [link](https://www.figma.com/design/hreIsMZOPVodJRZ56e2VfD/) | — | external |

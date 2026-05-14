@@ -1,16 +1,92 @@
 {
-  "01-identity.txt": { "lastSynced": "2026-05-12", "lastChanged": "2026-05-12", "name": "정체성" },
-  "02-differentiation.txt": { "lastSynced": "2026-05-12", "lastChanged": "2026-05-12", "name": "핵심 차별화" },
-  "03-core-loop.txt": { "lastSynced": "2026-05-12", "lastChanged": "2026-05-12", "name": "코어 루프" },
-  "04-delta-force-ref.txt": { "lastSynced": "2026-05-12", "lastChanged": "2026-05-12", "name": "델타포스 레퍼런스" },
-  "05-vehicle-types.txt": { "lastSynced": "2026-05-12", "lastChanged": "2026-05-12", "name": "등장 차종" },
-  "06-gun-animation.txt": { "lastSynced": "2026-05-12", "lastChanged": "2026-05-12", "name": "총기 애니메이션" },
-  "07-gun-categories.txt": { "lastSynced": "2026-05-12", "lastChanged": "2026-05-12", "name": "총기 계열" },
-  "08-ammo-types.txt": { "lastSynced": "2026-05-12", "lastChanged": "2026-05-12", "name": "탄종" },
-  "09-ammo-specs.txt": { "lastSynced": "2026-05-12", "lastChanged": "2026-05-12", "name": "탄종별 제원" },
-  "10-gun-customization.txt": { "lastSynced": "2026-05-12", "lastChanged": "2026-05-12", "name": "총기 커스터마이징" },
-  "11-tuning.txt": { "lastSynced": "2026-05-12", "lastChanged": "2026-05-12", "name": "튜닝" },
-  "12-skin.txt": { "lastSynced": "2026-05-12", "lastChanged": "2026-05-12", "name": "스킨" },
-  "13-gun-specs.txt": { "lastSynced": "2026-05-12", "lastChanged": "2026-05-12", "name": "총기 기본 스펙" },
-  "naming-convention.md": { "lastSynced": "2026-05-12", "lastChanged": "2026-05-12", "name": "네이밍 컨벤션" }
+  "01-identity.txt": {
+    "lastSynced": "2026-05-12",
+    "lastChanged": "2026-05-12",
+    "name": "정체성"
+  },
+  "02-differentiation.txt": {
+    "lastSynced": "2026-05-12",
+    "lastChanged": "2026-05-12",
+    "name": "핵심 차별화"
+  },
+  "03-core-loop.txt": {
+    "lastSynced": "2026-05-12",
+    "lastChanged": "2026-05-12",
+    "name": "코어 루프"
+  },
+  "04-delta-force-ref.txt": {
+    "lastSynced": "2026-05-12",
+    "lastChanged": "2026-05-12",
+    "name": "델타포스 레퍼런스"
+  },
+  "05-vehicle-types.txt": {
+    "lastSynced": "2026-05-12",
+    "lastChanged": "2026-05-12",
+    "name": "등장 차종"
+  },
+  "06-gun-animation.txt": {
+    "lastSynced": "2026-05-12",
+    "lastChanged": "2026-05-12",
+    "name": "총기 애니메이션"
+  },
+  "07-gun-categories.txt": {
+    "lastSynced": "2026-05-12",
+    "lastChanged": "2026-05-12",
+    "name": "총기 계열"
+  },
+  "08-ammo-types.txt": {
+    "lastSynced": "2026-05-12",
+    "lastChanged": "2026-05-12",
+    "name": "탄종"
+  },
+  "09-ammo-specs.txt": {
+    "lastSynced": "2026-05-12",
+    "lastChanged": "2026-05-12",
+    "name": "탄종별 제원"
+  },
+  "10-gun-customization.txt": {
+    "lastSynced": "2026-05-12",
+    "lastChanged": "2026-05-12",
+    "name": "총기 커스터마이징"
+  },
+  "11-tuning.txt": {
+    "lastSynced": "2026-05-12",
+    "lastChanged": "2026-05-12",
+    "name": "튜닝"
+  },
+  "12-skin.txt": {
+    "lastSynced": "2026-05-12",
+    "lastChanged": "2026-05-12",
+    "name": "스킨"
+  },
+  "13-gun-specs.txt": {
+    "lastSynced": "2026-05-12",
+    "lastChanged": "2026-05-12",
+    "name": "총기 기본 스펙"
+  },
+  "naming-convention.md": {
+    "lastSynced": "2026-05-12",
+    "lastChanged": "2026-05-12",
+    "name": "네이밍 컨벤션"
+  },
+  "14-stance-movement.txt": {
+    "lastSynced": "2026-05-14",
+    "lastChanged": "2026-05-14",
+    "name": "자세 및 기동"
+  },
+  "15-object-interaction.txt": {
+    "lastSynced": "2026-05-14",
+    "lastChanged": "2026-05-14",
+    "name": "사물 상호작용"
+  },
+  "16-interaction-object-data.txt": {
+    "lastSynced": "2026-05-14",
+    "lastChanged": "2026-05-14",
+    "name": "상호작용 오브젝트 데이터"
+  },
+  "17-terrain-interaction.txt": {
+    "lastSynced": "2026-05-14",
+    "lastChanged": "2026-05-14",
+    "name": "지형 상호작용"
+  }
 }

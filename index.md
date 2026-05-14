@@ -24,7 +24,7 @@ Built with [Karpathy LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893
 |----------|-------------|-------|--------|
 | [Overview](wiki/overview/identity.html) | 정체성, 차별화, 코어 루프 | 4 | **Ready** |
 | Gameplay | 게임 모드, 페이즈, 협력 | 0 | Pending |
-| Character | 액션, 수치, 병과, 성장 | 0 | Pending |
+| [Character](wiki/character/stance-movement.html) | 자세, 기동, 상호작용 | 4 | **Ready** |
 | [Vehicle](wiki/vehicle/vehicle-types.html) | 차종, 스펙, 컨트롤 | 1 | **Ready** |
 | [Weapon](wiki/weapon/gun-categories.html) | 총기, 탄종, 커스터마이징 | 8 | **Ready** |
 | Combat Tools | 투척/설치/특수장비 | 0 | Pending |
@@ -36,7 +36,7 @@ Built with [Karpathy LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893
 
 ## Status
 
-- **Source Documents**: 13 Google Docs + 1 Wiki.js page ingested
-- **Wiki Pages**: 14 pages across Overview(4), Vehicle(1), Weapon(8), Appendix(1)
-- **Pending Categories**: Gameplay, Character, Combat Tools, UI, Economy, Level Design, Data Tables
-- **Last Updated**: 2026-05-12
+- **Source Documents**: 17 Google Docs + 1 Wiki.js page ingested
+- **Wiki Pages**: 18 pages across Overview(4), Character(4), Vehicle(1), Weapon(8), Appendix(1)
+- **Pending Categories**: Gameplay, Combat Tools, UI, Economy, Level Design, Data Tables
+- **Last Updated**: 2026-05-14

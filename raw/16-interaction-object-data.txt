@@ -1,0 +1,95 @@
+﻿상호작용 오브젝트 관련 데이터 
+작성중
+● 상호작용 오브젝트의 구조
+  
+* 하나의 상호작용 오브젝트 (Interaction Object)는 여러 개의 페이즈(Phase)를 가지며 각각의 상태마다 컨디션(Condition)을 통해 인터렉션 할 수 있다. 
+  
+   * 캐릭터의 인터렉션이라는 조건에 의해 기능이 수행되고 기능 수행 후 다음 페이즈로 상태가 변경 됨
+   * 상태에 따라 오브젝트의 외형(Mesh)을 다르게 지정할 수 있다. 
+  
+      * 흔히 있는 여닫이 문의 경우 문이 열리는 애니메이션까지 표현 하려면 열림/닫힘 2가지 외형만 가지고 있는 형태가 아니라 열려있음/닫히고있음/닫혀있음/열리고있음 의 4개 상태와 외형을 가지고 있어야 함
+      * 하나의 페이즈는 여러 가지의 컨디션(Condition)을 가지고 있다. 
+  
+         * PC가 인터렉션 하는 것이 기본적인 조건 이지만 
+         * 시간의 흐름, 외부 변수의 카운트 등 직접 상호작용이 아닌 형태의 조건도 적용될 수 있다.
+         * 컨디션이 작동 할 때 기능(Function)이 수행되고 이후 다음 상태(Phase)로 전환 된다. 
+  
+            * 기능은 상호작용을 통해 일으킬 수 있는 구체적인 효과를 정의한다.
+            * 물건을 집는다
+            * 스위치를 켠다 
+            * 문을 열거나 닫는다 등등
+________________
+
+
+● 상호작용 오브젝트 데이터
+데이터
+	단위
+	비고
+	ID
+	Type ID
+	상호작용 오브젝트 고유 ID
+	Guideline Radius
+	cm
+	상호작용 가이드라인이 표시되는 거리
+	Interaction Radius
+	cm
+	상호작용 메뉴가 나타나는 거리
+	Interaction Ready Ani 1st
+	file name
+	상호작용 메뉴가 나타날 때 1인칭 모션
+	Interaction Ready Ani 3rd
+	file name
+	상호작용 메뉴가 나타날 때 3인칭 모션
+	Interaction Excute Ani 1st
+	file name
+	상호작용 실행시 1인칭 모션
+	Interaction Excute Ani 3rd
+	file name
+	상호작용 실행시 3인칭 모션
+	Interaction Excute Bind Time
+	milisec
+	상호작용 시작시 행동제약 시간
+컷씬 모션처럼 해당 시간동안 다른 행동이 제약 됩니다. 
+	Interaction Loop Ani 1st
+	file name
+	상호작용중 1인칭 루프 애니
+	Interaction Loop Ani 3rd
+	file name
+	상호작용중 3인칭 루프 애니
+	Interaction end Ani 1st
+	file name
+	상호작용 마무리 시 1인칭 애니
+	Interaction end Ani 3rd
+	file name
+	상호작용 마무리 시 3인칭 애니
+	Interaction end Bind Time
+	milisec
+	상호작용 마무리시 행동제약 시간
+컷씬 모션처럼 해당 시간동안 다른 행동이 제약 됩니다. 
+	
+
+● 상호작용 오브젝트 페이즈
+데이터
+	단위
+	비고
+	Object ID
+	Type ID
+	해당 페이즈가 적용될 상호작용 오브젝트 ID
+	Phase ID
+	Phase ID
+	해당 오브젝트의 고유 Phase ID
+	Phase Mesh
+	file name
+	해당 페이즈의 외형 메쉬 파일명
+	Condition
+	Condition ID
+	조건 ID, 어떤 작동 조건으로 기능을 수행 하는지 정의한다. 
+	Function
+	function ID
+	기능 ID, 컨디션이 수행되었을 때 작동하는 기능 ID를 정의한다. 
+	Phase Shift Time
+	milisecond
+	페이즈 전환시 지연 시간을 정의
+	next Phase ID
+	Phase ID
+	기능 수행 후 지연 시간 다음 연결 될 페이즈 ID를 지정

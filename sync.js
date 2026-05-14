@@ -46,6 +46,10 @@ const SOURCES = [
   { file: '11-tuning.txt', docId: '1S5lb1M8NcMZkNn6ec_1uyJvVMXqC39eKV5Y7agoBAgw', name: '튜닝' },
   { file: '12-skin.txt', docId: '1kumkhaSAk4_Wesd6XYMxys8oqFbaBBDIEiS-DCmplg8', name: '스킨' },
   { file: '13-gun-specs.txt', docId: '1agil5iEOV1jqetm4S5jhM4HDmuzP7zYuIKBtEf6XJyo', name: '총기 기본 스펙' },
+  { file: '14-stance-movement.txt', docId: '1_sgiJk9Iqd0HGYndeL7yAcKh_ialGfQCPMryczw9njY', name: '자세 및 기동' },
+  { file: '15-object-interaction.txt', docId: '12-FG9ZOrg5qNkGdeJ2KDQWXHQKHKuq8vNSEoRwATGSY', name: '사물 상호작용' },
+  { file: '16-interaction-object-data.txt', docId: '1IPMoEdnmcFqUK-kofVDsM4uEvFVEpE1yRI1cXNxXPOc', name: '상호작용 오브젝트 데이터' },
+  { file: '17-terrain-interaction.txt', docId: '1s7642ylEWu7NQVOD-qK1kNCjPKvNRO-5gJXLMACYjvg', name: '지형 상호작용' },
 ];
 
 // Follow redirects and download content

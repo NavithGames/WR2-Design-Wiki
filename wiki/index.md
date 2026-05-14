@@ -21,7 +21,10 @@ last_updated: 2026-05-12
 - ~~Pending~~ 게임 모드, 페이즈, 협력, 배치, 파밍, 교전, 사망
 
 ## Character
-- ~~Pending~~ 액션, 수치(체력/스태미나/하중), 병과, 성장, 아이템
+- **Ready** [자세 및 기동 (Stance & Movement)](character/stance-movement.html) ([EN](character/stance-movement-en.html)) -- 서기/앉기/엎드리기, 달리기/전력질주/걷기/포복
+- **Ready** [사물 상호작용 (Object Interaction)](character/object-interaction.html) ([EN](character/object-interaction-en.html)) -- 문/스위치/살펴보기, 다중 상호작용
+- **Ready** [상호작용 오브젝트 데이터 (Interaction Object Data)](character/interaction-object-data.html) ([EN](character/interaction-object-data-en.html)) -- 오브젝트 구조, 페이즈, 컨디션, 데이터 필드
+- **Ready** [지형 상호작용 (Terrain Interaction)](character/terrain-interaction.html) ([EN](character/terrain-interaction-en.html)) -- 등반/타넘기/사다리/미끄럼틀
 
 ## Vehicle
 - **Ready** [등장 차종 및 특성 (Vehicle Types)](vehicle/vehicle-types.html) ([EN](vehicle/vehicle-types-en.html)) -- 공중/지상 차량 로스터
@@ -56,7 +59,7 @@ last_updated: 2026-05-12
 
 ---
 
-## Progress: 14 / 20+ pages ready
+## Progress: 18 / 20+ pages ready
 
 ---
 
@@ -77,4 +80,8 @@ last_updated: 2026-05-12
 | 11 | 튜닝 | [link](https://docs.google.com/document/d/1S5lb1M8NcMZkNn6ec_1uyJvVMXqC39eKV5Y7agoBAgw/) | 2026-05-12 | ingested |
 | 12 | 스킨 | [link](https://docs.google.com/document/d/1kumkhaSAk4_Wesd6XYMxys8oqFbaBBDIEiS-DCmplg8/) | 2026-05-12 | ingested |
 | 13 | 총기 기본 스펙 | [link](https://docs.google.com/document/d/1agil5iEOV1jqetm4S5jhM4HDmuzP7zYuIKBtEf6XJyo/) | 2026-05-12 | ingested |
-| 14 | 게임 UI (Figma) | [link](https://www.figma.com/design/hreIsMZOPVodJRZ56e2VfD/) | — | external |
+| 14 | 자세 및 기동 | [link](https://docs.google.com/document/d/1_sgiJk9Iqd0HGYndeL7yAcKh_ialGfQCPMryczw9njY/) | 2026-05-14 | ingested |
+| 15 | 사물 상호작용 | [link](https://docs.google.com/document/d/12-FG9ZOrg5qNkGdeJ2KDQWXHQKHKuq8vNSEoRwATGSY/) | 2026-05-14 | ingested |
+| 16 | 상호작용 오브젝트 데이터 | [link](https://docs.google.com/document/d/1IPMoEdnmcFqUK-kofVDsM4uEvFVEpE1yRI1cXNxXPOc/) | 2026-05-14 | ingested |
+| 17 | 지형 상호작용 | [link](https://docs.google.com/document/d/1s7642ylEWu7NQVOD-qK1kNCjPKvNRO-5gJXLMACYjvg/) | 2026-05-14 | ingested |
+| 18 | 게임 UI (Figma) | [link](https://www.figma.com/design/hreIsMZOPVodJRZ56e2VfD/) | — | external |
