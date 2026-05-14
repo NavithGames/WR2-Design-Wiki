@@ -18,6 +18,8 @@ last_updated: 2026-05-14
 
 ### Stand
 
+![Stand stance](img/img01.png)
+
 | Field | Description |
 |-------|-------------|
 | Stance description | Default stance state |
@@ -30,6 +32,8 @@ last_updated: 2026-05-14
 
 ### Crouch
 
+![Crouch stance](img/img02.png)
+
 | Field | Description |
 |-------|-------------|
 | Stance description | Crouched stance |
@@ -41,6 +45,8 @@ last_updated: 2026-05-14
 | Turn speed modifier | None |
 
 ### Prone
+
+![Prone stance](img/img03.png)
 
 | Field | Description |
 |-------|-------------|
@@ -58,6 +64,8 @@ last_updated: 2026-05-14
 
 ### Run
 
+![Run movement](img/img04.png)
+
 | Field | Description |
 |-------|-------------|
 | Description | Default movement mode — move while aiming or unaimed with no stamina cost |
@@ -70,6 +78,8 @@ last_updated: 2026-05-14
 
 ### Sprint
 
+![Sprint movement](img/img05.png)
+
 | Field | Description |
 |-------|-------------|
 | Description | Full-speed movement without maintaining a firing stance. Consumes stamina |
@@ -80,6 +90,8 @@ last_updated: 2026-05-14
 | Noise level | 8 (loud) |
 
 ### Walk
+
+![Walk movement](img/img06.png)
 
 | Field | Description |
 |-------|-------------|
@@ -92,6 +104,8 @@ last_updated: 2026-05-14
 | Noise level | 2 (quiet) |
 
 ### Crawl
+
+![Crawl movement](img/img07.png)
 
 | Field | Description |
 |-------|-------------|
